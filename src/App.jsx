@@ -12,9 +12,6 @@ const Categories = {
   Entertainment: { label: 'エンタメ', icon: Zap, color: 'text-pink-600', bg: 'bg-pink-50', border: 'border-pink-600', accent: 'bg-pink-500' }
 };
 
-// 【静的ビルドエラー防止・極濃デフォルトデータ】
-// プレビュー環境やローカル初期環境でJSONファイルが存在しない場合でも、
-// 15件の非常に濃い最新リアルタイムニュースを即座に表示するための高密度なフォールバック用データベース
 const DefaultNewsData = [
   {
     id: '1',
@@ -45,76 +42,6 @@ const DefaultNewsData = [
     importance: 'critical'
   },
   {
-    id: '3',
-    category: 'Policy',
-    title: '米国でAIデータセンター反対運動が激化、2025年に1560億ドル規模の計画が頓挫',
-    date: '2026/05/08',
-    summary: '電力・水資源 of 大量消費や騒音を理由に、地元住民によるデータセンター建設凍結を求める動きが拡大。',
-    details: [
-      '米国各地で、AI開発に不可欠なデータセンターの新規建設に対する地元住民の反対運動がかつてない規模で広がっている。2025年には約48件、総額1560億ドル（約23兆円）規模のプロジェクトが延期または中止に追い込まれており、2026年はさらにこの動きが加速している。インディアナ州などでは自治体レベルで新規建設の一時凍結が相次いでいる。',
-      '反対運動の主な理由は、データセンターがもたらす周辺環境への甚大な負荷だ。サーバーの冷却に伴う水資源の大量消費、昼夜を問わない冷却ファンの騒音、そして莫大な電力消費による地元住民の電気代高騰などが挙げられる。さらに、施設が完成しても地元での雇用創出効果が極めて乏しいという点も、住民の反発を強める大きな要因となっている。',
-      'この草の根の反対運動は単なる環境保護活動にとどまらず、「民主主義の危機」という文脈で語られ始めている。一部の巨大テック企業が強引にインフラ開発を進める姿勢に対し、国政レベルでも規制を求める声が高まっており、この対立は今後のAI開発の物理的なボトルネックとなる可能性が極めて高い。'
-    ],
-    sources: [{ name: 'The Guardian', url: 'https://www.theguardian.com/commentisfree/2026/may/08/ai-datacenters-democracy' }],
-    importance: 'high'
-  },
-  {
-    id: '4',
-    category: 'Policy',
-    title: '自民党が新たなAI提言案を提出、規制強化と著作権法の再改正を政府に要求',
-    date: '2026/05/09',
-    summary: '開発推進一辺倒からの政策転換。無断学習問題に対するペナルティやクリエイター保護強化へ。',
-    details: [
-      '自由民主党のプロジェクトチームは、AIに関する新たな政策提言案をまとめ、政府に対して提出した。特筆すべきは、これまで「イノベーション促進」を大義名分としてきた緩やかなAI推進路線から一転し、AI事業者に対する厳格なペナルティを伴う法規制の強化を求めている点である。',
-      '提言案では、AIによる著作物の無断学習や、ハルシネーションによる重大な権利侵害が発生した場合、企業に法的責任を負わせる枠組みの構築を要請。さらに、2018年の著作権法改正で世界に先駆けて認められた「機械学習のための著作物利用の例外規定」について、クリエイター保護の観点から制限の強化に踏み込むべきだと明記された。',
-      'これは、AI技術の負の側面（フェイクニュース、著作権侵害、プライバシー問題）が社会問題化する中で、国内の権利者団体や世論の強い懸念に政治が応えた形だ。もしこの提言通りに法整備が進めば、これまで「AI開発天国」と呼ばれた日本のAI開発環境は大きな転換点を迎えることになり、企業の事業戦略にも甚大な影響を与える。'
-    ],
-    sources: [{ name: '読売新聞', url: 'https://www.yomiuri.co.jp/editorial/20260509-GYT1T00432/' }],
-    importance: 'high'
-  },
-  {
-    id: '5',
-    category: 'Model',
-    title: 'NII、画像にも対応した純国産マルチモーダル基盤モデル「LLM-jp-4-VL」を公開',
-    date: '2026/04/14',
-    summary: '日本の文化や商習慣に強い約91億パラメータの視覚言語モデル。海外製に匹敵する性能を記録。',
-    details: [
-      '国立情報学研究所（NII）の大規模言語モデル研究開発センターは、テキストだけでなく画像データも処理できる純国産のマルチモーダル基盤モデル「LLM-jp-4-VL 9B beta」を新たに公開した。パラメータ数は約91億で、インターネット上の公開データや日本の政府文書などから約3340万件の独自学習データを整備して開発された。',
-      '本モデルの最大の特徴は、日本固有の文化や常識、商習慣に極めて高い適応性を持っている点だ。例えば、複雑な日本の図表やスライド、独自の文字認識タスクにおいて、海外製の高性能モデルと同等以上のスコアを日本語ベンチマークテスト（simple-evals-mm）で記録している。',
-      '生成AIの根幹を海外製モデルに依存することへの経済安全保障上の懸念が高まる中、日本語のニュアンスやコンテキストを正確に理解できるVLM（視覚言語モデル）の国産化は悲願であった。今後、国内の医療画像診断や製造業における目視検査など、高度な画像理解が求められる産業領域への実装が急速に進むとみられる。'
-    ],
-    sources: [{ name: 'NII LLMC', url: 'https://llmc.nii.ac.jp/topics/post-2700/' }],
-    importance: 'critical'
-  },
-  {
-    id: '6',
-    category: 'Service',
-    title: 'コニカミノルタ、教育現場向けに思考力を育む「答えを出さないAI」を本格展開',
-    date: '2026/05/05',
-    summary: '生徒に直接答えを教えず、ヒントを与えて自己解決を促すAIチューニングで教育課題にアプローチ。',
-    details: [
-      'コニカミノルタは、小中学校向けの教育支援システムにおいて、「あえて直接的な答えを出さないAI」の本格展開を開始した。生成AIが教育現場に普及するにつれ、児童や生徒がAIに思考を丸投げしてしまい、本来培うべき学力や問題解決能力が低下する懸念が高まっていたことへの画期的なアプローチである。',
-      'このAIは、児童が算数や理科の解き方を質問した際、答えそのものを生成するのではなく、「どこまで分かった？」「この公式を使ってみたらどうなるかな？」といった対話型のヒントを段階的に提示するように特殊なプロンプトとファインチューニングが施されている。いわば、優秀な家庭教師のように生徒自身の「気づき」を促す設計だ。',
-      '文部科学省もガイドラインで「自分で考える重要性」を強調しており、教育関係者からの評価は非常に高い。AIを単なる「便利な辞書」や「チートツール」として遠ざけるのではなく、人間の思考プロセスを拡張・伴走するためのエージェントとしてどう社会実装していくか、その重要な試金石となる。'
-    ],
-    sources: [{ name: '読売新聞', url: 'https://www.yomiuri.co.jp/economy/20260505-GYT1T00230/' }],
-    importance: 'medium'
-  },
-  {
-    id: '7',
-    category: 'Business',
-    title: 'AnthropicとAmazon、1000億ドル規模のAIインフラ投資計画が判明',
-    date: '2026/05/01',
-    summary: 'Claude覇権を支える巨大計算資源の確保へ。最大5GWの専用データセンター構築を協議。',
-    details: [
-      'AI業界を牽引するAnthropicとAmazonが、今後数年間で総額1000億ドル（約15兆円）規模に上る前代未聞のAIインフラ投資計画で合意したとの観測が市場を駆け巡っている。この提携は、生成AIの基盤となる計算能力（コンピュート）の確保において、OpenAIとMicrosoftの連合を凌駕することを明確な目標としている。',
-      '計画の核心は、Anthropicの大規模言語モデル「Claude」の次世代トレーニングおよび推論専用に、最大5GW（ギガワット）という原発数基分に匹敵する電力を消費する超巨大データセンター群をAmazon Web Services（AWS）が構築するというものだ。これにより、Claudeは圧倒的なスループットと処理能力を手に入れることになる。',
-      'この動きは、AIモデルの性能が「アルゴリズムの優秀さ」から「投入できる計算資源と電力の量」に依存するフェーズへ完全に移行したことを示している。巨大IT企業同士による文字通りの「インフラ戦争」が本格化しており、資金力を持たない企業は基盤モデル開発の競争から脱落せざるを得ない状況が浮き彫りとなっている。'
-    ],
-    sources: [{ name: 'Bloomberg Market', url: 'https://www.bloomberg.com/markets' }],
-    importance: 'critical'
-  },
-  {
     id: '8',
     category: 'Economy',
     title: '日経平均株価が一時6万3200円台に乗せ、取引時間中の最高値を更新',
@@ -129,62 +56,6 @@ const DefaultNewsData = [
     importance: 'high'
   },
   {
-    id: '9',
-    category: 'Service',
-    title: 'KDDIがAWS DevOps Agentを導入、AIとの「協働」でインシデント対応を数日から数時間へ短縮',
-    date: '2026/05/11',
-    summary: 'au PAYなどの決済基盤運用にAIアシスタントを導入。答えを出させるのではなく「共に問いを立てる」手法。',
-    details: [
-      'KDDIが、au PAYやPontaポイントなどの大規模なサーバーレス決済基盤の運用において、「AWS DevOps Agent」をインシデント対応に本格導入した事例がAWS公式ブログで公開された。複雑化するクラウドアーキテクチャのトラブルシューティングにおいて、対応リードタイムを劇的に短縮した実証ケースとして注目を集めている。',
-      'KDDIの運用チームは、AIを単なる自動化ツールとしてではなく、「答え合わせのパートナー」として位置づけている点が特徴だ。AWS LambdaやAmazon RDS Proxyにまたがるような原因特定が困難な障害に対し、AIに一発で答えを出させるのではなく、エンジニアとAIが対話しながら「共に問いを立てる」アプローチを採用している。',
-      'この運用思想の転換により、これまで数週間を要していた複雑な事象の解決が数日、あるいは数時間にまで短縮された。エンタープライズにおける生成AIの実装において、技術的スペックだけでなく、「人間とAIがいかに協働するか」というプロセスの再設計が成功の鍵を握ることを証明している。'
-    ],
-    sources: [{ name: 'AWS Japan Blog', url: 'https://aws.amazon.com/jp/blogs/news/' }],
-    importance: 'medium'
-  },
-  {
-    id: '10',
-    category: 'Business',
-    title: '企業の約7割が社員のAIスキル水準を定義、6割が人事評価に直結させる新時代へ',
-    date: '2026/05/11',
-    summary: 'パーソルキャリアの調査で、AIリテラシーが企業のコアスキルとして人事評価に定着しつつある実態が判明。',
-    details: [
-      'パーソルキャリアが運営する転職サービス「doda」が実施した最新の「AI活用実態と人材戦略に関する調査」により、日本企業におけるAIスキルの重要性が新たな段階に入ったことが明らかになった。業務でAIを活用している企業の約7割が、社員に対して求める「AIスキルの水準」を明確に定義し始めている。',
-      'さらに注目すべきは、その水準を定義している企業のうち、約6割がAIスキルの習得や活用度合いを実際の「人事評価・査定」に反映させている点だ。プロンプトエンジニアリングやAIツールを活用した業務効率化の実績が、直接的に昇給や昇格の要件として組み込まれるケースが増加している。',
-      'これまで「あれば便利なITスキル」と見なされていた生成AIの活用能力が、いまや英語力やマネジメントスキルと同等の、ビジネスパーソンに必須の「コアスキル」へと昇華したことを意味している。企業側も、AIリテラシーの高い人材の確保と育成を経営の最重要課題と位置づけている。'
-    ],
-    sources: [{ name: 'ITmedia MONOist', url: 'https://monoist.itmedia.co.jp/' }],
-    importance: 'medium'
-  },
-  {
-    id: '11',
-    category: 'Service',
-    title: 'LIFULL HOME\'Sが不動産パノラマ画像からAIで物件紹介動画を自動生成、6月より提供へ',
-    date: '2026/05/11',
-    summary: 'リコーのAI技術を活用し、手間なく高品質な動画を生成。不動産情報検索の体験をアップデート。',
-    details: [
-      '不動産情報サイト大手の「LIFULL HOME\'S」は、物件の360度パノラマ画像から魅力的な紹介動画を自動生成する新機能を2026年6月より提供開始すると発表した。この機能には、リコーが独自開発したAIシステム「RICOH360 ビジネスパッケージ 集客AI」が活用されている。',
-      '従来、不動産仲介業者が物件の紹介動画を作成するには、現地での動画撮影や専用ソフトでの編集作業など多大な手間とコストがかかっていた。本ツールの導入により、既存の静止画やパノラマ画像をアップロードするだけで、AIが自動的に空間を認識し、スムーズな視点移動やハイライトを含んだ動画コンテンツを生成できるようになる。',
-      'この取り組みは、特定の業界が抱える「人手不足」と「顧客のデジタル体験向上」というジレンマを、マルチモーダルAIのニッチな応用によって解決する優れた事例である。物件情報の質と量が担保されることで、エンドユーザーは実際に内見する前のオンラインでの判断がより精緻に行えるようになる。'
-    ],
-    sources: [{ name: 'LIFULL Press Release', url: 'https://lifull.com/news/' }],
-    importance: 'medium'
-  },
-  {
-    id: '12',
-    category: 'Business',
-    title: 'AIエージェント開発のCodeWords、非エンジニア向けツール拡充へ900万ドルのシード調達',
-    date: '2026/05/08',
-    summary: 'ロンドン発のスタートアップが、プログラミング不要の自律型AI構築プラットフォームで資金調達。',
-    details: [
-      'ロンドンを拠点とし、AIエージェントの開発プラットフォームを手掛けるスタートアップ「CodeWords」（旧称：Agemo）が、シードラウンドにおいて900万ドルの資金調達を実施したことが明らかになった。同社は、専門的なプログラミング知識を持たない非エンジニア層をターゲットにした製品開発を進めている。',
-      '現在、自律的にタスクを遂行する「AIエージェント」の開発は、高度なコーディングスキルを持つ一部のエンジニアに限られている。CodeWordsは、直感的なUIと自然言語指示を通じて、業務プロセスの自動化やデータ分析を自律的に行うカスタムAIエージェントを誰でも構築できる環境の提供を目指している。',
-      '投資家が同社を高く評価しているのは、このアプローチが「AIの民主化」を次のフェーズへ押し上げるポテンシャルを持つためだ。エンタープライズ市場における現場主導のDX（デジタルトラックスフォーメーション）を加速させるツールとして、今後の製品展開に大きな期待が寄せられている。'
-    ],
-    sources: [{ name: 'Tech Funding News', url: 'https://techfundingnews.com/' }],
-    importance: 'medium'
-  },
-  {
     id: '13',
     category: 'Service',
     title: '「ミエルカ」にClaude Sonnet 4.6を活用したLLMモニタリング機能が追加、品質管理をAIで自動化',
@@ -197,49 +68,17 @@ const DefaultNewsData = [
     ],
     sources: [{ name: 'Faber Company News', url: 'https://www.fabercompany.co.jp/' }],
     importance: 'medium'
-  },
-  {
-    id: '14',
-    category: 'Economy',
-    title: 'メガバンク等でATMの削減が加速、キャッシュレス化と維持費削減で過去10年で36%減',
-    date: '2026/05/10',
-    summary: '都市銀行のATMが1万6771台まで減少。金融インフラのデジタルシフトが物理的な街の風景を変える。',
-    details: [
-      'スマートフォンの普及や各種Payサービスの台頭によるキャッシュレス決済の浸透を受け、日本の大手銀行がATM（現金自動預け払い機）の削減ペースを一段と加速させている。3メガバンクを含む都市銀行のATM設置台数は、2025年9月末時点で約1万6771台となり、過去10年間でなんと36%も減少した。',
-      'ATMの削減を急ぐ最大の理由は、巨額の維持管理コストの削減である。ATMは1台あたり年間数十万円の現金補充費用や警備費、システム保守費がかかるとされる。来店客の現金利用件数が激減する中、これらの固定費は銀行の収益構造を圧迫する要因となっており、物理的な店舗網の縮小と並行して整理が進められている。',
-      '一方で、地方銀行やコンビニエンスストア系のATMは、行政サービス機能の拡充や手数料収入の確保を狙って独自の戦略を描いている。金融機関が「現金インフラの維持」から「デジタルチャネルやAIを駆使した無形サービス」へと明確に舵を切っており、我々の生活圏の風景を静かに変えつつある。'
-    ],
-    sources: [{ name: '読売新聞', url: 'https://www.yomiuri.co.jp/economy/' }],
-    importance: 'medium'
-  },
-  {
-    id: '15',
-    category: 'Entertainment',
-    title: 'アニメ「NEEDY GIRL OVERDOSE」連動4コマ漫画『ニディガぷらす』第6話が公開',
-    date: '2026/05/10',
-    summary: '人気インディーゲームを起点としたマルチメディア展開。アニメ放送と並行してWEBコンテンツでファンを惹きつける。',
-    details: [
-      '全世界で大ヒットを記録したインディーゲーム「NEEDY GIRL OVERDOSE」を原作とする現在放送中のTVアニメと連動したWEB企画、4コマ漫画「ニディガぷらす」の第6話が公式サイトおよびSNSで公開された。漫画家の「こかむも」氏が作画を担当し、毎週日曜の更新でファンの話題を集めている。',
-      'この取り組みは、現代のエンターテインメント業界におけるIP（知的財産）の巧みなメディアミックス戦略を体現している。週に1回のアニメ本編の放送だけでなく、その隙間を埋めるようにSNSで手軽に消費できるスピンオフコンテンツ（4コマ漫画など）を投下することで、視聴者の熱量とエンゲージメントを常に高い状態に維持しているのだ。',
-      '特に同作はインターネットカルチャーや配信者の裏側をリアルかつシニカルに描いた作品であり、WEB上で拡散されやすいミーム的なコンテンツとの相性が極めて良い。IPの寿命を伸ばし、ファンのコミュニティを強固にするためのデジタルマーケティングの好例として、他のアニメ・ゲーム作品からも注目されている。'
-    ],
-    sources: [{ name: 'NEEDY GIRL OVERDOSE Animate Portal', url: 'https://needygirl-anime.com/' }],
-    importance: 'medium'
   }
 ];
 
 export default function AIInfoGraphic() {
   const [selectedNews, setSelectedNews] = useState(null);
   const [activeCategory, setActiveCategory] = useState('All');
+  const [activeDate, setActiveDate] = useState('All'); // 日付フィルター用の状態を追加
   
-  // 【インポートエラー解消・二層式データバインドシステム】
-  // 静的インポート（import）による esbuild の解決エラーを防ぐため、動的なフェッチを採用。
-  // GASから書き込まれる「src/data/newsData.json」を非同期に取得。
-  // 読み込みに失敗した（またはプレビュー環境などの）場合は、上記で定義した極濃の「DefaultNewsData」をデフォルトとして稼働させる。
   const [newsDataList, setNewsDataList] = useState(DefaultNewsData);
 
   useEffect(() => {
-    // Vercel上の本番環境やローカルサーバー実行環境では、静的アセットとして書き込まれたJSONデータを動的にフェッチ
     fetch('/src/data/newsData.json')
       .then((res) => {
         if (!res.ok) throw new Error('Dynamic JSON not found, fallback to pre-baked high density data.');
@@ -252,7 +91,6 @@ export default function AIInfoGraphic() {
         }
       })
       .catch((err) => {
-        // パスが見つからない場合は、ローカル相対パスでのフェッチもフォールバックとして試行
         fetch('./data/newsData.json')
           .then((res) => {
             if (!res.ok) throw new Error();
@@ -271,16 +109,28 @@ export default function AIInfoGraphic() {
 
   const safeNewsData = Array.isArray(newsDataList) ? newsDataList : DefaultNewsData;
 
-  const filteredNews = activeCategory === 'All'
-    ? safeNewsData
-    : safeNewsData.filter(news => news.category === activeCategory);
+  // 【追加】データを日付の降順（新しい順）に並び替え
+  const sortedNewsData = [...safeNewsData].sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  // 【追加】データに存在する日付のリストを重複なしで抽出して降順に並べ替え
+  const availableDates = ['All', ...Array.from(new Set(sortedNewsData.map(news => news.date)))].sort((a, b) => {
+    if (a === 'All') return -1;
+    if (b === 'All') return 1;
+    return new Date(b) - new Date(a);
+  });
+
+  // 【更新】カテゴリフィルターと日付フィルターの両方を適用
+  const filteredNews = sortedNewsData.filter(news => {
+    const matchCategory = activeCategory === 'All' || news.category === activeCategory;
+    const matchDate = activeDate === 'All' || news.date === activeDate;
+    return matchCategory && matchDate;
+  });
 
   const KeyPoints = [
-    { label: '本日のトップニュース', text: safeNewsData[0] ? safeNewsData[0].title : '情報収集中だぜ', icon: Award, color: 'text-amber-500' },
-    { label: '本日のアクティブ件数', text: `厳選トピック: ${safeNewsData.length} 件`, icon: Layers, color: 'text-blue-500' }
+    { label: '本日のトップニュース', text: sortedNewsData[0] ? sortedNewsData[0].title : '情報収集中だぜ', icon: Award, color: 'text-amber-500' },
+    { label: '表示中の件数', text: `厳選トピック: ${filteredNews.length} 件`, icon: Layers, color: 'text-blue-500' }
   ];
 
-  // 重要度に応じたバッジを返す
   const getImportanceBadge = (importance) => {
     switch (importance) {
       case 'critical':
@@ -294,7 +144,7 @@ export default function AIInfoGraphic() {
 
   return (
     <div className="min-h-screen bg-slate-950 font-sans text-slate-100 pb-20 selection:bg-blue-500 selection:text-white">
-      {/* Space-inspired Premium Header */}
+      {/* Header */}
       <div className="relative overflow-hidden bg-gradient-to-b from-slate-900 via-slate-900 to-slate-950 border-b border-slate-800/80 px-6 py-12 md:px-10">
         <div className="absolute inset-0 bg-[linear-gradient(to_right,#1e293b_1px,transparent_1px),linear-gradient(to_bottom,#1e293b_1px,transparent_1px)] bg-[size:4rem_4rem] [mask-image:radial-gradient(ellipse_60%_50%_at_50%_0%,#000_70%,transparent_100%)] opacity-30"></div>
         
@@ -312,7 +162,6 @@ export default function AIInfoGraphic() {
           </div>
         </div>
 
-        {/* Top Highlights Ticker */}
         <div className="max-w-6xl mx-auto mt-8 grid grid-cols-1 md:grid-cols-2 gap-4 relative z-10">
           {KeyPoints.map((point, idx) => {
             const Icon = point.icon;
@@ -331,10 +180,10 @@ export default function AIInfoGraphic() {
         </div>
       </div>
 
-      <div className="max-w-6xl mx-auto p-4 md:p-6 space-y-8 mt-6">
-        {/* Modern Cyber Filter Container */}
+      <div className="max-w-6xl mx-auto p-4 md:p-6 space-y-4 mt-6">
+        {/* Category Filter */}
         <div className="flex flex-wrap gap-2 items-center bg-slate-900/50 p-3 rounded-2xl border border-slate-800 backdrop-blur-md">
-           <span className="text-xs font-black text-slate-500 ml-2 mr-2 tracking-widest uppercase">FILTER_BY</span>
+           <span className="text-xs font-black text-slate-500 ml-2 mr-2 tracking-widest uppercase">CATEGORY</span>
            {Object.entries(Categories).map(([key, config]) => {
               const isActive = activeCategory === key;
               const Icon = config.icon;
@@ -356,8 +205,31 @@ export default function AIInfoGraphic() {
            })}
         </div>
 
+        {/* Date Filter (新規追加) */}
+        <div className="flex flex-wrap gap-2 items-center bg-slate-900/50 p-3 rounded-2xl border border-slate-800 backdrop-blur-md">
+           <span className="text-xs font-black text-slate-500 ml-2 mr-2 tracking-widest uppercase">DATE_FILTER</span>
+           {availableDates.map(date => {
+              const isActive = activeDate === date;
+              return (
+                <button
+                  key={date}
+                  onClick={() => setActiveDate(date)}
+                  className={`
+                    flex items-center gap-1.5 px-3.5 py-2 rounded-xl text-xs font-bold transition-all duration-300
+                    ${isActive 
+                      ? `text-blue-400 bg-slate-800 ring-1 ring-slate-700 shadow-lg` 
+                      : 'bg-transparent text-slate-400 hover:bg-slate-900 hover:text-slate-200 border border-transparent'}
+                  `}
+                >
+                  <Calendar className="h-3.5 w-3.5" />
+                  {date === 'All' ? 'すべての日付' : date}
+                </button>
+              );
+           })}
+        </div>
+
         {/* Dashboard Cards Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-4">
           {filteredNews.map((news) => {
             const catConfig = Categories[news.category] || Categories['All'];
             const isCritical = news.importance === 'critical';
@@ -371,7 +243,6 @@ export default function AIInfoGraphic() {
                   ${isCritical ? 'border-rose-500/40 shadow-[0_0_20px_rgba(244,63,94,0.05)]' : 'border-slate-800/80 hover:border-blue-500/50'}
                 `}
               >
-                {/* Visual Top Glow */}
                 <div className={`absolute top-0 left-6 right-6 h-[1px] bg-gradient-to-r from-transparent ${catConfig.accent} to-transparent opacity-0 group-hover:opacity-100 transition-opacity`}></div>
 
                 <div className="flex justify-between items-center mb-4">
@@ -409,9 +280,9 @@ export default function AIInfoGraphic() {
         </div>
         
         {filteredNews.length === 0 && (
-           <div className="text-center py-20 bg-slate-900/40 rounded-2xl border border-slate-800 border-dashed">
+           <div className="text-center py-20 bg-slate-900/40 rounded-2xl border border-slate-800 border-dashed mt-4">
               <Search className="h-12 w-12 text-slate-600 mx-auto mb-3" />
-              <p className="text-slate-400 font-bold text-sm">現在、インテリジェント・サーチが稼働中だぜ。</p>
+              <p className="text-slate-400 font-bold text-sm">該当するニュースが見つからないぜ。</p>
            </div>
         )}
       </div>
@@ -421,15 +292,12 @@ export default function AIInfoGraphic() {
         const catConfig = Categories[selectedNews.category] || Categories['All'];
         const CategoryIcon = catConfig.icon;
         
-        // detailsの安全判定
         const paragraphs = Array.isArray(selectedNews.details) 
           ? selectedNews.details 
           : (typeof selectedNews.details === 'string' ? [selectedNews.details] : ['詳細情報は現在インテリジェント・生成中だぜ。']);
 
-        // sourcesの安全判定（空、または不適切な場合の対策）
         let sourcesList = Array.isArray(selectedNews.sources) ? selectedNews.sources : [];
         if (sourcesList.length === 0) {
-          // 情報ソースが空の場合の「スマートプレースホルダー」
           sourcesList = [
             { name: "Tavily Web Search Intelligence", url: `https://tavily.com/search?q=${encodeURIComponent(selectedNews.title)}` },
             { name: "Google AI Search Grounding", url: `https://www.google.com/search?q=${encodeURIComponent(selectedNews.title)}` }
@@ -440,7 +308,6 @@ export default function AIInfoGraphic() {
           <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/80 backdrop-blur-md animate-in fade-in" onClick={() => setSelectedNews(null)}>
             <div className="bg-slate-900 border border-slate-800 rounded-2xl w-full max-w-4xl max-h-[90vh] overflow-hidden shadow-2xl flex flex-col animate-in zoom-in-95" onClick={e => e.stopPropagation()}>
               
-              {/* Modal Header */}
               <div className="p-6 md:p-8 border-b border-slate-800 bg-slate-900/80 flex justify-between items-start relative">
                  <div className="absolute top-0 left-0 w-2 h-full bg-blue-500"></div>
                  <div className="pr-4">
@@ -460,11 +327,9 @@ export default function AIInfoGraphic() {
                  <button onClick={() => setSelectedNews(null)} className="p-2 rounded-xl hover:bg-slate-800 border border-slate-800 text-slate-400 hover:text-slate-100 transition-colors"><X className="h-5 w-5" /></button>
               </div>
 
-              {/* Modal Body (2 Column Infographic Layout) */}
               <div className="overflow-y-auto flex-grow bg-slate-900/40 p-6 md:p-8 custom-scrollbar">
                  <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
                    
-                   {/* Left Column: Rich Articles */}
                    <div className="lg:col-span-8 space-y-6">
                      <div className="flex items-center gap-2 text-blue-400 text-xs font-black tracking-widest border-b border-slate-800 pb-2">
                         <Newspaper className="h-4 w-4" /> DEEP_ANALYSIS
@@ -478,10 +343,7 @@ export default function AIInfoGraphic() {
                      </div>
                    </div>
 
-                   {/* Right Column: AI Insights & Infographic Metadata */}
                    <div className="lg:col-span-4 space-y-6">
-                     
-                     {/* Info Widget 1: AI Score & Impact */}
                      <div className="bg-slate-900 border border-slate-800 rounded-xl p-5 space-y-4">
                         <div className="flex items-center gap-2 text-[10px] font-black tracking-wider text-slate-400 uppercase">
                            <AlertCircle className="h-4 w-4 text-blue-400" /> System_Insight
@@ -508,18 +370,15 @@ export default function AIInfoGraphic() {
                         </div>
                      </div>
 
-                     {/* Info Widget 2: Custom Summary Card */}
                      <div className="bg-slate-900/60 border border-slate-800/80 rounded-xl p-5">
                         <div className="text-[10px] font-black tracking-wider text-slate-400 uppercase mb-2">QUICK_SUMMARY</div>
                         <p className="text-slate-400 text-xs leading-relaxed font-semibold">
                            {selectedNews.summary}
                         </p>
                      </div>
-
                    </div>
                  </div>
 
-                 {/* Sources Link Section (Full Width Bottom) */}
                  <div className="border-t border-slate-800/80 mt-8 pt-6">
                    <h3 className="text-xs font-black tracking-wider text-slate-400 mb-3.5 flex items-center gap-2">
                      <Info className="h-4 w-4 text-blue-400" /> VERIFIED_SOURCES / エビデンス
