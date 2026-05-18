@@ -1,1 +1,167 @@
-[]
+[
+  {
+    "id": "news_ami_labs_funding",
+    "category": "Model",
+    "importance": "critical",
+    "title": "AMI Labs Secures Record $1.03B Seed Funding for 'World Models'",
+    "details": [
+      "Founded by Turing Award winner Yann LeCun, AMI Labs has raised an unprecedented $1.03 billion in seed funding at a $3.5 billion valuation, making it the largest seed round in European history.",
+      "Backed by major investors including Nvidia and Bezos Expeditions, the Paris-based startup is developing 'world models,' an alternative AI architecture to large language models.",
+      "These models learn by understanding how the physical world works, targeting applications across robotics, healthcare, and manufacturing, aiming to push the boundaries of AI capabilities."
+    ]
+  },
+  {
+    "id": "news_openai_anthropic_revenue",
+    "category": "Business",
+    "importance": "critical",
+    "title": "OpenAI and Anthropic Eye Public Listings Amid Soaring Revenues",
+    "details": [
+      "OpenAI has reportedly surpassed $25 billion in annualized revenue and is taking early steps towards a public listing, potentially as soon as late 2026.",
+      "Rival Anthropic is also approaching $19 billion in annualized revenue, signaling the rapid growth and intense competition within the advanced AI model market.",
+      "These impressive figures highlight the significant investor interest and the technology industry's rapid adoption of sophisticated AI solutions."
+    ]
+  },
+  {
+    "id": "news_ai_market_growth",
+    "category": "Economy",
+    "importance": "high",
+    "title": "AI Market Booms with Unprecedented Growth and Valuation Premiums",
+    "details": [
+      "The global AI market, valued at nearly $235 billion in 2024, is projected to reach $631 billion by 2028, leading startup funding globally from 2023 through 2025.",
+      "AI startups are commanding significantly higher valuations, with seed-stage companies seeing a 42% premium and Series B rounds earning 60% higher valuations compared to non-AI startups.",
+      "This market surge reflects immense demand for innovative AI solutions and investor confidence in AI's ability to deliver scalable, high-growth opportunities across various sectors."
+    ]
+  },
+  {
+    "id": "news_tech_megacaps_ai_investment",
+    "category": "Business",
+    "importance": "high",
+    "title": "Tech Megacaps Pledge Over $300 Billion in AI Investments",
+    "details": [
+      "Large technology companies are committing extraordinary sums, estimated to be over $300 billion, to AI-related spending in the current cycle.",
+      "These investments encompass data centers, custom chips, model development, and integrated products, creating huge openings for partnerships and acquisitions for startups.",
+      "However, this also raises the competitive bar, requiring startups to position themselves as indispensable partners or focused specialists to thrive against incumbents with near-unlimited budgets."
+    ]
+  },
+  {
+    "id": "news_oracle_block_jobcuts",
+    "category": "Economy",
+    "importance": "high",
+    "title": "Oracle and Block Announce 34,000 Job Cuts Citing AI Automation",
+    "details": [
+      "Oracle and Block have jointly announced 34,000 job cuts, explicitly attributing these reductions to the increasing efficiency and capabilities of AI automation.",
+      "This significant workforce reduction highlights a growing trend where AI advancements are directly impacting employment across large enterprises.",
+      "The move underscores the transformative, and sometimes disruptive, power of AI on the global economy and labor market, prompting discussions on future employment landscapes."
+    ]
+  },
+  {
+    "id": "news_google_gemini_flash_lite",
+    "category": "Model",
+    "importance": "high",
+    "title": "Google Releases Gemini 3.1 Flash-Lite: Faster and More Affordable AI",
+    "details": [
+      "Google has introduced Gemini 3.1 Flash-Lite, a new efficiency-focused AI model that boasts 2.5 times faster response times and 45% quicker output generation.",
+      "Priced at just $0.25 per million input tokens, this release signifies a growing industry trend towards making powerful AI more accessible and cost-effective.",
+      "The move intensifies the cost-efficiency race among leading AI providers, benefiting both startups and large enterprises seeking to integrate advanced AI capabilities economically."
+    ]
+  },
+  {
+    "id": "news_mistral_ai_valuation",
+    "category": "Business",
+    "importance": "high",
+    "title": "Mistral AI Reaches $6.2B Valuation with $1.1B Investment, Challenges Rivals",
+    "details": [
+      "Founded in 2023, Mistral AI, an open-source AI platform, has rapidly emerged as a major player, securing $1.1 billion in investments at a valuation of over $6.2 billion.",
+      "The company is quickly becoming a significant competitor to established models like Claude and ChatGPT, demonstrating its configurable AI model's utility for large corporations.",
+      "Mistral AI's success underscores the intense competition and substantial investor interest in developing advanced, open-source AI solutions, particularly in Europe."
+    ]
+  },
+  {
+    "id": "news_physical_intelligence_funding",
+    "category": "Model",
+    "importance": "high",
+    "title": "Physical Intelligence Raises $1B to Train Foundational Models for Robots",
+    "details": [
+      "San Francisco-based Physical Intelligence has secured $1 billion in funding to develop and train foundational AI models specifically for robots.",
+      "The company plans to collect extensive data from human teleoperators controlling humanoids in realistic environments, such as kitchens and bedrooms, to achieve this.",
+      "This substantial investment marks a major commitment to applying AI foundation models to the physical economy, with profound implications for engineering and manufacturing."
+    ]
+  },
+  {
+    "id": "news_eu_tracemap_food_fraud",
+    "category": "Policy",
+    "importance": "medium",
+    "title": "EU Launches 'TraceMap' AI Platform to Combat Food Fraud Across Member States",
+    "details": [
+      "The European Union has introduced 'TraceMap,' an advanced AI platform designed to detect and prevent food fraud and contamination within its member states.",
+      "This initiative leverages artificial intelligence to enhance the integrity and safety of the food supply chain, addressing a critical public health and economic concern.",
+      "The platform aims to improve regulatory compliance and consumer trust by providing sophisticated tools for monitoring and identifying suspicious activities in food production and distribution."
+    ]
+  },
+  {
+    "id": "news_openai_chatgpt_finance",
+    "category": "Service",
+    "importance": "medium",
+    "title": "OpenAI Launches ChatGPT for Personal Finance, Enables Bank Account Connectivity",
+    "details": [
+      "OpenAI has introduced a new version of ChatGPT specifically tailored for personal finance, offering users the ability to connect their bank accounts.",
+      "This expansion marks a significant step into sensitive financial management, providing personalized insights and assistance through advanced conversational AI.",
+      "The service aims to leverage AI's capabilities to help consumers manage their budgets, track spending, and make informed financial decisions."
+    ]
+  },
+  {
+    "id": "news_ai_coding_agents_token_anxiety",
+    "category": "Model",
+    "importance": "medium",
+    "title": "AI Coding Agents Surge, Prompting Concerns Over 'Token Anxiety'",
+    "details": [
+      "The use of AI coding agents continues its rapid ascent, leading to the emergence of 'token anxiety,' a new industry buzz phrase referencing the cost of AI tokens spent by developers.",
+      "Software developers are increasingly supervising and reviewing AI-generated code rather than writing new code manually, signaling a fundamental shift in development workflows.",
+      "This trend emphasizes the growing importance of optimizing AI agent efficiency and performance, as companies push for maximizing output while managing operational costs."
+    ]
+  },
+  {
+    "id": "news_cognition_ai_acquisition",
+    "category": "Business",
+    "importance": "medium",
+    "title": "Cognition AI Achieves $4B Valuation, Acquires Portions of Windsurf",
+    "details": [
+      "AI coding solutions startup Cognition AI has reached a $4 billion valuation after a recent funding round, reflecting robust investor interest in AI-driven coding technologies.",
+      "The company further strengthened its position by acquiring portions of Windsurf, another AI coding startup.",
+      "Notably, Google had previously licensed Windsurf's co-founders and technology for $2.4 billion, indicating the high value placed on AI coding innovations in the current market."
+    ]
+  },
+  {
+    "id": "news_apple_siri_revamp",
+    "category": "Service",
+    "importance": "medium",
+    "title": "Apple's Siri Revamp May Include Auto-Deleting Chats for Enhanced Privacy",
+    "details": [
+      "Apple is reportedly planning a significant revamp of its Siri intelligent assistant, with potential new features including the automatic deletion of chat histories.",
+      "This update underscores Apple's continued focus on user privacy and data security within its AI-powered services.",
+      "The move reflects a growing industry-wide awareness and demand for robust privacy controls in conversational AI systems, addressing user concerns about data retention."
+    ]
+  },
+  {
+    "id": "news_xpanner_construction_automation",
+    "category": "Business",
+    "importance": "medium",
+    "title": "Xpanner Raises $18M for AI and Robotics in Construction Automation",
+    "details": [
+      "Xpanner, a startup dedicated to automating construction work, has successfully raised $18 million in funding.",
+      "The company specializes in retrofitting existing construction equipment with advanced robotics and physical AI technology to offer 'automation as a service.'",
+      "This investment highlights the increasing integration of AI and robotics into traditional heavy industries, aiming to boost efficiency, safety, and reduce labor-intensive tasks on construction sites."
+    ]
+  },
+  {
+    "id": "news_google_lyria_music_gen",
+    "category": "Entertainment",
+    "importance": "medium",
+    "title": "Google Unveils Lyria 3 Pro for Advanced AI Music Generation",
+    "details": [
+      "Google has introduced Lyria 3 Pro, an enhanced music generation model that empowers users to create tracks up to three minutes long with granular control over specific musical elements.",
+      "This advanced model allows for detailed customization of intros, verses, and bridges, providing creators with unprecedented flexibility.",
+      "Lyria and Lyria 3 are now available in public preview for developers via the Gemini API and Google AI Studio, expanding the tools for creative AI expression in the entertainment industry."
+    ]
+  }
+]
