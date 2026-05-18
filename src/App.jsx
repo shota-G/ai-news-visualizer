@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Newspaper, Cpu, Briefcase, ShieldAlert, Globe2, Zap, ExternalLink, X, Calendar, Layers, Rocket, Search, TrendingUp, BrainCircuit, Scale, Info, Bookmark, AlertCircle, Award } from 'lucide-react';
+import React, { useState, useEffect, useMemo } from 'react';
+import { Newspaper, Cpu, Briefcase, ShieldAlert, Globe2, Zap, ExternalLink, X, Calendar, Layers, Rocket, Search, TrendingUp, BrainCircuit, Scale, Info, Bookmark, AlertCircle, Award, Clock } from 'lucide-react';
 
 const Categories = {
   All: { label: 'すべて', icon: Layers, color: 'text-slate-800', bg: 'bg-slate-100', border: 'border-slate-800', accent: 'bg-slate-500' },
@@ -12,61 +12,23 @@ const Categories = {
   Entertainment: { label: 'エンタメ', icon: Zap, color: 'text-pink-600', bg: 'bg-pink-50', border: 'border-pink-600', accent: 'bg-pink-500' }
 };
 
+// 期間フィルターの定義
+const TimeRanges = {
+  '3days': { label: '直近3日', days: 3 },
+  '3weeks': { label: '過去3週間', days: 21 },
+  '3months': { label: '過去3ヶ月', days: 90 },
+  'all': { label: 'すべて', days: 9999 }
+};
+
 const DefaultNewsData = [
   {
     id: '1',
-    category: 'Ethics',
-    title: 'Anthropic「Mythos」がソフトウェア脆弱性を自動発見、サイバー脅威と防御の分岐点に',
-    date: '2026/05/08',
-    summary: 'Anthropicの最新モデルがかつてないペースで脆弱性を発見。AIによるサイバー攻防の激化が指摘される。',
-    details: [
-      'Anthropicの最新AIモデル「Mythos」が、複雑なソフトウェアシステムからこれまでにないペースで未知の脆弱性を発見していることがThe Guardianの報道などで明らかになった。これは人間が気づかない深層のセキュリティホールを見つけ出す驚異的な能力であり、サイバーセキュリティのあり方を根本から覆す可能性を秘めている。',
-      '防衛目的で使えば極めて強固なシステム構築に寄与する一方で、悪意あるハッカーや国家レベルの攻撃者に悪用されれば、重要インフラに対する甚大なサイバー攻撃を自動かつ大規模に引き起こすリスクがある。専門家はこの状況を「AI産業革命」と表現し、人間の認知能力を超えた規模でのタスク処理が現実のものになりつつあると警鐘を鳴らす。',
-      '問題の核心は、現在の社会インフラや法律、ルールが人間の処理スピードに合わせて設計されている点にある。AIが秒単位で脆弱性を突く世界において、既存の防御体制は全く追いついていない。Anthropicがこの「Mythos」の一般公開を慎重に見合わせているのは、能力が高すぎるがゆえの保守的な措置であると同時に、高度なAIガバナンスの難しさを浮き彫りにしている。'
-    ],
-    sources: [{ name: 'The Guardian', url: 'https://www.theguardian.com/commentisfree/2026/may/08/how-dangerous-is-anthropics-mythos-ai' }],
-    importance: 'critical'
-  },
-  {
-    id: '2',
-    category: 'Business',
-    title: '米巨大IT4社のAI投資総額が7250億ドルに到達、フリーキャッシュフローは過去10年で最低水準へ',
-    date: '2026/05/08',
-    summary: 'Amazon、Alphabet、Microsoft、MetaのAIインフラ投資が加速。キャッシュフローへの圧迫が顕著に。',
-    details: [
-      'Amazon、Alphabet、Microsoft、Metaの「ハイパースケーラー」4社によるAI投資競争が激化しており、今年度の関連投資総額が推定7250億ドルに達する見込みであることが分かった。ウォール街の予測によると、これら4社の第3四半期のフリーキャッシュフローは、コロナ禍以降の平均450億ドルから約40億ドルへと急激に落ち込むとされている。',
-      'これまでAIブームの初期段階では手元資金で投資を賄っていた各社だが、データセンターの建設や高価なGPUの大量調達といった資本集約的なインフラ競争が本格化したことで、状況は一変している。企業によっては人員削減や株主還元の縮小、さらには外部からの借り入れによる資金調達に頼らざるを得ないフェーズへと移行しつつある。',
-      '市場アナリストは、各社が短期的利益よりもインフラ投資を優先する「囚人のジレンマ」状態に陥っていると指摘する。ライバルに出遅れることを極端に恐れるあまり、過剰投資が将来的な設備過剰や利益率の低下を招くリスク（資本サイクルの罠）も懸念されており、今後の各社の財務戦略とAI収益化のバランスが大きな焦点となっている。'
-    ],
-    sources: [{ name: 'Financial Times', url: 'https://www.ft.com/content/b3dfaba9-17a2-4fac-90fe-4ab3ca7c9494' }],
-    importance: 'critical'
-  },
-  {
-    id: '8',
-    category: 'Economy',
-    title: '日経平均株価が一時6万3200円台に乗せ、取引時間中の最高値を更新',
-    date: '2026/05/11',
-    summary: '11日の東京株式市場で日経平均が一時500円超上昇。主力企業の好決算が相場を牽引。',
-    details: [
-      '週明けの5月11日、東京株式市場において日経平均株価が一時前週末比500円超の大幅上昇を記録し、取引時間中の最高値を更新して6万3200円台を付けた。この記録的な株高は、米国市場の堅調な推移を引き継ぐ形で、国内外の投資家から幅広い銘柄に買い注文が流入したことが主な要因である。',
-      '特に相場を牽引しているのが、AI関連の半導体銘柄や、好調な業績を発表した主力企業の決算である。グローバルなAI需要の恩恵を受ける日本の製造業やITインフラ企業の株価が大きく押し上げられている。また、日米の金融政策の不透明感が後退したことも、市場心理の改善に寄与している。',
-      'この6万3000円台という未知の領域への突入は、日本経済のデフレ脱却と企業の稼ぐ力の回復を象徴する出来事として市場関係者の間で評価されている。一方で、急激な上昇に対する警戒感や、海外の地政学的リスクへの懸念も依然として残っており、今後の値動きが注目されている。'
-    ],
-    sources: [{ name: '読売新聞', url: 'https://www.yomiuri.co.jp/economy/20260511-GYT1T00030/' }],
-    importance: 'high'
-  },
-  {
-    id: '13',
-    category: 'Service',
-    title: '「ミエルカ」にClaude Sonnet 4.6を活用したLLMモニタリング機能が追加、品質管理をAIで自動化',
-    date: '2026/05/10',
-    summary: 'Faber CompanyのマーケティングツールがAIによるAIの監視機能を実装。脆弱性リスク判定を効率化。',
-    details: [
-      'Faber Companyが提供するSEO・Webマーケティングツール「ミエルカ」において、新たにAnthropicの高機能モデル「Claude Sonnet 4.6」を活用した『LLMモニタリング機能』が実装された。企業が自社サービスに生成AIを組み込む際に出力結果の監視が大きな負担となっている課題を、別のAIを用いて解決するアプローチだ。',
-      '新機能では、ユーザーの入力やAIの出力内容に対して、Claudeがリアルタイムで不適切発言、ハルシネーションの兆候、あるいはセキュリティ上の脆弱性リスクなどを自動判定する。人間が全てのログを目視確認する「手が回らない」状況を打破し、安全なAI運用のスケーラビリティを確保する。',
-      'AIの業務適用が高度化するにつれ、「AIの出力を別のAIが監視・評価する」という多層的なエコシステムの構築が業界全体のトレンドとなっている。特に論理的推論とコンテキスト理解に優れるClaudeを監査役に据えるこの構成は、エンタープライズ向けの頑健なアーキテクチャの標準になりつつある。'
-    ],
-    sources: [{ name: 'Faber Company News', url: 'https://www.fabercompany.co.jp/' }],
+    category: 'Model',
+    title: 'ダミーデータ: ニュースを収集中です',
+    date: new Date().toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' }).replace(/\//g, '/'),
+    summary: '現在、TavilyとGeminiが直近3ヶ月のデータを収集・分析中です。',
+    details: ['GASのトリガーが実行されると、ここに最大30件の最新ニュースが表示されます。'],
+    sources: [],
     importance: 'medium'
   }
 ];
@@ -74,61 +36,61 @@ const DefaultNewsData = [
 export default function AIInfoGraphic() {
   const [selectedNews, setSelectedNews] = useState(null);
   const [activeCategory, setActiveCategory] = useState('All');
-  const [activeDate, setActiveDate] = useState('All'); // 日付フィルター用の状態を追加
+  const [activeTimeRange, setActiveTimeRange] = useState('3weeks'); // デフォルトは3週間にしておく
   
   const [newsDataList, setNewsDataList] = useState(DefaultNewsData);
 
   useEffect(() => {
     fetch('/src/data/newsData.json')
       .then((res) => {
-        if (!res.ok) throw new Error('Dynamic JSON not found, fallback to pre-baked high density data.');
+        if (!res.ok) throw new Error('Not found');
         return res.json();
       })
       .then((data) => {
-        if (Array.isArray(data) && data.length > 0) {
-          setNewsDataList(data);
-          console.log('Successfully synced with latest GAS-generated news database!');
-        }
+        if (Array.isArray(data) && data.length > 0) setNewsDataList(data);
       })
       .catch((err) => {
         fetch('./data/newsData.json')
-          .then((res) => {
-            if (!res.ok) throw new Error();
-            return res.json();
-          })
+          .then((res) => res.json())
           .then((data) => {
-            if (Array.isArray(data) && data.length > 0) {
-              setNewsDataList(data);
-            }
+            if (Array.isArray(data) && data.length > 0) setNewsDataList(data);
           })
-          .catch(() => {
-            console.log('App is safely running on premium pre-baked default news database.');
-          });
+          .catch(() => console.log('Using default data.'));
       });
   }, []);
 
   const safeNewsData = Array.isArray(newsDataList) ? newsDataList : DefaultNewsData;
 
-  // 【追加】データを日付の降順（新しい順）に並び替え
-  const sortedNewsData = [...safeNewsData].sort((a, b) => new Date(b.date) - new Date(a.date));
+  // データを日付の降順（新しい順）に並び替え
+  const sortedNewsData = useMemo(() => {
+    return [...safeNewsData].sort((a, b) => new Date(b.date) - new Date(a.date));
+  }, [safeNewsData]);
 
-  // 【追加】データに存在する日付のリストを重複なしで抽出して降順に並べ替え
-  const availableDates = ['All', ...Array.from(new Set(sortedNewsData.map(news => news.date)))].sort((a, b) => {
-    if (a === 'All') return -1;
-    if (b === 'All') return 1;
-    return new Date(b) - new Date(a);
-  });
+  // 【追加】データの中にある一番新しい日付を「基準日(Day 0)」として計算する
+  const latestDateInDb = sortedNewsData.length > 0 ? new Date(sortedNewsData[0].date) : new Date();
 
-  // 【更新】カテゴリフィルターと日付フィルターの両方を適用
-  const filteredNews = sortedNewsData.filter(news => {
-    const matchCategory = activeCategory === 'All' || news.category === activeCategory;
-    const matchDate = activeDate === 'All' || news.date === activeDate;
-    return matchCategory && matchDate;
-  });
+  // カテゴリと期間でフィルタリング
+  const filteredNews = useMemo(() => {
+    return sortedNewsData.filter(news => {
+      // 1. カテゴリのチェック
+      const matchCategory = activeCategory === 'All' || news.category === activeCategory;
+      
+      // 2. 期間のチェック (基準日からの経過日数で判定)
+      const newsDate = new Date(news.date);
+      // 基準日との差分をミリ秒から日数に変換
+      const diffTime = Math.abs(latestDateInDb - newsDate);
+      const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+      
+      const allowedDays = TimeRanges[activeTimeRange].days;
+      const matchTimeRange = diffDays <= allowedDays;
+
+      return matchCategory && matchTimeRange;
+    });
+  }, [sortedNewsData, activeCategory, activeTimeRange, latestDateInDb]);
 
   const KeyPoints = [
-    { label: '本日のトップニュース', text: sortedNewsData[0] ? sortedNewsData[0].title : '情報収集中だぜ', icon: Award, color: 'text-amber-500' },
-    { label: '表示中の件数', text: `厳選トピック: ${filteredNews.length} 件`, icon: Layers, color: 'text-blue-500' }
+    { label: '最新のメジャートピック', text: sortedNewsData[0] ? sortedNewsData[0].title : '情報収集中だぜ', icon: Award, color: 'text-amber-500' },
+    { label: '表示中の抽出件数', text: `${TimeRanges[activeTimeRange].label}の厳選トピック: ${filteredNews.length} 件`, icon: Layers, color: 'text-blue-500' }
   ];
 
   const getImportanceBadge = (importance) => {
@@ -151,14 +113,14 @@ export default function AIInfoGraphic() {
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-start md:items-center gap-6 relative z-10">
           <div>
              <span className="inline-flex items-center gap-1.5 px-3 py-1 bg-blue-500/10 text-blue-400 text-xs font-bold rounded-full border border-blue-500/20 mb-3 uppercase tracking-wider">
-                <Cpu className="h-3 w-3 animate-spin" /> Autonomous Analyst V3
+                <Cpu className="h-3 w-3 animate-spin" /> Autonomous Analyst V4 (3 Months DB)
              </span>
              <h1 className="text-4xl md:text-5xl font-black tracking-tight bg-gradient-to-r from-white via-slate-100 to-slate-400 bg-clip-text text-transparent">
                AI & Global News <br className="md:hidden" /><span className="text-blue-500 font-extrabold">Visualizer</span>
              </h1>
           </div>
           <div className="text-left md:text-right text-slate-400 text-xs max-w-xs border-l-2 border-blue-500 pl-4 py-1">
-             毎朝6:00、Tavily自律型検索エンジンとGeminiが収集・分析したリアルタイム最新ニュース。
+             直近3ヶ月の中から最大30件の重要ニュースを自動収集。期間を切り替えてタイムラインを俯瞰できます。
           </div>
         </div>
 
@@ -181,6 +143,34 @@ export default function AIInfoGraphic() {
       </div>
 
       <div className="max-w-6xl mx-auto p-4 md:p-6 space-y-4 mt-6">
+        
+        {/* Time Range Filter (期間フィルター) */}
+        <div className="flex flex-wrap gap-2 items-center bg-slate-900/50 p-3 rounded-2xl border border-slate-800 backdrop-blur-md">
+           <span className="text-xs font-black text-blue-500 ml-2 mr-2 tracking-widest uppercase flex items-center gap-1">
+             <Clock className="h-3.5 w-3.5" /> TIME_RANGE
+           </span>
+           {Object.entries(TimeRanges).map(([key, config]) => {
+              const isActive = activeTimeRange === key;
+              return (
+                <button
+                  key={key}
+                  onClick={() => setActiveTimeRange(key)}
+                  className={`
+                    flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold transition-all duration-300
+                    ${isActive 
+                      ? `text-blue-400 bg-slate-800 ring-1 ring-slate-700 shadow-[0_0_15px_rgba(59,130,246,0.1)]` 
+                      : 'bg-transparent text-slate-400 hover:bg-slate-900 hover:text-slate-200 border border-transparent'}
+                  `}
+                >
+                  {config.label}
+                </button>
+              );
+           })}
+           <span className="ml-auto text-[10px] font-bold text-slate-600 hidden sm:block">
+             [ データベース総件数: {sortedNewsData.length}件 ]
+           </span>
+        </div>
+
         {/* Category Filter */}
         <div className="flex flex-wrap gap-2 items-center bg-slate-900/50 p-3 rounded-2xl border border-slate-800 backdrop-blur-md">
            <span className="text-xs font-black text-slate-500 ml-2 mr-2 tracking-widest uppercase">CATEGORY</span>
@@ -205,28 +195,6 @@ export default function AIInfoGraphic() {
            })}
         </div>
 
-        {/* Date Filter (新規追加) */}
-        <div className="flex flex-wrap gap-2 items-center bg-slate-900/50 p-3 rounded-2xl border border-slate-800 backdrop-blur-md">
-           <span className="text-xs font-black text-slate-500 ml-2 mr-2 tracking-widest uppercase">DATE_FILTER</span>
-           {availableDates.map(date => {
-              const isActive = activeDate === date;
-              return (
-                <button
-                  key={date}
-                  onClick={() => setActiveDate(date)}
-                  className={`
-                    flex items-center gap-1.5 px-3.5 py-2 rounded-xl text-xs font-bold transition-all duration-300
-                    ${isActive 
-                      ? `text-blue-400 bg-slate-800 ring-1 ring-slate-700 shadow-lg` 
-                      : 'bg-transparent text-slate-400 hover:bg-slate-900 hover:text-slate-200 border border-transparent'}
-                  `}
-                >
-                  <Calendar className="h-3.5 w-3.5" />
-                  {date === 'All' ? 'すべての日付' : date}
-                </button>
-              );
-           })}
-        </div>
 
         {/* Dashboard Cards Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-4">
@@ -282,7 +250,7 @@ export default function AIInfoGraphic() {
         {filteredNews.length === 0 && (
            <div className="text-center py-20 bg-slate-900/40 rounded-2xl border border-slate-800 border-dashed mt-4">
               <Search className="h-12 w-12 text-slate-600 mx-auto mb-3" />
-              <p className="text-slate-400 font-bold text-sm">該当するニュースが見つからないぜ。</p>
+              <p className="text-slate-400 font-bold text-sm">指定した期間・カテゴリに該当するニュースはないぜ。</p>
            </div>
         )}
       </div>
