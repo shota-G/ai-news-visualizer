@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { Newspaper, Cpu, Briefcase, ShieldAlert, Globe2, Zap, ExternalLink, X, Calendar, Layers, Rocket, Search, TrendingUp, BrainCircuit, Scale, Info } from 'lucide-react';
-// 【進化ポイント】GASが毎日更新するJSONデータをここで自動的に読み込むぜ！
 import NewsData from './data/newsData.json';
 
 const Categories = {
@@ -18,14 +17,16 @@ export default function AIInfoGraphic() {
   const [selectedNews, setSelectedNews] = useState(null);
   const [activeCategory, setActiveCategory] = useState('All');
 
-  const filteredNews = activeCategory === 'All'
-    ? NewsData
-    : NewsData.filter(news => news.category === activeCategory);
+  // データが空、または配列じゃない場合の安全対策
+  const safeNewsData = Array.isArray(NewsData) ? NewsData : [];
 
-  // 動的に今期のハイライトを作成
+  const filteredNews = activeCategory === 'All'
+    ? safeNewsData
+    : safeNewsData.filter(news => news.category === activeCategory);
+
   const KeyPoints = [
-    { label: '最新トピック', text: NewsData[0] ? NewsData[0].title : 'ニュースを収集中だぜ', icon: BrainCircuit, color: 'text-purple-600' },
-    { label: '総件数', text: `本日の厳選ニュース: ${NewsData.length} 件`, icon: Layers, color: 'text-emerald-600' }
+    { label: '最新トピック', text: safeNewsData[0] ? safeNewsData[0].title : 'ニュースを収集中だぜ', icon: BrainCircuit, color: 'text-purple-600' },
+    { label: '総件数', text: `本日の厳選ニュース: ${safeNewsData.length} 件`, icon: Layers, color: 'text-emerald-600' }
   ];
 
   return (
@@ -133,6 +134,15 @@ export default function AIInfoGraphic() {
       {/* Modal Overlay */}
       {selectedNews && (() => {
         const catConfig = Categories[selectedNews.category] || Categories['All'];
+        
+        // 【重要】detailsが配列じゃない（ただの文字列）だった場合の安全ガード
+        const paragraphs = Array.isArray(selectedNews.details) 
+          ? selectedNews.details 
+          : (typeof selectedNews.details === 'string' ? [selectedNews.details] : []);
+
+        // 【重要】sourcesが配列じゃない場合の安全ガード
+        const sourcesList = Array.isArray(selectedNews.sources) ? selectedNews.sources : [];
+
         return (
           <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm animate-in fade-in" onClick={() => setSelectedNews(null)}>
             <div className="bg-white rounded-2xl w-full max-w-3xl max-h-[90vh] overflow-hidden shadow-2xl flex flex-col" onClick={e => e.stopPropagation()}>
@@ -147,14 +157,16 @@ export default function AIInfoGraphic() {
               </div>
               <div className="p-6 md:p-8 overflow-y-auto flex-grow bg-white">
                  <div className="space-y-6 mb-8 text-slate-700">
-                   {selectedNews.details.map((paragraph, idx) => <p key={idx} className="leading-loose text-[15px]">{paragraph}</p>)}
+                   {paragraphs.map((paragraph, idx) => (
+                     <p key={idx} className="leading-loose text-[15px]">{paragraph}</p>
+                   ))}
                  </div>
                  <div className="bg-slate-50 rounded-xl p-5 border border-slate-100">
                    <h3 className="text-sm font-bold text-slate-800 mb-3 flex items-center gap-2"><Info className="h-4 w-4 text-blue-500" /> 情報ソース</h3>
                    <div className="flex flex-wrap gap-3">
-                     {selectedNews.sources.map((source, i) => (
+                     {sourcesList.map((source, i) => (
                        <a key={i} href={source.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-4 py-2 bg-white hover:bg-blue-50 border border-slate-200 rounded-lg text-sm font-bold text-slate-700 hover:text-blue-700 transition-all">
-                         <Globe2 className="h-4 w-4 text-slate-400" /> {source.name} <ExternalLink className="h-3 w-3 opacity-50 ml-1" />
+                         <Globe2 className="h-4 w-4 text-slate-400" /> {source.name || 'リンク'} <ExternalLink className="h-3 w-3 opacity-50 ml-1" />
                        </a>
                      ))}
                    </div>
