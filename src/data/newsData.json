@@ -1,167 +1,182 @@
 [
   {
-    "id": "news_ami_labs_funding",
-    "category": "Model",
-    "importance": "critical",
-    "title": "AMI Labs Secures Record $1.03B Seed Funding for 'World Models'",
-    "details": [
-      "Founded by Turing Award winner Yann LeCun, AMI Labs has raised an unprecedented $1.03 billion in seed funding at a $3.5 billion valuation, making it the largest seed round in European history.",
-      "Backed by major investors including Nvidia and Bezos Expeditions, the Paris-based startup is developing 'world models,' an alternative AI architecture to large language models.",
-      "These models learn by understanding how the physical world works, targeting applications across robotics, healthcare, and manufacturing, aiming to push the boundaries of AI capabilities."
-    ]
-  },
-  {
-    "id": "news_openai_anthropic_revenue",
+    "id": "news-001",
+    "title": "Yann LeCunのAMI Labs、世界モデル開発で10.3億ドルのシード資金を調達",
+    "date": "2026-03-10",
     "category": "Business",
     "importance": "critical",
-    "title": "OpenAI and Anthropic Eye Public Listings Amid Soaring Revenues",
     "details": [
-      "OpenAI has reportedly surpassed $25 billion in annualized revenue and is taking early steps towards a public listing, potentially as soon as late 2026.",
-      "Rival Anthropic is also approaching $19 billion in annualized revenue, signaling the rapid growth and intense competition within the advanced AI model market.",
-      "These impressive figures highlight the significant investor interest and the technology industry's rapid adoption of sophisticated AI solutions."
+      "チューリング賞受賞者で元MetaチーフAI科学者のヤン・ルカンが設立したAdvanced Machine Intelligence (AMI) Labsが、欧州史上最大のシードラウンドとなる10.3億ドルの資金調達を完了しました。",
+      "このパリを拠点とするスタートアップは、Nvidia、Bezos Expeditions、Temasekなどの支援を受け、評価額35億ドルに達しました。彼らは大規模言語モデルとは異なる「世界モデル」と呼ばれるAIアーキテクチャを構築しています。",
+      "このモデルは物理世界を理解することで学習し、ロボット工学、ヘルスケア、製造業への応用を目指しており、次世代AI技術の方向性を示すものとして注目されています。"
     ]
   },
   {
-    "id": "news_ai_market_growth",
-    "category": "Economy",
-    "importance": "high",
-    "title": "AI Market Booms with Unprecedented Growth and Valuation Premiums",
-    "details": [
-      "The global AI market, valued at nearly $235 billion in 2024, is projected to reach $631 billion by 2028, leading startup funding globally from 2023 through 2025.",
-      "AI startups are commanding significantly higher valuations, with seed-stage companies seeing a 42% premium and Series B rounds earning 60% higher valuations compared to non-AI startups.",
-      "This market surge reflects immense demand for innovative AI solutions and investor confidence in AI's ability to deliver scalable, high-growth opportunities across various sectors."
-    ]
-  },
-  {
-    "id": "news_tech_megacaps_ai_investment",
-    "category": "Business",
-    "importance": "high",
-    "title": "Tech Megacaps Pledge Over $300 Billion in AI Investments",
-    "details": [
-      "Large technology companies are committing extraordinary sums, estimated to be over $300 billion, to AI-related spending in the current cycle.",
-      "These investments encompass data centers, custom chips, model development, and integrated products, creating huge openings for partnerships and acquisitions for startups.",
-      "However, this also raises the competitive bar, requiring startups to position themselves as indispensable partners or focused specialists to thrive against incumbents with near-unlimited budgets."
-    ]
-  },
-  {
-    "id": "news_oracle_block_jobcuts",
-    "category": "Economy",
-    "importance": "high",
-    "title": "Oracle and Block Announce 34,000 Job Cuts Citing AI Automation",
-    "details": [
-      "Oracle and Block have jointly announced 34,000 job cuts, explicitly attributing these reductions to the increasing efficiency and capabilities of AI automation.",
-      "This significant workforce reduction highlights a growing trend where AI advancements are directly impacting employment across large enterprises.",
-      "The move underscores the transformative, and sometimes disruptive, power of AI on the global economy and labor market, prompting discussions on future employment landscapes."
-    ]
-  },
-  {
-    "id": "news_google_gemini_flash_lite",
+    "id": "news-002",
+    "title": "GoogleがGemini 3.1 Flash-Liteを発表、処理速度向上と大幅なコスト削減を実現",
+    "date": "2026-03-04",
     "category": "Model",
-    "importance": "high",
-    "title": "Google Releases Gemini 3.1 Flash-Lite: Faster and More Affordable AI",
+    "importance": "critical",
     "details": [
-      "Google has introduced Gemini 3.1 Flash-Lite, a new efficiency-focused AI model that boasts 2.5 times faster response times and 45% quicker output generation.",
-      "Priced at just $0.25 per million input tokens, this release signifies a growing industry trend towards making powerful AI more accessible and cost-effective.",
-      "The move intensifies the cost-efficiency race among leading AI providers, benefiting both startups and large enterprises seeking to integrate advanced AI capabilities economically."
+      "Googleは、効率性に特化した新モデル「Gemini 3.1 Flash-Lite」を導入しました。これにより、初期バージョンと比較して2.5倍の応答速度と45%の出力生成速度向上を実現しています。",
+      "このモデルは、入力トークン100万あたり0.25ドルという低価格で提供され、AIプロバイダー間のコスト効率競争を激化させています。",
+      "今回のリリースは、強力なAI技術をスタートアップや大企業にとってより手頃な価格で提供するという業界全体のトレンドを反映しており、幅広い企業でのAI導入を加速させるでしょう。"
     ]
   },
   {
-    "id": "news_mistral_ai_valuation",
+    "id": "news-003",
+    "title": "OracleとBlock、AI自動化を理由に合計34,000人の人員削減を発表",
+    "date": "2026-03-03",
+    "category": "Economy",
+    "importance": "critical",
+    "details": [
+      "テクノロジー大手のOracleとBlockが、AIによる自動化の進展を主な理由として、合計で34,000人の従業員を削減すると発表しました。",
+      "この大規模な人員削減は、AI技術の急速な進化が企業の業務プロセスと労働市場に与える影響の深刻さを示しています。",
+      "AIによる自動化が生産性向上に貢献する一方で、従来の雇用構造への影響は避けられない課題として、引き続き社会的な議論を呼ぶでしょう。"
+    ]
+  },
+  {
+    "id": "news-004",
+    "title": "OpenAIとAnthropic、年間収益と企業評価額で急成長しAI市場を牽引",
+    "date": "2026-03-05",
     "category": "Business",
-    "importance": "high",
-    "title": "Mistral AI Reaches $6.2B Valuation with $1.1B Investment, Challenges Rivals",
+    "importance": "critical",
     "details": [
-      "Founded in 2023, Mistral AI, an open-source AI platform, has rapidly emerged as a major player, securing $1.1 billion in investments at a valuation of over $6.2 billion.",
-      "The company is quickly becoming a significant competitor to established models like Claude and ChatGPT, demonstrating its configurable AI model's utility for large corporations.",
-      "Mistral AI's success underscores the intense competition and substantial investor interest in developing advanced, open-source AI solutions, particularly in Europe."
+      "OpenAIが年間収益250億ドルを突破し、2026年後半にも株式公開を検討していると報じられました。競合のAnthropicも年間収益190億ドルに迫っています。",
+      "これらの数字は、先進的なAIモデル市場がテクノロジー業界で最も急速に成長している分野の一つであることを示しています。",
+      "2025年末時点でOpenAIは非公開企業として5,000億ドル、Anthropicは1,830億ドルの評価額に達しており、AI分野への投資家の関心と競争が激化しています。"
     ]
   },
   {
-    "id": "news_physical_intelligence_funding",
-    "category": "Model",
-    "importance": "high",
-    "title": "Physical Intelligence Raises $1B to Train Foundational Models for Robots",
-    "details": [
-      "San Francisco-based Physical Intelligence has secured $1 billion in funding to develop and train foundational AI models specifically for robots.",
-      "The company plans to collect extensive data from human teleoperators controlling humanoids in realistic environments, such as kitchens and bedrooms, to achieve this.",
-      "This substantial investment marks a major commitment to applying AI foundation models to the physical economy, with profound implications for engineering and manufacturing."
-    ]
-  },
-  {
-    "id": "news_eu_tracemap_food_fraud",
+    "id": "news-005",
+    "title": "EU、AIプラットフォーム「TraceMap」を立ち上げ食品詐欺対策を強化",
+    "date": "2026-03-10",
     "category": "Policy",
-    "importance": "medium",
-    "title": "EU Launches 'TraceMap' AI Platform to Combat Food Fraud Across Member States",
+    "importance": "high",
     "details": [
-      "The European Union has introduced 'TraceMap,' an advanced AI platform designed to detect and prevent food fraud and contamination within its member states.",
-      "This initiative leverages artificial intelligence to enhance the integrity and safety of the food supply chain, addressing a critical public health and economic concern.",
-      "The platform aims to improve regulatory compliance and consumer trust by providing sophisticated tools for monitoring and identifying suspicious activities in food production and distribution."
+      "欧州連合は、加盟国全体で食品詐欺や汚染を検出するためのAIプラットフォーム「TraceMap」を正式に開始しました。",
+      "この革新的なシステムは、AIを活用して食品サプライチェーンを監視し、不正行為や安全性の問題を早期に特定することを目的としています。",
+      "TraceMapの導入は、消費者の安全を確保し、食品業界の信頼性を高めるためのEUの取り組みにおける重要な一歩となります。"
     ]
   },
   {
-    "id": "news_openai_chatgpt_finance",
-    "category": "Service",
-    "importance": "medium",
-    "title": "OpenAI Launches ChatGPT for Personal Finance, Enables Bank Account Connectivity",
-    "details": [
-      "OpenAI has introduced a new version of ChatGPT specifically tailored for personal finance, offering users the ability to connect their bank accounts.",
-      "This expansion marks a significant step into sensitive financial management, providing personalized insights and assistance through advanced conversational AI.",
-      "The service aims to leverage AI's capabilities to help consumers manage their budgets, track spending, and make informed financial decisions."
-    ]
-  },
-  {
-    "id": "news_ai_coding_agents_token_anxiety",
-    "category": "Model",
-    "importance": "medium",
-    "title": "AI Coding Agents Surge, Prompting Concerns Over 'Token Anxiety'",
-    "details": [
-      "The use of AI coding agents continues its rapid ascent, leading to the emergence of 'token anxiety,' a new industry buzz phrase referencing the cost of AI tokens spent by developers.",
-      "Software developers are increasingly supervising and reviewing AI-generated code rather than writing new code manually, signaling a fundamental shift in development workflows.",
-      "This trend emphasizes the growing importance of optimizing AI agent efficiency and performance, as companies push for maximizing output while managing operational costs."
-    ]
-  },
-  {
-    "id": "news_cognition_ai_acquisition",
+    "id": "news-006",
+    "title": "OpenAI共同創業者グレッグ・ブロックマン、製品戦略責任者に就任",
+    "date": "2026-05-28",
     "category": "Business",
-    "importance": "medium",
-    "title": "Cognition AI Achieves $4B Valuation, Acquires Portions of Windsurf",
+    "importance": "high",
     "details": [
-      "AI coding solutions startup Cognition AI has reached a $4 billion valuation after a recent funding round, reflecting robust investor interest in AI-driven coding technologies.",
-      "The company further strengthened its position by acquiring portions of Windsurf, another AI coding startup.",
-      "Notably, Google had previously licensed Windsurf's co-founders and technology for $2.4 billion, indicating the high value placed on AI coding innovations in the current market."
+      "OpenAIの共同創業者であるグレッグ・ブロックマン氏が、同社の製品戦略責任者に就任したことが発表されました。",
+      "この人事は、OpenAIが製品開発と市場投入において、より戦略的かつ統合的なアプローチを取ることを示唆しています。",
+      "ブロックマン氏のリーダーシップの下、OpenAIの次期製品ロードマップやイノベーションの加速に注目が集まります。"
     ]
   },
   {
-    "id": "news_apple_siri_revamp",
+    "id": "news-007",
+    "title": "OpenAI、個人向け金融サービスにChatGPTを導入し銀行口座連携を可能に",
+    "date": "2026-05-28",
     "category": "Service",
-    "importance": "medium",
-    "title": "Apple's Siri Revamp May Include Auto-Deleting Chats for Enhanced Privacy",
+    "importance": "high",
     "details": [
-      "Apple is reportedly planning a significant revamp of its Siri intelligent assistant, with potential new features including the automatic deletion of chat histories.",
-      "This update underscores Apple's continued focus on user privacy and data security within its AI-powered services.",
-      "The move reflects a growing industry-wide awareness and demand for robust privacy controls in conversational AI systems, addressing user concerns about data retention."
+      "OpenAIは、個人向け金融サービスに特化したChatGPTのバージョンを立ち上げ、ユーザーが銀行口座を直接連携できる機能を提供します。",
+      "この新機能により、ChatGPTは個人の財務管理、予算作成、投資アドバイスなど、よりパーソナライズされた金融サポートを提供できるようになります。",
+      "AIが金融分野に深く統合されることで、ユーザーはより効率的かつインテリジェントな方法で資産を管理する機会を得るでしょう。"
     ]
   },
   {
-    "id": "news_xpanner_construction_automation",
+    "id": "news-008",
+    "title": "イーロン・マスク対OpenAIの裁判、AI開発における倫理と信頼が焦点に",
+    "date": "2026-05-28",
+    "category": "Ethics",
+    "importance": "high",
+    "details": [
+      "イーロン・マスク氏とOpenAIの間で進行中の裁判は、AI開発における倫理、信頼、そして知的財産の所有権という重要な問題に光を当てています。",
+      "この訴訟は、急速に進化するAI技術のガバナンスと、企業間の競争がもたらす潜在的なリスクについて、広範な議論を巻き起こしています。",
+      "裁判の行方は、将来のAI研究開発の方向性や、AI企業の透明性と責任の基準に大きな影響を与える可能性があります。"
+    ]
+  },
+  {
+    "id": "news-009",
+    "title": "Google、AIコーディングスタートアップWindsurfの共同創業者と技術を24億ドルで獲得",
+    "date": "2026-01-15",
     "category": "Business",
-    "importance": "medium",
-    "title": "Xpanner Raises $18M for AI and Robotics in Construction Automation",
+    "importance": "high",
     "details": [
-      "Xpanner, a startup dedicated to automating construction work, has successfully raised $18 million in funding.",
-      "The company specializes in retrofitting existing construction equipment with advanced robotics and physical AI technology to offer 'automation as a service.'",
-      "This investment highlights the increasing integration of AI and robotics into traditional heavy industries, aiming to boost efficiency, safety, and reduce labor-intensive tasks on construction sites."
+      "Googleは、AIコーディングスタートアップWindsurfの共同創業者を雇用し、その技術ライセンスを24億ドルで取得したと報じられています。",
+      "この大型買収は、Googleが自社のAI開発能力を強化し、特にコーディング支援AIの分野で競争優位を確立しようとする強い意図を示しています。",
+      "Windsurfの専門知識と技術がGoogleの広範なエコシステムに統合されることで、ソフトウェア開発の自動化と効率化がさらに進むことが期待されます。"
     ]
   },
   {
-    "id": "news_google_lyria_music_gen",
+    "id": "news-010",
+    "title": "Physical Intelligence、ロボット向け基盤モデル開発で10億ドルを調達",
+    "date": "2026-01-01",
+    "category": "Business",
+    "importance": "high",
+    "details": [
+      "Physical Intelligenceは、ロボット向けの基盤モデルを開発するために10億ドルの資金を調達しました。これは、物理的なAIシステムへの関心が高まっていることを示しています。",
+      "同社は、人間のテレオペレーターがヒューマノイドを制御する際に収集したデータを用いて、キッチンや寝室のような現実的な環境でロボットを訓練することを目指しています。",
+      "この投資は、AIを物理世界に適用し、ロボットがより複雑なタスクを自律的に実行できるようにするための大きな推進力となるでしょう。"
+    ]
+  },
+  {
+    "id": "news-011",
+    "title": "AIエージェント経済の保険会社「Mount」がリスク評価・軽減プラットフォームを構築",
+    "date": "2026-01-01",
+    "category": "Ethics",
+    "importance": "high",
+    "details": [
+      "AIエージェントが自律的に契約を締結し、財務を管理し、顧客と対話する「エージェント経済」において、その失敗に対する責任がデプロイ側に生じる問題に対応するため、Mountが登場しました。",
+      "Mountは、既存の保険会社が対応できないAIエージェント特有のリスクを評価し、軽減するためのプラットフォームを構築しています。",
+      "同社のサービスは、AIシステムの運用リスクを「レッドチーム」方式で分析し、スコア化することで、AIエージェントの展開に伴う新たな法的および倫理的課題に対処することを目指しています。"
+    ]
+  },
+  {
+    "id": "news-012",
+    "title": "Anthropicが35億ドルのSeries E資金調達、AIの安全性とアライメント研究を強化",
+    "date": "2026-01-01",
+    "category": "Business",
+    "importance": "high",
+    "details": [
+      "AI研究企業Anthropicは、Lightspeed Venture Partnersが主導するSeries Eラウンドで35億ドルを調達しました。",
+      "この大規模な資金調達は、AnthropicがAIモデルの安全性とアライメント（人間中心の価値観との整合性）に重点を置いていることを強調するものです。",
+      "同社は、高度なAIシステムの潜在的なリスクを軽減し、社会にとって有益なAIを開発するための研究開発に、引き続き多額の投資を行う計画です。"
+    ]
+  },
+  {
+    "id": "news-013",
+    "title": "世界のAI市場、2028年には6310億ドルに達する見込み",
+    "date": "2025-01-01",
+    "category": "Economy",
+    "importance": "high",
+    "details": [
+      "市場調査会社IDCの予測によると、世界の人工知能（AI）市場は、生成AIを含め、2028年には6310億ドルに達する見込みです。",
+      "2024年末時点での市場規模が約2350億ドルであったことを踏まえると、AI市場は今後数年間で大幅な成長を遂げると予想されています。",
+      "この急成長は、ヘルスケアから金融、製造業に至るまで、幅広い産業でのAI技術の採用拡大と、新たなAIソリューションへの投資意欲の高まりによって推進されるでしょう。"
+    ]
+  },
+  {
+    "id": "news-014",
+    "title": "GoogleがLyria 3 Proを発表、より高度な音楽生成モデルを開発者向けに公開",
+    "date": "2026-04-01",
     "category": "Entertainment",
-    "importance": "medium",
-    "title": "Google Unveils Lyria 3 Pro for Advanced AI Music Generation",
+    "importance": "high",
     "details": [
-      "Google has introduced Lyria 3 Pro, an enhanced music generation model that empowers users to create tracks up to three minutes long with granular control over specific musical elements.",
-      "This advanced model allows for detailed customization of intros, verses, and bridges, providing creators with unprecedented flexibility.",
-      "Lyria and Lyria 3 are now available in public preview for developers via the Gemini API and Google AI Studio, expanding the tools for creative AI expression in the entertainment industry."
+      "Googleは、より高度な音楽生成モデルである「Lyria 3 Pro」を発表しました。このアップデートにより、最先端の音楽モデルがより多くの製品に導入されます。",
+      "Lyria 3 Proは、最大3分間のトラックを生成できるだけでなく、イントロ、バース、ブリッジなど特定の要素を細かく制御できる機能を提供します。",
+      "LyriaおよびLyria 3は、Gemini APIおよびGoogle AI Studioを通じて開発者向けにパブリックプレビューで利用可能になり、クリエイティブAI表現のためのツールを拡大します。"
+    ]
+  },
+  {
+    "id": "news-015",
+    "title": "大手テック企業、AI関連投資に3000億ドル以上をコミット",
+    "date": "2026-01-01",
+    "category": "Economy",
+    "importance": "high",
+    "details": [
+      "大手テクノロジー企業が、現在のサイクルにおいてAI関連支出に3000億ドル以上を投資する計画であることが明らかになりました。これにはデータセンター、カスタムチップ、モデル開発、統合製品などが含まれます。",
+      "この巨額の投資は、AI分野における競争の激化と、技術革新を加速させるための業界全体のコミットメントを明確に示しています。",
+      "スタートアップにとっては、パートナーシップやエコシステムへの参加機会が生まれる一方で、一部の分野では既存の大企業が圧倒的な予算で市場を支配する可能性も高まります。"
     ]
   }
 ]
