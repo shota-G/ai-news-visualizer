@@ -1,3 +1,4 @@
+```react
 import React, { useState, useEffect, useMemo } from 'react';
 import { Newspaper, Cpu, Briefcase, ShieldAlert, Globe2, Zap, ExternalLink, X, Calendar, Layers, Rocket, Search, TrendingUp, BrainCircuit, Scale, Info, Bookmark, AlertCircle, Award, Clock } from 'lucide-react';
 
@@ -12,7 +13,6 @@ const Categories = {
   Entertainment: { label: 'エンタメ', icon: Zap, color: 'text-pink-600', bg: 'bg-pink-50', border: 'border-pink-600', accent: 'bg-pink-500' }
 };
 
-// 期間フィルターの定義
 const TimeRanges = {
   '3days': { label: '直近3日', days: 3 },
   '3weeks': { label: '過去3週間', days: 21 },
@@ -20,64 +20,63 @@ const TimeRanges = {
   'all': { label: 'すべて', days: 9999 }
 };
 
-const DefaultNewsData = [
-  {
-    id: '1',
-    category: 'Model',
-    title: 'ダミーデータ: ニュースを収集中です',
-    date: new Date().toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' }).replace(/\//g, '/'),
-    summary: '現在、TavilyとGeminiが直近3ヶ月のデータを収集・分析中です。',
-    details: ['GASのトリガーが実行されると、ここに最大30件の最新ニュースが表示されます。'],
-    sources: [],
-    importance: 'medium'
-  }
-];
-
 export default function AIInfoGraphic() {
   const [selectedNews, setSelectedNews] = useState(null);
   const [activeCategory, setActiveCategory] = useState('All');
-  const [activeTimeRange, setActiveTimeRange] = useState('3weeks'); // デフォルトは3週間にしておく
+  const [activeTimeRange, setActiveTimeRange] = useState('3months'); 
   
-  const [newsDataList, setNewsDataList] = useState(DefaultNewsData);
+  const [newsDataList, setNewsDataList] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    fetch('/src/data/newsData.json')
+    // 【修正点】Vercel(Vite)環境で確実に取得できるよう、public直下のパスに変更。
+    // さらにキャッシュを防ぐためにタイムスタンプを付与して常に最新を取得する。
+    const fetchUrl = `/newsData.json?t=${new Date().getTime()}`;
+    
+    fetch(fetchUrl)
       .then((res) => {
-        if (!res.ok) throw new Error('Not found');
+        if (!res.ok) throw new Error('Data fetch failed');
         return res.json();
       })
       .then((data) => {
-        if (Array.isArray(data) && data.length > 0) setNewsDataList(data);
+        if (Array.isArray(data) && data.length > 0) {
+          setNewsDataList(data);
+        }
       })
       .catch((err) => {
-        fetch('./data/newsData.json')
-          .then((res) => res.json())
-          .then((data) => {
-            if (Array.isArray(data) && data.length > 0) setNewsDataList(data);
-          })
-          .catch(() => console.log('Using default data.'));
+        console.error("Failed to load news data:", err);
+      })
+      .finally(() => {
+        setIsLoading(false);
       });
   }, []);
 
-  const safeNewsData = Array.isArray(newsDataList) ? newsDataList : DefaultNewsData;
+  const safeNewsData = Array.isArray(newsDataList) ? newsDataList : [];
 
-  // データを日付の降順（新しい順）に並び替え
   const sortedNewsData = useMemo(() => {
     return [...safeNewsData].sort((a, b) => new Date(b.date) - new Date(a.date));
   }, [safeNewsData]);
 
-  // 【追加】データの中にある一番新しい日付を「基準日(Day 0)」として計算する
+  // データに存在する日付のリスト
+  const availableDates = useMemo(() => {
+    const dates = Array.from(new Set(sortedNewsData.map(news => news.date)));
+    return ['All', ...dates].sort((a, b) => {
+      if (a === 'All') return -1;
+      if (b === 'All') return 1;
+      return new Date(b) - new Date(a);
+    });
+  }, [sortedNewsData]);
+
   const latestDateInDb = sortedNewsData.length > 0 ? new Date(sortedNewsData[0].date) : new Date();
 
-  // カテゴリと期間でフィルタリング
   const filteredNews = useMemo(() => {
     return sortedNewsData.filter(news => {
-      // 1. カテゴリのチェック
       const matchCategory = activeCategory === 'All' || news.category === activeCategory;
       
-      // 2. 期間のチェック (基準日からの経過日数で判定)
       const newsDate = new Date(news.date);
-      // 基準日との差分をミリ秒から日数に変換
+      // 日付が不正な場合は除外しないための安全策
+      if (isNaN(newsDate.getTime())) return matchCategory;
+
       const diffTime = Math.abs(latestDateInDb - newsDate);
       const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
       
@@ -89,7 +88,7 @@ export default function AIInfoGraphic() {
   }, [sortedNewsData, activeCategory, activeTimeRange, latestDateInDb]);
 
   const KeyPoints = [
-    { label: '最新のメジャートピック', text: sortedNewsData[0] ? sortedNewsData[0].title : '情報収集中だぜ', icon: Award, color: 'text-amber-500' },
+    { label: '最新のメジャートピック', text: sortedNewsData[0] ? sortedNewsData[0].title : '情報収集中...', icon: Award, color: 'text-amber-500' },
     { label: '表示中の抽出件数', text: `${TimeRanges[activeTimeRange].label}の厳選トピック: ${filteredNews.length} 件`, icon: Layers, color: 'text-blue-500' }
   ];
 
@@ -197,60 +196,67 @@ export default function AIInfoGraphic() {
 
 
         {/* Dashboard Cards Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-4">
-          {filteredNews.map((news) => {
-            const catConfig = Categories[news.category] || Categories['All'];
-            const isCritical = news.importance === 'critical';
-            return (
-              <div
-                key={news.id}
-                onClick={() => setSelectedNews(news)}
-                className={`
-                  group relative bg-slate-900/60 rounded-2xl p-6 cursor-pointer border
-                  transition-all duration-300 hover:-translate-y-1.5 flex flex-col h-full hover:bg-slate-900/90
-                  ${isCritical ? 'border-rose-500/40 shadow-[0_0_20px_rgba(244,63,94,0.05)]' : 'border-slate-800/80 hover:border-blue-500/50'}
-                `}
-              >
-                <div className={`absolute top-0 left-6 right-6 h-[1px] bg-gradient-to-r from-transparent ${catConfig.accent} to-transparent opacity-0 group-hover:opacity-100 transition-opacity`}></div>
+        {isLoading ? (
+           <div className="text-center py-20 bg-slate-900/40 rounded-2xl border border-slate-800 border-dashed mt-4">
+              <Cpu className="h-12 w-12 text-blue-500 animate-spin mx-auto mb-4" />
+              <p className="text-slate-400 font-bold text-sm tracking-widest uppercase animate-pulse">Synchronizing Data...</p>
+           </div>
+        ) : (
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-4">
+            {filteredNews.map((news) => {
+              const catConfig = Categories[news.category] || Categories['All'];
+              const isCritical = news.importance === 'critical';
+              return (
+                <div
+                  key={news.id}
+                  onClick={() => setSelectedNews(news)}
+                  className={`
+                    group relative bg-slate-900/60 rounded-2xl p-6 cursor-pointer border
+                    transition-all duration-300 hover:-translate-y-1.5 flex flex-col h-full hover:bg-slate-900/90
+                    ${isCritical ? 'border-rose-500/40 shadow-[0_0_20px_rgba(244,63,94,0.05)]' : 'border-slate-800/80 hover:border-blue-500/50'}
+                  `}
+                >
+                  <div className={`absolute top-0 left-6 right-6 h-[1px] bg-gradient-to-r from-transparent ${catConfig.accent} to-transparent opacity-0 group-hover:opacity-100 transition-opacity`}></div>
 
-                <div className="flex justify-between items-center mb-4">
-                  <span className={`px-2.5 py-1 rounded-md text-[10px] font-black flex items-center gap-1.5 ${catConfig.color} ${catConfig.bg} border ${catConfig.border} border-opacity-10`}>
-                    <catConfig.icon className="h-3 w-3" />
-                    {catConfig.label.toUpperCase()}
-                  </span>
-                  <div className="flex items-center gap-2">
-                     {getImportanceBadge(news.importance)}
-                     <span className="text-slate-500 text-[10px] font-bold flex items-center gap-1">
-                        <Calendar className="h-3 w-3" /> {news.date}
-                     </span>
+                  <div className="flex justify-between items-center mb-4">
+                    <span className={`px-2.5 py-1 rounded-md text-[10px] font-black flex items-center gap-1.5 ${catConfig.color} ${catConfig.bg} border ${catConfig.border} border-opacity-10`}>
+                      <catConfig.icon className="h-3 w-3" />
+                      {catConfig.label.toUpperCase()}
+                    </span>
+                    <div className="flex items-center gap-2">
+                       {getImportanceBadge(news.importance)}
+                       <span className="text-slate-500 text-[10px] font-bold flex items-center gap-1">
+                          <Calendar className="h-3 w-3" /> {news.date}
+                       </span>
+                    </div>
+                  </div>
+
+                  <h3 className="text-base font-extrabold text-slate-100 mb-3 leading-snug group-hover:text-blue-400 transition-colors line-clamp-2">
+                    {news.title}
+                  </h3>
+                  
+                  <p className="text-slate-400 text-xs leading-relaxed mb-6 flex-grow line-clamp-3">
+                    {news.summary}
+                  </p>
+
+                  <div className="flex justify-between items-center mt-auto pt-4 border-t border-slate-800/60">
+                    <div className="flex items-center text-slate-500 text-[10px] font-bold">
+                       <Bookmark className="h-3 w-3 mr-1" /> KEEP_READING
+                    </div>
+                    <div className="flex items-center text-blue-400 text-xs font-black bg-blue-950/40 px-3 py-2 rounded-lg group-hover:bg-blue-600 group-hover:text-white transition-all">
+                      ANALYZE <ExternalLink className="ml-1.5 h-3 w-3" />
+                    </div>
                   </div>
                 </div>
-
-                <h3 className="text-base font-extrabold text-slate-100 mb-3 leading-snug group-hover:text-blue-400 transition-colors line-clamp-2">
-                  {news.title}
-                </h3>
-                
-                <p className="text-slate-400 text-xs leading-relaxed mb-6 flex-grow line-clamp-3">
-                  {news.summary}
-                </p>
-
-                <div className="flex justify-between items-center mt-auto pt-4 border-t border-slate-800/60">
-                  <div className="flex items-center text-slate-500 text-[10px] font-bold">
-                     <Bookmark className="h-3 w-3 mr-1" /> KEEP_READING
-                  </div>
-                  <div className="flex items-center text-blue-400 text-xs font-black bg-blue-950/40 px-3 py-2 rounded-lg group-hover:bg-blue-600 group-hover:text-white transition-all">
-                    ANALYZE <ExternalLink className="ml-1.5 h-3 w-3" />
-                  </div>
-                </div>
-              </div>
-            );
-          })}
-        </div>
+              );
+            })}
+          </div>
+        )}
         
-        {filteredNews.length === 0 && (
+        {!isLoading && filteredNews.length === 0 && (
            <div className="text-center py-20 bg-slate-900/40 rounded-2xl border border-slate-800 border-dashed mt-4">
               <Search className="h-12 w-12 text-slate-600 mx-auto mb-3" />
-              <p className="text-slate-400 font-bold text-sm">指定した期間・カテゴリに該当するニュースはないぜ。</p>
+              <p className="text-slate-400 font-bold text-sm">指定した期間・カテゴリに該当するニュースはないか、GASのデータ収集待ちだぜ。</p>
            </div>
         )}
       </div>
@@ -392,3 +398,6 @@ export default function AIInfoGraphic() {
     </div>
   );
 }
+
+
+```
