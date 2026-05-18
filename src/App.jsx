@@ -1,4 +1,3 @@
-react
 import React, { useState, useEffect, useMemo } from 'react';
 import { Newspaper, Cpu, Briefcase, ShieldAlert, Globe2, Zap, ExternalLink, X, Calendar, Layers, Rocket, Search, TrendingUp, BrainCircuit, Scale, Info, Bookmark, AlertCircle, Award, Clock } from 'lucide-react';
 
