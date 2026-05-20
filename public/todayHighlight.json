@@ -1,187 +1,74 @@
 [
   {
     "id": "1",
-    "category": "Business",
-    "title": "Agentic AIが自律的ワークフローを牽引、ビジネス変革を加速",
+    "category": "Policy",
+    "title": "沖縄近海でM5.9の地震が発生、インフラへの影響懸念",
     "date": "2026/05/20",
-    "summary": "Agentic AIが単なるアシスタントから自律行動主体へ進化。人間介入なしで複雑なタスクを実行し、ビジネスプロセスを根本的に変革する。",
+    "summary": "沖縄本島近海でマグニチュード5.9の地震が発生し、地域インフラや経済への影響が懸念されている。",
     "details": [
-      "エージェントAIはマルチステップタスクを自律的に実行し、人間が設定した目標達成に向けて能動的に行動。自己検証機能を持ち、エラー蓄積を解決することでエンタープライズソリューションとしての信頼性とスケーラビリティを確立する。"
+      "5月20日、沖縄本島近海を震源とするマグニチュード5.9の地震が発生し、広範囲で揺れを観測した。人的被害は報告されていないものの、地域インフラや経済活動への潜在的な影響について、当局が警戒を続けている。"
     ],
     "sources": [
       {
-        "name": "The Future of Generative AI: 10 Breakthroughs Defining 2026 | Artificial Intelligence",
-        "url": "https://www.artiba.org/blog/the-future-of-generative-ai-10-breakthroughs-defining-2026"
-      },
-      {
-        "name": "AI Breakthroughs in 2026: The Year of Agentic AI | Kersai",
-        "url": "https://kersai.com/ai-breakthroughs-in-2026/"
-      },
-      {
-        "name": "6 AI breakthroughs that will define 2026 | InfoWorld",
-        "url": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html"
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
       }
     ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 85
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 20
   },
   {
     "id": "2",
-    "category": "Model",
-    "title": "マルチモーダルAIが深化、人間のような多様なデータ統合を実現",
+    "category": "Policy",
+    "title": "トランプ大統領、イラン情勢の「友好的」終結を模索",
     "date": "2026/05/20",
-    "summary": "テキスト、画像、動画、音声など複数データ形式を理解・生成するマルチモーダルAIが進化。人間のような世界認識能力で、より自然なAI体験を可能にする。",
+    "summary": "トランプ大統領が緊迫するイラン情勢について「友好的な」解決を模索する姿勢を表明した。",
     "details": [
-      "Google GeminiやOpenAI GPT-4の進化が牽引し、テキスト・画像・動画を複合的に処理。多様な入力に対応し、複雑な情報から一貫性のある回答やコンテンツを生成することでAIの汎用性が大幅に向上する。"
+      "米国のトランプ大統領は、中東の緊張緩和に向け、イラン情勢を「友好的な」方法で終わらせたいと発言。外交的解決への期待が高まり、今後の米国の対イラン政策に注目が集まる。"
     ],
     "sources": [
       {
-        "name": "Refonte Learning : Generative AI Models in 2026: Top Trends, Breakthroughs, and Opportunities",
-        "url": "https://www.refontelearning.com/blog/generative-ai-models-in-2026-top-trends-breakthroughs-and-opportunities"
-      },
-      {
-        "name": "Top 7 Breakthrough AI Technologies to Watch in 2026",
-        "url": "https://python.plainenglish.io/top-7-breakthrough-ai-technologies-to-watch-in-2026-11cecf79077f"
-      },
-      {
-        "name": "Top 5 AI Trends to Watch in 2026 | Coursera",
-        "url": "https://www.coursera.org/articles/ai-trends"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 75
-  },
-  {
-    "id": "3",
-    "category": "Business",
-    "title": "生成AI、エンタープライズへの本格浸透で生産性革命を牽引",
-    "date": "2026/05/20",
-    "summary": "2026年は生成AIが「実験段階」から「実用化」へ移行し、企業の中心業務に深く統合。生産性の大幅な向上とビジネスモデルの変革を牽引する。",
-    "details": [
-      "Gartner予測では2026年までに80%以上の企業が生成AIを導入またはテスト。コンテンツ生成、自動化、顧客対応、意思決定支援など多岐にわたり、競争優位性を生み出す戦略的ツールとなる。"
-    ],
-    "sources": [
-      {
-        "name": "Tech & Generative AI Trends 2026 | Daniel Burrus",
-        "url": "https://www.burrus.com/technology-driven-trends-2/"
-      },
-      {
-        "name": "10 AI and machine learning trends to watch in 2026 | TechTarget",
-        "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends"
-      },
-      {
-        "name": "In 2026, AI will move from hype to pragmatism | TechCrunch",
-        "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 88,
-    "novelty": 70
-  },
-  {
-    "id": "4",
-    "category": "Economy",
-    "title": "AI開発の効率化と持続可能性へシフト、エネルギー問題に対応",
-    "date": "2026/05/20",
-    "summary": "大規模AIモデルの計算コストとエネルギー消費が課題となる中、効率的なモデルアーキテクチャやAI専用ハードウェア、グリーンコンピューティングへの関心が高まっている。",
-    "details": [
-      "Mistralのような小型かつ高性能なモデル、モデル圧縮技術の進展に加え、AI最適化データセンターにおける電力効率が重視される。持続可能性は投資家や政府の重要な考慮事項となる。"
-    ],
-    "sources": [
-      {
-        "name": "Refonte Learning : Generative AI Models in 2026: Top Trends, Breakthroughs, and Opportunities",
-        "url": "https://www.refontelearning.com/blog/generative-ai-models-in-2026-top-trends-breakthroughs-and-opportunities"
-      },
-      {
-        "name": "10 AI and machine learning trends to watch in 2026 | TechTarget",
-        "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends"
-      },
-      {
-        "name": "Predicting AI In 2026: A Year Of Consequence",
-        "url": "https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 70
-  },
-  {
-    "id": "5",
-    "category": "Business",
-    "title": "AIと労働市場の変革：ヒューマン・AIコラボレーションが生産性を向上",
-    "date": "2026/05/20",
-    "summary": "AIが「ツール」から「チームメイト」へと進化し、ルーティン作業をAIが担うことで、人間は戦略立案や創造性といった高付加価値業務に集中し、生産性が向上する。",
-    "details": [
-      "AIコパイロットが日常業務に組み込まれ、データ分析、コンテンツ作成、アイデア出しを支援。少人数チームでもグローバルプロジェクトで大きな成果を出せる、新しい働き方が加速する。"
-    ],
-    "sources": [
-      {
-        "name": "10 AI and machine learning trends to watch in 2026 | TechTarget",
-        "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends"
-      },
-      {
-        "name": "7 AI Trends to Watch in 2026 | Digital Bricks",
-        "url": "https://www.digitalbricks.ai/blog-posts/7-ai-trends-to-watch-in-2026"
-      },
-      {
-        "name": "What's next in AI: 7 trends to watch in 2026 - Microsoft Source",
-        "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/"
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
       }
     ],
     "importance": "high",
     "socialImpact": 85,
-    "novelty": 70
+    "novelty": 50
   },
   {
-    "id": "6",
-    "category": "Policy",
-    "title": "AI規制の強化と倫理的ガバナンスが喫緊の課題に",
+    "id": "3",
+    "category": "Economy",
+    "title": "日経平均株価が60,000円割れ、約3週間ぶり",
     "date": "2026/05/20",
-    "summary": "AIの急速な進化に伴い、各国で詐欺やディープフェイク対策、データプライバシー保護、AI主権確保のための規制整備が進み、倫理的利用のガバナンスが喫緊の課題となる。",
+    "summary": "日経平均株価が約3週間ぶりに60,000円を下回って取引を終え、市場の不透明感が強まっている。",
     "details": [
-      "欧州のAI Act、米国の州レベルでの法案導入に加え、各国のAI主権確保の動きが加速。AIシステムの信頼性と安全性確保のため、政府、企業、研究機関の連携が不可欠となる。"
+      "5月20日の東京株式市場で、日経平均株価が続落し、3週間ぶりに60,000円の節目を割り込んだ。世界的な金利上昇や経済減速への懸念が投資家心理を冷やしていると分析される。"
     ],
     "sources": [
       {
-        "name": "Agentic AI News + AI Breakthroughs + AI Developments | 2026",
-        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
-      },
-      {
-        "name": "AI Breakthroughs in 2026: The Year of Agentic AI | Kersai",
-        "url": "https://kersai.com/ai-breakthroughs-in-2026/"
-      },
-      {
-        "name": "The Future of Artificial Intelligence | IBM",
-        "url": "https://www.ibm.com/think/insights/artificial-intelligence-future"
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
       }
     ],
     "importance": "critical",
-    "socialImpact": 92,
-    "novelty": 60
+    "socialImpact": 90,
+    "novelty": 30
   },
   {
-    "id": "7",
-    "category": "Ethics",
-    "title": "ディープフェイクと武器化AIの脅威増大、協調的防御が急務",
+    "id": "4",
+    "category": "Policy",
+    "title": "習近平とプーチン、北京サミットで連帯を強調へ",
     "date": "2026/05/20",
-    "summary": "生成AI技術の発展はディープフェイク生成を容易にし、詐欺やプロパガンダ、サイバー攻撃などへの悪用が深刻化。これに対抗する協調的防御システムの構築が急務となる。",
+    "summary": "習近平国家主席とプーチン大統領が北京での首脳会談で連帯を強調し、西側諸国へ強いメッセージを送る。",
     "details": [
-      "AIが悪意ある行為者のスキル障壁を下げ、攻撃を高速化・低コスト化。偽情報拡散や非合意の性的画像の生成も問題視されており、技術的・政策的な多層的防御が求められる。"
+      "5月20日、中国の習近平国家主席とロシアのプーチン大統領が北京で会談。両国の強固な連携と国際秩序における共同の立場を再確認し、多極化する世界での影響力拡大を目指す見通し。"
     ],
     "sources": [
       {
-        "name": "Agentic AI News + AI Breakthroughs + AI Developments | 2026",
-        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
-      },
-      {
-        "name": "The trends that will shape AI and tech in 2026 | IBM",
-        "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
-      },
-      {
-        "name": "2026 10 Things That Matter in AI Right Now | MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/"
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
       }
     ],
     "importance": "critical",
@@ -189,180 +76,56 @@
     "novelty": 70
   },
   {
-    "id": "8",
-    "category": "Model",
-    "title": "LLMの推論能力向上とコード生成のブレイクスルーが加速",
+    "id": "5",
+    "category": "Service",
+    "title": "GoogleがGemini AIエージェント機能を一般向けに拡大",
     "date": "2026/05/20",
-    "summary": "LLMは推論能力が飛躍的に向上し、コード生成の品質も劇的に進化。複雑なプログラミングタスクを自律的にこなす能力は、ソフトウェア開発の風景を一変させる。",
+    "summary": "GoogleがAIエージェント機能「Gemini」の一般向け展開を拡大し、日常業務へのAIの社会実装を加速させる。",
     "details": [
-      "Reinforcement Learningを適用したコード特化型LLMの登場により、人間が手で書くコードの割合が激減。ブラウザ開発のような大規模プロジェクトもAIが担えるレベルに到達する。"
+      "Googleは5月20日、自社基盤モデルGeminiを搭載したAIエージェント機能の一般ユーザー向け展開を拡大すると発表。ユーザーはAIに複雑なタスクを委ね、より広範な領域での生産性向上が期待される。"
     ],
     "sources": [
       {
-        "name": "The AI Avalanche: 7 Breakthroughs Redefining March 2026",
-        "url": "https://www.switas.com/articles/the-ai-avalanche-7-breakthroughs-redefining-march-2026"
-      },
-      {
-        "name": "Large Language Models: What You Need to Know in 2026 | HatchWorks AI",
-        "url": "https://hatchworks.com/blog/gen-ai/large-language-models-guide/"
-      },
-      {
-        "name": "LLM predictions for 2026, shared with Oxide and Friends",
-        "url": "https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/"
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
       }
     ],
     "importance": "high",
     "socialImpact": 80,
-    "novelty": 80
+    "novelty": 85
   },
   {
-    "id": "9",
-    "category": "Entertainment",
-    "title": "生成AIがエンターテイメント産業を革新、動画・ゲーム制作に影響",
+    "id": "6",
+    "category": "Economy",
+    "title": "トランプ大統領、2026年第1四半期に3,700回超の株式取引",
     "date": "2026/05/20",
-    "summary": "生成AIは高品質な動画生成、ゲーム内での適応型ストーリーライン創出など、エンターテイメント産業を革新。ハリウッドやゲーム開発で本格的な導入が進む。",
+    "summary": "トランプ大統領が2026年第1四半期に3,700回以上の株式取引を行い、利益相反の議論が再燃した。",
     "details": [
-      "Runway Gen-4, OpenAI Sora, Luma AIのようなツールが数秒でリアルな動画を生成。ゲームではプレイヤーの行動に合わせて変化する物語が実現し、没入感の高い体験を生み出す。"
+      "5月20日、トランプ大統領が今年第1四半期に膨大な数の株式取引を行ったことが判明し、大統領職と個人的な金融活動との間の倫理的境界線について新たな議論が巻き起こっている。"
     ],
     "sources": [
       {
-        "name": "The Future of Generative AI: 10 Breakthroughs Defining 2026 | Artificial Intelligence",
-        "url": "https://www.artiba.org/blog/the-future-of-generative-ai-10-breakthroughs-defining-2026"
-      },
-      {
-        "name": "Generative AI in 2026: What to Expect (And What Will Break) - Medium",
-        "url": "https://medium.com/data-science-in-your-pocket/generative-ai-in-2026-what-to-expect-and-what-will-break-a5acd82d54ec"
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
       }
     ],
     "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 75
+    "socialImpact": 60,
+    "novelty": 40
   },
   {
-    "id": "10",
-    "category": "Service",
-    "title": "AIを活用した科学研究が加速、医療・製薬分野でブレイクスルー",
+    "id": "7",
+    "category": "Policy",
+    "title": "UAE原発近くでドローン攻撃、IAEA事務局長が警告",
     "date": "2026/05/20",
-    "summary": "生成AIは特に医療・製薬分野における論文要約やデータ解析を効率化し、新たな治療法や薬剤開発を加速。AIコサイエンティストが未解決問題の発見に貢献する。",
+    "summary": "UAEの原子力発電所近くでドローン攻撃が発生し、IAEA事務局長が核安全保障への深刻な懸念を表明した。",
     "details": [
-      "LLMが研究論文の主要な発見、手法、影響を迅速に抽出。Google DeepMindのAlphaEvolveがGeminiと進化的アルゴリズムを組み合わせ、新たなアルゴリズム発見に成功している。"
+      "5月20日、アラブ首長国連邦（UAE）のバラカ原子力発電所近郊でドローン攻撃があり、国際原子力機関（IAEA）事務局長が核テロのリスクを警告。国際社会は核施設の保護に向けた対策強化を求めている。"
     ],
     "sources": [
       {
-        "name": "Top 10 Generative AI Trends in 2026",
-        "url": "https://www.solulab.com/top-generative-ai-trends/"
-      },
-      {
-        "name": "What's next for AI in 2026 | MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/"
-      },
-      {
-        "name": "Top 5 AI Trends to Watch in 2026 | Coursera",
-        "url": "https://www.coursera.org/articles/ai-trends"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 80
-  },
-  {
-    "id": "11",
-    "category": "Model",
-    "title": "ドメイン特化型AIモデル（DSLMs）が普及、特定業界で高精度を発揮",
-    "date": "2026/05/20",
-    "summary": "汎用LLMから特定の業界や業務に特化したドメイン固有言語モデル（DSLMs）へのシフトが加速。医療、金融など精度が求められる分野で高いビジネス価値を提供する。",
-    "details": [
-      "特定のデータで学習・ファインチューニングされたDSLMsは、業界固有の文脈や専門用語を理解し、汎用モデルよりも高い精度、コンプライアンス、コスト効率を実現する。"
-    ],
-    "sources": [
-      {
-        "name": "Top Technology Trends 2026: The AI Era Redefined by Humans",
-        "url": "https://sigmatechnology.com/articles/tech-trends-in-2026-signals-not-noise/"
-      },
-      {
-        "name": "The Future of Artificial Intelligence | IBM",
-        "url": "https://www.ibm.com/think/insights/artificial-intelligence-future"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 78,
-    "novelty": 70
-  },
-  {
-    "id": "12",
-    "category": "Model",
-    "title": "オープンソースAIモデルが台頭、AIイノベーションを加速",
-    "date": "2026/05/20",
-    "summary": "オープンソースの基盤モデルがAI大手企業の寡占状態を打破し、世界中の開発者によるイノベーションを加速。AI技術の民主化を促進する。",
-    "details": [
-      "Mistralのような小型高性能モデルや、Qwenなどの中国製モデルが競争を促進。多言語対応モデルやベンチマークの開発が進み、グローバルなAIエコシステムの多様性が向上する。"
-    ],
-    "sources": [
-      {
-        "name": "Refonte Learning : Generative AI Models in 2026: Top Trends, Breakthroughs, and Opportunities",
-        "url": "https://www.refontelearning.com/blog/generative-ai-models-in-2026-top-trends-breakthroughs-and-opportunities"
-      },
-      {
-        "name": "AI Breakthroughs in 2026: The Year of Agentic AI | Kersai",
-        "url": "https://kersai.com/ai-breakthroughs-in-2026/"
-      },
-      {
-        "name": "6 AI breakthroughs that will define 2026 | InfoWorld",
-        "url": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70
-  },
-  {
-    "id": "13",
-    "category": "Model",
-    "title": "世界モデル（World Models）研究が進展、外部世界理解へ",
-    "date": "2026/05/20",
-    "summary": "AI企業は外部世界を理解し、リアルタイムでインタラクティブな仮想環境を生成する「世界モデル」の開発に注力。LLMの限界を克服し、物理環境でのAI展開を可能にする。",
-    "details": [
-      "MetaのLeCun、Google DeepMindのGenie、World LabsのMarbleなどが開発をリード。空間推論能力を持つエージェントや動画生成スタートアップも世界モデルの可能性を追求している。"
-    ],
-    "sources": [
-      {
-        "name": "What's next for AI in 2026 | MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/"
-      },
-      {
-        "name": "2026 10 Things That Matter in AI Right Now | MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/"
-      },
-      {
-        "name": "In 2026, AI will move from hype to pragmatism | TechCrunch",
-        "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 90
-  },
-  {
-    "id": "14",
-    "category": "Economy",
-    "title": "AI投資が選別され、市場調整と政治的影響が顕著に",
-    "date": "2026/05/20",
-    "summary": "AI投資は高水準を維持しつつも、資本はより選別され、企業はAIのROIを厳しく評価する段階へ。AIは経済的・政治的な主要アジェンダとなり、規制や政策議論が活発化する。",
-    "details": [
-      "Deutsche Bankは2030年までにデータセンター支出が4兆ドルに達すると予測する一方、エネルギーや人材の制約も指摘。AIは米国の政治における投票争点となるなど、社会全体への影響が拡大する。"
-    ],
-    "sources": [
-      {
-        "name": "Five Trends in AI and Data Science for 2026",
-        "url": "https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/"
-      },
-      {
-        "name": "The 2026 AI Index Report | Stanford HAI",
-        "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
-      },
-      {
-        "name": "Predicting AI In 2026: A Year Of Consequence",
-        "url": "https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/"
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
       }
     ],
     "importance": "critical",
@@ -370,22 +133,155 @@
     "novelty": 60
   },
   {
-    "id": "15",
-    "category": "Service",
-    "title": "スマート・マルチセンサリーウェアラブルが高精度モニタリングを実現",
+    "id": "8",
+    "category": "Policy",
+    "title": "中国全土で豪雨被害、20人以上死亡",
     "date": "2026/05/20",
-    "summary": "高度なセンサーを備えたスマートウェアラブルは、身体的・精神的健康のパーソナルなモニタリングと診断を強化し、コミュニケーション能力も向上させる。",
+    "summary": "中国全土で豪雨による洪水や土砂崩れが発生し、20人以上が死亡、大規模な被害が出ている。",
     "details": [
-      "AIとIoTの進展により、ウェアラブルデバイスはより賢く、多感覚に対応。健康管理からコラボレーションまで、日常生活におけるAIの存在感を高める。"
+      "5月20日、中国各地を襲った激しい豪雨により、20人を超える死者が出たと報じられた。救助活動が急ピッチで進められる中、農業やインフラへの経済的損失も甚大となる見込み。"
     ],
     "sources": [
       {
-        "name": "Tech & Generative AI Trends 2026 | Daniel Burrus",
-        "url": "https://www.burrus.com/technology-driven-trends-2/"
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 75,
+    "novelty": 20
+  },
+  {
+    "id": "9",
+    "category": "Economy",
+    "title": "米30年物国債利回りが19年ぶりの高水準に達する",
+    "date": "2026/05/20",
+    "summary": "米国の30年物国債利回りが19年ぶりの高水準に達し、世界の金融市場に強い警戒感が広がっている。",
+    "details": [
+      "5月20日、米国の30年物国債利回りが急上昇し、19年ぶりの高水準を記録。根強いインフレ懸念とFRBの金融政策の見通しが、債券市場に重くのしかかっている。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 30
+  },
+  {
+    "id": "10",
+    "category": "Economy",
+    "title": "債券利回り上昇で日経平均株価が60,000円割れ",
+    "date": "2026/05/20",
+    "summary": "世界的な債券利回りの上昇を受け、日経平均株価が60,000円を割り込む展開となった。",
+    "details": [
+      "5月20日、世界的な長期金利の上昇が日本の株式市場にも影響し、日経平均株価が心理的節目である60,000円を再び下回った。金融政策の不透明感が投資家を慎重にさせている。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 85,
+    "novelty": 30
+  },
+  {
+    "id": "11",
+    "category": "Policy",
+    "title": "旧統一教会の被害者が補償申請を開始",
+    "date": "2026/05/20",
+    "summary": "旧統一教会の被害者らが、日本政府が新設した補償制度に基づき賠償申請の手続きを開始した。",
+    "details": [
+      "5月20日、旧統一教会（世界平和統一家庭連合）による被害者救済のため日本政府が設けた新たな補償制度への申請受付が始まった。長年の被害に対する法的・経済的救済の第一歩となる。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 60
+  },
+  {
+    "id": "12",
+    "category": "Economy",
+    "title": "G7財務相会議、世界経済リスクとAIモデルで協力合意",
+    "date": "2026/05/19",
+    "summary": "G7財務相・中央銀行総裁会議で、世界経済のリスクとAIモデルの発展に対する国際協力が合意された。",
+    "details": [
+      "5月19日、G7会議において、高インフレや地政学的リスクへの対応に加え、生成AIなどの新技術がもたらす経済・社会課題に対する国際連携の強化が主要議題となり合意された。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 80
+  },
+  {
+    "id": "13",
+    "category": "Policy",
+    "title": "バンス議員、イランとの交渉に「二つの道筋」と発言",
+    "date": "2026/05/19",
+    "summary": "米国のバンス議員がイランとの外交には強硬・柔軟の「二つの道筋」があるとの見解を示した。",
+    "details": [
+      "5月19日、米国のジェームズ・バンス議員は、イランとの関係構築には、対話と圧力のバランスを取る「二つの道筋」が存在すると発言。米国政府の対イラン政策の多様な選択肢を示唆した。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
       }
     ],
     "importance": "medium",
     "socialImpact": 70,
-    "novelty": 65
+    "novelty": 50
+  },
+  {
+    "id": "14",
+    "category": "Policy",
+    "title": "米国、キューバへの追加経済制裁で圧力を強化",
+    "date": "2026/05/19",
+    "summary": "米国政府がキューバの人権状況改善を求めるため、追加の経済制裁を課し圧力を強化した。",
+    "details": [
+      "5月19日、米国政府はキューバ政府に対し、人権侵害や民主主義の抑圧を理由に新たな制裁措置を導入。これはトランプ政権のキューバに対する強硬路線が継続していることを示唆する。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 60
+  },
+  {
+    "id": "15",
+    "category": "Policy",
+    "title": "米中、AIに関する政府間対話の開催で合意",
+    "date": "2026/05/19",
+    "summary": "米中両国がAI技術の安全性と倫理に関する政府間対話を開始することで合意し、国際協力への期待が高まる。",
+    "details": [
+      "5月19日、中国と米国はAIのガバナンス、リスク、倫理的利用について定期的な政府間対話を行うことで合意。技術競争が激化する中で、AI分野での協力の可能性を探る重要な一歩となる。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 95,
+    "novelty": 90
   }
 ]
