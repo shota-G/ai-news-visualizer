@@ -1,0 +1,386 @@
+[
+  {
+    "id": "1",
+    "category": "Model",
+    "title": "マルチモーダルAIの飛躍的進化と普及",
+    "date": "2026/01/01",
+    "summary": "2026年には、テキスト、画像、音声など多様なデータを統合的に処理するマルチモーダルAIが主流となり、AIの汎用性が大幅に向上します。",
+    "details": [
+      "GeminiやGPT-4Sのようなモデルが、複数の入力タイプを組み合わせた理解と生成を可能にし、テキストからビデオ生成など、より高度なアプリケーションを実現。人間のような知覚と行動を可能にする基盤となります。"
+    ],
+    "sources": [
+      {
+        "name": "Refonte Learning",
+        "url": "https://www.refontelearning.com/blog/generative-ai-models-in-2026-top-trends-breakthroughs-and-opportunities"
+      },
+      {
+        "name": "python.plainenglish.io",
+        "url": "https://python.plainenglish.io/top-7-breakthrough-ai-technologies-to-watch-in-2026-11cecf79077f"
+      },
+      {
+        "name": "IBM",
+        "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
+      },
+      {
+        "name": "Coursera",
+        "url": "https://www.coursera.org/articles/ai-trends"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 85
+  },
+  {
+    "id": "2",
+    "category": "Service",
+    "title": "エージェントAIによる自律的ワークフロー革命",
+    "date": "2026/01/01",
+    "summary": "2026年には、AIが単なる生成から自律的な行動へ進化。複雑な目標設定・計画・実行を自己完結するエージェントAIが企業業務を変革します。",
+    "details": [
+      "生成AIが目標理解に基づき多様なツールと連携してタスクを自動遂行。Gartnerは2026年末までに企業アプリの40%がAIエージェントを組み込むと予測し、デジタルコワーカーが広く普及します。"
+    ],
+    "sources": [
+      {
+        "name": "Daniel Burrus",
+        "url": "https://www.burrus.com/technology-driven-trends-2/"
+      },
+      {
+        "name": "Switas Consultancy",
+        "url": "https://www.switas.com/articles/the-ai-avalanche-7-breakthroughs-redefining-march-2026"
+      },
+      {
+        "name": "IBM",
+        "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
+      },
+      {
+        "name": "Sigma Technology",
+        "url": "https://sigmatechnology.com/articles/tech-trends-in-2026-signals-not-noise/"
+      },
+      {
+        "name": "Kersai",
+        "url": "https://kersai.com/ai-breakthroughs-in-2026/"
+      },
+      {
+        "name": "Toloka AI",
+        "url": "https://toloka.ai/blog/history-of-llms/"
+      },
+      {
+        "name": "Reddit",
+        "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1poo4of/what_will_2026_bring_in_terms_of_ai_development/"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 95,
+    "novelty": 90
+  },
+  {
+    "id": "3",
+    "category": "Model",
+    "title": "LLMの推論能力と効率の向上",
+    "date": "2026/03/01",
+    "summary": "AI開発競争はモデル規模から認知密度と推論能力の向上へシフト。Gemini 3.1 ProやGPT-5.3がベンチマークを大幅に更新し、より賢く効率的なAIが登場します。",
+    "details": [
+      "巨大モデルだけでなく、より洗練されたアーキテクチャや推論時演算強化により、複数候補の生成・評価・改善を行うモデルが主流に。複雑な問題解決と信頼性向上に貢献します。"
+    ],
+    "sources": [
+      {
+        "name": "Switas Consultancy",
+        "url": "https://www.switas.com/articles/the-ai-avalanche-7-breakthroughs-redefining-march-2026"
+      },
+      {
+        "name": "InfoWorld",
+        "url": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html"
+      },
+      {
+        "name": "Toloka AI",
+        "url": "https://toloka.ai/blog/history-of-llms/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 85
+  },
+  {
+    "id": "4",
+    "category": "Model",
+    "title": "オープンソースAIエコシステムの拡大",
+    "date": "2026/01/01",
+    "summary": "MetaのLlamaやAlibabaのQwenのようなオープンソースAIモデルが、特定のドメインに特化した小規模モデルの発展を加速させ、AI大手の寡占を打破します。",
+    "details": [
+      "オープンソースモデルは、AI技術へのアクセスを民主化し、イノベーションを加速。特に数学、コーディング、ビジョンなど特定のタスクにチューニングされたモデルが普及し、多様なニーズに応えます。"
+    ],
+    "sources": [
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/"
+      },
+      {
+        "name": "InfoWorld",
+        "url": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html"
+      },
+      {
+        "name": "IBM",
+        "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
+      },
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 70
+  },
+  {
+    "id": "5",
+    "category": "Business",
+    "title": "企業におけるAIの本格導入と生産性革命",
+    "date": "2026/01/01",
+    "summary": "企業はAIを実験段階から実用段階へと移行させ、GenAIを基幹業務に深く統合。あらゆる領域で生産性を劇的に向上させます。",
+    "details": [
+      "Gartnerは2026年までに80%以上の企業がGenAIを導入すると予測。AIは目に見えない形でサービスやアプリケーションに組み込まれ、「見えないAI」としてビジネス価値を創出します。"
+    ],
+    "sources": [
+      {
+        "name": "TechTarget",
+        "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends"
+      },
+      {
+        "name": "Solulab",
+        "url": "https://www.solulab.com/top-generative-ai-trends/"
+      },
+      {
+        "name": "Daniel Burrus",
+        "url": "https://www.burrus.com/technology-driven-trends-2/"
+      },
+      {
+        "name": "Sigma Technology",
+        "url": "https://sigmatechnology.com/articles/tech-trends-in-2026-signals-not-noise/"
+      },
+      {
+        "name": "HatchWorks AI",
+        "url": "https://hatchworks.com/blog/gen-ai/large-language-models-guide/"
+      },
+      {
+        "name": "Coursera",
+        "url": "https://www.coursera.org/articles/ai-trends"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 80
+  },
+  {
+    "id": "6",
+    "category": "Model",
+    "title": "ドメイン特化型AIモデルの進化",
+    "date": "2026/01/01",
+    "summary": "汎用AIから特定の業界や用途に最適化されたドメイン特化型言語モデル（DSLMs）への移行が進み、各分野で測定可能なビジネス価値を創出します。",
+    "details": [
+      "医療診断、金融分析、法務など、特定の文脈、プロセス、データに深い理解を持つ専門モデルが登場。これにより、AIの精度と実用性が大幅に向上し、企業は競争優位性を確立できます。"
+    ],
+    "sources": [
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/"
+      },
+      {
+        "name": "IBM",
+        "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
+      },
+      {
+        "name": "Sigma Technology",
+        "url": "https://sigmatechnology.com/articles/tech-trends-in-2026-signals-not-noise/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 75
+  },
+  {
+    "id": "7",
+    "category": "Model",
+    "title": "AIによる科学と研究の加速",
+    "date": "2026/01/05",
+    "summary": "AI、特にLLMは、科学的発見を加速するツールとして進化。未解決問題の新アルゴリズムを発見するなど、研究者の発見プロセスを強力に支援します。",
+    "details": [
+      "Google DeepMindのAlphaEvolveはLLMと進化的アルゴリズムを組み合わせ、新アルゴリズムを発見。OpenAIも科学研究専門チームを立ち上げ、AIが人間の知識を拡張する可能性を追求します。"
+    ],
+    "sources": [
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 90
+  },
+  {
+    "id": "8",
+    "category": "Economy",
+    "title": "AI市場の爆発的成長と経済への影響",
+    "date": "2026/01/01",
+    "summary": "世界のAI市場は2033年に約3.5兆ドルに達すると予測され、Generative AIが成長の主要な牽引役。経済構造を大きく変革します。",
+    "details": [
+      "PwCはGenAIが2030年までに世界経済に15.7兆ドル貢献すると分析。企業のAI投資加速は、生産性向上だけでなく新たなビジネスモデルや市場創出に繋がり、経済構造を大きく変革します。"
+    ],
+    "sources": [
+      {
+        "name": "TechTarget",
+        "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends"
+      },
+      {
+        "name": "Solulab",
+        "url": "https://www.solulab.com/top-generative-ai-trends/"
+      },
+      {
+        "name": "Medium",
+        "url": "https://medium.com/dot-net-sql-learning/top-10-generative-ai-trends-that-will-dominate-2026-61fad81a3a27"
+      },
+      {
+        "name": "Master of Code",
+        "url": "https://masterofcode.com/blog/generative-ai-statistics"
+      },
+      {
+        "name": "Toloka AI",
+        "url": "https://toloka.ai/blog/history-of-llms/"
+      },
+      {
+        "name": "Stanford HAI",
+        "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 95,
+    "novelty": 70
+  },
+  {
+    "id": "9",
+    "category": "Policy",
+    "title": "AIの倫理、セキュリティ、規制の喫緊の課題",
+    "date": "2026/01/01",
+    "summary": "AI普及に伴い、セキュリティ、プライバシー、詐欺、著作権侵害、労働市場への影響が深刻化。各国政府による規制強化が急務となります。",
+    "details": [
+      "米国で詐欺防止法案、EUのAI法案など規制が強化され、企業は機密コンピューティング導入などで信頼性を確保。AIの悪用リスクと倫理的課題への対応が喫緊の課題であり、社会的な議論が活発化します。"
+    ],
+    "sources": [
+      {
+        "name": "TechTarget",
+        "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends"
+      },
+      {
+        "name": "Crescendo AI",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/AI_boom"
+      },
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/"
+      },
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 98,
+    "novelty": 60
+  },
+  {
+    "id": "10",
+    "category": "Model",
+    "title": "ワールドモデル研究の加速と物理世界への対応",
+    "date": "2026/01/02",
+    "summary": "AIは言語だけでなく物理世界を理解する「ワールドモデル」へと進化。Google DeepMindのGenieやWorld LabsのMarbleがリアルな仮想環境を生成し、次世代AIの基盤となります。",
+    "details": [
+      "MetaのLeCun氏もワールドモデル研究に注力し、AIが現実世界の因果関係を把握する能力を追求。これは、自律エージェントやロボットが物理環境でより効果的に機能するための鍵となります。"
+    ],
+    "sources": [
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/"
+      },
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 90
+  },
+  {
+    "id": "11",
+    "category": "Business",
+    "title": "AIによるソフトウェア開発の変革とコード生成の標準化",
+    "date": "2026/01/08",
+    "summary": "LLMが生成するコードの品質は飛躍的に向上し、2026年にはAIアシストによるソフトウェア開発が標準化。人間がレビューしない「ソフトウェア工場」が登場します。",
+    "details": [
+      "AIはコーディング、テスト、フィードバックまでを自律的に行い、開発生産性を30〜50%向上。これにより小規模チームでも大規模なアプリケーション開発が可能になり、開発プロセスの民主化が進みます。"
+    ],
+    "sources": [
+      {
+        "name": "Sigma Technology",
+        "url": "https://sigmatechnology.com/articles/tech-trends-in-2026-signals-not-noise/"
+      },
+      {
+        "name": "HatchWorks AI",
+        "url": "https://hatchworks.com/blog/gen-ai/large-language-models-guide/"
+      },
+      {
+        "name": "Peterson Technology Partners",
+        "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears/"
+      },
+      {
+        "name": "Simon Willison’s Weblog",
+        "url": "https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 80
+  },
+  {
+    "id": "12",
+    "category": "Economy",
+    "title": "AI開発の現実主義への移行と持続可能性の課題",
+    "date": "2026/01/05",
+    "summary": "AI業界はハイプから現実主義へ移行し、巨大モデル一辺倒から効率性、費用対効果、エネルギー消費に焦点。電力制約がAI成長の限界となり得ます。",
+    "details": [
+      "Morgan Stanleyは2028年までに米国で電力不足の可能性を指摘。AIバブルの終焉とより戦略的な投資、アーキテクチャ革新が求められ、持続可能なAIの統合が最重要課題となります。"
+    ],
+    "sources": [
+      {
+        "name": "Peterson Technology Partners",
+        "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears/"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/"
+      },
+      {
+        "name": "Stanford HAI",
+        "url": "https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026"
+      },
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/"
+      },
+      {
+        "name": "MIT Sloan Review",
+        "url": "https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 70
+  }
+]
