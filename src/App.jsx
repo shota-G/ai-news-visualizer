@@ -223,16 +223,17 @@ export default function AIInfoGraphic() {
                      {paragraphs.map((paragraph, idx) => <p key={idx} className="font-medium">{paragraph}</p>)}
                    </div>
                    <div className="lg:col-span-4 space-y-4">
+                     {/* 【修正点】System_Insightのスコア・メーター部分を、selectedNewsから動的に取得するように連動させたぜ！ */}
                      <div className="bg-slate-900 border border-slate-800 rounded-xl p-4 space-y-3">
                         <div className="text-[9px] font-black tracking-wider text-slate-400 uppercase flex items-center gap-1"><AlertCircle className="h-3.5 w-3.5 text-blue-400" /> System_Insight</div>
                         <div className="space-y-2 text-[11px] font-bold">
                            <div>
-                              <div className="flex justify-between mb-0.5"><span className="text-slate-500">社会的影響度</span><span className="text-blue-400">88%</span></div>
-                              <div className="w-full bg-slate-800 h-1 rounded-full overflow-hidden"><div className="bg-blue-500 h-full" style={{ width: '88%' }}></div></div>
+                              <div className="flex justify-between mb-0.5"><span className="text-slate-500">社会的影響度</span><span className="text-blue-400">{selectedNews.socialImpact || 75}%</span></div>
+                              <div className="w-full bg-slate-800 h-1 rounded-full overflow-hidden"><div className="bg-blue-500 h-full transition-all duration-500" style={{ width: `${selectedNews.socialImpact || 75}%` }}></div></div>
                            </div>
                            <div>
-                              <div className="flex justify-between mb-0.5"><span className="text-slate-500">技術的新規性</span><span className="text-purple-400">92%</span></div>
-                              <div className="w-full bg-slate-800 h-1 rounded-full overflow-hidden"><div className="bg-purple-500 h-full" style={{ width: '92%' }}></div></div>
+                              <div className="flex justify-between mb-0.5"><span className="text-slate-500">技術的新規性</span><span className="text-purple-400">{selectedNews.novelty || 70}%</span></div>
+                              <div className="w-full bg-slate-800 h-1 rounded-full overflow-hidden"><div className="bg-purple-500 h-full transition-all duration-500" style={{ width: `${selectedNews.novelty || 70}%` }}></div></div>
                            </div>
                         </div>
                      </div>
