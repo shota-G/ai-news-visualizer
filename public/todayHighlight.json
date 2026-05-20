@@ -2,11 +2,11 @@
   {
     "id": "1",
     "category": "Model",
-    "title": "マルチモーダルAIの飛躍的進化と普及",
-    "date": "2026/01/01",
-    "summary": "2026年には、テキスト、画像、音声など多様なデータを統合的に処理するマルチモーダルAIが主流となり、AIの汎用性が大幅に向上します。",
+    "title": "マルチモーダルAIが飛躍的進化、Gemini 3.1 Pro等が多感覚統合を加速",
+    "date": "2026/03/15",
+    "summary": "Gemini 3.1 ProやGPT-5.3など、テキスト、画像、動画を統合的に理解・生成するマルチモーダルAIが目覚ましい進化を遂げ、実用性が大幅に向上。",
     "details": [
-      "GeminiやGPT-4Sのようなモデルが、複数の入力タイプを組み合わせた理解と生成を可能にし、テキストからビデオ生成など、より高度なアプリケーションを実現。人間のような知覚と行動を可能にする基盤となります。"
+      "GoogleのGemini 3.1 ProやOpenAIのGPT-5.3といった次世代モデルが、テキストと画像だけでなく、動画など複数のモダリティを統合的に処理する能力を飛躍的に向上させた。これにより、AIはより人間のように世界を認識し、複雑な情報を理解・生成する次なる段階へ突入する。"
     ],
     "sources": [
       {
@@ -14,100 +14,80 @@
         "url": "https://www.refontelearning.com/blog/generative-ai-models-in-2026-top-trends-breakthroughs-and-opportunities"
       },
       {
-        "name": "python.plainenglish.io",
+        "name": "PlainEnglish.io",
         "url": "https://python.plainenglish.io/top-7-breakthrough-ai-technologies-to-watch-in-2026-11cecf79077f"
       },
       {
         "name": "IBM",
         "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
-      },
-      {
-        "name": "Coursera",
-        "url": "https://www.coursera.org/articles/ai-trends"
       }
     ],
     "importance": "critical",
     "socialImpact": 90,
-    "novelty": 85
+    "novelty": 95
   },
   {
     "id": "2",
     "category": "Service",
-    "title": "エージェントAIによる自律的ワークフロー革命",
-    "date": "2026/01/01",
-    "summary": "2026年には、AIが単なる生成から自律的な行動へ進化。複雑な目標設定・計画・実行を自己完結するエージェントAIが企業業務を変革します。",
+    "title": "Agentic AIがエンタープライズで本格展開、自律的な業務遂行で生産性革新",
+    "date": "2026/03/15",
+    "summary": "自律的に目標を理解し、計画を立て、複数のツールを連携してタスクを完遂するAgentic AIが企業のデジタルコワーカーとして業務自動化を推進。",
     "details": [
-      "生成AIが目標理解に基づき多様なツールと連携してタスクを自動遂行。Gartnerは2026年末までに企業アプリの40%がAIエージェントを組み込むと予測し、デジタルコワーカーが広く普及します。"
+      "生成AIからAgentic AIへの移行が加速。Agentic AIは、メール管理から複雑な財務分析まで、目標に基づき自律的に複数のソフトウェアツールと連携しタスクを実行。Gartnerは2026年末までに企業アプリの40%がタスク特化型AIエージェントを組み込むと予測し、企業生産性を劇的に変革する。"
     ],
     "sources": [
+      {
+        "name": "Aisera",
+        "url": "https://aisera.com/blog/artificial-intelligence-trends/"
+      },
+      {
+        "name": "Switas Consultancy",
+        "url": "https://www.switas.com/articles/the-ai-avalanche-7-breakthroughs-redefining-march-2026"
+      },
       {
         "name": "Daniel Burrus",
         "url": "https://www.burrus.com/technology-driven-trends-2/"
       },
       {
-        "name": "Switas Consultancy",
-        "url": "https://www.switas.com/articles/the-ai-avalanche-7-breakthroughs-redefining-march-2026"
-      },
-      {
         "name": "IBM",
-        "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
-      },
-      {
-        "name": "Sigma Technology",
-        "url": "https://sigmatechnology.com/articles/tech-trends-in-2026-signals-not-noise/"
-      },
-      {
-        "name": "Kersai",
-        "url": "https://kersai.com/ai-breakthroughs-in-2026/"
-      },
-      {
-        "name": "Toloka AI",
-        "url": "https://toloka.ai/blog/history-of-llms/"
-      },
-      {
-        "name": "Reddit",
-        "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1poo4of/what_will_2026_bring_in_terms_of_ai_development/"
+        "url": "https://www.ibm.com/think/insights/artificial-intelligence-future"
       }
     ],
     "importance": "critical",
-    "socialImpact": 95,
-    "novelty": 90
+    "socialImpact": 88,
+    "novelty": 92
   },
   {
     "id": "3",
     "category": "Model",
-    "title": "LLMの推論能力と効率の向上",
-    "date": "2026/03/01",
-    "summary": "AI開発競争はモデル規模から認知密度と推論能力の向上へシフト。Gemini 3.1 ProやGPT-5.3がベンチマークを大幅に更新し、より賢く効率的なAIが登場します。",
+    "title": "LLMの推論能力が飛躍的に向上、GPT-5とGemini 3.1 Proが「認知的密度」を強化",
+    "date": "2026/03/15",
+    "summary": "最新LLMはパラメータ数よりも「認知的密度」と推論能力を重視。GPT-5やGemini 3.1 Proが高度な推論ベンチマークで記録を更新し、人間エキスパートレベルの課題解決へ。",
     "details": [
-      "巨大モデルだけでなく、より洗練されたアーキテクチャや推論時演算強化により、複数候補の生成・評価・改善を行うモデルが主流に。複雑な問題解決と信頼性向上に貢献します。"
+      "GoogleのGemini 3.1 ProがARC-AGI-2で従来の倍のスコアを記録し、OpenAIのGPT-5.3（コードネーム「Garlic」）が少ないトークンでより高い知識密度を実現。これは単なる規模の拡大ではなく、AIがより賢く、より信頼性の高い思考プロセスを持つことの証明であり、以前は人間エキスパートが必要だった領域へ進出する。"
     ],
     "sources": [
       {
+        "name": "mean.ceo",
+        "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/"
+      },
+      {
         "name": "Switas Consultancy",
         "url": "https://www.switas.com/articles/the-ai-avalanche-7-breakthroughs-redefining-march-2026"
-      },
-      {
-        "name": "InfoWorld",
-        "url": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html"
-      },
-      {
-        "name": "Toloka AI",
-        "url": "https://toloka.ai/blog/history-of-llms/"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 85
+    "socialImpact": 85,
+    "novelty": 90
   },
   {
     "id": "4",
     "category": "Model",
-    "title": "オープンソースAIエコシステムの拡大",
-    "date": "2026/01/01",
-    "summary": "MetaのLlamaやAlibabaのQwenのようなオープンソースAIモデルが、特定のドメインに特化した小規模モデルの発展を加速させ、AI大手の寡占を打破します。",
+    "title": "オープンソースAIの競争が激化、中国勢が独自モデルに匹敵する性能を披露",
+    "date": "2026/03/15",
+    "summary": "DeepSeek V4、Qwen 3.5など、中国系を含むオープンソースモデルが独自の強みを発揮。APIコストやデータプライバシー懸念を解消し、AIエコシステムを活性化させる。",
     "details": [
-      "オープンソースモデルは、AI技術へのアクセスを民主化し、イノベーションを加速。特に数学、コーディング、ビジョンなど特定のタスクにチューニングされたモデルが普及し、多様なニーズに応えます。"
+      "DeepSeek V4（1兆パラメータ）、Qwen 3.5、MiniMax M2.5など、特に中国の研究機関が公開するオープンソースモデルが、性能面で西側のプロプライエタリモデルに匹敵、または凌駕する水準に達している。これにより、APIコスト削減やデータプライバシー確保の選択肢が増え、AI開発の民主化と競争が加速される。"
     ],
     "sources": [
       {
@@ -115,78 +95,31 @@
         "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/"
       },
       {
-        "name": "InfoWorld",
-        "url": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html"
+        "name": "mean.ceo",
+        "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/"
       },
       {
         "name": "IBM",
         "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
-      },
-      {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/"
       }
     ],
     "importance": "high",
     "socialImpact": 75,
-    "novelty": 70
+    "novelty": 85
   },
   {
     "id": "5",
     "category": "Business",
-    "title": "企業におけるAIの本格導入と生産性革命",
-    "date": "2026/01/01",
-    "summary": "企業はAIを実験段階から実用段階へと移行させ、GenAIを基幹業務に深く統合。あらゆる領域で生産性を劇的に向上させます。",
+    "title": "AIは「見えない存在」へ、企業はAIをサービス・アプリにシームレス統合し生産性向上",
+    "date": "2026/03/15",
+    "summary": "GenAIが日常業務に溶け込み「見えないAI」として機能することで、組織はAI投資を生産性向上、自動化、新ビジネスモデル創出に繋げ、競争優位性を確立する。",
     "details": [
-      "Gartnerは2026年までに80%以上の企業がGenAIを導入すると予測。AIは目に見えない形でサービスやアプリケーションに組み込まれ、「見えないAI」としてビジネス価値を創出します。"
+      "2026年には、強力な生成AIが多くのサービスやアプリケーションにシームレスに統合され、「見えないAI」としてユーザーに意識されずに機能するようになる。企業は、AIを既存のワークフローに深く組み込むことで、生産性の劇的な向上、プロセスの自動化、そして新たなビジネスモデルの創出を通じて、AI投資を収益化しようと努める。"
     ],
     "sources": [
       {
         "name": "TechTarget",
         "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends"
-      },
-      {
-        "name": "Solulab",
-        "url": "https://www.solulab.com/top-generative-ai-trends/"
-      },
-      {
-        "name": "Daniel Burrus",
-        "url": "https://www.burrus.com/technology-driven-trends-2/"
-      },
-      {
-        "name": "Sigma Technology",
-        "url": "https://sigmatechnology.com/articles/tech-trends-in-2026-signals-not-noise/"
-      },
-      {
-        "name": "HatchWorks AI",
-        "url": "https://hatchworks.com/blog/gen-ai/large-language-models-guide/"
-      },
-      {
-        "name": "Coursera",
-        "url": "https://www.coursera.org/articles/ai-trends"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 80
-  },
-  {
-    "id": "6",
-    "category": "Model",
-    "title": "ドメイン特化型AIモデルの進化",
-    "date": "2026/01/01",
-    "summary": "汎用AIから特定の業界や用途に最適化されたドメイン特化型言語モデル（DSLMs）への移行が進み、各分野で測定可能なビジネス価値を創出します。",
-    "details": [
-      "医療診断、金融分析、法務など、特定の文脈、プロセス、データに深い理解を持つ専門モデルが登場。これにより、AIの精度と実用性が大幅に向上し、企業は競争優位性を確立できます。"
-    ],
-    "sources": [
-      {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/"
-      },
-      {
-        "name": "IBM",
-        "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
       },
       {
         "name": "Sigma Technology",
@@ -198,32 +131,109 @@
     "novelty": 75
   },
   {
-    "id": "7",
-    "category": "Model",
-    "title": "AIによる科学と研究の加速",
-    "date": "2026/01/05",
-    "summary": "AI、特にLLMは、科学的発見を加速するツールとして進化。未解決問題の新アルゴリズムを発見するなど、研究者の発見プロセスを強力に支援します。",
+    "id": "6",
+    "category": "Business",
+    "title": "MIT研究者がAI創薬モデル発表、タンパク質設計を効率化し数十億ドルのコスト削減へ",
+    "date": "2026/03/15",
+    "summary": "MIT研究チームが、合成タンパク質の折り畳みと標的との相互作用を予測する生成AIモデルを開発。これにより製薬会社の開発費が大幅削減され、難病治療の加速が期待される。",
     "details": [
-      "Google DeepMindのAlphaEvolveはLLMと進化的アルゴリズムを組み合わせ、新アルゴリズムを発見。OpenAIも科学研究専門チームを立ち上げ、AIが人間の知識を拡張する可能性を追求します。"
+      "MITの研究者らが、生成AIモデルを用いてタンパク質ベースの薬剤設計プロセスを大幅に効率化するブレイクスルーを発表した。このモデルは、合成タンパク質がどのように折り畳まれ、生物学的標的と相互作用するかを予測することで、高額な実験的試行錯誤を削減。癌や自己免疫疾患、希少遺伝性疾患の治療法開発が加速されると期待される。"
     ],
     "sources": [
       {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/"
+        "name": "mean.ceo",
+        "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/AI_boom"
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
+    "socialImpact": 95,
     "novelty": 90
+  },
+  {
+    "id": "7",
+    "category": "Business",
+    "title": "Hyundai、AIとロボット統合ロードマップを発表：モバイルロボットにLLMと生成AI搭載",
+    "date": "2026/03/15",
+    "summary": "HyundaiがCES 2026で発表したAI+Roboticsロードマップは、LLMと生成AIをモバイルロボットに統合し、物流・個人支援分野での人間との自然な対話と自律的な作業を強化する。",
+    "details": [
+      "HyundaiはCES 2026で、AI+Roboticsロードマップの詳細を発表。LLMと生成AIをモバイルロボットに統合し、人間とのより自然な対話を可能にする。新しいモジュール型ロボットプラットフォームは物流や個人支援に応用され、Boston Dynamicsとの提携も拡大し、自律ナビゲーションと器用さを強化することで、産業と日常生活に深い変革をもたらす。"
+    ],
+    "sources": [
+      {
+        "name": "mean.ceo",
+        "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/"
+      },
+      {
+        "name": "Kersai",
+        "url": "https://kersai.com/ai-breakthroughs-in-2026/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 85
   },
   {
     "id": "8",
     "category": "Economy",
-    "title": "AI市場の爆発的成長と経済への影響",
-    "date": "2026/01/01",
-    "summary": "世界のAI市場は2033年に約3.5兆ドルに達すると予測され、Generative AIが成長の主要な牽引役。経済構造を大きく変革します。",
+    "title": "AIデータセンターへの投資が加速する一方、エネルギー効率とアーキテクチャ刷新が急務",
+    "date": "2026/03/15",
+    "summary": "AIブームによりデータセンター投資が拡大する一方で、計算コストやエネルギー消費の問題が顕在化。効率的なモデル圧縮技術や専門ハードウェアの開発が加速される。",
     "details": [
-      "PwCはGenAIが2030年までに世界経済に15.7兆ドル貢献すると分析。企業のAI投資加速は、生産性向上だけでなく新たなビジネスモデルや市場創出に繋がり、経済構造を大きく変革します。"
+      "ドイツ銀行は2030年までにデータセンター投資が4兆ドルに達すると予測するが、AIの初期モデルは計算コストが非常に高く、強力なGPUと膨大な時間を必要とした。このため、モデル圧縮技術、より効率的なアーキテクチャ、専用AIハードウェアの活用が強く推進され、Mistralのような小型・高効率モデルの登場がその傾向を反映している。"
+    ],
+    "sources": [
+      {
+        "name": "Refonte Learning",
+        "url": "https://www.refontelearning.com/blog/generative-ai-models-in-2026-top-trends-breakthroughs-and-opportunities"
+      },
+      {
+        "name": "Daniel Burrus",
+        "url": "https://www.burrus.com/technology-driven-trends-2/"
+      },
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 60,
+    "novelty": 70
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "title": "AIネイティブ開発プラットフォームがソフトウェア開発を民主化、非技術者もアプリ構築へ",
+    "date": "2026/03/15",
+    "summary": "AIネイティブ開発プラットフォームの進化により、生成AIがアプリケーション開発を劇的に加速。非技術者もAI機能を取り入れたソフトウェアを簡単に作成できるようになる。",
+    "details": [
+      "ソフトウェア開発の世界は大きな転換期を迎えている。AIネイティブ開発プラットフォームが生成AIを活用し、アプリケーションの構築方法を根本的に加速させている。これにより、小規模なアジャイルチームや非技術者のドメインエキスパートでも、組み込みのガバナンスを備えたソフトウェアを開発できるようになり、開発の民主化とITバックログの削減が進む。"
+    ],
+    "sources": [
+      {
+        "name": "Sigma Technology",
+        "url": "https://sigmatechnology.com/articles/tech-trends-in-2026-signals-not-noise/"
+      },
+      {
+        "name": "IBM",
+        "url": "https://www.ibm.com/think/insights/artificial-intelligence-future"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 78,
+    "novelty": 80
+  },
+  {
+    "id": "10",
+    "category": "Economy",
+    "title": "グローバルAI市場が2033年までに3.5兆ドル規模へ、生成AIが世界経済を牽引",
+    "date": "2026/03/15",
+    "summary": "世界のAI市場は2024年の2790億ドルから2033年には3.5兆ドルに急成長予測。特に生成AIは2030年までに15.7兆ドルの経済効果をもたらし、あらゆる産業を変革する。",
+    "details": [
+      "Grand View Researchの報告によると、グローバルAI市場は2024年の2790億ドルから2033年には約3.5兆ドルに達すると予測されており、生成AIは2030年までに15.7兆ドルの世界経済効果をもたらすとPwCが分析。テック大手は研究開発に巨額を投じ、市場の採用を加速させ、産業界全体でAIの導入が不可欠となっている。"
     ],
     "sources": [
       {
@@ -235,40 +245,28 @@
         "url": "https://www.solulab.com/top-generative-ai-trends/"
       },
       {
-        "name": "Medium",
-        "url": "https://medium.com/dot-net-sql-learning/top-10-generative-ai-trends-that-will-dominate-2026-61fad81a3a27"
-      },
-      {
         "name": "Master of Code",
         "url": "https://masterofcode.com/blog/generative-ai-statistics"
       },
       {
-        "name": "Toloka AI",
-        "url": "https://toloka.ai/blog/history-of-llms/"
-      },
-      {
-        "name": "Stanford HAI",
-        "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/pulse/march-2026-ai-news-roundup-breakthroughs-0staf"
       }
     ],
     "importance": "critical",
-    "socialImpact": 95,
+    "socialImpact": 92,
     "novelty": 70
   },
   {
-    "id": "9",
-    "category": "Policy",
-    "title": "AIの倫理、セキュリティ、規制の喫緊の課題",
-    "date": "2026/01/01",
-    "summary": "AI普及に伴い、セキュリティ、プライバシー、詐欺、著作権侵害、労働市場への影響が深刻化。各国政府による規制強化が急務となります。",
+    "id": "11",
+    "category": "Ethics",
+    "title": "ウィスコンシン州がAIディープフェイク規制法案提出、詐欺行為への対応を強化",
+    "date": "2026/03/15",
+    "summary": "生成AIやディープフェイク技術を用いた詐欺行為の増加を受け、ウィスコンシン州が新たな規制法案を導入。AIの悪用に対する法的・倫理的枠組みの構築が急務に。",
     "details": [
-      "米国で詐欺防止法案、EUのAI法案など規制が強化され、企業は機密コンピューティング導入などで信頼性を確保。AIの悪用リスクと倫理的課題への対応が喫緊の課題であり、社会的な議論が活発化します。"
+      "生成AIやディープフェイク技術を悪用した詐欺活動の増加に対し、ウィスコンシン州議会議員が新たな法案を提出。これにより、AI技術の悪用を抑制し、社会的な信頼性と安全性を確保するための規制が強化される。AIの急速な発展に伴い、その倫理的な利用と法規制の整備が各国・地域で喫緊の課題となっている。"
     ],
     "sources": [
-      {
-        "name": "TechTarget",
-        "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends"
-      },
       {
         "name": "Crescendo AI",
         "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
@@ -278,26 +276,45 @@
         "url": "https://en.wikipedia.org/wiki/AI_boom"
       },
       {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/"
-      },
-      {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/"
+        "name": "TechTarget",
+        "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends"
       }
     ],
-    "importance": "critical",
-    "socialImpact": 98,
+    "importance": "high",
+    "socialImpact": 85,
     "novelty": 60
   },
   {
-    "id": "10",
+    "id": "12",
     "category": "Model",
-    "title": "ワールドモデル研究の加速と物理世界への対応",
-    "date": "2026/01/02",
-    "summary": "AIは言語だけでなく物理世界を理解する「ワールドモデル」へと進化。Google DeepMindのGenieやWorld LabsのMarbleがリアルな仮想環境を生成し、次世代AIの基盤となります。",
+    "title": "Google DeepMindのAlphaEvolve、LLMと進化アルゴリズムで新発見に成功",
+    "date": "2026/03/15",
+    "summary": "Google DeepMindのAlphaEvolveがGemini LLMと進化アルゴリズムを結合し、未解決問題の新しいアルゴリズムを発見。AIが人類の知識拡大を加速させる可能性を示唆する。",
     "details": [
-      "MetaのLeCun氏もワールドモデル研究に注力し、AIが現実世界の因果関係を把握する能力を追求。これは、自律エージェントやロボットが物理環境でより効果的に機能するための鍵となります。"
+      "Google DeepMindは、同社のGemini LLMと進化アルゴリズムを組み合わせたシステム「AlphaEvolve」が、未解決問題の新しいアルゴリズムを考案することに成功したと発表。AIが単に既存の知識を処理するだけでなく、自ら新たな知識や解決策を発見し、人類の科学的探求の限界を押し広げる可能性を明確に示した。"
+    ],
+    "sources": [
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/research/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 90,
+    "novelty": 95
+  },
+  {
+    "id": "13",
+    "category": "Model",
+    "title": "ワールドモデルが急速に進展、Google DeepMindのGenieなどがリアルタイム仮想環境を生成",
+    "date": "2026/03/15",
+    "summary": "Google DeepMindのGenieやWorld LabsのMarbleといったワールドモデルが、現実的な仮想環境をリアルタイムで生成する能力を向上。ゲーム、シミュレーション、ロボティクス応用が加速。",
+    "details": [
+      "現実世界を模倣し、リアルタイムで仮想環境を生成するワールドモデルが注目を集めている。Google DeepMindのGenieやWorld LabsのMarbleがその筆頭であり、この技術はゲーム、シミュレーション、ロボットの訓練環境、さらには創造的なバーチャル空間構築において、より高度な没入感と機能性を提供する可能性を秘めている。"
     ],
     "sources": [
       {
@@ -307,61 +324,41 @@
       {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/"
-      },
-      {
-        "name": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/"
       }
     ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 90
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 88
   },
   {
-    "id": "11",
+    "id": "14",
     "category": "Business",
-    "title": "AIによるソフトウェア開発の変革とコード生成の標準化",
-    "date": "2026/01/08",
-    "summary": "LLMが生成するコードの品質は飛躍的に向上し、2026年にはAIアシストによるソフトウェア開発が標準化。人間がレビューしない「ソフトウェア工場」が登場します。",
+    "title": "AIの信頼性向上へ、Microsoft、Google、Amazonがコンフィデンシャルコンピューティングを導入",
+    "date": "2026/03/15",
+    "summary": "AIのセキュリティを強化するため、Microsoft、Google、Amazonがコンフィデンシャルコンピューティングを導入。機密データを暗号化されたまま処理し、信頼性の高いAI活用を促進する。",
     "details": [
-      "AIはコーディング、テスト、フィードバックまでを自律的に行い、開発生産性を30〜50%向上。これにより小規模チームでも大規模なアプリケーション開発が可能になり、開発プロセスの民主化が進みます。"
+      "AIセキュリティの新たなトレンドとして、コンフィデンシャルコンピューティングが注目されている。Microsoft、Google、Amazonといったクラウドプロバイダーは、ハードウェアベースの信頼実行環境（TEE）を用いて、機密データを処理中に暗号化された形で隔離する技術を展開。これにより、データ処理における信頼性が大幅に向上し、機密情報を扱うAIアプリケーションの導入が加速される。"
     ],
     "sources": [
       {
-        "name": "Sigma Technology",
-        "url": "https://sigmatechnology.com/articles/tech-trends-in-2026-signals-not-noise/"
-      },
-      {
-        "name": "HatchWorks AI",
-        "url": "https://hatchworks.com/blog/gen-ai/large-language-models-guide/"
-      },
-      {
-        "name": "Peterson Technology Partners",
-        "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears/"
-      },
-      {
-        "name": "Simon Willison’s Weblog",
-        "url": "https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/"
+        "name": "TechTarget",
+        "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends"
       }
     ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 80
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 75
   },
   {
-    "id": "12",
+    "id": "15",
     "category": "Economy",
-    "title": "AI開発の現実主義への移行と持続可能性の課題",
-    "date": "2026/01/05",
-    "summary": "AI業界はハイプから現実主義へ移行し、巨大モデル一辺倒から効率性、費用対効果、エネルギー消費に焦点。電力制約がAI成長の限界となり得ます。",
+    "title": "AIへの投資熱が実用主義へ移行、企業はROIを重視し「AIバブル」鎮静化の兆候",
+    "date": "2026/03/15",
+    "summary": "AIに対する「hype」から「pragmatism」へのシフトが進行中。企業は投資対効果（ROI）を厳しく評価し、より実用的なAIソリューションの導入に焦点を当てるようになる。",
     "details": [
-      "Morgan Stanleyは2028年までに米国で電力不足の可能性を指摘。AIバブルの終焉とより戦略的な投資、アーキテクチャ革新が求められ、持続可能なAIの統合が最重要課題となります。"
+      "2026年はAIが過剰な期待から実用主義へと移行する年となる。企業はAI投資の具体的なROI（投資収益率）を厳しく評価し、デモ段階から実際のビジネス価値を生み出すソリューションへと焦点を移している。これにより、AI業界はより成熟した段階に入り、無秩序な規模拡大よりも戦略的な導入と効率性が重視されるようになる兆候が見られる。"
     ],
     "sources": [
-      {
-        "name": "Peterson Technology Partners",
-        "url": "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears/"
-      },
       {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/"
@@ -371,16 +368,12 @@
         "url": "https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026"
       },
       {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/"
-      },
-      {
         "name": "MIT Sloan Review",
         "url": "https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/"
       }
     ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 70
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 60
   }
 ]
