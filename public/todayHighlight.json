@@ -1,53 +1,32 @@
 [
   {
     "id": "1",
-    "category": "Economy",
-    "title": "沖縄近海でマグニチュード5.9の地震が発生、地域経済への影響懸念",
-    "date": "2026/05/20",
-    "summary": "沖縄近海でマグニチュード5.9の地震が発生。詳細な被害状況は不明だが、地域経済活動への影響が懸念されている。",
-    "details": "2026年5月20日、沖縄近海でM5.9の地震が発生した。インフラへの影響や観光産業への短期的な打撃が懸念され、今後の経済指標に注意が必要だ。住民の安全確保と早期復旧が最優先事項となる。",
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      },
-      {
-        "name": "Kyodo News Digest: May 20, 2026",
-        "url": "https://english.kyodonews.net/articles/-/75094"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 10
-  },
-  {
-    "id": "2",
     "category": "Policy",
-    "title": "トランプ大統領、イラン情勢の「友好的解決」に言及",
-    "date": "2026/05/20",
-    "summary": "トランプ米大統領はイラン情勢に関し「良い形で終わらせたい」と発言し、緊張緩和に向けた外交的解決の可能性を示唆した。",
-    "details": "米国とイラン間の緊張が高まる中、トランプ大統領のこの発言は、対話による解決を模索する米国の姿勢を示すものと解釈される。中東地域の安定化に向け、今後の外交交渉の行方が国際社会の注目を集めている。",
+    "title": "Trump says US in 'final stages' on Iran",
+    "date": "2026/05/22",
+    "summary": "トランプ米大統領はイランに関する最終段階にあると発言し、中東情勢の緊張が最高潮に達していることを示唆しました。",
+    "details": [
+      "米国とイラン間の緊張が高まり、軍事衝突のリスクが懸念される中、トランプ大統領の「最終段階」発言は市場に大きな影響を与え、地政学リスクを一段と高めています。今後の展開が注目されます。"
+    ],
     "sources": [
       {
         "name": "NHK WORLD-JAPAN News",
         "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      },
-      {
-        "name": "International Relations - The New York Times",
-        "url": "https://www.nytimes.com/topic/subject/international-relations"
       }
     ],
     "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 40
+    "socialImpact": 95,
+    "novelty": 70
   },
   {
-    "id": "3",
+    "id": "2",
     "category": "Economy",
-    "title": "日経平均株価が3週間ぶり60,000円割れ、米30年国債利回り高水準が影響",
-    "date": "2026/05/20",
-    "summary": "日経平均株価は3週間ぶりに60,000円を割り込み、米国30年国債利回りが19年ぶりの高水準に達したことが背景にある。",
-    "details": "米国長期金利の上昇は、グローバルな資金の流れに影響を与え、日本の株式市場にも波及した。投資家は高金利環境が企業収益や景気回復に与える影響を警戒しており、市場のボラティリティは継続すると予測される。",
+    "title": "Nikkei 225 rebounds sharply on Trump's Iran remarks",
+    "date": "2026/05/22",
+    "summary": "トランプ米大統領のイランに関する発言を受け、日経平均株価は急反発しました。地政学リスクの短期的な緩和期待が市場を押し上げた形です。",
+    "details": [
+      "米国のイランに対する強硬姿勢と緩和示唆が市場を振り回す中、日経平均は一時的な地政学リスク後退への期待から反発しました。中東情勢は原油価格やサプライチェーンに直結し、世界経済に影響を及ぼします。"
+    ],
     "sources": [
       {
         "name": "NHK WORLD-JAPAN News",
@@ -55,37 +34,18 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
-    "novelty": 20
-  },
-  {
-    "id": "4",
-    "category": "Policy",
-    "title": "習近平とプーチン、北京サミットで両国間の強固な連帯を強調",
-    "date": "2026/05/20",
-    "summary": "中国の習近平国家主席とロシアのプーチン大統領が北京で会談し、西側諸国への対抗姿勢を示す強固な二国間関係を強調した。",
-    "details": "今回の北京サミットは、ウクライナ情勢や西側からの制裁が続く中で、中露両国が戦略的連携を一層深める意図を明確にした。国際秩序の多極化を加速させ、地政学的な緊張をさらに高める可能性があり、その影響は広範囲に及ぶ。",
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      },
-      {
-        "name": "The Japan Times",
-        "url": "https://www.japantimes.co.jp"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 95,
+    "socialImpact": 80,
     "novelty": 60
   },
   {
-    "id": "5",
-    "category": "Service",
-    "title": "Google、Gemini AIエージェント機能を一般ユーザーに拡大へ",
-    "date": "2026/05/20",
-    "summary": "Googleは、高度なGemini AIエージェントの機能を一般ユーザー向けに拡大すると発表。AIの社会実装が加速する見込みだ。",
-    "details": "この拡大により、Geminiは個人の生産性向上や情報アクセスを大きく変革する可能性がある。日常業務の自動化やパーソナライズされたアシスタンス機能の普及が進む一方で、倫理的な利用やプライバシー保護の枠組みの重要性が増す。",
+    "id": "3",
+    "category": "Policy",
+    "title": "South Korean media: China's Xi may visit North Korea later in May or early June",
+    "date": "2026/05/22",
+    "summary": "韓国メディアは中国の習近平国家主席が5月下旬から6月上旬にも北朝鮮を訪問する可能性を報じ、東アジアの地政学的な動きに注目が集まっています。",
+    "details": [
+      "米国とイランの緊張が高まる中、中朝関係の強化は東アジア地域の不安定化要因となり得ます。習主席の訪問が実現すれば、核問題や地域安全保障に関する国際社会の懸念が再燃する可能性が高いでしょう。"
+    ],
     "sources": [
       {
         "name": "NHK WORLD-JAPAN News",
@@ -94,32 +54,150 @@
     ],
     "importance": "high",
     "socialImpact": 85,
-    "novelty": 70
+    "novelty": 75
   },
   {
-    "id": "6",
-    "category": "Economy",
-    "title": "G7財務相、世界経済リスクと新たなAIモデルに関する協力で合意",
-    "date": "2026/05/20",
-    "summary": "G7財務相会議において、世界経済の安定化と、急速に進化するAIモデルの適切な開発・規制に関する国際協力が合意された。",
-    "details": "世界的な経済の不確実性が高まる中、AI技術の潜在的な経済効果とリスクの両面に対応するため、主要7カ国が連携する。AIの倫理的利用、イノベーション促進、国際的な競争環境の公正性確保が焦点となり、今後の政策協調が注目される。",
+    "id": "4",
+    "category": "Business",
+    "title": "Major Japan food retailers look to cut plastic use as costs jump",
+    "date": "2026/05/22",
+    "summary": "日本の大手食品小売業者がプラスチック使用量削減に動いています。環境規制強化と原材料費高騰が背景にあり、コスト削減と持続可能性を両立させる狙いです。",
+    "details": [
+      "消費者の環境意識の高まりと政府のプラスチック規制強化が重なり、企業はサプライチェーン全体での環境負荷低減を迫られています。コスト高騰も相まって、環境配慮型ビジネスモデルへの転換が加速するでしょう。"
+    ],
     "sources": [
       {
         "name": "NHK WORLD-JAPAN News",
         "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
       }
     ],
-    "importance": "critical",
-    "socialImpact": 90,
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 65
+  },
+  {
+    "id": "5",
+    "category": "Policy",
+    "title": "Japan mayor set to become first with maternity leave",
+    "date": "2026/05/22",
+    "summary": "日本で初の女性市長が産休取得を表明しました。これは地方行政における働き方改革とジェンダー平等を推進する画期的な一歩となります。",
+    "details": [
+      "地方自治体の首長として初の産休取得は、女性の政治参加を促し、多様な働き方を社会全体で支える意識改革を後押しします。今後の行政機関における制度設計やロールモデルとしての影響が期待されます。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 75,
     "novelty": 80
   },
   {
-    "id": "7",
+    "id": "6",
     "category": "Policy",
-    "title": "UAE原発近くでドローン攻撃発生、IAEA事務局長が国際安全保障上の警告",
-    "date": "2026/05/20",
-    "summary": "アラブ首長国連邦の原子力発電所近くでドローン攻撃が発生し、国際原子力機関（IAEA）事務局長が国際社会に安全保障上の懸念を表明した。",
-    "details": "原子力施設に対する攻撃は、広範囲に甚大な影響を及ぼす可能性があり、地域および世界の安全保障にとって深刻な脅威である。今回の警告は、ドローン技術の拡散とテロ攻撃のリスク増大に対し、国際的な警戒と協力体制の強化を促すものだ。",
+    "title": "U.S. rocket launcher drill near Mt. Fuji draws protests",
+    "date": "2026/05/21",
+    "summary": "富士山麓での米軍ロケットランチャー訓練に対し、地元住民から強い抗議が寄せられています。日米安保と環境、住民生活の間の緊張が浮き彫りになりました。",
+    "details": [
+      "米軍の訓練強化は地域住民の安全と環境への懸念を増幅させており、日米地位協定の見直しや訓練地の分散化が求められています。国防と地域共存のバランスが今後の政治課題となるでしょう。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 60
+  },
+  {
+    "id": "7",
+    "category": "Economy",
+    "title": "Takaichi eager to limit debt finance for extra budget on energy shock",
+    "date": "2026/05/21",
+    "summary": "高市総理は、中東紛争によるエネルギー価格高騰に対応するための補正予算について、赤字国債発行の抑制に意欲を示しました。財政健全化へのコミットメントを強調する狙いです。",
+    "details": [
+      "エネルギー危機が日本の財政を圧迫する中、政府は経済対策と財政規律維持の間で難しい舵取りを迫られています。赤字国債抑制への姿勢は市場の信頼を得る一方で、景気対策への影響も懸念されます。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 65
+  },
+  {
+    "id": "8",
+    "category": "Economy",
+    "title": "Asian shares surge after oil prices slip and Wall Street resumes its AI rally",
+    "date": "2026/05/21",
+    "summary": "原油価格下落とウォール街のAI関連株続伸を受け、アジア株は急騰しました。市場は地政学リスク緩和とテクノロジーへの楽観を反映しています。",
+    "details": [
+      "中東情勢の緊張緩和とAI技術への持続的な投資が、グローバル市場にポジティブな影響を与えています。原油価格の安定はインフレ懸念を和らげ、AIセクターの成長は新たな投資機会を創出しています。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 70
+  },
+  {
+    "id": "9",
+    "category": "Service",
+    "title": "Science school opens base for 24/7 testing by AI, robots",
+    "date": "2026/05/21",
+    "summary": "科学学校がAIとロボットによる24時間体制のテスト施設を開設しました。これにより、新技術開発の加速と教育現場でのAI活用が推進されます。",
+    "details": [
+      "研究開発サイクルの大幅な短縮と、ヒューマンエラー削減が期待されるこの施設は、AIとロボットが科学研究や産業に深く統合される未来を象徴します。教育カリキュラムへの影響も大きいでしょう。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 90,
+    "novelty": 85
+  },
+  {
+    "id": "10",
+    "category": "Economy",
+    "title": "Japan inbound visitors drop in April as China arrivals plunge",
+    "date": "2026/05/21",
+    "summary": "4月の訪日外国人客数が減少しました。特に中国からの旅行客の大幅な落ち込みが影響し、インバウンド市場に懸念が生じています。",
+    "details": [
+      "中国経済の減速や地政学的緊張が日本の観光産業に直接的な打撃を与えています。インバウンド需要の多様化や新たな市場開拓が急務であり、今後の経済対策にも影響を与える可能性があります。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 50
+  },
+  {
+    "id": "11",
+    "category": "Policy",
+    "title": "US to discuss tariff cuts on 30 billion dollars' worth of goods",
+    "date": "2026/05/21",
+    "summary": "米国は300億ドル相当の商品に対する関税引き下げを協議する方針です。国際貿易関係の改善に向けた動きとして注目されます。",
+    "details": [
+      "トランプ政権下で高まった保護主義的政策からの転換を示唆するこの動きは、貿易摩擦の緩和とグローバルサプライチェーンの安定化に寄与する可能性があります。各国との交渉動向が注目されるでしょう。"
+    ],
     "sources": [
       {
         "name": "NHK WORLD-JAPAN News",
@@ -128,32 +206,36 @@
     ],
     "importance": "high",
     "socialImpact": 80,
-    "novelty": 50
+    "novelty": 70
   },
   {
-    "id": "8",
-    "category": "Business",
-    "title": "日本で初の完全養殖ウナギが商業販売へ、資源枯渇問題に貢献",
-    "date": "2026/05/20",
-    "summary": "日本において、絶滅危惧種であるウナギの完全養殖に成功し、商業販売が開始される見込み。資源保護と食料供給の安定化に期待が寄せられる。",
-    "details": "長年の研究により、稚魚から成魚までを一貫して養殖する技術が確立された。これにより、天然資源への依存度を減らし、持続可能な食料供給に貢献する。新たなビジネスチャンスが生まれ、関連産業の発展も期待される画期的な動きだ。",
+    "id": "12",
+    "category": "Policy",
+    "title": "US indicts former Cuban President Raul Castro",
+    "date": "2026/05/21",
+    "summary": "米国がキューバのラウル・カストロ前国家評議会議長を起訴しました。これは米・キューバ関係に新たな緊張をもたらし、国際的な反響を呼んでいます。",
+    "details": [
+      "米国のこの動きは、キューバに対する強硬姿勢を再確認するものであり、両国間の関係改善をさらに困難にするでしょう。ラテンアメリカ諸国や国際社会における米国の影響力にも波及する可能性があります。"
+    ],
     "sources": [
       {
-        "name": "Kyodo News Digest: May 20, 2026",
-        "url": "https://english.kyodonews.net/articles/-/75094"
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
       }
     ],
     "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 90
+    "socialImpact": 70,
+    "novelty": 65
   },
   {
-    "id": "9",
+    "id": "13",
     "category": "Policy",
-    "title": "旧統一教会被害者、政府の新たな枠組みを通じて賠償金申請を開始",
-    "date": "2026/05/20",
-    "summary": "旧統一教会を巡る問題で、被害者らが政府が設置した新たな救済枠組みを通じて、賠償金の申請手続きを本格的に開始した。",
-    "details": "長年にわたり社会問題となっていた旧統一教会による被害者への救済が、法的な措置により大きく前進する。この動きは、被害者の生活再建を支援するとともに、類似の事態を防止するための社会的な監視と制度改善を促すものだ。",
+    "title": "Taiwan's Lai signals readiness for US weapons talks",
+    "date": "2026/05/21",
+    "summary": "台湾の頼清徳総統が米国との武器協議への意欲を表明しました。これは中国からの軍事的圧力に対する台湾の防衛力強化を図るものです。",
+    "details": [
+      "中国の台湾への圧力が高まる中、台湾は米国との連携を深めることで自衛能力の向上を目指します。この動きは、米中関係における新たな火種となり、地域の安全保障環境に大きな影響を与えるでしょう。"
+    ],
     "sources": [
       {
         "name": "NHK WORLD-JAPAN News",
@@ -161,54 +243,22 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
-    "novelty": 40
+    "socialImpact": 90,
+    "novelty": 75
   },
   {
-    "id": "10",
-    "category": "Policy",
-    "title": "米国、ナイジェリアでISIS戦闘員を空爆実施",
-    "date": "2026/05/18",
-    "summary": "米軍がナイジェリアでイスラム国（ISIS）戦闘員に対する空爆を実施。トランプ大統領のテロ組織掃討へのコミットメントを再確認した。",
-    "details": "米国防総省は、ナイジェリア軍と連携した空爆によりISISの拠点を攻撃したと発表した。この作戦は、サヘル地域におけるテロの脅威に対抗し、地域の安定化を図る米国の継続的な取り組みの一環であり、今後のアフリカでの対テロ戦略に影響を与える可能性がある。",
-    "sources": [
-      {
-        "name": "International Relations - The New York Times",
-        "url": "https://www.nytimes.com/topic/subject/international-relations"
-      }
+    "id": "14",
+    "category": "Economy",
+    "title": "Japan PM Takaichi signals openness to extra budget",
+    "date": "2026/05/21",
+    "summary": "高市総理は、経済情勢に対応するための補正予算編成に前向きな姿勢を示しました。物価高対策や景気下支えが主な目的と見られています。",
+    "details": [
+      "エネルギーショックやインフレによる国民生活への影響を緩和するため、政府は追加財政出動の可能性を探っています。これは短期的な景気刺激策となるが、財政赤字拡大への懸念も伴うでしょう。"
     ],
-    "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 30
-  },
-  {
-    "id": "11",
-    "category": "Policy",
-    "title": "米中両国、AI技術に関する初の公式対話開催で合意",
-    "date": "2026/05/19",
-    "summary": "米国と中国は、急速に発展するAI技術に関する初の公式対話の開催で合意した。AIガバナンスにおける協力の可能性を探る。",
-    "details": "AI分野での米中間の競争が激化する中、両国が対話の場を設けることは、AIの倫理的利用、軍事転用、国際標準化といったグローバルな課題解決に不可欠である。今回の合意は、AIガバナンスにおける国際的なルール形成の主導権争いにも影響を与えるだろう。",
     "sources": [
       {
         "name": "NHK WORLD-JAPAN News",
         "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 85
-  },
-  {
-    "id": "12",
-    "category": "Policy",
-    "title": "米アトランティック・カウンシル、ヘルスケアAI政策に関するイベントを開催",
-    "date": "2026/05/21",
-    "summary": "米シンクタンクのアトランティック・カウンシルが、「ヘルスケアデータとAIの大規模展開：米国の競争力と安全保障のための政策選択」に関するイベントを開催する。",
-    "details": "ヘルスケア分野でのAI導入は、医療の効率化や診断精度の向上に貢献する一方で、患者データのプライバシー、倫理的な公平性、セキュリティなど多岐にわたる政策課題を提起する。このイベントは、これらの複雑な課題解決に向けた議論を深める重要な機会となる。",
-    "sources": [
-      {
-        "name": "Atlantic Council",
-        "url": "https://www.atlanticcouncil.org/events"
       }
     ],
     "importance": "high",
@@ -216,45 +266,22 @@
     "novelty": 60
   },
   {
-    "id": "13",
+    "id": "15",
     "category": "Policy",
-    "title": "日韓首脳、エネルギー安全保障協力の新枠組みを立ち上げで合意",
-    "date": "2026/05/19",
-    "summary": "日本と韓国の首脳は、地域情勢の不安定化に対応するため、エネルギー安全保障を強化する新たな協力枠組みを立ち上げることで合意した。",
-    "details": "気候変動や地政学的なリスクが高まる中、両国がエネルギー供給の安定化と脱炭素化に向けて連携を深めることは、東アジア全体の経済と安全保障に貢献する。具体的な政策協調により、サプライチェーンの強靭化が期待される。",
+    "title": "Health data and AI at scale: Policy choices for US competitiveness and security",
+    "date": "2026/05/21",
+    "summary": "米国のアトランティック・カウンシルは、大規模な医療データとAI活用における政策提言を発表。国家競争力と安全保障の観点から重要視されています。",
+    "details": [
+      "医療AIの発展は画期的な診断・治療法をもたらす一方で、データプライバシー、セキュリティ、倫理的課題が顕在化しています。米国はAIガバナンスの国際基準を確立し、技術覇権を維持しようとしていると考えられます。"
+    ],
     "sources": [
       {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      },
-      {
-        "name": "Kyodo News Digest: May 20, 2026",
-        "url": "https://english.kyodonews.net/articles/-/75094"
-      },
-      {
-        "name": "International Relations - The New York Times",
-        "url": "https://www.nytimes.com/topic/subject/international-relations"
+        "name": "Atlantic Council",
+        "url": "https://www.atlanticcouncil.org/events"
       }
     ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 50
-  },
-  {
-    "id": "14",
-    "category": "Business",
-    "title": "イーロン・マスクのOpenAI CEOサム・アルトマンに対する訴訟が棄却",
-    "date": "2026/05/18",
-    "summary": "イーロン・マスク氏がOpenAIのCEOサム・アルトマン氏を相手取った訴訟が、陪審によって棄却されたことが報じられた。",
-    "details": "この訴訟は、OpenAIの非営利目的から営利目的への転換やAI開発の方向性を巡るもので、AI業界のガバナンスと倫理に大きな影響を与える可能性があった。今回の棄却は、OpenAIの現行路線を支持する形となり、今後のAI開発競争の構図にも影響を及ぼすだろう。",
-    "sources": [
-      {
-        "name": "PBS News Hour | Season 2026 | May 18, 2026",
-        "url": "https://www.pbs.org/video/may-18-2026-pbs-news-hour-full-episode-1779076804"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70
+    "importance": "critical",
+    "socialImpact": 95,
+    "novelty": 85
   }
 ]
