@@ -1,12 +1,31 @@
 [
   {
     "id": "1",
-    "category": "Policy",
-    "title": "Trump says US in 'final stages' on Iran",
+    "category": "Service",
+    "title": "OpenAI、日本の企業に最新サイバーセキュリティAIモデルを提供",
     "date": "2026/05/22",
-    "summary": "トランプ米大統領はイランに関する最終段階にあると発言し、中東情勢の緊張が最高潮に達していることを示唆しました。",
+    "summary": "OpenAIは日本の企業向けに最新のサイバーセキュリティAIモデルを提供開始。高度なAIで防御能力を強化し、サイバー攻撃への対応力を向上させる。",
     "details": [
-      "米国とイラン間の緊張が高まり、軍事衝突のリスクが懸念される中、トランプ大統領の「最終段階」発言は市場に大きな影響を与え、地政学リスクを一段と高めています。今後の展開が注目されます。"
+      "この動きは、日本政府が経済安全保障の一環として重要インフラのサイバー防御強化を推進する中で発表された。大手テック企業によるAIモデルの国際的な提供は、グローバルなサイバーセキュリティ対策の標準化を加速し、日本企業のデジタル変革と競争力向上に寄与する見込みだ。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 75
+  },
+  {
+    "id": "2",
+    "category": "Policy",
+    "title": "トランプ大統領、ポーランドに5,000人の追加部隊派遣を発表",
+    "date": "2026/05/22",
+    "summary": "トランプ米大統領はポーランドへの米軍追加派遣を決定。欧州の安全保障環境、特にロシアとの緊張が高まる中、NATO同盟国へのコミットメントを示す。",
+    "details": [
+      "米国防総省が先週、数千人規模の部隊配備を急遽中止したばかりで、今回の発表で方針を転換した形だ。東欧の安全保障体制を強化し、潜在的な脅威に対する抑止力を高めることを目的とするが、ロシアの反応や欧州諸国との調整が今後の焦点となるだろう。"
     ],
     "sources": [
       {
@@ -15,273 +34,254 @@
       }
     ],
     "importance": "critical",
-    "socialImpact": 95,
-    "novelty": 70
-  },
-  {
-    "id": "2",
-    "category": "Economy",
-    "title": "Nikkei 225 rebounds sharply on Trump's Iran remarks",
-    "date": "2026/05/22",
-    "summary": "トランプ米大統領のイランに関する発言を受け、日経平均株価は急反発しました。地政学リスクの短期的な緩和期待が市場を押し上げた形です。",
-    "details": [
-      "米国のイランに対する強硬姿勢と緩和示唆が市場を振り回す中、日経平均は一時的な地政学リスク後退への期待から反発しました。中東情勢は原油価格やサプライチェーンに直結し、世界経済に影響を及ぼします。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
+    "socialImpact": 90,
     "novelty": 60
   },
   {
     "id": "3",
     "category": "Policy",
-    "title": "South Korean media: China's Xi may visit North Korea later in May or early June",
+    "title": "エチオピアとエリトリア、再び戦争の危機に瀕する",
     "date": "2026/05/22",
-    "summary": "韓国メディアは中国の習近平国家主席が5月下旬から6月上旬にも北朝鮮を訪問する可能性を報じ、東アジアの地政学的な動きに注目が集まっています。",
+    "summary": "アフリカの角地域でエチオピアとエリトリア間の緊張が再燃し、戦争寸前の状況にあると報じられた。地域の安定と人道状況に深刻な影響を与える可能性がある。",
     "details": [
-      "米国とイランの緊張が高まる中、中朝関係の強化は東アジア地域の不安定化要因となり得ます。習主席の訪問が実現すれば、核問題や地域安全保障に関する国際社会の懸念が再燃する可能性が高いでしょう。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 75
-  },
-  {
-    "id": "4",
-    "category": "Business",
-    "title": "Major Japan food retailers look to cut plastic use as costs jump",
-    "date": "2026/05/22",
-    "summary": "日本の大手食品小売業者がプラスチック使用量削減に動いています。環境規制強化と原材料費高騰が背景にあり、コスト削減と持続可能性を両立させる狙いです。",
-    "details": [
-      "消費者の環境意識の高まりと政府のプラスチック規制強化が重なり、企業はサプライチェーン全体での環境負荷低減を迫られています。コスト高騰も相まって、環境配慮型ビジネスモデルへの転換が加速するでしょう。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 65
-  },
-  {
-    "id": "5",
-    "category": "Policy",
-    "title": "Japan mayor set to become first with maternity leave",
-    "date": "2026/05/22",
-    "summary": "日本で初の女性市長が産休取得を表明しました。これは地方行政における働き方改革とジェンダー平等を推進する画期的な一歩となります。",
-    "details": [
-      "地方自治体の首長として初の産休取得は、女性の政治参加を促し、多様な働き方を社会全体で支える意識改革を後押しします。今後の行政機関における制度設計やロールモデルとしての影響が期待されます。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 75,
-    "novelty": 80
-  },
-  {
-    "id": "6",
-    "category": "Policy",
-    "title": "U.S. rocket launcher drill near Mt. Fuji draws protests",
-    "date": "2026/05/21",
-    "summary": "富士山麓での米軍ロケットランチャー訓練に対し、地元住民から強い抗議が寄せられています。日米安保と環境、住民生活の間の緊張が浮き彫りになりました。",
-    "details": [
-      "米軍の訓練強化は地域住民の安全と環境への懸念を増幅させており、日米地位協定の見直しや訓練地の分散化が求められています。国防と地域共存のバランスが今後の政治課題となるでしょう。"
-    ],
-    "sources": [
-      {
-        "name": "The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 60
-  },
-  {
-    "id": "7",
-    "category": "Economy",
-    "title": "Takaichi eager to limit debt finance for extra budget on energy shock",
-    "date": "2026/05/21",
-    "summary": "高市総理は、中東紛争によるエネルギー価格高騰に対応するための補正予算について、赤字国債発行の抑制に意欲を示しました。財政健全化へのコミットメントを強調する狙いです。",
-    "details": [
-      "エネルギー危機が日本の財政を圧迫する中、政府は経済対策と財政規律維持の間で難しい舵取りを迫られています。赤字国債抑制への姿勢は市場の信頼を得る一方で、景気対策への影響も懸念されます。"
-    ],
-    "sources": [
-      {
-        "name": "The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 65
-  },
-  {
-    "id": "8",
-    "category": "Economy",
-    "title": "Asian shares surge after oil prices slip and Wall Street resumes its AI rally",
-    "date": "2026/05/21",
-    "summary": "原油価格下落とウォール街のAI関連株続伸を受け、アジア株は急騰しました。市場は地政学リスク緩和とテクノロジーへの楽観を反映しています。",
-    "details": [
-      "中東情勢の緊張緩和とAI技術への持続的な投資が、グローバル市場にポジティブな影響を与えています。原油価格の安定はインフレ懸念を和らげ、AIセクターの成長は新たな投資機会を創出しています。"
-    ],
-    "sources": [
-      {
-        "name": "The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 70
-  },
-  {
-    "id": "9",
-    "category": "Service",
-    "title": "Science school opens base for 24/7 testing by AI, robots",
-    "date": "2026/05/21",
-    "summary": "科学学校がAIとロボットによる24時間体制のテスト施設を開設しました。これにより、新技術開発の加速と教育現場でのAI活用が推進されます。",
-    "details": [
-      "研究開発サイクルの大幅な短縮と、ヒューマンエラー削減が期待されるこの施設は、AIとロボットが科学研究や産業に深く統合される未来を象徴します。教育カリキュラムへの影響も大きいでしょう。"
-    ],
-    "sources": [
-      {
-        "name": "The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 90,
-    "novelty": 85
-  },
-  {
-    "id": "10",
-    "category": "Economy",
-    "title": "Japan inbound visitors drop in April as China arrivals plunge",
-    "date": "2026/05/21",
-    "summary": "4月の訪日外国人客数が減少しました。特に中国からの旅行客の大幅な落ち込みが影響し、インバウンド市場に懸念が生じています。",
-    "details": [
-      "中国経済の減速や地政学的緊張が日本の観光産業に直接的な打撃を与えています。インバウンド需要の多様化や新たな市場開拓が急務であり、今後の経済対策にも影響を与える可能性があります。"
-    ],
-    "sources": [
-      {
-        "name": "The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 50
-  },
-  {
-    "id": "11",
-    "category": "Policy",
-    "title": "US to discuss tariff cuts on 30 billion dollars' worth of goods",
-    "date": "2026/05/21",
-    "summary": "米国は300億ドル相当の商品に対する関税引き下げを協議する方針です。国際貿易関係の改善に向けた動きとして注目されます。",
-    "details": [
-      "トランプ政権下で高まった保護主義的政策からの転換を示唆するこの動きは、貿易摩擦の緩和とグローバルサプライチェーンの安定化に寄与する可能性があります。各国との交渉動向が注目されるでしょう。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70
-  },
-  {
-    "id": "12",
-    "category": "Policy",
-    "title": "US indicts former Cuban President Raul Castro",
-    "date": "2026/05/21",
-    "summary": "米国がキューバのラウル・カストロ前国家評議会議長を起訴しました。これは米・キューバ関係に新たな緊張をもたらし、国際的な反響を呼んでいます。",
-    "details": [
-      "米国のこの動きは、キューバに対する強硬姿勢を再確認するものであり、両国間の関係改善をさらに困難にするでしょう。ラテンアメリカ諸国や国際社会における米国の影響力にも波及する可能性があります。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 65
-  },
-  {
-    "id": "13",
-    "category": "Policy",
-    "title": "Taiwan's Lai signals readiness for US weapons talks",
-    "date": "2026/05/21",
-    "summary": "台湾の頼清徳総統が米国との武器協議への意欲を表明しました。これは中国からの軍事的圧力に対する台湾の防衛力強化を図るものです。",
-    "details": [
-      "中国の台湾への圧力が高まる中、台湾は米国との連携を深めることで自衛能力の向上を目指します。この動きは、米中関係における新たな火種となり、地域の安全保障環境に大きな影響を与えるでしょう。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 90,
-    "novelty": 75
-  },
-  {
-    "id": "14",
-    "category": "Economy",
-    "title": "Japan PM Takaichi signals openness to extra budget",
-    "date": "2026/05/21",
-    "summary": "高市総理は、経済情勢に対応するための補正予算編成に前向きな姿勢を示しました。物価高対策や景気下支えが主な目的と見られています。",
-    "details": [
-      "エネルギーショックやインフレによる国民生活への影響を緩和するため、政府は追加財政出動の可能性を探っています。これは短期的な景気刺激策となるが、財政赤字拡大への懸念も伴うでしょう。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 60
-  },
-  {
-    "id": "15",
-    "category": "Policy",
-    "title": "Health data and AI at scale: Policy choices for US competitiveness and security",
-    "date": "2026/05/21",
-    "summary": "米国のアトランティック・カウンシルは、大規模な医療データとAI活用における政策提言を発表。国家競争力と安全保障の観点から重要視されています。",
-    "details": [
-      "医療AIの発展は画期的な診断・治療法をもたらす一方で、データプライバシー、セキュリティ、倫理的課題が顕在化しています。米国はAIガバナンスの国際基準を確立し、技術覇権を維持しようとしていると考えられます。"
+      "過去に長年の国境紛争を抱えていた両国間で、再び言論の応酬がエスカレートしている。これにより、アフリカの角地域の不安定化が懸念され、既に脆弱なサプライチェーンや人道支援活動への影響が避けられない見通し。国際社会の仲介が急務だ。"
     ],
     "sources": [
       {
         "name": "Atlantic Council",
-        "url": "https://www.atlanticcouncil.org/events"
+        "url": "https://www.atlanticcouncil.org/issue/politics-diplomacy"
       }
     ],
-    "importance": "critical",
-    "socialImpact": 95,
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 50
+  },
+  {
+    "id": "4",
+    "category": "Policy",
+    "title": "ロシアの侵略戦争の中、ウクライナがヴィシヴァンカ・デーで民族のアイデンティティを祝う",
+    "date": "2026/05/22",
+    "summary": "ロシアによる「ジェノサイド戦争」が続く中、ウクライナが民族衣装ヴィシヴァンカを祝う日を迎え、国民のアイデンティティと抵抗の精神を世界に示した。",
+    "details": [
+      "ウクライナ政府はこの日を通じて、国家としての団結と文化的な抵抗を強調し、国際社会に支援と連帯を訴えた。戦争の長期化により、文化的なイベントが国民の士気を高め、国際的な共感を呼ぶ重要な役割を果たしている。"
+    ],
+    "sources": [
+      {
+        "name": "Atlantic Council",
+        "url": "https://www.atlanticcouncil.org/issue/politics-diplomacy"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 30
+  },
+  {
+    "id": "5",
+    "category": "Economy",
+    "title": "日本の4月インフレ率が鈍化、日銀の金融政策に影響か",
+    "date": "2026/05/22",
+    "summary": "日本の4月消費者物価指数は前月から上昇が鈍化し、日本銀行の今後の金融政策決定、特に利上げペースに影響を与える可能性がある。",
+    "details": [
+      "食品価格の落ち着きや政府の価格抑制策が寄与し、インフレ圧力が一時的に緩和されたと見られる。しかし、円安や中東情勢によるエネルギー価格の変動リスクは依然高く、日銀は持続的な物価目標達成に向け慎重な姿勢を維持すると予想される。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 60
+  },
+  {
+    "id": "6",
+    "category": "Economy",
+    "title": "日経平均株価、史上最高値を更新して終値",
+    "date": "2026/05/22",
+    "summary": "日経平均株価が史上最高値を更新し、日本経済の回復と企業収益への期待感が高まっている。外国人投資家の日本株買いや企業ガバナンス改革への評価が背景にある。",
+    "details": [
+      "昨今の上昇は、円安進行による輸出企業の業績押し上げに加え、日本企業の構造改革やROE（自己資本利益率）重視の経営姿勢が海外投資家から評価されていることが大きい。しかし、過熱感や米国の金融政策の動向、中東情勢の不確実性には引き続き注意が必要である。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 70
+  },
+  {
+    "id": "7",
+    "category": "Economy",
+    "title": "日本政府、夏季の電気料金抑制のため予備費活用へ",
+    "date": "2026/05/22",
+    "summary": "日本政府は、夏季の電気料金高騰を抑制するため、2025年度および2026年度予算の予備費を活用する方針を固めた。家計や企業の負担軽減を図る。",
+    "details": [
+      "中東情勢の緊迫化による原油価格の高騰や円安がエネルギー価格を押し上げており、特に夏季の電力需要増加に伴う国民生活への影響が懸念されている。この措置は短期的な緩和策となるが、長期的なエネルギー安定供給と価格抑制には、脱炭素化と多様な電源確保が不可欠となる。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 40
+  },
+  {
+    "id": "8",
+    "category": "Economy",
+    "title": "中東情勢の不確実性の中、アジア株は上昇し原油価格も高騰",
+    "date": "2026/05/22",
+    "summary": "中東における戦争の不確実性が続く中、アジア市場では株価が上昇し、原油価格も再び高騰。市場はリスク要因と経済回復期待の間で揺れ動いている。",
+    "details": [
+      "株価上昇は、一部のテクノロジー株や輸出関連企業の堅調な業績、米国の利下げ期待が背景にある一方、原油価格の高騰はホルムズ海峡の安全保障への懸念から供給不安が高まっているため。地政学リスクが引き続き市場の主要なテーマであり、今後の動向が注目される。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 55
+  },
+  {
+    "id": "9",
+    "category": "Policy",
+    "title": "日米両国、麻薬対策での連携強化で合意",
+    "date": "2026/05/22",
+    "summary": "日本と米国は、国際的な麻薬密売や薬物乱用に対抗するため、麻薬取締りにおける協力関係を一層強化することで合意した。",
+    "details": [
+      "この合意は、サイバー犯罪や国際テロ組織との関連が指摘される麻薬密売の複雑化に対応するため、情報共有、捜査協力、技術支援の分野での連携を深めることを目的としている。両国の連携強化は、アジア太平洋地域全体の治安維持と国際社会の安全に貢献すると期待される。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 40
+  },
+  {
+    "id": "10",
+    "category": "Policy",
+    "title": "文部科学省、京都の学校が政治的中立性を侵害したと発表",
+    "date": "2026/05/22",
+    "summary": "文部科学省は、京都市内の学校が教育基本法に定める政治的中立性を逸脱したとして、是正指導を行ったことを明らかにした。教育現場のあり方に議論を呼ぶ可能性がある。",
+    "details": [
+      "具体的な侵害内容は不明だが、教育現場における特定の政治的立場への偏りが問題視されたものと見られる。この件は、教育の自由と政治的中立性のバランス、および教員の表現の自由に関する議論を再燃させる可能性があり、今後の教育現場への影響が注目される。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 60,
+    "novelty": 30
+  },
+  {
+    "id": "11",
+    "category": "Policy",
+    "title": "解説：日本の「政治的中立性」法を巡る論争",
+    "date": "2026/05/22",
+    "summary": "日本で「政治的中立性」に関する法律を巡る議論が再燃。教育現場や公的機関における表現の自由と中立性保持のバランスが問われている。",
+    "details": [
+      "特に、政府の政策に対する意見表明や社会問題への関与がどこまで許容されるかについて、解釈の幅を巡る意見対立が深まっている。この論争は、市民の権利と公共性のあり方、および民主主義社会における中立性の本質について、広範な議論を促すものとなるだろう。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 35
+  },
+  {
+    "id": "12",
+    "category": "Model",
+    "title": "認知か偏見か：MLLMは性格の第一印象を超越できるか？",
+    "date": "2026/05/22",
+    "summary": "arXivに公開された研究で、マルチモーダル大規模言語モデル（MLLM）が人間の性格を評価する際、第一印象に囚われずに深く理解できるかを探る。",
+    "details": [
+      "この研究は、MLLMが画像やテキストといった複数の情報源から人間の感情や性格をどの程度正確に捉え、表面的なバイアスを超えた推論が可能かを検証。AIの倫理的側面や、より人間らしい対話能力の向上に寄与する可能性を秘めている。"
+    ],
+    "sources": [
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/list/cs.AI/recent"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
     "novelty": 85
+  },
+  {
+    "id": "13",
+    "category": "Economy",
+    "title": "日本の大学新卒者就職率が98.0%に達し、好調な労働市場を示す",
+    "date": "2026/05/22",
+    "summary": "日本の大学新卒者の就職率が98.0%と非常に高い水準に達し、労働市場が活況を呈していることを示している。少子高齢化による人手不足も背景にある。",
+    "details": [
+      "この高い就職率は、企業の人材確保競争の激化と、日本経済の緩やかな回復を反映している。しかし、業種間のミスマッチや、AI技術の進展による将来的な雇用構造の変化への対応も課題として浮上しており、継続的な教育・リスキリングの重要性が高まっている。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 75,
+    "novelty": 40
+  },
+  {
+    "id": "14",
+    "category": "Economy",
+    "title": "UAEからの原油タンカー、日本に到着しエネルギー供給安定化に寄与",
+    "date": "2026/05/22",
+    "summary": "アラブ首長国連邦（UAE）から原油を積んだタンカーが日本に到着。中東情勢緊迫化によるエネルギー供給懸念が高まる中、日本の安定確保に向けた重要な動きだ。",
+    "details": [
+      "ホルムズ海峡を経由した今回の原油輸送は、世界的な地政学リスクが高まる中で、特に石油輸入を中東に大きく依存する日本にとって供給網の脆弱性を改めて認識させる出来事となった。政府は、エネルギー安全保障の多角化と国内備蓄の強化をさらに推進する必要がある。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 30
+  },
+  {
+    "id": "15",
+    "category": "Economy",
+    "title": "イラン協議への楽観論で日経平均株価が上昇",
+    "date": "2026/05/22",
+    "summary": "イランを巡る国際協議に進展の兆しが見え、中東情勢の緊張緩和への期待から、日経平均株価が上昇した。地政学リスクの後退が市場心理を改善した。",
+    "details": [
+      "中東情勢の安定化は原油価格の抑制に繋がり、世界経済、特に日本のようなエネルギー輸入国にとって好材料となる。しかし、協議の具体的な成果や長期的な安定性はまだ不透明であり、市場は今後の動向を慎重に見守る姿勢を崩していない。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 45
   }
 ]
