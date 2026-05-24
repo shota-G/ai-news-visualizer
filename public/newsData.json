@@ -1,6 +1,257 @@
 [
   {
     "id": "1",
+    "category": "Business",
+    "title": "OpenAI、日本企業へ最新サイバーセキュリティAIモデルを提供",
+    "date": "2026/05/25",
+    "summary": "OpenAIが日本企業向けに最先端のサイバーセキュリティAIモデルの提供を開始。AIによる脅威検知・防御能力が向上し、企業の情報セキュリティ強化に貢献すると期待される。",
+    "details": [
+      "5月22日の報道によると、OpenAIは日本の企業向けに、AIを活用した最新のサイバーセキュリティモデルの提供を始めた。これにより、サイバー攻撃の早期発見や高度な脅威分析が可能となり、デジタルインフラの保護が強化される見込みだ。日本の産業界におけるAI技術の社会実装が加速する。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 80
+  },
+  {
+    "id": "2",
+    "category": "Policy",
+    "title": "日本人声優、AI生成ナレーションを巡り訴訟提起",
+    "date": "2026/05/25",
+    "summary": "日本の声優が、自身の声に似たAI生成ナレーションの無断使用に対し訴訟を起こした。AI技術と著作権、肖像権の境界線を巡る法的な議論が本格化する。",
+    "details": [
+      "5月23日のNHK報道によると、著名な日本人声優が、AIによって生成された自身の音声に酷似したナレーションが商業利用されたとして、関連企業を提訴した。この訴訟は、AIが人間の創作活動にもたらす倫理的・法的課題、特に著作権や肖像権の保護に関する重要な判例となる可能性があり、今後のAI技術の発展と利用に大きな影響を与えるだろう。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 85
+  },
+  {
+    "id": "3",
+    "category": "Policy",
+    "title": "米国とイラン、和平協定締結へ前進か",
+    "date": "2026/05/25",
+    "summary": "米国とイランが和平協定締結に向けた交渉で進展を見せていると報じられた。中東情勢の緊張緩和に繋がり、世界のエネルギー市場や経済に大きな影響を与える可能性がある。",
+    "details": [
+      "5月23日のNHK報道によると、米国とイランは、長期にわたる対立に終止符を打つ可能性のある和平協定の締結に向け、協議で重要な進展があった模様だ。パキスタンやイランからの報道でも進捗が伝えられており、これが実現すれば中東地域の安定化に大きく寄与し、不安定化していた世界の原油価格や貿易にもプラスの影響が期待される。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 95,
+    "novelty": 70
+  },
+  {
+    "id": "4",
+    "category": "Economy",
+    "title": "ケビン・ウォーシュ氏、新FRB議長に就任",
+    "date": "2026/05/25",
+    "summary": "米国連邦準備制度理事会（FRB）の新議長としてケビン・ウォーシュ氏が就任した。彼の金融政策の方向性が、今後の世界経済に多大な影響を与えるだろう。",
+    "details": [
+      "5月23日、ケビン・ウォーシュ氏が米国連邦準備制度理事会（FRB）の新たな議長として正式に宣誓就任した。この人事は、FRBの金融引き締め政策やインフレ対策、そして世界経済全体の安定性に直接的な影響を及ぼすため、市場関係者や各国政府から注目されている。彼のリーダーシップの下、米国経済がどのような道を辿るか注目される。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      },
+      {
+        "name": "The Japan Times",
+        "url": "https://www.japantimes.co.jp"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 60
+  },
+  {
+    "id": "5",
+    "category": "Policy",
+    "title": "日米豪印「クアッド」外相会合、ニューデリーで開催へ",
+    "date": "2026/05/25",
+    "summary": "日米豪印の「クアッド」外相会合がニューデリーで開催されると日本が発表した。インド太平洋地域の安全保障と経済協力に関する戦略的議論が深まる見込み。",
+    "details": [
+      "5月22日の報道によると、米国、日本、オーストラリア、インドによる4カ国枠組み「クアッド」の外相会合がインドのニューデリーで開催されることが決定した。この会合では、中国の影響力拡大を意識し、自由で開かれたインド太平洋の維持、海洋安全保障、サプライチェーンの強靭化、新興技術協力など、多岐にわたる地域課題について意見交換が行われる予定だ。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/japan"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 65
+  },
+  {
+    "id": "6",
+    "category": "Economy",
+    "title": "日本財務相、補正予算における国債依存からの脱却を表明",
+    "date": "2026/05/25",
+    "summary": "日本の財務大臣が、補正予算の財源として過度な国債発行に依存しない方針を表明した。財政健全化へのコミットメントが示され、市場の信認に影響を与える可能性がある。",
+    "details": [
+      "5月22日の報道によると、日本の財務大臣は、今後の補正予算編成において、国債への過度な依存を避け、財源の健全性を確保する方針を強調した。これは、長期的な財政再建への意欲を示すものであり、国内外の投資家や格付け機関の日本財政への評価に影響を与える。しかし、中東情勢によるエネルギー価格高騰などの不確実性も背景にあり、その実現には課題も残る。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/japan"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 55
+  },
+  {
+    "id": "7",
+    "category": "Policy",
+    "title": "名護市修学旅行問題、政治的中立性に関する法に違反と認定",
+    "date": "2026/05/25",
+    "summary": "沖縄県名護市の修学旅行に関する問題で、文部科学省が政治的中立性を定めた法に違反すると認定した。教育現場における政治的介入の範囲を巡る議論が再燃。",
+    "details": [
+      "5月23日の朝日新聞報道によると、沖縄県名護市の学校が実施した修学旅行の内容が、教育の政治的中立性を定めた法律に違反すると文部科学省が判断した。これは、学校教育における表現の自由と政治的公平性のバランスについて、社会的な議論を巻き起こすものであり、今後の教育行政や教員の指導方針に影響を与える可能性がある。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 50
+  },
+  {
+    "id": "8",
+    "category": "Economy",
+    "title": "アジア株上昇、原油価格も高騰—中東紛争の不確実性続く中",
+    "date": "2026/05/25",
+    "summary": "中東情勢の不確実性が続く中、アジア各国の株式市場が上昇し、原油価格も高騰した。地政学リスクが市場に与える影響が鮮明に。",
+    "details": [
+      "5月22日の報道によると、中東における紛争の先行き不透明感が続く中でも、アジアの主要株式市場は上昇を見せた。一方で、紛争による供給不安から原油価格は一段と高騰しており、エネルギー関連銘柄を中心に市場が反応した形だ。地政学リスクが世界のエネルギー供給と経済活動に与える影響が引き続き注視される。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 40
+  },
+  {
+    "id": "9",
+    "category": "Economy",
+    "title": "日本の工場活動、伸び鈍化もコスト圧力は急増",
+    "date": "2026/05/25",
+    "summary": "日本の製造業活動が緩やかな拡大を見せる一方、コスト圧力が急速に高まっていることが判明した。世界的なサプライチェーンの混乱と原材料価格の高騰が背景にある。",
+    "details": [
+      "5月21日のロイター報道によると、日本の工場活動は堅調に推移しているものの、その拡大ペースは鈍化し、同時に原材料費や輸送コストの上昇によるコスト圧力が顕著になっている。これは、中東情勢の緊迫化や円安進行、世界的なサプライチェーンの混乱などが複合的に影響しているためであり、企業の収益性や今後の生産活動に懸念を生じさせている。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/japan"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 45
+  },
+  {
+    "id": "10",
+    "category": "Economy",
+    "title": "日銀政策委員、利上げを提言し紛争によるインフレ過熱に警鐘",
+    "date": "2026/05/25",
+    "summary": "日本銀行の政策委員が、早期の追加利上げの必要性を訴え、中東紛争に起因するインフレの過熱リスクに対して強い警戒感を示した。",
+    "details": [
+      "5月21日のロイター報道によると、日本銀行の政策委員が、中東紛争に伴うエネルギー価格の高騰がインフレをさらに加速させる可能性があると指摘し、金融政策の正常化に向けた追加利上げを早期に行うべきだと主張した。これは、長らく続いてきた緩和政策からの脱却を巡る日銀内の議論が活発化していることを示唆しており、市場は今後の金融政策決定会合での動向に注目している。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/japan"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 85,
+    "novelty": 60
+  },
+  {
+    "id": "11",
+    "category": "Business",
+    "title": "中東紛争の影響で日本の自動車輸出が急減",
+    "date": "2026/05/25",
+    "summary": "中東地域の紛争激化により、日本の自動車メーカーの同地域への輸出が大幅に減少した。サプライチェーンの混乱と需要の低迷が主な要因。",
+    "details": [
+      "5月21日のロイター報道によると、中東における紛争の拡大が、日本の自動車産業に深刻な影響を与え、同地域への自動車輸出が大幅に落ち込んだ。海運ルートの混乱、海上保険料の高騰、および現地の経済活動の停滞が主な原因とみられている。これは、グローバルなサプライチェーンの脆弱性と地政学リスクが企業活動に与える直接的な影響を示す事例だ。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/japan"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 45
+  },
+  {
+    "id": "12",
+    "category": "Policy",
+    "title": "米国の競争力と安全保障のための医療データとAI活用政策",
+    "date": "2026/05/25",
+    "summary": "米国で、医療データとAIの大規模な活用に関する政策選択が議論されている。国家の競争力と安全保障を確保するためのAIガバナンスが焦点。",
+    "details": [
+      "5月21日のアトランティック・カウンシルでの公開イベントで、米国における大規模な医療データとAIの活用に関する政策的選択が討議された。AI技術の急速な進展に伴い、機密性の高い医療データの保護と活用、AIの倫理的利用、そして国家安全保障と経済的競争力確保に向けたAIガバナンスの構築が喫緊の課題として認識されており、今後の具体的な政策策定が注目される。"
+    ],
+    "sources": [
+      {
+        "name": "Atlantic Council",
+        "url": "https://www.atlanticcouncil.org/events"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 75
+  },
+  {
+    "id": "13",
+    "category": "Business",
+    "title": "日本の輸出が8ヶ月連続で増加—供給網の混乱にも関わらず",
+    "date": "2026/05/25",
+    "summary": "日本の輸出が供給網の混乱や地政学リスクにもかかわらず8ヶ月連続で増加。企業の強靭性と国際競争力が示された。",
+    "details": [
+      "5月21日のロイター報道によると、世界的なサプライチェーンの混乱や中東紛争による地政学的な逆風がある中で、日本の輸出が8ヶ月連続で増加を記録した。これは、日本の製造業が困難な状況下でも国際市場での競争力を維持していることを示しており、特に高付加価値製品や特定の地域での需要が堅調であることが貢献したと見られる。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/japan"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 40
+  },
+  {
+    "id": "14",
     "category": "Economy",
     "title": "日本円が対ドルで184.59に、日銀は政策金利0.75%維持を発表",
     "date": "2026/05/24",
@@ -23,7 +274,7 @@
     "novelty": 60
   },
   {
-    "id": "2",
+    "id": "15",
     "category": "Policy",
     "title": "沖縄の米兵、性的暴行容疑で検察に送致",
     "date": "2026/05/24",
@@ -42,7 +293,7 @@
     "novelty": 50
   },
   {
-    "id": "3",
+    "id": "16",
     "category": "Policy",
     "title": "米国家情報長官が辞任を発表、政権の外交・安保政策に影響か",
     "date": "2026/05/24",
@@ -61,7 +312,7 @@
     "novelty": 60
   },
   {
-    "id": "4",
+    "id": "17",
     "category": "Policy",
     "title": "日本政府、夏の電気代抑制に予備費活用を決定",
     "date": "2026/05/23",
@@ -80,7 +331,7 @@
     "novelty": 65
   },
   {
-    "id": "5",
+    "id": "18",
     "category": "Policy",
     "title": "日本と米国、薬物規制の協力強化で合意",
     "date": "2026/05/23",
@@ -99,7 +350,7 @@
     "novelty": 50
   },
   {
-    "id": "6",
+    "id": "19",
     "category": "Economy",
     "title": "日本、中東情勢による原油供給途絶リスク回避策を発表",
     "date": "2026/05/23",
@@ -118,7 +369,7 @@
     "novelty": 70
   },
   {
-    "id": "7",
+    "id": "20",
     "category": "Policy",
     "title": "イラン紛争後の核拡散防止条約（NPT）会議、最終文書採択に失敗",
     "date": "2026/05/23",
@@ -137,7 +388,7 @@
     "novelty": 75
   },
   {
-    "id": "8",
+    "id": "21",
     "category": "Policy",
     "title": "パキスタン、イラン紛争解決に向けテヘランで外交努力を強化",
     "date": "2026/05/23",
@@ -156,7 +407,7 @@
     "novelty": 70
   },
   {
-    "id": "9",
+    "id": "22",
     "category": "Policy",
     "title": "キューバで米国によるラウル・カストロ氏起訴に抗議デモ",
     "date": "2026/05/23",
@@ -175,7 +426,7 @@
     "novelty": 55
   },
   {
-    "id": "10",
+    "id": "23",
     "category": "Policy",
     "title": "NATO事務総長、ホルムズ海峡問題で米国との連携を表明",
     "date": "2026/05/23",
@@ -194,7 +445,7 @@
     "novelty": 60
   },
   {
-    "id": "11",
+    "id": "24",
     "category": "Policy",
     "title": "茂木外相、イランに対し核交渉で「最大限の柔軟性」を要請",
     "date": "2026/05/23",
@@ -213,7 +464,7 @@
     "novelty": 65
   },
   {
-    "id": "12",
+    "id": "25",
     "category": "Policy",
     "title": "エチオピアとエリトリアが再び戦争の瀬戸際に直面",
     "date": "2026/05/23",
@@ -232,7 +483,7 @@
     "novelty": 60
   },
   {
-    "id": "13",
+    "id": "26",
     "category": "Business",
     "title": "OpenAI、日本企業向けに最新のサイバーセキュリティAIモデルを提供開始",
     "date": "2026/05/23",
@@ -251,7 +502,7 @@
     "novelty": 80
   },
   {
-    "id": "14",
+    "id": "27",
     "category": "Business",
     "title": "SpaceX、史上最大のStarship宇宙船の試験打ち上げを実施",
     "date": "2026/05/23",
@@ -270,7 +521,7 @@
     "novelty": 95
   },
   {
-    "id": "15",
+    "id": "28",
     "category": "Policy",
     "title": "Trump says US in 'final stages' on Iran",
     "date": "2026/05/22",
@@ -289,7 +540,7 @@
     "novelty": 70
   },
   {
-    "id": "16",
+    "id": "29",
     "category": "Economy",
     "title": "Nikkei 225 rebounds sharply on Trump's Iran remarks",
     "date": "2026/05/22",
@@ -308,7 +559,7 @@
     "novelty": 60
   },
   {
-    "id": "17",
+    "id": "30",
     "category": "Policy",
     "title": "South Korean media: China's Xi may visit North Korea later in May or early June",
     "date": "2026/05/22",
@@ -327,7 +578,7 @@
     "novelty": 75
   },
   {
-    "id": "18",
+    "id": "31",
     "category": "Business",
     "title": "Major Japan food retailers look to cut plastic use as costs jump",
     "date": "2026/05/22",
@@ -346,7 +597,7 @@
     "novelty": 65
   },
   {
-    "id": "19",
+    "id": "32",
     "category": "Policy",
     "title": "Japan mayor set to become first with maternity leave",
     "date": "2026/05/22",
@@ -365,7 +616,7 @@
     "novelty": 80
   },
   {
-    "id": "20",
+    "id": "33",
     "category": "Service",
     "title": "OpenAI、日本の企業に最新サイバーセキュリティAIモデルを提供",
     "date": "2026/05/22",
@@ -384,7 +635,7 @@
     "novelty": 75
   },
   {
-    "id": "21",
+    "id": "34",
     "category": "Policy",
     "title": "トランプ大統領、ポーランドに5,000人の追加部隊派遣を発表",
     "date": "2026/05/22",
@@ -403,7 +654,7 @@
     "novelty": 60
   },
   {
-    "id": "22",
+    "id": "35",
     "category": "Policy",
     "title": "エチオピアとエリトリア、再び戦争の危機に瀕する",
     "date": "2026/05/22",
@@ -422,7 +673,7 @@
     "novelty": 50
   },
   {
-    "id": "23",
+    "id": "36",
     "category": "Policy",
     "title": "ロシアの侵略戦争の中、ウクライナがヴィシヴァンカ・デーで民族のアイデンティティを祝う",
     "date": "2026/05/22",
@@ -441,7 +692,7 @@
     "novelty": 30
   },
   {
-    "id": "24",
+    "id": "37",
     "category": "Economy",
     "title": "日本の4月インフレ率が鈍化、日銀の金融政策に影響か",
     "date": "2026/05/22",
@@ -460,7 +711,7 @@
     "novelty": 60
   },
   {
-    "id": "25",
+    "id": "38",
     "category": "Economy",
     "title": "日経平均株価、史上最高値を更新して終値",
     "date": "2026/05/22",
@@ -479,7 +730,7 @@
     "novelty": 70
   },
   {
-    "id": "26",
+    "id": "39",
     "category": "Economy",
     "title": "日本政府、夏季の電気料金抑制のため予備費活用へ",
     "date": "2026/05/22",
@@ -498,7 +749,7 @@
     "novelty": 40
   },
   {
-    "id": "27",
+    "id": "40",
     "category": "Economy",
     "title": "中東情勢の不確実性の中、アジア株は上昇し原油価格も高騰",
     "date": "2026/05/22",
@@ -517,7 +768,7 @@
     "novelty": 55
   },
   {
-    "id": "28",
+    "id": "41",
     "category": "Policy",
     "title": "日米両国、麻薬対策での連携強化で合意",
     "date": "2026/05/22",
@@ -536,7 +787,7 @@
     "novelty": 40
   },
   {
-    "id": "29",
+    "id": "42",
     "category": "Policy",
     "title": "文部科学省、京都の学校が政治的中立性を侵害したと発表",
     "date": "2026/05/22",
@@ -555,7 +806,7 @@
     "novelty": 30
   },
   {
-    "id": "30",
+    "id": "43",
     "category": "Policy",
     "title": "解説：日本の「政治的中立性」法を巡る論争",
     "date": "2026/05/22",
@@ -574,7 +825,7 @@
     "novelty": 35
   },
   {
-    "id": "31",
+    "id": "44",
     "category": "Model",
     "title": "認知か偏見か：MLLMは性格の第一印象を超越できるか？",
     "date": "2026/05/22",
@@ -593,7 +844,7 @@
     "novelty": 85
   },
   {
-    "id": "32",
+    "id": "45",
     "category": "Economy",
     "title": "日本の大学新卒者就職率が98.0%に達し、好調な労働市場を示す",
     "date": "2026/05/22",
@@ -612,7 +863,7 @@
     "novelty": 40
   },
   {
-    "id": "33",
+    "id": "46",
     "category": "Economy",
     "title": "UAEからの原油タンカー、日本に到着しエネルギー供給安定化に寄与",
     "date": "2026/05/22",
@@ -631,7 +882,7 @@
     "novelty": 30
   },
   {
-    "id": "34",
+    "id": "47",
     "category": "Economy",
     "title": "イラン協議への楽観論で日経平均株価が上昇",
     "date": "2026/05/22",
@@ -650,7 +901,7 @@
     "novelty": 45
   },
   {
-    "id": "35",
+    "id": "48",
     "category": "Policy",
     "title": "米アトランティック・カウンシル、ヘルスケアAI政策に関するイベントを開催",
     "date": "2026/05/21",
@@ -667,7 +918,7 @@
     "novelty": 60
   },
   {
-    "id": "36",
+    "id": "49",
     "category": "Policy",
     "title": "U.S. rocket launcher drill near Mt. Fuji draws protests",
     "date": "2026/05/21",
@@ -686,7 +937,7 @@
     "novelty": 60
   },
   {
-    "id": "37",
+    "id": "50",
     "category": "Economy",
     "title": "Takaichi eager to limit debt finance for extra budget on energy shock",
     "date": "2026/05/21",
@@ -703,254 +954,5 @@
     "importance": "high",
     "socialImpact": 75,
     "novelty": 65
-  },
-  {
-    "id": "38",
-    "category": "Economy",
-    "title": "Asian shares surge after oil prices slip and Wall Street resumes its AI rally",
-    "date": "2026/05/21",
-    "summary": "原油価格下落とウォール街のAI関連株続伸を受け、アジア株は急騰しました。市場は地政学リスク緩和とテクノロジーへの楽観を反映しています。",
-    "details": [
-      "中東情勢の緊張緩和とAI技術への持続的な投資が、グローバル市場にポジティブな影響を与えています。原油価格の安定はインフレ懸念を和らげ、AIセクターの成長は新たな投資機会を創出しています。"
-    ],
-    "sources": [
-      {
-        "name": "The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 70
-  },
-  {
-    "id": "39",
-    "category": "Service",
-    "title": "Science school opens base for 24/7 testing by AI, robots",
-    "date": "2026/05/21",
-    "summary": "科学学校がAIとロボットによる24時間体制のテスト施設を開設しました。これにより、新技術開発の加速と教育現場でのAI活用が推進されます。",
-    "details": [
-      "研究開発サイクルの大幅な短縮と、ヒューマンエラー削減が期待されるこの施設は、AIとロボットが科学研究や産業に深く統合される未来を象徴します。教育カリキュラムへの影響も大きいでしょう。"
-    ],
-    "sources": [
-      {
-        "name": "The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 90,
-    "novelty": 85
-  },
-  {
-    "id": "40",
-    "category": "Economy",
-    "title": "Japan inbound visitors drop in April as China arrivals plunge",
-    "date": "2026/05/21",
-    "summary": "4月の訪日外国人客数が減少しました。特に中国からの旅行客の大幅な落ち込みが影響し、インバウンド市場に懸念が生じています。",
-    "details": [
-      "中国経済の減速や地政学的緊張が日本の観光産業に直接的な打撃を与えています。インバウンド需要の多様化や新たな市場開拓が急務であり、今後の経済対策にも影響を与える可能性があります。"
-    ],
-    "sources": [
-      {
-        "name": "The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 50
-  },
-  {
-    "id": "41",
-    "category": "Policy",
-    "title": "US to discuss tariff cuts on 30 billion dollars' worth of goods",
-    "date": "2026/05/21",
-    "summary": "米国は300億ドル相当の商品に対する関税引き下げを協議する方針です。国際貿易関係の改善に向けた動きとして注目されます。",
-    "details": [
-      "トランプ政権下で高まった保護主義的政策からの転換を示唆するこの動きは、貿易摩擦の緩和とグローバルサプライチェーンの安定化に寄与する可能性があります。各国との交渉動向が注目されるでしょう。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70
-  },
-  {
-    "id": "42",
-    "category": "Policy",
-    "title": "US indicts former Cuban President Raul Castro",
-    "date": "2026/05/21",
-    "summary": "米国がキューバのラウル・カストロ前国家評議会議長を起訴しました。これは米・キューバ関係に新たな緊張をもたらし、国際的な反響を呼んでいます。",
-    "details": [
-      "米国のこの動きは、キューバに対する強硬姿勢を再確認するものであり、両国間の関係改善をさらに困難にするでしょう。ラテンアメリカ諸国や国際社会における米国の影響力にも波及する可能性があります。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 65
-  },
-  {
-    "id": "43",
-    "category": "Policy",
-    "title": "Taiwan's Lai signals readiness for US weapons talks",
-    "date": "2026/05/21",
-    "summary": "台湾の頼清徳総統が米国との武器協議への意欲を表明しました。これは中国からの軍事的圧力に対する台湾の防衛力強化を図るものです。",
-    "details": [
-      "中国の台湾への圧力が高まる中、台湾は米国との連携を深めることで自衛能力の向上を目指します。この動きは、米中関係における新たな火種となり、地域の安全保障環境に大きな影響を与えるでしょう。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 90,
-    "novelty": 75
-  },
-  {
-    "id": "44",
-    "category": "Economy",
-    "title": "Japan PM Takaichi signals openness to extra budget",
-    "date": "2026/05/21",
-    "summary": "高市総理は、経済情勢に対応するための補正予算編成に前向きな姿勢を示しました。物価高対策や景気下支えが主な目的と見られています。",
-    "details": [
-      "エネルギーショックやインフレによる国民生活への影響を緩和するため、政府は追加財政出動の可能性を探っています。これは短期的な景気刺激策となるが、財政赤字拡大への懸念も伴うでしょう。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 60
-  },
-  {
-    "id": "45",
-    "category": "Policy",
-    "title": "Health data and AI at scale: Policy choices for US competitiveness and security",
-    "date": "2026/05/21",
-    "summary": "米国のアトランティック・カウンシルは、大規模な医療データとAI活用における政策提言を発表。国家競争力と安全保障の観点から重要視されています。",
-    "details": [
-      "医療AIの発展は画期的な診断・治療法をもたらす一方で、データプライバシー、セキュリティ、倫理的課題が顕在化しています。米国はAIガバナンスの国際基準を確立し、技術覇権を維持しようとしていると考えられます。"
-    ],
-    "sources": [
-      {
-        "name": "Atlantic Council",
-        "url": "https://www.atlanticcouncil.org/events"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 95,
-    "novelty": 85
-  },
-  {
-    "id": "46",
-    "category": "Service",
-    "title": "Google、Gemini AIエージェント機能を一般ユーザーに拡大",
-    "date": "2026/05/20",
-    "summary": "Googleは、基盤モデルGeminiのAIエージェント機能を一般ユーザー向けに拡大すると発表。これにより、より複雑なタスクのAIへの委任が可能となる。",
-    "details": [
-      "生成AI技術は急速な進展を見せており、特定のタスクを自律的に実行するAIエージェントへの関心が高まっていました。主要なテック企業は、この技術をどのように一般ユーザーに提供していくか模索していました。",
-      "Googleは本日、自社の基盤モデルであるGeminiのAIエージェント機能を一般ユーザー向けに拡大することを発表しました。これにより、Geminiは単なるチャットボットを超え、ユーザーの指示に基づき情報収集、計画立案、実行といった一連のプロセスをより広範かつ自律的に行えるようになります。",
-      "この発表は、AIが単なる情報提供ツールから、個人の生産性向上を支援する「自律的なアシスタント」へと進化する重要な転換点となります。AIの社会実装がさらに加速し、日々の業務や日常生活の様々な場面でAIエージェントが深く浸透し、人々の働き方や生活様式に大きな変化をもたらすことが期待されます。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 88,
-    "novelty": 85
-  },
-  {
-    "id": "47",
-    "category": "Economy",
-    "title": "日経平均株価が6万円割れ、約3週間ぶりの水準",
-    "date": "2026/05/20",
-    "summary": "東京株式市場で日経平均株価が6万円を下回り、約3週間ぶりにこの水準を割り込んだ。米国の長期金利上昇や世界経済のリスク懸念が影響したと見られる。",
-    "details": [
-      "2026年5月20日、東京株式市場で日経平均株価が取引時間中に6万円を下回る水準となり、約3週間ぶりに大台を割り込みました。これは、米国の長期金利が19年ぶりの高水準に達したことや、世界的な経済リスクへの懸念が強まったことを背景に、投資家がリスク回避の動きを強めたためと見られます。前日のG7財務相会議で世界経済リスクが議論されたことも、市場心理に影響を与えた可能性があります。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 30
-  },
-  {
-    "id": "48",
-    "category": "Policy",
-    "title": "沖縄でM5.9の地震が発生",
-    "date": "2026/05/20",
-    "summary": "2026年5月20日、日本の沖縄近海でマグニチュード5.9の地震が発生し、地域に軽微な揺れが観測されたが、津波の心配はないと報じられた。",
-    "details": [
-      "2026年5月20日、日本時間未明に、日本の沖縄近海でマグニチュード5.9の地震が発生しました。沖縄県内の一部地域で揺れが観測されましたが、気象庁は津波の心配はないと発表しました。現時点で、この地震による大きな被害や負傷者の報告は入っておらず、地域住民は冷静に対応しています。日本のメディアは、地震発生後の状況と安全確保の呼びかけを速報しています。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 40,
-    "novelty": 10
-  },
-  {
-    "id": "49",
-    "category": "Policy",
-    "title": "ロシア凍結資産のウクライナ支援への活用を大西洋評議会が議論",
-    "date": "2026/05/20",
-    "summary": "大西洋評議会のイベントで、ロシアの凍結された資産をウクライナの復興支援に充てる可能性について議論が行われ、ヨーロッパにおけるこの問題の解決が焦点となっている。",
-    "details": [
-      "2026年5月20日、大西洋評議会が開催したイベントにおいて、「ヨーロッパはついにロシアの凍結資産をウクライナのために解放するのか？」というテーマで、ロシアの凍結された資産をウクライナの復興支援に活用する可能性について活発な議論が交わされました。欧州連合（EU）の主要国を中心に、この法的・政治的に複雑な問題の解決策が模索されており、国際法上の正当性や経済的な影響を含め、多角的な視点から検討が進められています。この問題は、ウクライナ支援の重要な財源となりうるため、国際社会の大きな関心事となっています。"
-    ],
-    "sources": [
-      {
-        "name": "Atlantic Council",
-        "url": "https://www.atlanticcouncil.org/events/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 45
-  },
-  {
-    "id": "50",
-    "category": "Service",
-    "title": "Google、AIエージェント「Gemini」の一般ユーザー向け機能拡張を発表",
-    "date": "2026/05/20",
-    "summary": "Googleは、AIエージェント「Gemini」の機能を一般ユーザー向けに拡大。より幅広いタスク処理が可能となり、AI活用の機会が大きく広がる。",
-    "details": [
-      "2026年5月20日、GoogleはAIエージェント「Gemini」の機能を一般ユーザーにも開放すると発表した。これにより、Geminiの高度なタスク処理能力やマルチモーダル機能がより多くの人々に利用可能となり、生産性向上や新たなAI活用の機会が大きく広がると期待される。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 90
   }
 ]
