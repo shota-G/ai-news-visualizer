@@ -1,6 +1,82 @@
 [
   {
     "id": "1",
+    "category": "Policy",
+    "title": "アトランティック・カウンシルがサヘル地域の安全保障課題を議論",
+    "date": "2026/05/26",
+    "summary": "アトランティック・カウンシルは、アフリカのサヘル地域における安全保障問題と安定化への道筋について議論するイベントを開催。国際的取り組みが注目される。",
+    "details": [
+      "サヘル地域はテロ活動や政治的混乱が続く国際的な懸念地域であり、今回の議論は不安定要因の特定と、国際社会及び地域政府による効果的な介入策の模索が目的。地域全体の平和と経済発展に不可欠な安定化への国際的取り組みが注目される。"
+    ],
+    "sources": [
+      {
+        "name": "Atlantic Council",
+        "url": "https://www.atlanticcouncil.org/events"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 50
+  },
+  {
+    "id": "2",
+    "category": "Policy",
+    "title": "CSISが宇宙空間における戦争遂行と抑止力、戦略的安定性を議論",
+    "date": "2026/05/26",
+    "summary": "CSISは、宇宙空間での戦争遂行と抑止力、戦略的安定性に関する専門家会議を開催。宇宙の軍事化と国家安全保障の課題が議論された。",
+    "details": [
+      "各国が宇宙資産への依存を深める中、宇宙空間での優位性確保は国家安全保障の最重要課題。本議論は、宇宙空間における潜在的な紛争のリスクと、それを管理するための国際的枠組み及び技術的対策の必要性を浮き彫りにする。"
+    ],
+    "sources": [
+      {
+        "name": "CSIS",
+        "url": "https://www.csis.org/events"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 85
+  },
+  {
+    "id": "3",
+    "category": "Policy",
+    "title": "CSISが2026年インド太平洋横断対話開催、地域の地政学的状況を議論",
+    "date": "2026/05/26",
+    "summary": "CSISは、米国、NATO、インド太平洋同盟国が進化する地政学的状況をどう乗り越えるかを探る対話を実施。連携強化の重要性を強調した。",
+    "details": [
+      "拡大する中国の影響力とロシアの侵攻が続く中、インド太平洋地域と欧州の安全保障は相互に深く関連。この対話は、民主主義国家間の連携を強化し、共通の脅威に対処するための戦略的調整と協力の道を模索する重要な機会となる。"
+    ],
+    "sources": [
+      {
+        "name": "CSIS",
+        "url": "https://www.csis.org/events"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 60
+  },
+  {
+    "id": "4",
+    "category": "Policy",
+    "title": "ブルッキングスがメキシコ新政権下における米国・メキシコ関係の将来を考察",
+    "date": "2026/05/26",
+    "summary": "ブルッキングス研究所がメキシコのシーバウム政権下での米国との関係の将来を議論。貿易、移民、麻薬対策など多岐にわたる両国関係への影響が焦点。",
+    "details": [
+      "メキシコの新政権発足は、貿易、移民、麻薬対策など多岐にわたる両国関係に新たな局面をもたらす。本議論は、米国にとって最も重要な隣国の一つであるメキシコとの協力関係が、地域の安定と経済成長にどのように影響するかを深掘りする。"
+    ],
+    "sources": [
+      {
+        "name": "Brookings Institution",
+        "url": "https://www.brookings.edu/programs/foreign-policy/events"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 50
+  },
+  {
+    "id": "5",
     "category": "Business",
     "title": "OpenAI、日本企業へ最新サイバーセキュリティAIモデルを提供",
     "date": "2026/05/25",
@@ -19,7 +95,7 @@
     "novelty": 80
   },
   {
-    "id": "2",
+    "id": "6",
     "category": "Policy",
     "title": "日本人声優、AI生成ナレーションを巡り訴訟提起",
     "date": "2026/05/25",
@@ -38,7 +114,7 @@
     "novelty": 85
   },
   {
-    "id": "3",
+    "id": "7",
     "category": "Policy",
     "title": "米国とイラン、和平協定締結へ前進か",
     "date": "2026/05/25",
@@ -57,7 +133,7 @@
     "novelty": 70
   },
   {
-    "id": "4",
+    "id": "8",
     "category": "Economy",
     "title": "ケビン・ウォーシュ氏、新FRB議長に就任",
     "date": "2026/05/25",
@@ -80,7 +156,7 @@
     "novelty": 60
   },
   {
-    "id": "5",
+    "id": "9",
     "category": "Policy",
     "title": "日米豪印「クアッド」外相会合、ニューデリーで開催へ",
     "date": "2026/05/25",
@@ -99,7 +175,7 @@
     "novelty": 65
   },
   {
-    "id": "6",
+    "id": "10",
     "category": "Economy",
     "title": "日本財務相、補正予算における国債依存からの脱却を表明",
     "date": "2026/05/25",
@@ -118,7 +194,7 @@
     "novelty": 55
   },
   {
-    "id": "7",
+    "id": "11",
     "category": "Policy",
     "title": "名護市修学旅行問題、政治的中立性に関する法に違反と認定",
     "date": "2026/05/25",
@@ -137,7 +213,7 @@
     "novelty": 50
   },
   {
-    "id": "8",
+    "id": "12",
     "category": "Economy",
     "title": "アジア株上昇、原油価格も高騰—中東紛争の不確実性続く中",
     "date": "2026/05/25",
@@ -156,7 +232,7 @@
     "novelty": 40
   },
   {
-    "id": "9",
+    "id": "13",
     "category": "Economy",
     "title": "日本の工場活動、伸び鈍化もコスト圧力は急増",
     "date": "2026/05/25",
@@ -175,7 +251,7 @@
     "novelty": 45
   },
   {
-    "id": "10",
+    "id": "14",
     "category": "Economy",
     "title": "日銀政策委員、利上げを提言し紛争によるインフレ過熱に警鐘",
     "date": "2026/05/25",
@@ -194,7 +270,7 @@
     "novelty": 60
   },
   {
-    "id": "11",
+    "id": "15",
     "category": "Business",
     "title": "中東紛争の影響で日本の自動車輸出が急減",
     "date": "2026/05/25",
@@ -213,7 +289,7 @@
     "novelty": 45
   },
   {
-    "id": "12",
+    "id": "16",
     "category": "Policy",
     "title": "米国の競争力と安全保障のための医療データとAI活用政策",
     "date": "2026/05/25",
@@ -232,7 +308,7 @@
     "novelty": 75
   },
   {
-    "id": "13",
+    "id": "17",
     "category": "Business",
     "title": "日本の輸出が8ヶ月連続で増加—供給網の混乱にも関わらず",
     "date": "2026/05/25",
@@ -251,7 +327,7 @@
     "novelty": 40
   },
   {
-    "id": "14",
+    "id": "18",
     "category": "Economy",
     "title": "日本円が対ドルで184.59に、日銀は政策金利0.75%維持を発表",
     "date": "2026/05/24",
@@ -274,7 +350,7 @@
     "novelty": 60
   },
   {
-    "id": "15",
+    "id": "19",
     "category": "Policy",
     "title": "沖縄の米兵、性的暴行容疑で検察に送致",
     "date": "2026/05/24",
@@ -293,7 +369,7 @@
     "novelty": 50
   },
   {
-    "id": "16",
+    "id": "20",
     "category": "Policy",
     "title": "米国家情報長官が辞任を発表、政権の外交・安保政策に影響か",
     "date": "2026/05/24",
@@ -312,7 +388,7 @@
     "novelty": 60
   },
   {
-    "id": "17",
+    "id": "21",
     "category": "Policy",
     "title": "日本政府、夏の電気代抑制に予備費活用を決定",
     "date": "2026/05/23",
@@ -331,7 +407,7 @@
     "novelty": 65
   },
   {
-    "id": "18",
+    "id": "22",
     "category": "Policy",
     "title": "日本と米国、薬物規制の協力強化で合意",
     "date": "2026/05/23",
@@ -350,7 +426,7 @@
     "novelty": 50
   },
   {
-    "id": "19",
+    "id": "23",
     "category": "Economy",
     "title": "日本、中東情勢による原油供給途絶リスク回避策を発表",
     "date": "2026/05/23",
@@ -369,7 +445,7 @@
     "novelty": 70
   },
   {
-    "id": "20",
+    "id": "24",
     "category": "Policy",
     "title": "イラン紛争後の核拡散防止条約（NPT）会議、最終文書採択に失敗",
     "date": "2026/05/23",
@@ -388,7 +464,7 @@
     "novelty": 75
   },
   {
-    "id": "21",
+    "id": "25",
     "category": "Policy",
     "title": "パキスタン、イラン紛争解決に向けテヘランで外交努力を強化",
     "date": "2026/05/23",
@@ -407,7 +483,7 @@
     "novelty": 70
   },
   {
-    "id": "22",
+    "id": "26",
     "category": "Policy",
     "title": "キューバで米国によるラウル・カストロ氏起訴に抗議デモ",
     "date": "2026/05/23",
@@ -426,7 +502,7 @@
     "novelty": 55
   },
   {
-    "id": "23",
+    "id": "27",
     "category": "Policy",
     "title": "NATO事務総長、ホルムズ海峡問題で米国との連携を表明",
     "date": "2026/05/23",
@@ -445,7 +521,7 @@
     "novelty": 60
   },
   {
-    "id": "24",
+    "id": "28",
     "category": "Policy",
     "title": "茂木外相、イランに対し核交渉で「最大限の柔軟性」を要請",
     "date": "2026/05/23",
@@ -464,7 +540,7 @@
     "novelty": 65
   },
   {
-    "id": "25",
+    "id": "29",
     "category": "Policy",
     "title": "エチオピアとエリトリアが再び戦争の瀬戸際に直面",
     "date": "2026/05/23",
@@ -483,7 +559,7 @@
     "novelty": 60
   },
   {
-    "id": "26",
+    "id": "30",
     "category": "Business",
     "title": "OpenAI、日本企業向けに最新のサイバーセキュリティAIモデルを提供開始",
     "date": "2026/05/23",
@@ -502,7 +578,7 @@
     "novelty": 80
   },
   {
-    "id": "27",
+    "id": "31",
     "category": "Business",
     "title": "SpaceX、史上最大のStarship宇宙船の試験打ち上げを実施",
     "date": "2026/05/23",
@@ -521,7 +597,7 @@
     "novelty": 95
   },
   {
-    "id": "28",
+    "id": "32",
     "category": "Policy",
     "title": "Trump says US in 'final stages' on Iran",
     "date": "2026/05/22",
@@ -540,7 +616,7 @@
     "novelty": 70
   },
   {
-    "id": "29",
+    "id": "33",
     "category": "Economy",
     "title": "Nikkei 225 rebounds sharply on Trump's Iran remarks",
     "date": "2026/05/22",
@@ -559,7 +635,7 @@
     "novelty": 60
   },
   {
-    "id": "30",
+    "id": "34",
     "category": "Policy",
     "title": "South Korean media: China's Xi may visit North Korea later in May or early June",
     "date": "2026/05/22",
@@ -578,7 +654,7 @@
     "novelty": 75
   },
   {
-    "id": "31",
+    "id": "35",
     "category": "Business",
     "title": "Major Japan food retailers look to cut plastic use as costs jump",
     "date": "2026/05/22",
@@ -597,7 +673,7 @@
     "novelty": 65
   },
   {
-    "id": "32",
+    "id": "36",
     "category": "Policy",
     "title": "Japan mayor set to become first with maternity leave",
     "date": "2026/05/22",
@@ -616,7 +692,7 @@
     "novelty": 80
   },
   {
-    "id": "33",
+    "id": "37",
     "category": "Service",
     "title": "OpenAI、日本の企業に最新サイバーセキュリティAIモデルを提供",
     "date": "2026/05/22",
@@ -635,7 +711,7 @@
     "novelty": 75
   },
   {
-    "id": "34",
+    "id": "38",
     "category": "Policy",
     "title": "トランプ大統領、ポーランドに5,000人の追加部隊派遣を発表",
     "date": "2026/05/22",
@@ -654,7 +730,7 @@
     "novelty": 60
   },
   {
-    "id": "35",
+    "id": "39",
     "category": "Policy",
     "title": "エチオピアとエリトリア、再び戦争の危機に瀕する",
     "date": "2026/05/22",
@@ -673,7 +749,7 @@
     "novelty": 50
   },
   {
-    "id": "36",
+    "id": "40",
     "category": "Policy",
     "title": "ロシアの侵略戦争の中、ウクライナがヴィシヴァンカ・デーで民族のアイデンティティを祝う",
     "date": "2026/05/22",
@@ -692,7 +768,7 @@
     "novelty": 30
   },
   {
-    "id": "37",
+    "id": "41",
     "category": "Economy",
     "title": "日本の4月インフレ率が鈍化、日銀の金融政策に影響か",
     "date": "2026/05/22",
@@ -711,7 +787,7 @@
     "novelty": 60
   },
   {
-    "id": "38",
+    "id": "42",
     "category": "Economy",
     "title": "日経平均株価、史上最高値を更新して終値",
     "date": "2026/05/22",
@@ -730,7 +806,7 @@
     "novelty": 70
   },
   {
-    "id": "39",
+    "id": "43",
     "category": "Economy",
     "title": "日本政府、夏季の電気料金抑制のため予備費活用へ",
     "date": "2026/05/22",
@@ -749,7 +825,7 @@
     "novelty": 40
   },
   {
-    "id": "40",
+    "id": "44",
     "category": "Economy",
     "title": "中東情勢の不確実性の中、アジア株は上昇し原油価格も高騰",
     "date": "2026/05/22",
@@ -768,7 +844,7 @@
     "novelty": 55
   },
   {
-    "id": "41",
+    "id": "45",
     "category": "Policy",
     "title": "日米両国、麻薬対策での連携強化で合意",
     "date": "2026/05/22",
@@ -787,7 +863,7 @@
     "novelty": 40
   },
   {
-    "id": "42",
+    "id": "46",
     "category": "Policy",
     "title": "文部科学省、京都の学校が政治的中立性を侵害したと発表",
     "date": "2026/05/22",
@@ -806,7 +882,7 @@
     "novelty": 30
   },
   {
-    "id": "43",
+    "id": "47",
     "category": "Policy",
     "title": "解説：日本の「政治的中立性」法を巡る論争",
     "date": "2026/05/22",
@@ -825,7 +901,7 @@
     "novelty": 35
   },
   {
-    "id": "44",
+    "id": "48",
     "category": "Model",
     "title": "認知か偏見か：MLLMは性格の第一印象を超越できるか？",
     "date": "2026/05/22",
@@ -844,7 +920,7 @@
     "novelty": 85
   },
   {
-    "id": "45",
+    "id": "49",
     "category": "Economy",
     "title": "日本の大学新卒者就職率が98.0%に達し、好調な労働市場を示す",
     "date": "2026/05/22",
@@ -863,7 +939,7 @@
     "novelty": 40
   },
   {
-    "id": "46",
+    "id": "50",
     "category": "Economy",
     "title": "UAEからの原油タンカー、日本に到着しエネルギー供給安定化に寄与",
     "date": "2026/05/22",
@@ -880,79 +956,5 @@
     "importance": "high",
     "socialImpact": 80,
     "novelty": 30
-  },
-  {
-    "id": "47",
-    "category": "Economy",
-    "title": "イラン協議への楽観論で日経平均株価が上昇",
-    "date": "2026/05/22",
-    "summary": "イランを巡る国際協議に進展の兆しが見え、中東情勢の緊張緩和への期待から、日経平均株価が上昇した。地政学リスクの後退が市場心理を改善した。",
-    "details": [
-      "中東情勢の安定化は原油価格の抑制に繋がり、世界経済、特に日本のようなエネルギー輸入国にとって好材料となる。しかし、協議の具体的な成果や長期的な安定性はまだ不透明であり、市場は今後の動向を慎重に見守る姿勢を崩していない。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 45
-  },
-  {
-    "id": "48",
-    "category": "Policy",
-    "title": "米アトランティック・カウンシル、ヘルスケアAI政策に関するイベントを開催",
-    "date": "2026/05/21",
-    "summary": "米シンクタンクのアトランティック・カウンシルが、「ヘルスケアデータとAIの大規模展開：米国の競争力と安全保障のための政策選択」に関するイベントを開催する。",
-    "details": "ヘルスケア分野でのAI導入は、医療の効率化や診断精度の向上に貢献する一方で、患者データのプライバシー、倫理的な公平性、セキュリティなど多岐にわたる政策課題を提起する。このイベントは、これらの複雑な課題解決に向けた議論を深める重要な機会となる。",
-    "sources": [
-      {
-        "name": "Atlantic Council",
-        "url": "https://www.atlanticcouncil.org/events"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 60
-  },
-  {
-    "id": "49",
-    "category": "Policy",
-    "title": "U.S. rocket launcher drill near Mt. Fuji draws protests",
-    "date": "2026/05/21",
-    "summary": "富士山麓での米軍ロケットランチャー訓練に対し、地元住民から強い抗議が寄せられています。日米安保と環境、住民生活の間の緊張が浮き彫りになりました。",
-    "details": [
-      "米軍の訓練強化は地域住民の安全と環境への懸念を増幅させており、日米地位協定の見直しや訓練地の分散化が求められています。国防と地域共存のバランスが今後の政治課題となるでしょう。"
-    ],
-    "sources": [
-      {
-        "name": "The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 60
-  },
-  {
-    "id": "50",
-    "category": "Economy",
-    "title": "Takaichi eager to limit debt finance for extra budget on energy shock",
-    "date": "2026/05/21",
-    "summary": "高市総理は、中東紛争によるエネルギー価格高騰に対応するための補正予算について、赤字国債発行の抑制に意欲を示しました。財政健全化へのコミットメントを強調する狙いです。",
-    "details": [
-      "エネルギー危機が日本の財政を圧迫する中、政府は経済対策と財政規律維持の間で難しい舵取りを迫られています。赤字国債抑制への姿勢は市場の信頼を得る一方で、景気対策への影響も懸念されます。"
-    ],
-    "sources": [
-      {
-        "name": "The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 65
   }
 ]
