@@ -77,6 +77,57 @@
   },
   {
     "id": "5",
+    "category": "Policy",
+    "title": "CSIS、宇宙における戦闘と戦略的安定性に関する議論を開催",
+    "date": "2026/05/26",
+    "summary": "CSISが宇宙空間の軍事利用とその抑止力、戦略的安定性への影響について議論。国際安全保障の新たなフロンティアへの対応が焦点。",
+    "details": "宇宙空間での軍事能力の進展は、国際的な抑止力と戦略的安定性に重大な影響を及ぼしている。CSISの専門家らは、この進化する領域における課題と機会、そして多国間協力の必要性について深く掘り下げた。",
+    "sources": [
+      {
+        "name": "CSIS",
+        "url": "https://www.csis.org/events/warfighting-and-war-winning-space"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 70
+  },
+  {
+    "id": "6",
+    "category": "Policy",
+    "title": "CSIS、インド太平洋地域における米欧同盟対話を実施",
+    "date": "2026/05/26",
+    "summary": "CSISがインド太平洋地域の地政学的動向について米国のNATOおよび同盟国との対話を開催。進化する安全保障環境への協調的対応を模索。",
+    "details": "米国、NATO、インド太平洋地域の同盟国が、2026年の複雑な地政学的状況をどのように乗り越えるべきかについて議論。地域の安定、経済安全保障、そして民主的価値観の維持に向けた協力関係の強化が強調された。",
+    "sources": [
+      {
+        "name": "CSIS",
+        "url": "https://www.csis.org/events/2026-csis-csds-transatlantic-dialogue-indo-pacific"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 65
+  },
+  {
+    "id": "7",
+    "category": "Policy",
+    "title": "CSIS、太平洋諸島の安全保障に関する若手リーダー報告書を発表",
+    "date": "2026/05/26",
+    "summary": "CSISが太平洋諸島の安全保障課題と外交政策の重要性を強調する若手リーダーの報告書を発表。地域特有の脆弱性と国際的支援の必要性を指摘。",
+    "details": "太平洋諸島は気候変動、経済的圧力、地政学的競争など多岐にわたる安全保障上の課題に直面している。本報告書は、これらの課題に対処するための若手リーダーの視点を提供し、国際社会からの協力と支援の重要性を強調した。",
+    "sources": [
+      {
+        "name": "CSIS",
+        "url": "https://www.csis.org/events/security-and-pacific-islands-insights-young-pacific-leaders-report-launch"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 50
+  },
+  {
+    "id": "8",
     "category": "Business",
     "title": "OpenAI、日本企業へ最新サイバーセキュリティAIモデルを提供",
     "date": "2026/05/25",
@@ -95,7 +146,7 @@
     "novelty": 80
   },
   {
-    "id": "6",
+    "id": "9",
     "category": "Policy",
     "title": "日本人声優、AI生成ナレーションを巡り訴訟提起",
     "date": "2026/05/25",
@@ -114,7 +165,7 @@
     "novelty": 85
   },
   {
-    "id": "7",
+    "id": "10",
     "category": "Policy",
     "title": "米国とイラン、和平協定締結へ前進か",
     "date": "2026/05/25",
@@ -133,7 +184,7 @@
     "novelty": 70
   },
   {
-    "id": "8",
+    "id": "11",
     "category": "Economy",
     "title": "ケビン・ウォーシュ氏、新FRB議長に就任",
     "date": "2026/05/25",
@@ -156,7 +207,7 @@
     "novelty": 60
   },
   {
-    "id": "9",
+    "id": "12",
     "category": "Policy",
     "title": "日米豪印「クアッド」外相会合、ニューデリーで開催へ",
     "date": "2026/05/25",
@@ -175,7 +226,7 @@
     "novelty": 65
   },
   {
-    "id": "10",
+    "id": "13",
     "category": "Economy",
     "title": "日本財務相、補正予算における国債依存からの脱却を表明",
     "date": "2026/05/25",
@@ -194,7 +245,7 @@
     "novelty": 55
   },
   {
-    "id": "11",
+    "id": "14",
     "category": "Policy",
     "title": "名護市修学旅行問題、政治的中立性に関する法に違反と認定",
     "date": "2026/05/25",
@@ -213,7 +264,7 @@
     "novelty": 50
   },
   {
-    "id": "12",
+    "id": "15",
     "category": "Economy",
     "title": "アジア株上昇、原油価格も高騰—中東紛争の不確実性続く中",
     "date": "2026/05/25",
@@ -232,7 +283,7 @@
     "novelty": 40
   },
   {
-    "id": "13",
+    "id": "16",
     "category": "Economy",
     "title": "日本の工場活動、伸び鈍化もコスト圧力は急増",
     "date": "2026/05/25",
@@ -251,7 +302,7 @@
     "novelty": 45
   },
   {
-    "id": "14",
+    "id": "17",
     "category": "Economy",
     "title": "日銀政策委員、利上げを提言し紛争によるインフレ過熱に警鐘",
     "date": "2026/05/25",
@@ -270,7 +321,7 @@
     "novelty": 60
   },
   {
-    "id": "15",
+    "id": "18",
     "category": "Business",
     "title": "中東紛争の影響で日本の自動車輸出が急減",
     "date": "2026/05/25",
@@ -289,7 +340,7 @@
     "novelty": 45
   },
   {
-    "id": "16",
+    "id": "19",
     "category": "Policy",
     "title": "米国の競争力と安全保障のための医療データとAI活用政策",
     "date": "2026/05/25",
@@ -308,7 +359,7 @@
     "novelty": 75
   },
   {
-    "id": "17",
+    "id": "20",
     "category": "Business",
     "title": "日本の輸出が8ヶ月連続で増加—供給網の混乱にも関わらず",
     "date": "2026/05/25",
@@ -327,7 +378,24 @@
     "novelty": 40
   },
   {
-    "id": "18",
+    "id": "21",
+    "category": "Economy",
+    "title": "出光丸、ホルムズ海峡を通過し日本に到着",
+    "date": "2026/05/25",
+    "summary": "中東情勢の緊迫化が続く中、日本のタンカー出光丸がホルムズ海峡を無事に通過し日本に到着。エネルギー安全保障に一時的な安堵をもたらす。",
+    "details": "イランを巡る情勢が不安定な中、原油輸送の要衝であるホルムズ海峡の安全な航行は日本のエネルギー供給にとって極めて重要。今回の無事通過は、地政学リスク下における海上輸送の脆弱性を浮き彫りにしつつ、日本の経済活動維持への努力を示した。",
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw/articles/16306762"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 40
+  },
+  {
+    "id": "22",
     "category": "Economy",
     "title": "日本円が対ドルで184.59に、日銀は政策金利0.75%維持を発表",
     "date": "2026/05/24",
@@ -350,7 +418,7 @@
     "novelty": 60
   },
   {
-    "id": "19",
+    "id": "23",
     "category": "Policy",
     "title": "沖縄の米兵、性的暴行容疑で検察に送致",
     "date": "2026/05/24",
@@ -369,7 +437,7 @@
     "novelty": 50
   },
   {
-    "id": "20",
+    "id": "24",
     "category": "Policy",
     "title": "米国家情報長官が辞任を発表、政権の外交・安保政策に影響か",
     "date": "2026/05/24",
@@ -388,7 +456,7 @@
     "novelty": 60
   },
   {
-    "id": "21",
+    "id": "25",
     "category": "Policy",
     "title": "日本政府、夏の電気代抑制に予備費活用を決定",
     "date": "2026/05/23",
@@ -407,7 +475,7 @@
     "novelty": 65
   },
   {
-    "id": "22",
+    "id": "26",
     "category": "Policy",
     "title": "日本と米国、薬物規制の協力強化で合意",
     "date": "2026/05/23",
@@ -426,7 +494,7 @@
     "novelty": 50
   },
   {
-    "id": "23",
+    "id": "27",
     "category": "Economy",
     "title": "日本、中東情勢による原油供給途絶リスク回避策を発表",
     "date": "2026/05/23",
@@ -445,7 +513,7 @@
     "novelty": 70
   },
   {
-    "id": "24",
+    "id": "28",
     "category": "Policy",
     "title": "イラン紛争後の核拡散防止条約（NPT）会議、最終文書採択に失敗",
     "date": "2026/05/23",
@@ -464,7 +532,7 @@
     "novelty": 75
   },
   {
-    "id": "25",
+    "id": "29",
     "category": "Policy",
     "title": "パキスタン、イラン紛争解決に向けテヘランで外交努力を強化",
     "date": "2026/05/23",
@@ -483,7 +551,7 @@
     "novelty": 70
   },
   {
-    "id": "26",
+    "id": "30",
     "category": "Policy",
     "title": "キューバで米国によるラウル・カストロ氏起訴に抗議デモ",
     "date": "2026/05/23",
@@ -502,7 +570,7 @@
     "novelty": 55
   },
   {
-    "id": "27",
+    "id": "31",
     "category": "Policy",
     "title": "NATO事務総長、ホルムズ海峡問題で米国との連携を表明",
     "date": "2026/05/23",
@@ -521,7 +589,7 @@
     "novelty": 60
   },
   {
-    "id": "28",
+    "id": "32",
     "category": "Policy",
     "title": "茂木外相、イランに対し核交渉で「最大限の柔軟性」を要請",
     "date": "2026/05/23",
@@ -540,7 +608,7 @@
     "novelty": 65
   },
   {
-    "id": "29",
+    "id": "33",
     "category": "Policy",
     "title": "エチオピアとエリトリアが再び戦争の瀬戸際に直面",
     "date": "2026/05/23",
@@ -559,7 +627,7 @@
     "novelty": 60
   },
   {
-    "id": "30",
+    "id": "34",
     "category": "Business",
     "title": "OpenAI、日本企業向けに最新のサイバーセキュリティAIモデルを提供開始",
     "date": "2026/05/23",
@@ -578,7 +646,7 @@
     "novelty": 80
   },
   {
-    "id": "31",
+    "id": "35",
     "category": "Business",
     "title": "SpaceX、史上最大のStarship宇宙船の試験打ち上げを実施",
     "date": "2026/05/23",
@@ -597,7 +665,41 @@
     "novelty": 95
   },
   {
-    "id": "32",
+    "id": "36",
+    "category": "Business",
+    "title": "カザフスタンのスーパーアプリ、法規制の進展を上回る",
+    "date": "2026/05/23",
+    "summary": "カザフスタンで金融とテクノロジーを融合したスーパーアプリが急速に発展。そのイノベーション速度に法的規制が追いつかず、新たな課題を生み出している。",
+    "details": "カザフスタンのフィンテック市場では、スーパーアプリが従来の金融システムを凌駕する勢いで進化しており、データプライバシーや消費者保護に関する法規制の整備が急務となっている。この技術革新はビジネスモデルを変革する一方で、政府にはより迅速な規制対応が求められる。",
+    "sources": [
+      {
+        "name": "The Diplomat",
+        "url": "https://thediplomat.com/2026/05/how-kazakhstans-super-apps-outpace-the-law/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 70
+  },
+  {
+    "id": "37",
+    "category": "Policy",
+    "title": "国際関係において実用主義がイデオロギーに取って代わるか？",
+    "date": "2026/05/23",
+    "summary": "Al Jazeeraが、国際関係における意思決定において、イデオロギーよりも実用主義的なアプローチが台頭している可能性について議論。",
+    "details": "グローバルな課題が複雑化する中で、各国はイデオロギー的な立場を越え、国益に基づいた現実的な解決策を模索する傾向が強まっている。この議論は、今後の国際協力や外交戦略の方向性に影響を与える可能性がある。",
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/5/23/is-pragmatism-replacing-ideology-in-international"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 60
+  },
+  {
+    "id": "38",
     "category": "Policy",
     "title": "Trump says US in 'final stages' on Iran",
     "date": "2026/05/22",
@@ -616,7 +718,7 @@
     "novelty": 70
   },
   {
-    "id": "33",
+    "id": "39",
     "category": "Economy",
     "title": "Nikkei 225 rebounds sharply on Trump's Iran remarks",
     "date": "2026/05/22",
@@ -635,7 +737,7 @@
     "novelty": 60
   },
   {
-    "id": "34",
+    "id": "40",
     "category": "Policy",
     "title": "South Korean media: China's Xi may visit North Korea later in May or early June",
     "date": "2026/05/22",
@@ -654,7 +756,7 @@
     "novelty": 75
   },
   {
-    "id": "35",
+    "id": "41",
     "category": "Business",
     "title": "Major Japan food retailers look to cut plastic use as costs jump",
     "date": "2026/05/22",
@@ -673,7 +775,7 @@
     "novelty": 65
   },
   {
-    "id": "36",
+    "id": "42",
     "category": "Policy",
     "title": "Japan mayor set to become first with maternity leave",
     "date": "2026/05/22",
@@ -692,7 +794,7 @@
     "novelty": 80
   },
   {
-    "id": "37",
+    "id": "43",
     "category": "Service",
     "title": "OpenAI、日本の企業に最新サイバーセキュリティAIモデルを提供",
     "date": "2026/05/22",
@@ -711,7 +813,7 @@
     "novelty": 75
   },
   {
-    "id": "38",
+    "id": "44",
     "category": "Policy",
     "title": "トランプ大統領、ポーランドに5,000人の追加部隊派遣を発表",
     "date": "2026/05/22",
@@ -730,7 +832,7 @@
     "novelty": 60
   },
   {
-    "id": "39",
+    "id": "45",
     "category": "Policy",
     "title": "エチオピアとエリトリア、再び戦争の危機に瀕する",
     "date": "2026/05/22",
@@ -749,7 +851,7 @@
     "novelty": 50
   },
   {
-    "id": "40",
+    "id": "46",
     "category": "Policy",
     "title": "ロシアの侵略戦争の中、ウクライナがヴィシヴァンカ・デーで民族のアイデンティティを祝う",
     "date": "2026/05/22",
@@ -768,7 +870,7 @@
     "novelty": 30
   },
   {
-    "id": "41",
+    "id": "47",
     "category": "Economy",
     "title": "日本の4月インフレ率が鈍化、日銀の金融政策に影響か",
     "date": "2026/05/22",
@@ -787,7 +889,7 @@
     "novelty": 60
   },
   {
-    "id": "42",
+    "id": "48",
     "category": "Economy",
     "title": "日経平均株価、史上最高値を更新して終値",
     "date": "2026/05/22",
@@ -806,7 +908,7 @@
     "novelty": 70
   },
   {
-    "id": "43",
+    "id": "49",
     "category": "Economy",
     "title": "日本政府、夏季の電気料金抑制のため予備費活用へ",
     "date": "2026/05/22",
@@ -825,7 +927,7 @@
     "novelty": 40
   },
   {
-    "id": "44",
+    "id": "50",
     "category": "Economy",
     "title": "中東情勢の不確実性の中、アジア株は上昇し原油価格も高騰",
     "date": "2026/05/22",
@@ -842,119 +944,5 @@
     "importance": "high",
     "socialImpact": 75,
     "novelty": 55
-  },
-  {
-    "id": "45",
-    "category": "Policy",
-    "title": "日米両国、麻薬対策での連携強化で合意",
-    "date": "2026/05/22",
-    "summary": "日本と米国は、国際的な麻薬密売や薬物乱用に対抗するため、麻薬取締りにおける協力関係を一層強化することで合意した。",
-    "details": [
-      "この合意は、サイバー犯罪や国際テロ組織との関連が指摘される麻薬密売の複雑化に対応するため、情報共有、捜査協力、技術支援の分野での連携を深めることを目的としている。両国の連携強化は、アジア太平洋地域全体の治安維持と国際社会の安全に貢献すると期待される。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 40
-  },
-  {
-    "id": "46",
-    "category": "Policy",
-    "title": "文部科学省、京都の学校が政治的中立性を侵害したと発表",
-    "date": "2026/05/22",
-    "summary": "文部科学省は、京都市内の学校が教育基本法に定める政治的中立性を逸脱したとして、是正指導を行ったことを明らかにした。教育現場のあり方に議論を呼ぶ可能性がある。",
-    "details": [
-      "具体的な侵害内容は不明だが、教育現場における特定の政治的立場への偏りが問題視されたものと見られる。この件は、教育の自由と政治的中立性のバランス、および教員の表現の自由に関する議論を再燃させる可能性があり、今後の教育現場への影響が注目される。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 30
-  },
-  {
-    "id": "47",
-    "category": "Policy",
-    "title": "解説：日本の「政治的中立性」法を巡る論争",
-    "date": "2026/05/22",
-    "summary": "日本で「政治的中立性」に関する法律を巡る議論が再燃。教育現場や公的機関における表現の自由と中立性保持のバランスが問われている。",
-    "details": [
-      "特に、政府の政策に対する意見表明や社会問題への関与がどこまで許容されるかについて、解釈の幅を巡る意見対立が深まっている。この論争は、市民の権利と公共性のあり方、および民主主義社会における中立性の本質について、広範な議論を促すものとなるだろう。"
-    ],
-    "sources": [
-      {
-        "name": "The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 35
-  },
-  {
-    "id": "48",
-    "category": "Model",
-    "title": "認知か偏見か：MLLMは性格の第一印象を超越できるか？",
-    "date": "2026/05/22",
-    "summary": "arXivに公開された研究で、マルチモーダル大規模言語モデル（MLLM）が人間の性格を評価する際、第一印象に囚われずに深く理解できるかを探る。",
-    "details": [
-      "この研究は、MLLMが画像やテキストといった複数の情報源から人間の感情や性格をどの程度正確に捉え、表面的なバイアスを超えた推論が可能かを検証。AIの倫理的側面や、より人間らしい対話能力の向上に寄与する可能性を秘めている。"
-    ],
-    "sources": [
-      {
-        "name": "arXiv",
-        "url": "https://arxiv.org/list/cs.AI/recent"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 85
-  },
-  {
-    "id": "49",
-    "category": "Economy",
-    "title": "日本の大学新卒者就職率が98.0%に達し、好調な労働市場を示す",
-    "date": "2026/05/22",
-    "summary": "日本の大学新卒者の就職率が98.0%と非常に高い水準に達し、労働市場が活況を呈していることを示している。少子高齢化による人手不足も背景にある。",
-    "details": [
-      "この高い就職率は、企業の人材確保競争の激化と、日本経済の緩やかな回復を反映している。しかし、業種間のミスマッチや、AI技術の進展による将来的な雇用構造の変化への対応も課題として浮上しており、継続的な教育・リスキリングの重要性が高まっている。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 75,
-    "novelty": 40
-  },
-  {
-    "id": "50",
-    "category": "Economy",
-    "title": "UAEからの原油タンカー、日本に到着しエネルギー供給安定化に寄与",
-    "date": "2026/05/22",
-    "summary": "アラブ首長国連邦（UAE）から原油を積んだタンカーが日本に到着。中東情勢緊迫化によるエネルギー供給懸念が高まる中、日本の安定確保に向けた重要な動きだ。",
-    "details": [
-      "ホルムズ海峡を経由した今回の原油輸送は、世界的な地政学リスクが高まる中で、特に石油輸入を中東に大きく依存する日本にとって供給網の脆弱性を改めて認識させる出来事となった。政府は、エネルギー安全保障の多角化と国内備蓄の強化をさらに推進する必要がある。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 30
   }
 ]
