@@ -2,73 +2,48 @@
   {
     "id": "1",
     "category": "Policy",
-    "title": "アトランティック・カウンシルがサヘル地域の安全保障課題を議論",
+    "title": "CSIS、宇宙における戦闘と戦略的安定性に関する議論を開催",
     "date": "2026/05/26",
-    "summary": "アトランティック・カウンシルは、アフリカのサヘル地域における安全保障問題と安定化への道筋について議論するイベントを開催。国際的取り組みが注目される。",
-    "details": [
-      "サヘル地域はテロ活動や政治的混乱が続く国際的な懸念地域であり、今回の議論は不安定要因の特定と、国際社会及び地域政府による効果的な介入策の模索が目的。地域全体の平和と経済発展に不可欠な安定化への国際的取り組みが注目される。"
-    ],
+    "summary": "CSISが宇宙空間の軍事利用とその抑止力、戦略的安定性への影響について議論。国際安全保障の新たなフロンティアへの対応が焦点。",
+    "details": "宇宙空間での軍事能力の進展は、国際的な抑止力と戦略的安定性に重大な影響を及ぼしている。CSISの専門家らは、この進化する領域における課題と機会、そして多国間協力の必要性について深く掘り下げた。",
     "sources": [
       {
-        "name": "Atlantic Council",
-        "url": "https://www.atlanticcouncil.org/events"
+        "name": "CSIS",
+        "url": "https://www.csis.org/events/warfighting-and-war-winning-space"
       }
     ],
     "importance": "high",
     "socialImpact": 80,
-    "novelty": 50
+    "novelty": 70
   },
   {
     "id": "2",
     "category": "Policy",
-    "title": "CSISが宇宙空間における戦争遂行と抑止力、戦略的安定性を議論",
+    "title": "CSIS、インド太平洋地域における米欧同盟対話を実施",
     "date": "2026/05/26",
-    "summary": "CSISは、宇宙空間での戦争遂行と抑止力、戦略的安定性に関する専門家会議を開催。宇宙の軍事化と国家安全保障の課題が議論された。",
-    "details": [
-      "各国が宇宙資産への依存を深める中、宇宙空間での優位性確保は国家安全保障の最重要課題。本議論は、宇宙空間における潜在的な紛争のリスクと、それを管理するための国際的枠組み及び技術的対策の必要性を浮き彫りにする。"
-    ],
+    "summary": "CSISがインド太平洋地域の地政学的動向について米国のNATOおよび同盟国との対話を開催。進化する安全保障環境への協調的対応を模索。",
+    "details": "米国、NATO、インド太平洋地域の同盟国が、2026年の複雑な地政学的状況をどのように乗り越えるべきかについて議論。地域の安定、経済安全保障、そして民主的価値観の維持に向けた協力関係の強化が強調された。",
     "sources": [
       {
         "name": "CSIS",
-        "url": "https://www.csis.org/events"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 85
-  },
-  {
-    "id": "3",
-    "category": "Policy",
-    "title": "CSISが2026年インド太平洋横断対話開催、地域の地政学的状況を議論",
-    "date": "2026/05/26",
-    "summary": "CSISは、米国、NATO、インド太平洋同盟国が進化する地政学的状況をどう乗り越えるかを探る対話を実施。連携強化の重要性を強調した。",
-    "details": [
-      "拡大する中国の影響力とロシアの侵攻が続く中、インド太平洋地域と欧州の安全保障は相互に深く関連。この対話は、民主主義国家間の連携を強化し、共通の脅威に対処するための戦略的調整と協力の道を模索する重要な機会となる。"
-    ],
-    "sources": [
-      {
-        "name": "CSIS",
-        "url": "https://www.csis.org/events"
+        "url": "https://www.csis.org/events/2026-csis-csds-transatlantic-dialogue-indo-pacific"
       }
     ],
     "importance": "high",
     "socialImpact": 85,
-    "novelty": 60
+    "novelty": 65
   },
   {
-    "id": "4",
+    "id": "3",
     "category": "Policy",
-    "title": "ブルッキングスがメキシコ新政権下における米国・メキシコ関係の将来を考察",
+    "title": "CSIS、太平洋諸島の安全保障に関する若手リーダー報告書を発表",
     "date": "2026/05/26",
-    "summary": "ブルッキングス研究所がメキシコのシーバウム政権下での米国との関係の将来を議論。貿易、移民、麻薬対策など多岐にわたる両国関係への影響が焦点。",
-    "details": [
-      "メキシコの新政権発足は、貿易、移民、麻薬対策など多岐にわたる両国関係に新たな局面をもたらす。本議論は、米国にとって最も重要な隣国の一つであるメキシコとの協力関係が、地域の安定と経済成長にどのように影響するかを深掘りする。"
-    ],
+    "summary": "CSISが太平洋諸島の安全保障課題と外交政策の重要性を強調する若手リーダーの報告書を発表。地域特有の脆弱性と国際的支援の必要性を指摘。",
+    "details": "太平洋諸島は気候変動、経済的圧力、地政学的競争など多岐にわたる安全保障上の課題に直面している。本報告書は、これらの課題に対処するための若手リーダーの視点を提供し、国際社会からの協力と支援の重要性を強調した。",
     "sources": [
       {
-        "name": "Brookings Institution",
-        "url": "https://www.brookings.edu/programs/foreign-policy/events"
+        "name": "CSIS",
+        "url": "https://www.csis.org/events/security-and-pacific-islands-insights-young-pacific-leaders-report-launch"
       }
     ],
     "importance": "medium",
@@ -76,56 +51,101 @@
     "novelty": 50
   },
   {
-    "id": "5",
-    "category": "Model",
-    "title": "CSISが「AI戦争の夜明け」をテーマにAI技術の軍事転用とその影響を議論",
-    "date": "2026/05/22",
-    "summary": "CSISが、AIが戦争の形態をどのように変えるか、その新たな脅威と倫理的課題に焦点を当てた議論を配信。AI兵器の国際安全保障への影響を考察。",
-    "details": [
-      "自律型兵器システムや高度な情報戦におけるAIの役割は、国際安全保障のパラダイムを根本的に変える可能性を秘める。本議論は、技術的進歩がもたらす軍事的優位性の追求と、それに伴う国際法、倫理規範の再構築の緊急性について警鐘を鳴らす。"
-    ],
+    "id": "4",
+    "category": "Economy",
+    "title": "出光丸、ホルムズ海峡を通過し日本に到着",
+    "date": "2026/05/25",
+    "summary": "中東情勢の緊迫化が続く中、日本のタンカー出光丸がホルムズ海峡を無事に通過し日本に到着。エネルギー安全保障に一時的な安堵をもたらす。",
+    "details": "イランを巡る情勢が不安定な中、原油輸送の要衝であるホルムズ海峡の安全な航行は日本のエネルギー供給にとって極めて重要。今回の無事通過は、地政学リスク下における海上輸送の脆弱性を浮き彫りにしつつ、日本の経済活動維持への努力を示した。",
     "sources": [
       {
-        "name": "CSIS via YouTube",
-        "url": "https://www.youtube.com/watch?v=LdTiKOWaoIY"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 95,
-    "novelty": 90
-  },
-  {
-    "id": "6",
-    "category": "Service",
-    "title": "米国の競争力と安全保障を強化する大規模ヘルスAIデータの政策選択",
-    "date": "2026/05/21",
-    "summary": "アトランティック・カウンシルは、ヘルスデータと大規模AIの統合が米国の競争力と安全保障に与える影響に関する政策議論を開催した。",
-    "details": [
-      "医療分野におけるAIの活用は診断精度向上や新薬開発加速に貢献する一方、プライバシー保護やデータセキュリティの課題を伴う。本イベントは、技術革新を促進しつつ、倫理的・法的な側面を考慮したバランスの取れた政策立案の重要性を強調する。"
-    ],
-    "sources": [
-      {
-        "name": "Atlantic Council",
-        "url": "https://www.atlanticcouncil.org/events"
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw/articles/16306762"
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
-    "novelty": 80
+    "socialImpact": 75,
+    "novelty": 40
+  },
+  {
+    "id": "5",
+    "category": "Business",
+    "title": "カザフスタンのスーパーアプリ、法規制の進展を上回る",
+    "date": "2026/05/23",
+    "summary": "カザフスタンで金融とテクノロジーを融合したスーパーアプリが急速に発展。そのイノベーション速度に法的規制が追いつかず、新たな課題を生み出している。",
+    "details": "カザフスタンのフィンテック市場では、スーパーアプリが従来の金融システムを凌駕する勢いで進化しており、データプライバシーや消費者保護に関する法規制の整備が急務となっている。この技術革新はビジネスモデルを変革する一方で、政府にはより迅速な規制対応が求められる。",
+    "sources": [
+      {
+        "name": "The Diplomat",
+        "url": "https://thediplomat.com/2026/05/how-kazakhstans-super-apps-outpace-the-law/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 70
+  },
+  {
+    "id": "6",
+    "category": "Policy",
+    "title": "国際関係において実用主義がイデオロギーに取って代わるか？",
+    "date": "2026/05/23",
+    "summary": "Al Jazeeraが、国際関係における意思決定において、イデオロギーよりも実用主義的なアプローチが台頭している可能性について議論。",
+    "details": "グローバルな課題が複雑化する中で、各国はイデオロギー的な立場を越え、国益に基づいた現実的な解決策を模索する傾向が強まっている。この議論は、今後の国際協力や外交戦略の方向性に影響を与える可能性がある。",
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/5/23/is-pragmatism-replacing-ideology-in-international"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 60
   },
   {
     "id": "7",
     "category": "Policy",
-    "title": "CSISが米中間のAI軍拡競争がエスカレートする危険性について分析",
-    "date": "2026/05/12",
-    "summary": "CSISは、米国と中国間のAI軍拡競争がもたらす危険性と、両国の指導者がこれにどう対処すべきかについて分析を公開。国際秩序への影響が懸念される。",
-    "details": [
-      "AI技術は経済と軍事の両面で国家力を左右する戦略的資産となり、米中間の競争は制御不能なエスカレーションリスクを孕む。この分析は、技術覇権争いの行方が国際秩序に与える影響と、危機回避のための対話の必要性を強調している。"
-    ],
+    "title": "CSIS、2026年の宇宙における最大の脅威を議論",
+    "date": "2026/05/22",
+    "summary": "CSISが2026年に想定される宇宙空間での安全保障上の脅威について専門家を交えて議論。軍事化の加速と新たなリスクが焦点。",
+    "details": "衛星攻撃兵器の開発競争、サイバー攻撃による宇宙システムへの妨害、そして宇宙ゴミ問題など、宇宙空間の安全保障は新たな局面を迎えている。CSISのイベントでは、これらの脅威が国際紛争に与える影響と多国間協調の必要性が強調された。",
     "sources": [
       {
         "name": "CSIS",
-        "url": "https://www.csis.org"
+        "url": "https://www.csis.org/events/what-are-biggest-space-threats-2026"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 70
+  },
+  {
+    "id": "8",
+    "category": "Policy",
+    "title": "メモリアルデーに戦没者を追悼する米国",
+    "date": "2026/05/22",
+    "summary": "米国がメモリアルデーを迎え、国家のために犠牲となった軍人たちを追悼。外交関係評議会が英雄たちの奉仕の重要性を再認識。",
+    "details": "メモリアルデーは、米国の自由と安全保障を守るために命を捧げた軍人たちへの深い敬意を表す日である。外交関係評議会は、彼らの犠牲が国家の外交政策と国際的役割に与えた影響を考察し、その記憶を次世代に伝えることの重要性を説いた。",
+    "sources": [
+      {
+        "name": "Council on Foreign Relations",
+        "url": "https://www.cfr.org/post/remembering-fallen-hero-memorial-day"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 30
+  },
+  {
+    "id": "9",
+    "category": "Policy",
+    "title": "CSIS、AI兵器の夜明けについて議論",
+    "date": "2026/05/21",
+    "summary": "CSISがAI兵器の急速な発展と軍事戦略への影響を検証。国際安全保障、倫理、規制に関する議論が深まる。",
+    "details": "AI技術の軍事転用は、自律型兵器システムや情報戦の様相を一変させつつある。CSISの専門家らは、AI兵器がもたらす新たな脅威、倫理的ジレンマ、そして国際社会が直面する軍備管理と規制の課題について警鐘を鳴らした。",
+    "sources": [
+      {
+        "name": "CSIS",
+        "url": "https://www.csis.org/events/dawn-ai-warfare-conversation-katrina-manson"
       }
     ],
     "importance": "critical",
@@ -133,97 +153,87 @@
     "novelty": 85
   },
   {
-    "id": "8",
-    "category": "Service",
-    "title": "CSISが紛争解決におけるAIの役割と潜在能力を探る",
-    "date": "2026/05/12",
-    "summary": "CSISは、紛争調停プロセスにおけるAIの役割と潜在能力、倫理的・実践的課題について考察する分析を発表。AIの社会実装と課題を提示した。",
-    "details": [
-      "AIはデータ分析を通じて紛争の根本原因を特定し、解決策を提案することで、調停プロセスを効率化する可能性がある。しかし、人間の感情や文化の複雑性を理解する限界、バイアスの問題など、実用化には慎重な検討が求められる。"
+    "id": "10",
+    "category": "Policy",
+    "title": "トランプに続きプーチンが訪中、大規模な合意はなし",
+    "date": "2026/05/21",
+    "summary": "トランプ大統領の訪中後、プーチン大統領も中国を訪問したが、大規模な経済・貿易合意には至らず。米中露間の複雑な地政学的駆け引きが浮き彫りに。",
+    "details": "プーチン大統領の中国訪問は、米中間の貿易摩擦とロシアのウクライナ侵攻が続く中で行われたが、両国間の関係深化を示す具体的な「ブロックバスター」級の合意は発表されなかった。これは、主要国の外交戦略がより複雑化している現状を反映している。",
+    "sources": [
+      {
+        "name": "Council on Foreign Relations",
+        "url": "https://www.cfr.org/blog/trumps-heels-putin-gets-lavish-welcome-china-no-blockbuster-deals"
+      }
     ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 60
+  },
+  {
+    "id": "11",
+    "category": "Business",
+    "title": "CSIS、米国テック企業の輸出促進に向けた商業外交を議論",
+    "date": "2026/05/21",
+    "summary": "CSISが米国テクノロジー企業の国際競争力強化のため、商業外交の戦略的活用について議論。政府と産業界の連携の重要性を強調。",
+    "details": "米国はAI、半導体、サイバーセキュリティなどの先端技術分野で国際競争をリードしているが、その輸出を効果的に促進するためには、政府による商業外交が不可欠である。CSISのイベントでは、市場アクセス改善、知的財産保護、輸出規制緩和などが議論された。",
     "sources": [
       {
         "name": "CSIS",
-        "url": "https://www.csis.org"
+        "url": "https://www.csis.org/events/commercial-diplomacy-us-tech-exports"
       }
     ],
     "importance": "medium",
-    "socialImpact": 75,
-    "novelty": 70
+    "socialImpact": 70,
+    "novelty": 60
   },
   {
-    "id": "9",
-    "category": "Business",
-    "title": "CSISがロシアによるAI駆動型ドローンエコシステムの構築方法を分析",
-    "date": "2026/04/21",
-    "summary": "CSISは、ロシアがAIを活用した自律型ドローンシステムを構築している現状と、その地政学的な影響について分析。軍事バランスへの影響を指摘した。",
-    "details": [
-      "ドローン技術とAIの融合は、戦術的な優位性をもたらし、防衛産業の構造を大きく変える。このエコシステム構築は、ロシアの軍事現代化戦略の一環であり、国際的な軍事バランスやサイバーセキュリティ、輸出規制に新たな課題を突きつける。"
-    ],
+    "id": "12",
+    "category": "Policy",
+    "title": "トランプ政権下での米国外交の解体が進むとロイターが報じる",
+    "date": "2026/05/21",
+    "summary": "ロイターが、トランプ政権下で米国の外交能力が著しく低下していると報道。経験豊富な外交官の離職が国際社会に不安定をもたらす懸念。",
+    "details": "トランプ政権の「アメリカ・ファースト」政策により、国務省の予算削減や主要ポストの空席が続き、米国の外交的影響力が弱まっていると指摘されている。これは、同盟国との関係悪化や国際問題への対応能力低下を招き、グローバルな不安定化のリスクを高める可能性がある。",
     "sources": [
       {
-        "name": "CSIS",
-        "url": "https://www.csis.org"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/investigations/inside-unraveling-us-diplomacy-under-trump-2026-05-21"
       }
     ],
     "importance": "high",
     "socialImpact": 80,
-    "novelty": 88
+    "novelty": 50
   },
   {
-    "id": "10",
+    "id": "13",
     "category": "Policy",
-    "title": "CSISが現代の紛争におけるデータの重要性を強調、情報戦の激化を指摘",
-    "date": "2026/04/21",
-    "summary": "CSISは、現代の紛争においてデータがいかに重要な役割を果たし、サイバー攻撃や情報戦の基盤となっているかを解説。AI時代の情報戦の激化に警鐘。",
-    "details": [
-      "AI時代の到来により、データの収集、分析、活用が軍事戦略の中核を成す。このレポートは、データ保護とサイバー防御の重要性を再認識させると共に、国家間の情報戦が従来の物理的な紛争に匹敵する、あるいはそれ以上の影響力を持つことを示唆する。"
-    ],
-    "sources": [
-      {
-        "name": "CSIS",
-        "url": "https://www.csis.org"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 80
-  },
-  {
-    "id": "11",
-    "category": "Economy",
-    "title": "CSISが2026年の戦略的トレンド報告、分断化する世界秩序と経済影響を分析",
-    "date": "2026/05/07",
-    "summary": "CSISは、分断化が進む世界秩序の中での2026年の主要な戦略的トレンドと地政学的な動向を分析するレポートをライブ配信。経済と安定への影響を解説。",
-    "details": [
-      "国家間の競争激化、保護主義の台頭、グローバルサプライチェーンの再編が世界の経済成長と安定に大きな影響を与える。このレポートは、企業や政策立案者が不確実性の高い時代に戦略を立てる上で不可欠な洞察を提供し、新たなリスクと機会を提示する。"
-    ],
-    "sources": [
-      {
-        "name": "CSIS via YouTube",
-        "url": "https://www.youtube.com/watch?v=FwOKojH71cs"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 70
-  },
-  {
-    "id": "12",
-    "category": "Model",
-    "title": "エリック・シュミット博士が300年後のテクノロジーの未来を展望",
+    "title": "高市総理、トランプ米大統領との電話首脳会談について記者会見",
     "date": "2026/05/15",
-    "summary": "元Google CEOエリック・シュミット博士が、300年後のAIや量子技術などテクノロジーの未来を展望。長期的な社会影響と倫理的課題に言及。",
-    "details": [
-      "AI、量子コンピューティング、バイオテクノロジーなど、現在進行中の技術革新が長期的に社会や人類にどのような影響を与えるかを探る。この講演は、技術の加速的発展がもたらす無限の可能性と、それに伴う倫理的・社会的な課題に対する先見的な洞察を提供する。"
-    ],
+    "summary": "高市総理がトランプ米大統領との電話会談の内容を発表。日米同盟の強化、経済安全保障、インド太平洋地域の安定に関する協力が主要議題。",
+    "details": "高市総理は記者会見で、トランプ大統領との電話会談において、自由で開かれたインド太平洋の維持、経済的威圧への対応、サプライチェーン強靭化、そして防衛協力のさらなる深化で一致したと述べた。両首脳は地域と世界の平和と繁栄に貢献する決意を再確認した。",
     "sources": [
       {
-        "name": "Special Competitive Studies Project via YouTube",
-        "url": "https://www.youtube.com/watch?v=FwOKojH71cs"
+        "name": "Prime Minister's Office of Japan",
+        "url": "https://japan.kantei.go.jp/105/speech/202605/15kaiken.html"
       }
     ],
     "importance": "high",
+    "socialImpact": 85,
+    "novelty": 60
+  },
+  {
+    "id": "14",
+    "category": "Model",
+    "title": "DeepSeek V4、1兆パラメータとマルチモーダル機能を搭載しリリース予定",
+    "date": "2026/03/03",
+    "summary": "DeepSeek V4が1兆パラメータ規模の基盤モデルとネイティブマルチモーダル機能を搭載してリリースされる見込み。AIモデル開発競争が加速。",
+    "details": "2026年3月3日頃にDeepSeek V4が公開される予定で、これはテキストだけでなく画像や音声なども扱えるマルチモーダルAIとしての画期的な進歩を示す。この種の基盤モデルの進化は、AIの汎用性と応用範囲を飛躍的に拡大し、様々な産業に変革をもたらすと期待される。",
+    "sources": [
+      {
+        "name": "Mean.CEO",
+        "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026"
+      }
+    ],
+    "importance": "critical",
     "socialImpact": 90,
     "novelty": 95
   }
