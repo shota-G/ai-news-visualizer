@@ -2,239 +2,256 @@
   {
     "id": "1",
     "category": "Policy",
-    "title": "CSIS、宇宙における戦闘と戦略的安定性に関する議論を開催",
-    "date": "2026/05/26",
-    "summary": "CSISが宇宙空間の軍事利用とその抑止力、戦略的安定性への影響について議論。国際安全保障の新たなフロンティアへの対応が焦点。",
-    "details": "宇宙空間での軍事能力の進展は、国際的な抑止力と戦略的安定性に重大な影響を及ぼしている。CSISの専門家らは、この進化する領域における課題と機会、そして多国間協力の必要性について深く掘り下げた。",
+    "title": "天皇皇后両陛下、フィリピン大統領を歓迎",
+    "date": "2026/05/28",
+    "summary": "天皇皇后両陛下がフィリピン大統領を歓迎し、両国の友好関係と地域協力の深化が期待される。",
+    "details": "日本とフィリピンの首脳外交が活発化し、東南アジアの安定と経済発展に向けた連携強化が期待される。地域安全保障と経済協力の新たな局面を示す重要な外交行事である。",
     "sources": [
       {
-        "name": "CSIS",
-        "url": "https://www.csis.org/events/warfighting-and-war-winning-space"
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70
+    "socialImpact": 70,
+    "novelty": 50
   },
   {
     "id": "2",
     "category": "Policy",
-    "title": "CSIS、インド太平洋地域における米欧同盟対話を実施",
-    "date": "2026/05/26",
-    "summary": "CSISがインド太平洋地域の地政学的動向について米国のNATOおよび同盟国との対話を開催。進化する安全保障環境への協調的対応を模索。",
-    "details": "米国、NATO、インド太平洋地域の同盟国が、2026年の複雑な地政学的状況をどのように乗り越えるべきかについて議論。地域の安定、経済安全保障、そして民主的価値観の維持に向けた協力関係の強化が強調された。",
+    "title": "北朝鮮、AI搭載巡航ミサイルを試射",
+    "date": "2026/05/28",
+    "summary": "北朝鮮の金正恩委員長がAI搭載巡航ミサイルの試射を指導。軍事技術の高度化を誇示した。",
+    "details": "最新のAI技術を軍事転用したミサイル性能の飛躍的向上が懸念され、地域の安全保障環境に重大な脅威をもたらす。国際社会の警戒と非難が強まることは必至だ。",
     "sources": [
       {
-        "name": "CSIS",
-        "url": "https://www.csis.org/events/2026-csis-csds-transatlantic-dialogue-indo-pacific"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 65
-  },
-  {
-    "id": "3",
-    "category": "Policy",
-    "title": "CSIS、太平洋諸島の安全保障に関する若手リーダー報告書を発表",
-    "date": "2026/05/26",
-    "summary": "CSISが太平洋諸島の安全保障課題と外交政策の重要性を強調する若手リーダーの報告書を発表。地域特有の脆弱性と国際的支援の必要性を指摘。",
-    "details": "太平洋諸島は気候変動、経済的圧力、地政学的競争など多岐にわたる安全保障上の課題に直面している。本報告書は、これらの課題に対処するための若手リーダーの視点を提供し、国際社会からの協力と支援の重要性を強調した。",
-    "sources": [
-      {
-        "name": "CSIS",
-        "url": "https://www.csis.org/events/security-and-pacific-islands-insights-young-pacific-leaders-report-launch"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 50
-  },
-  {
-    "id": "4",
-    "category": "Economy",
-    "title": "出光丸、ホルムズ海峡を通過し日本に到着",
-    "date": "2026/05/25",
-    "summary": "中東情勢の緊迫化が続く中、日本のタンカー出光丸がホルムズ海峡を無事に通過し日本に到着。エネルギー安全保障に一時的な安堵をもたらす。",
-    "details": "イランを巡る情勢が不安定な中、原油輸送の要衝であるホルムズ海峡の安全な航行は日本のエネルギー供給にとって極めて重要。今回の無事通過は、地政学リスク下における海上輸送の脆弱性を浮き彫りにしつつ、日本の経済活動維持への努力を示した。",
-    "sources": [
-      {
-        "name": "The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw/articles/16306762"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 40
-  },
-  {
-    "id": "5",
-    "category": "Business",
-    "title": "カザフスタンのスーパーアプリ、法規制の進展を上回る",
-    "date": "2026/05/23",
-    "summary": "カザフスタンで金融とテクノロジーを融合したスーパーアプリが急速に発展。そのイノベーション速度に法的規制が追いつかず、新たな課題を生み出している。",
-    "details": "カザフスタンのフィンテック市場では、スーパーアプリが従来の金融システムを凌駕する勢いで進化しており、データプライバシーや消費者保護に関する法規制の整備が急務となっている。この技術革新はビジネスモデルを変革する一方で、政府にはより迅速な規制対応が求められる。",
-    "sources": [
-      {
-        "name": "The Diplomat",
-        "url": "https://thediplomat.com/2026/05/how-kazakhstans-super-apps-outpace-the-law/"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 70
-  },
-  {
-    "id": "6",
-    "category": "Policy",
-    "title": "国際関係において実用主義がイデオロギーに取って代わるか？",
-    "date": "2026/05/23",
-    "summary": "Al Jazeeraが、国際関係における意思決定において、イデオロギーよりも実用主義的なアプローチが台頭している可能性について議論。",
-    "details": "グローバルな課題が複雑化する中で、各国はイデオロギー的な立場を越え、国益に基づいた現実的な解決策を模索する傾向が強まっている。この議論は、今後の国際協力や外交戦略の方向性に影響を与える可能性がある。",
-    "sources": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/5/23/is-pragmatism-replacing-ideology-in-international"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 60
-  },
-  {
-    "id": "7",
-    "category": "Policy",
-    "title": "CSIS、2026年の宇宙における最大の脅威を議論",
-    "date": "2026/05/22",
-    "summary": "CSISが2026年に想定される宇宙空間での安全保障上の脅威について専門家を交えて議論。軍事化の加速と新たなリスクが焦点。",
-    "details": "衛星攻撃兵器の開発競争、サイバー攻撃による宇宙システムへの妨害、そして宇宙ゴミ問題など、宇宙空間の安全保障は新たな局面を迎えている。CSISのイベントでは、これらの脅威が国際紛争に与える影響と多国間協調の必要性が強調された。",
-    "sources": [
-      {
-        "name": "CSIS",
-        "url": "https://www.csis.org/events/what-are-biggest-space-threats-2026"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 70
-  },
-  {
-    "id": "8",
-    "category": "Policy",
-    "title": "メモリアルデーに戦没者を追悼する米国",
-    "date": "2026/05/22",
-    "summary": "米国がメモリアルデーを迎え、国家のために犠牲となった軍人たちを追悼。外交関係評議会が英雄たちの奉仕の重要性を再認識。",
-    "details": "メモリアルデーは、米国の自由と安全保障を守るために命を捧げた軍人たちへの深い敬意を表す日である。外交関係評議会は、彼らの犠牲が国家の外交政策と国際的役割に与えた影響を考察し、その記憶を次世代に伝えることの重要性を説いた。",
-    "sources": [
-      {
-        "name": "Council on Foreign Relations",
-        "url": "https://www.cfr.org/post/remembering-fallen-hero-memorial-day"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 30
-  },
-  {
-    "id": "9",
-    "category": "Policy",
-    "title": "CSIS、AI兵器の夜明けについて議論",
-    "date": "2026/05/21",
-    "summary": "CSISがAI兵器の急速な発展と軍事戦略への影響を検証。国際安全保障、倫理、規制に関する議論が深まる。",
-    "details": "AI技術の軍事転用は、自律型兵器システムや情報戦の様相を一変させつつある。CSISの専門家らは、AI兵器がもたらす新たな脅威、倫理的ジレンマ、そして国際社会が直面する軍備管理と規制の課題について警鐘を鳴らした。",
-    "sources": [
-      {
-        "name": "CSIS",
-        "url": "https://www.csis.org/events/dawn-ai-warfare-conversation-katrina-manson"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 85
-  },
-  {
-    "id": "10",
-    "category": "Policy",
-    "title": "トランプに続きプーチンが訪中、大規模な合意はなし",
-    "date": "2026/05/21",
-    "summary": "トランプ大統領の訪中後、プーチン大統領も中国を訪問したが、大規模な経済・貿易合意には至らず。米中露間の複雑な地政学的駆け引きが浮き彫りに。",
-    "details": "プーチン大統領の中国訪問は、米中間の貿易摩擦とロシアのウクライナ侵攻が続く中で行われたが、両国間の関係深化を示す具体的な「ブロックバスター」級の合意は発表されなかった。これは、主要国の外交戦略がより複雑化している現状を反映している。",
-    "sources": [
-      {
-        "name": "Council on Foreign Relations",
-        "url": "https://www.cfr.org/blog/trumps-heels-putin-gets-lavish-welcome-china-no-blockbuster-deals"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 60
-  },
-  {
-    "id": "11",
-    "category": "Business",
-    "title": "CSIS、米国テック企業の輸出促進に向けた商業外交を議論",
-    "date": "2026/05/21",
-    "summary": "CSISが米国テクノロジー企業の国際競争力強化のため、商業外交の戦略的活用について議論。政府と産業界の連携の重要性を強調。",
-    "details": "米国はAI、半導体、サイバーセキュリティなどの先端技術分野で国際競争をリードしているが、その輸出を効果的に促進するためには、政府による商業外交が不可欠である。CSISのイベントでは、市場アクセス改善、知的財産保護、輸出規制緩和などが議論された。",
-    "sources": [
-      {
-        "name": "CSIS",
-        "url": "https://www.csis.org/events/commercial-diplomacy-us-tech-exports"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 60
-  },
-  {
-    "id": "12",
-    "category": "Policy",
-    "title": "トランプ政権下での米国外交の解体が進むとロイターが報じる",
-    "date": "2026/05/21",
-    "summary": "ロイターが、トランプ政権下で米国の外交能力が著しく低下していると報道。経験豊富な外交官の離職が国際社会に不安定をもたらす懸念。",
-    "details": "トランプ政権の「アメリカ・ファースト」政策により、国務省の予算削減や主要ポストの空席が続き、米国の外交的影響力が弱まっていると指摘されている。これは、同盟国との関係悪化や国際問題への対応能力低下を招き、グローバルな不安定化のリスクを高める可能性がある。",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/investigations/inside-unraveling-us-diplomacy-under-trump-2026-05-21"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 50
-  },
-  {
-    "id": "13",
-    "category": "Policy",
-    "title": "高市総理、トランプ米大統領との電話首脳会談について記者会見",
-    "date": "2026/05/15",
-    "summary": "高市総理がトランプ米大統領との電話会談の内容を発表。日米同盟の強化、経済安全保障、インド太平洋地域の安定に関する協力が主要議題。",
-    "details": "高市総理は記者会見で、トランプ大統領との電話会談において、自由で開かれたインド太平洋の維持、経済的威圧への対応、サプライチェーン強靭化、そして防衛協力のさらなる深化で一致したと述べた。両首脳は地域と世界の平和と繁栄に貢献する決意を再確認した。",
-    "sources": [
-      {
-        "name": "Prime Minister's Office of Japan",
-        "url": "https://japan.kantei.go.jp/105/speech/202605/15kaiken.html"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 60
-  },
-  {
-    "id": "14",
-    "category": "Model",
-    "title": "DeepSeek V4、1兆パラメータとマルチモーダル機能を搭載しリリース予定",
-    "date": "2026/03/03",
-    "summary": "DeepSeek V4が1兆パラメータ規模の基盤モデルとネイティブマルチモーダル機能を搭載してリリースされる見込み。AIモデル開発競争が加速。",
-    "details": "2026年3月3日頃にDeepSeek V4が公開される予定で、これはテキストだけでなく画像や音声なども扱えるマルチモーダルAIとしての画期的な進歩を示す。この種の基盤モデルの進化は、AIの汎用性と応用範囲を飛躍的に拡大し、様々な産業に変革をもたらすと期待される。",
-    "sources": [
-      {
-        "name": "Mean.CEO",
-        "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026"
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
       }
     ],
     "importance": "critical",
     "socialImpact": 90,
     "novelty": 95
+  },
+  {
+    "id": "3",
+    "category": "Model",
+    "title": "AnthropicのClaude Mythos、1万件のソフトウェアバグを発見",
+    "date": "2026/05/28",
+    "summary": "AnthropicのAIモデル「Claude Mythos」がソフトウェアの脆弱性を1万件検出。開発効率とセキュリティ向上に貢献。",
+    "details": "大規模なコードベースにおけるAIによるバグ検出能力の高さが実証された。ソフトウェア開発プロセスの自動化とセキュリティリスク管理の効率化を推進する画期的な進展であり、業界への影響は大きい。",
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 90
+  },
+  {
+    "id": "4",
+    "category": "Service",
+    "title": "日本の企業がウクライナで地雷探知ドローンを試験運用",
+    "date": "2026/05/28",
+    "summary": "日本企業がウクライナでAI搭載地雷探知ドローンの実証実験を開始。戦後復興と人道支援に貢献。",
+    "details": "AIとドローン技術の組み合わせにより、危険な地雷除去作業の安全性と効率が大幅に向上する見込み。ウクライナの広大な土地の再建に向けた具体的な技術支援として、国際的な注目を集めている。",
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 80
+  },
+  {
+    "id": "5",
+    "category": "Policy",
+    "title": "ロシア外相、キエフへの攻撃継続を明言",
+    "date": "2026/05/28",
+    "summary": "ロシアのラブロフ外相が、ウクライナの首都キエフへの攻撃を継続すると表明。紛争長期化の懸念が再燃。",
+    "details": "交渉による解決の道が遠のき、ウクライナ情勢の悪化と人道危機が深まる可能性が高まった。国際社会の対ロ制裁とウクライナへの支援継続が改めて問われる事態である。",
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 95,
+    "novelty": 60
+  },
+  {
+    "id": "6",
+    "category": "Policy",
+    "title": "米国とイランの交渉が進展、緊張は継続",
+    "date": "2026/05/28",
+    "summary": "米国とイランの間で協議が進むも、中東地域の緊張状態は依然として高い。外交努力の重要性が増す。",
+    "details": "核開発問題や地域紛争への関与を巡る両国の溝は深いものの、対話の継続は紛争拡大リスクの抑制に繋がる。今後の進展が中東情勢全体に大きな影響を与えるため、動向が注視される。",
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 70
+  },
+  {
+    "id": "7",
+    "category": "Economy",
+    "title": "鹿児島で記録的豪雨、災害リスク増大",
+    "date": "2026/05/28",
+    "summary": "鹿児島県で猛烈な雨が降り、土砂災害や河川の氾濫など災害リスクが大幅に高まっている。",
+    "details": "農業、観光、インフラに甚大な被害が出る恐れがあり、地域経済への深刻な打撃が予想される。気候変動の影響による自然災害の頻発化が課題であり、早急な対策が求められる。",
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 75,
+    "novelty": 30
+  },
+  {
+    "id": "8",
+    "category": "Economy",
+    "title": "日経平均、ナスダック高受け日中最高値を更新",
+    "date": "2026/05/28",
+    "summary": "東京株式市場で日経平均株価が取引時間中の最高値を更新。米国市場の好調に牽引される形となった。",
+    "details": "米国主要ハイテク株の続伸が追い風となり、日本株にも投資資金が流入。世界的な金融緩和と企業業績の期待感から、市場の活況が続く可能性が高く、投資家の関心を集めている。",
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 50
+  },
+  {
+    "id": "9",
+    "category": "Policy",
+    "title": "自衛隊員、「トクリュウ」犯罪グループとの関連で逮捕",
+    "date": "2026/05/28",
+    "summary": "自衛隊員が匿名・流動型（トクリュウ）犯罪グループとの関与で逮捕。組織の綱紀粛正が課題に浮上した。",
+    "details": "増加する「トクリュウ」犯罪が社会問題化する中、公務員の関与は国民の信頼を揺るがす重大な事態である。組織的対策と再発防止策の強化が急務となり、広範な影響が懸念される。",
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 40
+  },
+  {
+    "id": "10",
+    "category": "Ethics",
+    "title": "ローマ教皇、軍事AI利用に懸念表明",
+    "date": "2026/05/27",
+    "summary": "ローマ教皇レオ14世が軍事目的のAI技術利用に対し、倫理的および人道的な懸念を表明した。",
+    "details": "自律型兵器システム（LAWS）の規制に向けた国際的な議論が加速する可能性が高い。技術の進歩と倫理的枠組みの構築が国際社会の主要課題として再認識され、今後の国際会議での焦点となるだろう。",
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 90,
+    "novelty": 75
+  },
+  {
+    "id": "11",
+    "category": "Service",
+    "title": "日本の都市、AIで電池の安全回収を開始",
+    "date": "2026/05/27",
+    "summary": "ある日本の都市がAIシステムを導入し、リチウムイオン電池などの安全かつ効率的な回収を開始した。",
+    "details": "火災リスクのある電池の分別をAIが自動化し、廃棄物処理の安全性と環境負荷低減に貢献する。スマートシティ化に向けたAIの具体的な社会実装事例として、他の自治体への波及が期待される。",
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 60,
+    "novelty": 70
+  },
+  {
+    "id": "12",
+    "category": "Policy",
+    "title": "クアッド、エネルギーとインフラで協力強化",
+    "date": "2026/05/27",
+    "summary": "日米豪印のクアッド首脳会議で、エネルギー安全保障とインフラ整備における協力強化が合意された。",
+    "details": "中国の地域覇権に対抗し、インド太平洋地域のサプライチェーン強靭化と安定供給体制の構築を目指す。地政学的リスクの高まりに対応する戦略的連携であり、経済面と安全保障面で重要な意味を持つ。",
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 70
+  },
+  {
+    "id": "13",
+    "category": "Policy",
+    "title": "中国政府船が尖閣諸島沖の日本領海に侵入",
+    "date": "2026/05/27",
+    "summary": "中国海警局の船舶が尖閣諸島周辺の日本領海に再び侵入。日中間の緊張が高まっている。",
+    "details": "中国の一方的な現状変更の試みに対し、日本政府は強く抗議の姿勢を示している。東シナ海の領有権問題は依然として解決の見通しが立たず、地域の不安定化要因として、国際社会の懸念材料となっている。",
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 80
+  },
+  {
+    "id": "14",
+    "category": "Policy",
+    "title": "マレーシア、16歳未満のSNS利用制限を導入へ",
+    "date": "2026/05/27",
+    "summary": "マレーシア政府が16歳未満の国民に対し、ソーシャルメディアの利用制限を検討。若年層保護が目的。",
+    "details": "精神衛生やプライバシー侵害、虚偽情報拡散などの問題から、世界的に若者のSNS利用規制の動きが加速している。デジタル社会における子どもの権利と保護のバランスが問われる重要な政策動向である。",
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 75
+  },
+  {
+    "id": "15",
+    "category": "Policy",
+    "title": "北朝鮮、黄海に向け複数飛翔体発射",
+    "date": "2026/05/27",
+    "summary": "北朝鮮が黄海に向けて複数の飛翔体を発射。韓国軍が発表し、地域の軍事緊張が高まっている。",
+    "details": "前日のAIミサイル試射とは別に、通常兵器の性能向上や示威行為の可能性があり、国連安保理決議違反である。朝鮮半島の非核化に向けた国際社会の努力を阻害し、緊張をさらに高める行為だ。",
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 70
   }
 ]
