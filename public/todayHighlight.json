@@ -1,150 +1,100 @@
 [
   {
     "id": "1",
-    "category": "Policy",
-    "title": "北朝鮮、AI搭載巡航ミサイル発射実験を監督",
-    "date": "2026/05/29",
-    "summary": "北朝鮮の金正恩総書記がAI搭載巡航ミサイルの発射実験を監督。軍事技術の進展と地域の緊張激化を示唆した。",
-    "details": [
-      "国営メディアは、金総書記が新たなAI搭載巡航ミサイルの性能を評価し、核戦力強化の意志を改めて強調したと報じた。これは国際社会への明確な警告であり、朝鮮半島の非核化交渉に一層の複雑さをもたらし、地域の安全保障を脅かす可能性がある。"
-    ],
+    "category": "Economy",
+    "title": "日本政府、高騰する生活費負担軽減のため追加予算案を発表",
+    "date": "2026/05/31",
+    "summary": "日本政府は原油価格高騰による生活費上昇に対応するため、追加予算案の策定計画を発表した。これにより国民の購買力維持と経済安定化を図る。",
+    "details": "高市首相は、中東情勢に起因するエネルギー価格高騰が家計を圧迫している現状を受け、国民の生活負担を軽減するための補正予算案を策定する方針を明らかにした。具体的な財源や対策は今後協議されるが、経済安全保障と国民生活の安定化が主要な目的となる。",
     "sources": [
       {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/video/2026/05/26/japan-government-unveils-extra-budget-to-ease-cost-of-living-burden.html"
       }
     ],
     "importance": "critical",
     "socialImpact": 90,
-    "novelty": 85
+    "novelty": 70
   },
   {
     "id": "2",
-    "category": "Model",
-    "title": "Anthropic、Claude Mythos AIで1万件のソフトウェアバグを発見",
-    "date": "2026/05/29",
-    "summary": "Anthropicが新AIモデル「Claude Mythos」で1万件のソフトウェアバグを特定したと発表。AIによる開発効率向上の可能性を示した。",
-    "details": [
-      "Claude Mythosは高度なコード分析能力により、従来の手法では見過ごされがちだった複雑なバグを効率的に検出した。これはソフトウェア開発の品質と速度を劇的に向上させるだけでなく、将来的にAIがより自律的なコーディングを行うための重要な一歩となる。"
-    ],
+    "category": "Economy",
+    "title": "日本政府、2026年度補正予算案を6月3日に国会提出へ",
+    "date": "2026/05/28",
+    "summary": "日本政府は、中東情勢やエネルギー価格高騰に対応するため、2026年度補正予算案を6月3日に国会へ提出する計画を発表した。",
+    "details": "ジャパンタイムズの報道によると、高市首相は4月末の閣僚会議で中東情勢の緊急対策に言及しており、補正予算案にはエネルギー価格高騰対策やサプライチェーン混乱への対応が含まれる見込み。経済安全保障の強化と国民生活の安定が主な目的である。",
     "sources": [
       {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 90
-  },
-  {
-    "id": "3",
-    "category": "Service",
-    "title": "日本企業、ウクライナで地雷探知ドローンをテスト",
-    "date": "2026/05/29",
-    "summary": "日本企業がウクライナでAI搭載地雷探知ドローンの試験運用を開始。紛争地域の復興支援と人道支援におけるAIの活用事例として注目される。",
-    "details": [
-      "このドローンはAI画像認識とセンサー技術を組み合わせ、地中に埋設された地雷を迅速かつ安全に特定する。ウクライナの広大な土地に残る地雷の除去は喫緊の課題であり、この技術が復興プロセスを加速し、多くの命を救うことが期待されている。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 88,
-    "novelty": 75
-  },
-  {
-    "id": "4",
-    "category": "Ethics",
-    "title": "ローマ法王レオ14世、軍事におけるAI利用に懸念を表明",
-    "date": "2026/05/29",
-    "summary": "ローマ法王レオ14世が軍事目的でのAI利用について深い懸念を表明し、倫理的な枠組みの早急な確立を国際社会に訴えた。",
-    "details": [
-      "法王は自律型兵器システム（LAWS）の非人道的な側面や、AIが人間の制御なしに意思決定を行うことの危険性を指摘した。技術の進歩と倫理的配慮のバランスが問われる中、国際的な規制や規範の必要性が改めて浮上した。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 95,
-    "novelty": 60
-  },
-  {
-    "id": "5",
-    "category": "Service",
-    "title": "日本の都市、電池の安全回収にAI活用へ",
-    "date": "2026/05/29",
-    "summary": "日本の複数の都市が使用済み電池の安全かつ効率的な回収のため、AI技術の導入を計画していると発表。リサイクル率向上と環境負荷軽減が目的。",
-    "details": [
-      "AIは電池の種類や状態を自動識別し、最適な分別と処理を指示することで、回収作業の危険性を減らし、効率を高める。特に発火リスクのあるリチウムイオン電池の適切な処理は重要であり、AIによるスマートなインフラ整備が期待される。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 65
-  },
-  {
-    "id": "6",
-    "category": "Policy",
-    "title": "ラブロフ露外相、米国務長官にキエフ攻撃継続を伝える",
-    "date": "2026/05/29",
-    "summary": "ロシアのラブロフ外相がルビオ米国務長官に対し、ウクライナの首都キエフへの攻撃を継続する意向を伝達。停戦交渉の難航を示唆した。",
-    "details": [
-      "両外相の会談は緊迫した雰囲気の中で行われ、ロシアは軍事作戦の目標達成まで攻撃を止めない姿勢を崩さなかった。これはウクライナ情勢の長期化を示唆し、国際社会の平和解決への圧力が一層高まるものと見られる。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 92,
-    "novelty": 50
-  },
-  {
-    "id": "7",
-    "category": "Policy",
-    "title": "米国とイラン、緊張続くも協議進展",
-    "date": "2026/05/29",
-    "summary": "米国とイランの間で緊張が高まる中、核開発問題に関する協議が進展していることが報じられた。中東情勢の安定化に向けた動きとして注目される。",
-    "details": [
-      "報道によると、非公開で行われた協議では一定の進展が見られたものの、具体的な合意には至っていない。ホルムズ海峡の安全保障や地域代理勢力への対応など、依然として多くの課題が残されており、今後の外交努力が試される。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+        "name": "The Japan Times",
+        "url": "https://www.japantimes.co.jp"
       }
     ],
     "importance": "high",
     "socialImpact": 85,
-    "novelty": 55
+    "novelty": 65
   },
   {
-    "id": "8",
+    "id": "3",
     "category": "Policy",
-    "title": "Quad、エネルギー・インフラ分野で協力強化",
+    "title": "日本、安全保障上の懸念から外国投資審査強化法を成立",
     "date": "2026/05/29",
-    "summary": "日米豪印の4カ国戦略対話（Quad）が、インド太平洋地域のエネルギー安全保障とインフラ開発における協力を強化すると発表。中国の影響力拡大に対抗する狙い。",
-    "details": [
-      "Quadはクリーンエネルギー技術の共有、持続可能なインフラプロジェクトへの共同投資を通じて、地域の経済的レジリエンスを高めることを目指す。これは特に途上国への中国の「一帯一路」政策に対抗する戦略的意義を持つ。"
-    ],
+    "summary": "日本は、防衛や先端技術など安全保障に関わる分野への海外からの投資に対し、より厳格な事前審査を義務付ける法案を成立させた。",
+    "details": "共同通信の報道によれば、この改正法は、日本の重要技術や基幹インフラが外部からの影響を受けないよう保護することを目的としている。経済安全保障の観点から、国家の競争力と安定を維持するための重要な政策転換と位置付けられる。",
     "sources": [
       {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+        "name": "Kyodo News",
+        "url": "https://english.kyodonews.net/articles/-/75470"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 75
+  },
+  {
+    "id": "4",
+    "category": "Policy",
+    "title": "台湾外交部長、中国からの圧力増大の中、外交関係維持を表明",
+    "date": "2026/05/29",
+    "summary": "台湾の林外交部長は、中国からの外交的・軍事的圧力が強まる中、米国をはじめとする友好国との正式および非公式な関係を維持・強化する方針を改めて強調した。",
+    "details": "国際社会での台湾の役割拡大を目指す中で、中国からの圧力が顕著になっている。外交部長は、ワシントンとの非公式な強固な関係の維持に努力し、国際会議などを通じて台湾の存在感を示すことに注力していると述べ、国際的な協力の重要性を強調した。",
+    "sources": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=bNWC5VQTKco"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 70
+  },
+  {
+    "id": "5",
+    "category": "Policy",
+    "title": "EU外相会合、キプロス・レメソスで開催し主要国際課題を協議",
+    "date": "2026/05/28",
+    "summary": "欧州連合（EU）の外相がキプロスのレメソスで非公式会合（Gymnich）を開催し、ウクライナ情勢、中東の不安定化、インド太平洋地域の緊張など、喫緊の国際問題について意見交換した。",
+    "details": "EUの外交政策担当者は、ロシアによるウクライナ侵攻の長期化、中東地域における紛争の激化、そしてインド太平洋における地政学的緊張の高まりを受け、共通の外交戦略と連携強化の必要性を確認した。特に、加盟国間の情報共有と協力体制の強化が議論の焦点となった。",
+    "sources": [
+      {
+        "name": "Audiovisual Service - European Commission",
+        "url": "https://audiovisual.ec.europa.eu/en/media/video/I-289680"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 75,
+    "novelty": 60
+  },
+  {
+    "id": "6",
+    "category": "Policy",
+    "title": "米空軍、グローバルホークドローン部隊をグアムから東京へ移転",
+    "date": "2026/05/29",
+    "summary": "米空軍は、高高度無人偵察機グローバルホークの部隊を太平洋のグアム基地から日本の東京へ移転する計画を発表した。これはインド太平洋地域の監視能力強化が目的だ。",
+    "details": "共同通信の報道によると、この戦略的移転は、中国の海洋進出に対する日本の防衛協力を深め、地域全体の安全保障環境の変化に対応する狙いがある。米軍のプレゼンスを強化し、同盟国との連携を通じて抑止力を高めるための重要な措置とみられる。",
+    "sources": [
+      {
+        "name": "Kyodo News",
+        "url": "https://english.kyodonews.net/articles/-/75470"
       }
     ],
     "importance": "high",
@@ -152,98 +102,180 @@
     "novelty": 70
   },
   {
-    "id": "9",
-    "category": "Policy",
-    "title": "中国政府船、尖閣諸島沖の日本領海に侵入",
-    "date": "2026/05/29",
-    "summary": "中国政府の船舶が尖閣諸島（中国名：釣魚島）沖の日本領海に侵入し、日本の領土主権に対する挑発行為が再び発生した。",
-    "details": [
-      "海上保安庁によると、中国海警局の船が複数回、領海に侵入し、日本の巡視船が退去を警告した。この行動は地域の緊張を高め、日中関係における敏感な問題として、国際社会の懸念材料となっている。"
-    ],
+    "id": "7",
+    "category": "Model",
+    "title": "GPT-5.4、デスクトップタスクで人間性能を凌駕するブレークスルー",
+    "date": "2026/05/31",
+    "summary": "GPT-5.4がOSWorld-Verifiedデスクトップタスクベンチマークで人間の平均性能を上回り、APIなしの画面操作タスクでAIが人間を超える初のマイルストーンを達成した。",
+    "details": "この画期的な進展は、企業におけるあらゆるデスクトップワークフローの自動化範囲を大幅に拡大する可能性を秘めている。特に、複雑なソフトウェア操作やデータ入力など、APIが存在しないタスクでもAIが自律的に実行できるようになり、生産性向上に革命をもたらすことが期待される。",
     "sources": [
       {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+        "name": "Kersai",
+        "url": "https://kersai.com/ai-breakthroughs-in-2026-march-update"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 95,
+    "novelty": 95
+  },
+  {
+    "id": "8",
+    "category": "Service",
+    "title": "エージェントAI、自律型ワークフローとして企業に広く普及",
+    "date": "2026/05/31",
+    "summary": "2026年初頭、エージェントAIが単なる生成モデルを超え、目標設定から計画、多様なツール連携まで自律的にこなす「デジタルコワーカー」として企業ワークフローに定着した。",
+    "details": "Gartnerの予測では、2026年末までに企業アプリケーションの40%にタスク特化型AIエージェントが組み込まれる見込みだ。AnthropicのClaudeが企業向け生産性エコシステムに拡大したように、AIが既存業務にシームレスに統合され、非技術者も日常業務でAIを活用する時代が到来している。",
+    "sources": [
+      {
+        "name": "Switas Consultancy",
+        "url": "https://www.switas.com/articles/the-ai-avalanche-7-breakthroughs-redefining-march-2026"
+      },
+      {
+        "name": "Innovation Mode",
+        "url": "https://theinnovationmode.com/the-innovation-blog/2026-innovation-trends"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 90
+  },
+  {
+    "id": "9",
+    "category": "Policy",
+    "title": "AIガバナンスと規制順守が企業の競争優位性を左右する時代に",
+    "date": "2026/05/31",
+    "summary": "2026年、EU AI Actの義務化やNISTのAIリスク管理フレームワークにより、AIガバナンスと規制順守が企業の競争優位性を左右する重要な要素となっている。",
+    "details": "企業はモデルカード、評価、インシデント報告、データ処理規則、ヒューマン・イン・ザ・ループ制御など、AIパイプラインへの直接的な組み込みが急務となっている。コンプライアンスの迅速な達成は、市場での信頼性と差別化につながり、AI導入の成功に不可欠な要素である。",
+    "sources": [
+      {
+        "name": "Progress",
+        "url": "https://www.progress.com/blogs/the-6-ai-trends-that-will-actually-matter-in-2026"
+      },
+      {
+        "name": "TechTarget",
+        "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends"
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
-    "novelty": 50
+    "socialImpact": 85,
+    "novelty": 75
   },
   {
     "id": "10",
-    "category": "Policy",
-    "title": "北朝鮮、黄海に向けて複数の飛翔体発射",
-    "date": "2026/05/29",
-    "summary": "韓国軍が北朝鮮が黄海に向けて複数の短距離飛翔体を発射したと発表。地域の軍事的な緊張が再び高まっている。",
-    "details": [
-      "韓国軍は、北朝鮮が朝鮮半島西岸沖の黄海から飛翔体を発射したことを確認し、警戒態勢を強化している。これは国連安保理決議に違反する行為であり、地域の不安定化要因として国際社会からの非難を浴びる可能性がある。"
-    ],
+    "category": "Ethics",
+    "title": "LLM利用における機密データ漏洩の懸念が高まる",
+    "date": "2026/05/31",
+    "summary": "大規模言語モデル（LLM）の広範な利用に伴い、政府職員による機密文書の誤ったアップロードなど、具体的なデータ漏洩事例が報告され、AIセキュリティとプライバシー保護の課題が顕在化している。",
+    "details": "AIの導入が進む中で、企業や政府機関はLLMが処理する情報の機密性や、生成されるコンテンツの正確性に関するセキュリティリスクを再評価する必要に迫られている。特に機密情報を含むプロンプトの利用については、厳格なデータガバナンスと利用ルールの徹底が求められる。",
     "sources": [
       {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+        "name": "Info-Tech Research Group",
+        "url": "https://www.infotech.com/digital-disruption/llms-in-2026-what-s-real-what-s-hype-and-what-s-coming-next"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 45
+    "socialImpact": 88,
+    "novelty": 70
   },
   {
     "id": "11",
-    "category": "Economy",
-    "title": "日経平均株価、ナスダック高受け年初来高値を更新",
-    "date": "2026/05/30",
-    "summary": "日経平均株価が米国ナスダック市場の好調に牽引され、取引時間中に年初来高値を更新。技術関連株を中心に買いが広がった。",
-    "details": [
-      "前日の米国市場でハイテク株が上昇したことを受け、東京市場でも半導体関連やAI関連株が買われた。円安傾向も輸出企業の業績期待を高め、市場全体を押し上げたが、中東情勢の不安定さや日銀の金融政策への警戒感も残る。"
-    ],
+    "category": "Model",
+    "title": "マルチモーダルAIモデルが進化し、多様なデータ形式を統合処理",
+    "date": "2026/05/31",
+    "summary": "2026年、マルチモーダル生成AIモデルが大幅な進歩を遂げ、テキスト、画像、音声、動画など複数のデータ形式を統合的に処理し、より汎用的なAI体験を提供している。",
+    "details": "Google GeminiやOpenAI GPTシリーズの進化により、テキストと画像入力の統合からテキストや画像からの動画生成まで可能になり、AIの適用範囲が大きく拡大した。これにより、より人間らしい感覚で世界を理解し、相互作用するAIシステムが実現されつつある。",
     "sources": [
       {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+        "name": "Refonte Learning",
+        "url": "https://www.refontelearning.com/blog/generative-ai-models-in-2026-top-trends-breakthroughs-and-opportunities"
+      },
+      {
+        "name": "Coursera",
+        "url": "https://www.coursera.org/articles/ai-trends"
       }
     ],
     "importance": "high",
-    "socialImpact": 78,
-    "novelty": 40
+    "socialImpact": 85,
+    "novelty": 90
   },
   {
     "id": "12",
-    "category": "Policy",
-    "title": "日本の自衛隊員、「特流」犯罪グループとの関連で逮捕",
-    "date": "2026/05/30",
-    "summary": "日本の自衛隊員が「特流」と呼ばれる特殊詐欺グループとの関連で逮捕された。国の治安に関わる組織の規律が問われる事態に発展している。",
-    "details": [
-      "逮捕された自衛隊員は、特殊詐欺グループに個人情報を提供したり、受け子として関与した疑いが持たれている。この事件は、自衛隊内の綱紀粛正と、組織犯罪対策における官民連携の重要性を浮き彫りにする。"
-    ],
+    "category": "Service",
+    "title": "AIによる科学的発見が加速、特に製薬・気候変動分野で顕著な進展",
+    "date": "2026/05/31",
+    "summary": "2026年、生成AIは科学研究の強力なツールとして定着し、新薬開発、タンパク質フォールディング、気候変動対策など、人類が直面する大きな課題の解決において画期的な発見を推進している。",
+    "details": "MITのAIによる創薬やGoogle DeepMindのAlphaEvolveのようなシステムは、大規模言語モデルと進化的アルゴリズムを組み合わせることで、未解決問題の新しいアルゴリズムを発見している。これは、科学のあらゆる分野で研究プロセスを加速させ、イノベーションを促進する可能性を示唆している。",
     "sources": [
       {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/bernardmarr/2025/10/13/10-generative-ai-trends-in-2026-that-will-transform-work-and-life"
+      },
+      {
+        "name": "Kersai",
+        "url": "https://kersai.com/ai-breakthroughs-in-2026-march-update"
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
-    "novelty": 30
+    "socialImpact": 92,
+    "novelty": 90
   },
   {
     "id": "13",
-    "category": "Policy",
-    "title": "WTO、日本の貿易政策見直し会合を開催",
-    "date": "2026/05/29",
-    "summary": "世界貿易機関（WTO）が日本の貿易政策に関する定期的な見直し会合を開催。日本の貿易慣行と政策が国際的な scrutiny を受けた。",
-    "details": [
-      "会合では日本の農業補助金、デジタル貿易政策、環境規制などが議論された。参加国からは、保護主義的傾向への懸念や、貿易の自由化・透明性向上を求める声が上がった。これは日本の国際経済における立場と今後の政策に影響を与える可能性がある。"
-    ],
+    "category": "Economy",
+    "title": "日本経済、財政規律の見直しとAI等への戦略的投資を推進",
+    "date": "2026/05/31",
+    "summary": "日本は財政運営の軸足を単年度目標から中長期的な債務対GDP比の安定化へ移行し、AIや先端製造業など経済成長と危機対応を両立させる戦略的投資を強化している。",
+    "details": "高市政権は「責任ある積極財政」を掲げ、エネルギー安全保障、サプライチェーン強靭化、AI・半導体分野での成長投資を官民連携で推進。これにより雇用・所得・生産性向上を目指しつつ、財政の持続可能性と市場の信頼確保を両立させる新たな経済モデルへの転換を図っている。",
     "sources": [
       {
-        "name": "World Trade Organization",
-        "url": "https://www.wto.org"
+        "name": "OMFIF",
+        "url": "https://www.omfif.org/2026/04/japan-shifts-to-a-new-fiscal-anchor"
+      },
+      {
+        "name": "MAY Planning",
+        "url": "https://en.may-plan.com/kconsulting-b/6172"
       }
     ],
-    "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 35
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 75
+  },
+  {
+    "id": "14",
+    "category": "Business",
+    "title": "エッジAIの進化がB2C/B2B分野で超パーソナライズ化を可能に",
+    "date": "2026/05/31",
+    "summary": "2026年、エッジAIの進化により、APIコスト削減、ゼロに近いレイテンシー、優れたデータプライバシーが実現し、B2C/B2B分野で超パーソナライズツールの普及を促進している。",
+    "details": "クラウドベースLLMの応答遅延がユーザー体験の障害となる中、エッジAIはデバイス上での即時処理を可能にし、顧客は瞬時に状況に応じたAI体験を享受できるようになった。これにより、クラウドのみの競合は速度や応答性で太刀打ちできなくなり、新たなビジネス機会が生まれている。",
+    "sources": [
+      {
+        "name": "Vocal.Media Futurism",
+        "url": "https://vocal.media/futurism/5-generative-ai-breakthroughs-that-will-define-2026"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 88,
+    "novelty": 85
+  },
+  {
+    "id": "15",
+    "category": "Policy",
+    "title": "イラン戦争終結に向けた動きと中東情勢の不確実性",
+    "date": "2026/05/31",
+    "summary": "2月末に勃発したイラン戦争の終結に向けた交渉は進展しておらず、ホルムズ海峡の事実上の封鎖が続き、原油価格高騰とエネルギー市場に深刻な不確実性をもたらしている。",
+    "details": "米国とイスラエルのイラン空爆で始まったこの紛争は、世界の経済と地政学に大きな影響を与えている。日本政府は代替調達ルートの確保に動いているものの、中東情勢の不安定化は長期化する可能性があり、国際社会は緊張緩和に向けた外交努力の強化を求めている。",
+    "sources": [
+      {
+        "name": "The Japan Times",
+        "url": "https://www.japantimes.co.jp"
+      },
+      {
+        "name": "Nippon.com",
+        "url": "https://www.nippon.com/en/news/q202603"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 95,
+    "novelty": 70
   }
 ]
