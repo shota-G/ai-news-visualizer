@@ -2,6 +2,200 @@
   {
     "id": "1",
     "category": "Economy",
+    "title": "日本政府、高騰する生活費負担軽減のため追加予算案を発表",
+    "date": "2026/05/31",
+    "summary": "日本政府は原油価格高騰による生活費上昇に対応するため、追加予算案の策定計画を発表した。これにより国民の購買力維持と経済安定化を図る。",
+    "details": "高市首相は、中東情勢に起因するエネルギー価格高騰が家計を圧迫している現状を受け、国民の生活負担を軽減するための補正予算案を策定する方針を明らかにした。具体的な財源や対策は今後協議されるが、経済安全保障と国民生活の安定化が主要な目的となる。",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/video/2026/05/26/japan-government-unveils-extra-budget-to-ease-cost-of-living-burden.html"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 70
+  },
+  {
+    "id": "2",
+    "category": "Model",
+    "title": "GPT-5.4、デスクトップタスクで人間性能を凌駕するブレークスルー",
+    "date": "2026/05/31",
+    "summary": "GPT-5.4がOSWorld-Verifiedデスクトップタスクベンチマークで人間の平均性能を上回り、APIなしの画面操作タスクでAIが人間を超える初のマイルストーンを達成した。",
+    "details": "この画期的な進展は、企業におけるあらゆるデスクトップワークフローの自動化範囲を大幅に拡大する可能性を秘めている。特に、複雑なソフトウェア操作やデータ入力など、APIが存在しないタスクでもAIが自律的に実行できるようになり、生産性向上に革命をもたらすことが期待される。",
+    "sources": [
+      {
+        "name": "Kersai",
+        "url": "https://kersai.com/ai-breakthroughs-in-2026-march-update"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 95,
+    "novelty": 95
+  },
+  {
+    "id": "3",
+    "category": "Service",
+    "title": "エージェントAI、自律型ワークフローとして企業に広く普及",
+    "date": "2026/05/31",
+    "summary": "2026年初頭、エージェントAIが単なる生成モデルを超え、目標設定から計画、多様なツール連携まで自律的にこなす「デジタルコワーカー」として企業ワークフローに定着した。",
+    "details": "Gartnerの予測では、2026年末までに企業アプリケーションの40%にタスク特化型AIエージェントが組み込まれる見込みだ。AnthropicのClaudeが企業向け生産性エコシステムに拡大したように、AIが既存業務にシームレスに統合され、非技術者も日常業務でAIを活用する時代が到来している。",
+    "sources": [
+      {
+        "name": "Switas Consultancy",
+        "url": "https://www.switas.com/articles/the-ai-avalanche-7-breakthroughs-redefining-march-2026"
+      },
+      {
+        "name": "Innovation Mode",
+        "url": "https://theinnovationmode.com/the-innovation-blog/2026-innovation-trends"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 90
+  },
+  {
+    "id": "4",
+    "category": "Policy",
+    "title": "AIガバナンスと規制順守が企業の競争優位性を左右する時代に",
+    "date": "2026/05/31",
+    "summary": "2026年、EU AI Actの義務化やNISTのAIリスク管理フレームワークにより、AIガバナンスと規制順守が企業の競争優位性を左右する重要な要素となっている。",
+    "details": "企業はモデルカード、評価、インシデント報告、データ処理規則、ヒューマン・イン・ザ・ループ制御など、AIパイプラインへの直接的な組み込みが急務となっている。コンプライアンスの迅速な達成は、市場での信頼性と差別化につながり、AI導入の成功に不可欠な要素である。",
+    "sources": [
+      {
+        "name": "Progress",
+        "url": "https://www.progress.com/blogs/the-6-ai-trends-that-will-actually-matter-in-2026"
+      },
+      {
+        "name": "TechTarget",
+        "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 75
+  },
+  {
+    "id": "5",
+    "category": "Ethics",
+    "title": "LLM利用における機密データ漏洩の懸念が高まる",
+    "date": "2026/05/31",
+    "summary": "大規模言語モデル（LLM）の広範な利用に伴い、政府職員による機密文書の誤ったアップロードなど、具体的なデータ漏洩事例が報告され、AIセキュリティとプライバシー保護の課題が顕在化している。",
+    "details": "AIの導入が進む中で、企業や政府機関はLLMが処理する情報の機密性や、生成されるコンテンツの正確性に関するセキュリティリスクを再評価する必要に迫られている。特に機密情報を含むプロンプトの利用については、厳格なデータガバナンスと利用ルールの徹底が求められる。",
+    "sources": [
+      {
+        "name": "Info-Tech Research Group",
+        "url": "https://www.infotech.com/digital-disruption/llms-in-2026-what-s-real-what-s-hype-and-what-s-coming-next"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 88,
+    "novelty": 70
+  },
+  {
+    "id": "6",
+    "category": "Model",
+    "title": "マルチモーダルAIモデルが進化し、多様なデータ形式を統合処理",
+    "date": "2026/05/31",
+    "summary": "2026年、マルチモーダル生成AIモデルが大幅な進歩を遂げ、テキスト、画像、音声、動画など複数のデータ形式を統合的に処理し、より汎用的なAI体験を提供している。",
+    "details": "Google GeminiやOpenAI GPTシリーズの進化により、テキストと画像入力の統合からテキストや画像からの動画生成まで可能になり、AIの適用範囲が大きく拡大した。これにより、より人間らしい感覚で世界を理解し、相互作用するAIシステムが実現されつつある。",
+    "sources": [
+      {
+        "name": "Refonte Learning",
+        "url": "https://www.refontelearning.com/blog/generative-ai-models-in-2026-top-trends-breakthroughs-and-opportunities"
+      },
+      {
+        "name": "Coursera",
+        "url": "https://www.coursera.org/articles/ai-trends"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 90
+  },
+  {
+    "id": "7",
+    "category": "Service",
+    "title": "AIによる科学的発見が加速、特に製薬・気候変動分野で顕著な進展",
+    "date": "2026/05/31",
+    "summary": "2026年、生成AIは科学研究の強力なツールとして定着し、新薬開発、タンパク質フォールディング、気候変動対策など、人類が直面する大きな課題の解決において画期的な発見を推進している。",
+    "details": "MITのAIによる創薬やGoogle DeepMindのAlphaEvolveのようなシステムは、大規模言語モデルと進化的アルゴリズムを組み合わせることで、未解決問題の新しいアルゴリズムを発見している。これは、科学のあらゆる分野で研究プロセスを加速させ、イノベーションを促進する可能性を示唆している。",
+    "sources": [
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/bernardmarr/2025/10/13/10-generative-ai-trends-in-2026-that-will-transform-work-and-life"
+      },
+      {
+        "name": "Kersai",
+        "url": "https://kersai.com/ai-breakthroughs-in-2026-march-update"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 92,
+    "novelty": 90
+  },
+  {
+    "id": "8",
+    "category": "Economy",
+    "title": "日本経済、財政規律の見直しとAI等への戦略的投資を推進",
+    "date": "2026/05/31",
+    "summary": "日本は財政運営の軸足を単年度目標から中長期的な債務対GDP比の安定化へ移行し、AIや先端製造業など経済成長と危機対応を両立させる戦略的投資を強化している。",
+    "details": "高市政権は「責任ある積極財政」を掲げ、エネルギー安全保障、サプライチェーン強靭化、AI・半導体分野での成長投資を官民連携で推進。これにより雇用・所得・生産性向上を目指しつつ、財政の持続可能性と市場の信頼確保を両立させる新たな経済モデルへの転換を図っている。",
+    "sources": [
+      {
+        "name": "OMFIF",
+        "url": "https://www.omfif.org/2026/04/japan-shifts-to-a-new-fiscal-anchor"
+      },
+      {
+        "name": "MAY Planning",
+        "url": "https://en.may-plan.com/kconsulting-b/6172"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 75
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "title": "エッジAIの進化がB2C/B2B分野で超パーソナライズ化を可能に",
+    "date": "2026/05/31",
+    "summary": "2026年、エッジAIの進化により、APIコスト削減、ゼロに近いレイテンシー、優れたデータプライバシーが実現し、B2C/B2B分野で超パーソナライズツールの普及を促進している。",
+    "details": "クラウドベースLLMの応答遅延がユーザー体験の障害となる中、エッジAIはデバイス上での即時処理を可能にし、顧客は瞬時に状況に応じたAI体験を享受できるようになった。これにより、クラウドのみの競合は速度や応答性で太刀打ちできなくなり、新たなビジネス機会が生まれている。",
+    "sources": [
+      {
+        "name": "Vocal.Media Futurism",
+        "url": "https://vocal.media/futurism/5-generative-ai-breakthroughs-that-will-define-2026"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 88,
+    "novelty": 85
+  },
+  {
+    "id": "10",
+    "category": "Policy",
+    "title": "イラン戦争終結に向けた動きと中東情勢の不確実性",
+    "date": "2026/05/31",
+    "summary": "2月末に勃発したイラン戦争の終結に向けた交渉は進展しておらず、ホルムズ海峡の事実上の封鎖が続き、原油価格高騰とエネルギー市場に深刻な不確実性をもたらしている。",
+    "details": "米国とイスラエルのイラン空爆で始まったこの紛争は、世界の経済と地政学に大きな影響を与えている。日本政府は代替調達ルートの確保に動いているものの、中東情勢の不安定化は長期化する可能性があり、国際社会は緊張緩和に向けた外交努力の強化を求めている。",
+    "sources": [
+      {
+        "name": "The Japan Times",
+        "url": "https://www.japantimes.co.jp"
+      },
+      {
+        "name": "Nippon.com",
+        "url": "https://www.nippon.com/en/news/q202603"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 95,
+    "novelty": 70
+  },
+  {
+    "id": "11",
+    "category": "Economy",
     "title": "日経平均株価、ナスダック高受け年初来高値を更新",
     "date": "2026/05/30",
     "summary": "日経平均株価が米国ナスダック市場の好調に牽引され、取引時間中に年初来高値を更新。技術関連株を中心に買いが広がった。",
@@ -19,7 +213,7 @@
     "novelty": 40
   },
   {
-    "id": "2",
+    "id": "12",
     "category": "Policy",
     "title": "日本の自衛隊員、「特流」犯罪グループとの関連で逮捕",
     "date": "2026/05/30",
@@ -38,7 +232,7 @@
     "novelty": 30
   },
   {
-    "id": "3",
+    "id": "13",
     "category": "Policy",
     "title": "天皇皇后両陛下、フィリピン大統領を歓迎し両国の友好関係強化へ",
     "date": "2026/05/29",
@@ -57,7 +251,7 @@
     "novelty": 60
   },
   {
-    "id": "4",
+    "id": "14",
     "category": "Policy",
     "title": "北朝鮮、AI搭載巡航ミサイル発射実験を金正恩総書記が視察",
     "date": "2026/05/29",
@@ -76,7 +270,7 @@
     "novelty": 85
   },
   {
-    "id": "5",
+    "id": "15",
     "category": "Business",
     "title": "AnthropicのAIモデル「Claude Mythos」が1万件のソフトウェアバグを発見",
     "date": "2026/05/29",
@@ -95,7 +289,7 @@
     "novelty": 90
   },
   {
-    "id": "6",
+    "id": "16",
     "category": "Service",
     "title": "日本企業がウクライナで地雷探知ドローンを試験運用、復興支援に貢献",
     "date": "2026/05/29",
@@ -114,7 +308,7 @@
     "novelty": 75
   },
   {
-    "id": "7",
+    "id": "17",
     "category": "Policy",
     "title": "米国とイランの対話が進展、中東情勢の緊張緩和に期待",
     "date": "2026/05/29",
@@ -133,7 +327,7 @@
     "novelty": 65
   },
   {
-    "id": "8",
+    "id": "18",
     "category": "Economy",
     "title": "日経平均株価、ナスダック高値更新を受け場中高値を記録",
     "date": "2026/05/29",
@@ -152,7 +346,7 @@
     "novelty": 50
   },
   {
-    "id": "9",
+    "id": "19",
     "category": "Ethics",
     "title": "レオ14世教皇、AIの軍事利用に深い懸念を表明",
     "date": "2026/05/29",
@@ -171,7 +365,7 @@
     "novelty": 70
   },
   {
-    "id": "10",
+    "id": "20",
     "category": "Policy",
     "title": "日米豪印のクアッド、エネルギーとインフラ分野での協力強化へ",
     "date": "2026/05/29",
@@ -190,7 +384,7 @@
     "novelty": 60
   },
   {
-    "id": "11",
+    "id": "21",
     "category": "Policy",
     "title": "中国政府の船舶が尖閣諸島沖の日本領海に侵入、地域緊張高まる",
     "date": "2026/05/29",
@@ -209,7 +403,7 @@
     "novelty": 55
   },
   {
-    "id": "12",
+    "id": "22",
     "category": "Policy",
     "title": "北朝鮮が黄海に向けて複数の飛翔体を発射、朝鮮半島の緊張続く",
     "date": "2026/05/29",
@@ -228,7 +422,7 @@
     "novelty": 55
   },
   {
-    "id": "13",
+    "id": "23",
     "category": "Policy",
     "title": "北朝鮮、AI搭載巡航ミサイル発射実験を監督",
     "date": "2026/05/29",
@@ -247,7 +441,7 @@
     "novelty": 85
   },
   {
-    "id": "14",
+    "id": "24",
     "category": "Model",
     "title": "Anthropic、Claude Mythos AIで1万件のソフトウェアバグを発見",
     "date": "2026/05/29",
@@ -266,7 +460,7 @@
     "novelty": 90
   },
   {
-    "id": "15",
+    "id": "25",
     "category": "Service",
     "title": "日本企業、ウクライナで地雷探知ドローンをテスト",
     "date": "2026/05/29",
@@ -285,7 +479,7 @@
     "novelty": 75
   },
   {
-    "id": "16",
+    "id": "26",
     "category": "Ethics",
     "title": "ローマ法王レオ14世、軍事におけるAI利用に懸念を表明",
     "date": "2026/05/29",
@@ -304,7 +498,7 @@
     "novelty": 60
   },
   {
-    "id": "17",
+    "id": "27",
     "category": "Service",
     "title": "日本の都市、電池の安全回収にAI活用へ",
     "date": "2026/05/29",
@@ -323,7 +517,7 @@
     "novelty": 65
   },
   {
-    "id": "18",
+    "id": "28",
     "category": "Policy",
     "title": "ラブロフ露外相、米国務長官にキエフ攻撃継続を伝える",
     "date": "2026/05/29",
@@ -342,7 +536,7 @@
     "novelty": 50
   },
   {
-    "id": "19",
+    "id": "29",
     "category": "Policy",
     "title": "米国とイラン、緊張続くも協議進展",
     "date": "2026/05/29",
@@ -361,7 +555,7 @@
     "novelty": 55
   },
   {
-    "id": "20",
+    "id": "30",
     "category": "Policy",
     "title": "Quad、エネルギー・インフラ分野で協力強化",
     "date": "2026/05/29",
@@ -380,7 +574,7 @@
     "novelty": 70
   },
   {
-    "id": "21",
+    "id": "31",
     "category": "Policy",
     "title": "中国政府船、尖閣諸島沖の日本領海に侵入",
     "date": "2026/05/29",
@@ -399,7 +593,7 @@
     "novelty": 50
   },
   {
-    "id": "22",
+    "id": "32",
     "category": "Policy",
     "title": "北朝鮮、黄海に向けて複数の飛翔体発射",
     "date": "2026/05/29",
@@ -418,7 +612,7 @@
     "novelty": 45
   },
   {
-    "id": "23",
+    "id": "33",
     "category": "Policy",
     "title": "WTO、日本の貿易政策見直し会合を開催",
     "date": "2026/05/29",
@@ -437,7 +631,58 @@
     "novelty": 35
   },
   {
-    "id": "24",
+    "id": "34",
+    "category": "Policy",
+    "title": "日本、安全保障上の懸念から外国投資審査強化法を成立",
+    "date": "2026/05/29",
+    "summary": "日本は、防衛や先端技術など安全保障に関わる分野への海外からの投資に対し、より厳格な事前審査を義務付ける法案を成立させた。",
+    "details": "共同通信の報道によれば、この改正法は、日本の重要技術や基幹インフラが外部からの影響を受けないよう保護することを目的としている。経済安全保障の観点から、国家の競争力と安定を維持するための重要な政策転換と位置付けられる。",
+    "sources": [
+      {
+        "name": "Kyodo News",
+        "url": "https://english.kyodonews.net/articles/-/75470"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 75
+  },
+  {
+    "id": "35",
+    "category": "Policy",
+    "title": "台湾外交部長、中国からの圧力増大の中、外交関係維持を表明",
+    "date": "2026/05/29",
+    "summary": "台湾の林外交部長は、中国からの外交的・軍事的圧力が強まる中、米国をはじめとする友好国との正式および非公式な関係を維持・強化する方針を改めて強調した。",
+    "details": "国際社会での台湾の役割拡大を目指す中で、中国からの圧力が顕著になっている。外交部長は、ワシントンとの非公式な強固な関係の維持に努力し、国際会議などを通じて台湾の存在感を示すことに注力していると述べ、国際的な協力の重要性を強調した。",
+    "sources": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=bNWC5VQTKco"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 70
+  },
+  {
+    "id": "36",
+    "category": "Policy",
+    "title": "米空軍、グローバルホークドローン部隊をグアムから東京へ移転",
+    "date": "2026/05/29",
+    "summary": "米空軍は、高高度無人偵察機グローバルホークの部隊を太平洋のグアム基地から日本の東京へ移転する計画を発表した。これはインド太平洋地域の監視能力強化が目的だ。",
+    "details": "共同通信の報道によると、この戦略的移転は、中国の海洋進出に対する日本の防衛協力を深め、地域全体の安全保障環境の変化に対応する狙いがある。米軍のプレゼンスを強化し、同盟国との連携を通じて抑止力を高めるための重要な措置とみられる。",
+    "sources": [
+      {
+        "name": "Kyodo News",
+        "url": "https://english.kyodonews.net/articles/-/75470"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 70
+  },
+  {
+    "id": "37",
     "category": "Policy",
     "title": "天皇皇后両陛下、フィリピン大統領を歓迎",
     "date": "2026/05/28",
@@ -454,7 +699,7 @@
     "novelty": 50
   },
   {
-    "id": "25",
+    "id": "38",
     "category": "Policy",
     "title": "北朝鮮、AI搭載巡航ミサイルを試射",
     "date": "2026/05/28",
@@ -471,7 +716,7 @@
     "novelty": 95
   },
   {
-    "id": "26",
+    "id": "39",
     "category": "Model",
     "title": "AnthropicのClaude Mythos、1万件のソフトウェアバグを発見",
     "date": "2026/05/28",
@@ -488,7 +733,7 @@
     "novelty": 90
   },
   {
-    "id": "27",
+    "id": "40",
     "category": "Service",
     "title": "日本の企業がウクライナで地雷探知ドローンを試験運用",
     "date": "2026/05/28",
@@ -505,7 +750,7 @@
     "novelty": 80
   },
   {
-    "id": "28",
+    "id": "41",
     "category": "Policy",
     "title": "ロシア外相、キエフへの攻撃継続を明言",
     "date": "2026/05/28",
@@ -522,7 +767,7 @@
     "novelty": 60
   },
   {
-    "id": "29",
+    "id": "42",
     "category": "Policy",
     "title": "米国とイランの交渉が進展、緊張は継続",
     "date": "2026/05/28",
@@ -539,7 +784,7 @@
     "novelty": 70
   },
   {
-    "id": "30",
+    "id": "43",
     "category": "Economy",
     "title": "鹿児島で記録的豪雨、災害リスク増大",
     "date": "2026/05/28",
@@ -556,7 +801,7 @@
     "novelty": 30
   },
   {
-    "id": "31",
+    "id": "44",
     "category": "Economy",
     "title": "日経平均、ナスダック高受け日中最高値を更新",
     "date": "2026/05/28",
@@ -573,7 +818,7 @@
     "novelty": 50
   },
   {
-    "id": "32",
+    "id": "45",
     "category": "Policy",
     "title": "自衛隊員、「トクリュウ」犯罪グループとの関連で逮捕",
     "date": "2026/05/28",
@@ -590,7 +835,7 @@
     "novelty": 40
   },
   {
-    "id": "33",
+    "id": "46",
     "category": "Economy",
     "title": "日銀総裁、石油ショックがインフレ全体に与える影響を警告",
     "date": "2026/05/28",
@@ -609,7 +854,7 @@
     "novelty": 60
   },
   {
-    "id": "34",
+    "id": "47",
     "category": "Policy",
     "title": "日本政府、2026年度補正予算案を6月3日に提出予定",
     "date": "2026/05/28",
@@ -628,7 +873,7 @@
     "novelty": 60
   },
   {
-    "id": "35",
+    "id": "48",
     "category": "Entertainment",
     "title": "読売ジャイアンツの阿部監督、娘への暴行容疑で逮捕され辞任",
     "date": "2026/05/28",
@@ -647,211 +892,16 @@
     "novelty": 40
   },
   {
-    "id": "36",
-    "category": "Ethics",
-    "title": "ローマ教皇、軍事AI利用に懸念表明",
-    "date": "2026/05/27",
-    "summary": "ローマ教皇レオ14世が軍事目的のAI技術利用に対し、倫理的および人道的な懸念を表明した。",
-    "details": "自律型兵器システム（LAWS）の規制に向けた国際的な議論が加速する可能性が高い。技術の進歩と倫理的枠組みの構築が国際社会の主要課題として再認識され、今後の国際会議での焦点となるだろう。",
+    "id": "49",
+    "category": "Economy",
+    "title": "日本政府、2026年度補正予算案を6月3日に国会提出へ",
+    "date": "2026/05/28",
+    "summary": "日本政府は、中東情勢やエネルギー価格高騰に対応するため、2026年度補正予算案を6月3日に国会へ提出する計画を発表した。",
+    "details": "ジャパンタイムズの報道によると、高市首相は4月末の閣僚会議で中東情勢の緊急対策に言及しており、補正予算案にはエネルギー価格高騰対策やサプライチェーン混乱への対応が含まれる見込み。経済安全保障の強化と国民生活の安定が主な目的である。",
     "sources": [
       {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 90,
-    "novelty": 75
-  },
-  {
-    "id": "37",
-    "category": "Service",
-    "title": "日本の都市、AIで電池の安全回収を開始",
-    "date": "2026/05/27",
-    "summary": "ある日本の都市がAIシステムを導入し、リチウムイオン電池などの安全かつ効率的な回収を開始した。",
-    "details": "火災リスクのある電池の分別をAIが自動化し、廃棄物処理の安全性と環境負荷低減に貢献する。スマートシティ化に向けたAIの具体的な社会実装事例として、他の自治体への波及が期待される。",
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 70
-  },
-  {
-    "id": "38",
-    "category": "Policy",
-    "title": "クアッド、エネルギーとインフラで協力強化",
-    "date": "2026/05/27",
-    "summary": "日米豪印のクアッド首脳会議で、エネルギー安全保障とインフラ整備における協力強化が合意された。",
-    "details": "中国の地域覇権に対抗し、インド太平洋地域のサプライチェーン強靭化と安定供給体制の構築を目指す。地政学的リスクの高まりに対応する戦略的連携であり、経済面と安全保障面で重要な意味を持つ。",
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70
-  },
-  {
-    "id": "39",
-    "category": "Policy",
-    "title": "中国政府船が尖閣諸島沖の日本領海に侵入",
-    "date": "2026/05/27",
-    "summary": "中国海警局の船舶が尖閣諸島周辺の日本領海に再び侵入。日中間の緊張が高まっている。",
-    "details": "中国の一方的な現状変更の試みに対し、日本政府は強く抗議の姿勢を示している。東シナ海の領有権問題は依然として解決の見通しが立たず、地域の不安定化要因として、国際社会の懸念材料となっている。",
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 80
-  },
-  {
-    "id": "40",
-    "category": "Policy",
-    "title": "マレーシア、16歳未満のSNS利用制限を導入へ",
-    "date": "2026/05/27",
-    "summary": "マレーシア政府が16歳未満の国民に対し、ソーシャルメディアの利用制限を検討。若年層保護が目的。",
-    "details": "精神衛生やプライバシー侵害、虚偽情報拡散などの問題から、世界的に若者のSNS利用規制の動きが加速している。デジタル社会における子どもの権利と保護のバランスが問われる重要な政策動向である。",
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 75
-  },
-  {
-    "id": "41",
-    "category": "Policy",
-    "title": "北朝鮮、黄海に向け複数飛翔体発射",
-    "date": "2026/05/27",
-    "summary": "北朝鮮が黄海に向けて複数の飛翔体を発射。韓国軍が発表し、地域の軍事緊張が高まっている。",
-    "details": "前日のAIミサイル試射とは別に、通常兵器の性能向上や示威行為の可能性があり、国連安保理決議違反である。朝鮮半島の非核化に向けた国際社会の努力を阻害し、緊張をさらに高める行為だ。",
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 70
-  },
-  {
-    "id": "42",
-    "category": "Policy",
-    "title": "アトランティック・カウンシルがサヘル地域の安全保障課題を議論",
-    "date": "2026/05/26",
-    "summary": "アトランティック・カウンシルは、アフリカのサヘル地域における安全保障問題と安定化への道筋について議論するイベントを開催。国際的取り組みが注目される。",
-    "details": [
-      "サヘル地域はテロ活動や政治的混乱が続く国際的な懸念地域であり、今回の議論は不安定要因の特定と、国際社会及び地域政府による効果的な介入策の模索が目的。地域全体の平和と経済発展に不可欠な安定化への国際的取り組みが注目される。"
-    ],
-    "sources": [
-      {
-        "name": "Atlantic Council",
-        "url": "https://www.atlanticcouncil.org/events"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 50
-  },
-  {
-    "id": "43",
-    "category": "Policy",
-    "title": "CSISが宇宙空間における戦争遂行と抑止力、戦略的安定性を議論",
-    "date": "2026/05/26",
-    "summary": "CSISは、宇宙空間での戦争遂行と抑止力、戦略的安定性に関する専門家会議を開催。宇宙の軍事化と国家安全保障の課題が議論された。",
-    "details": [
-      "各国が宇宙資産への依存を深める中、宇宙空間での優位性確保は国家安全保障の最重要課題。本議論は、宇宙空間における潜在的な紛争のリスクと、それを管理するための国際的枠組み及び技術的対策の必要性を浮き彫りにする。"
-    ],
-    "sources": [
-      {
-        "name": "CSIS",
-        "url": "https://www.csis.org/events"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 85
-  },
-  {
-    "id": "44",
-    "category": "Policy",
-    "title": "CSISが2026年インド太平洋横断対話開催、地域の地政学的状況を議論",
-    "date": "2026/05/26",
-    "summary": "CSISは、米国、NATO、インド太平洋同盟国が進化する地政学的状況をどう乗り越えるかを探る対話を実施。連携強化の重要性を強調した。",
-    "details": [
-      "拡大する中国の影響力とロシアの侵攻が続く中、インド太平洋地域と欧州の安全保障は相互に深く関連。この対話は、民主主義国家間の連携を強化し、共通の脅威に対処するための戦略的調整と協力の道を模索する重要な機会となる。"
-    ],
-    "sources": [
-      {
-        "name": "CSIS",
-        "url": "https://www.csis.org/events"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 60
-  },
-  {
-    "id": "45",
-    "category": "Policy",
-    "title": "ブルッキングスがメキシコ新政権下における米国・メキシコ関係の将来を考察",
-    "date": "2026/05/26",
-    "summary": "ブルッキングス研究所がメキシコのシーバウム政権下での米国との関係の将来を議論。貿易、移民、麻薬対策など多岐にわたる両国関係への影響が焦点。",
-    "details": [
-      "メキシコの新政権発足は、貿易、移民、麻薬対策など多岐にわたる両国関係に新たな局面をもたらす。本議論は、米国にとって最も重要な隣国の一つであるメキシコとの協力関係が、地域の安定と経済成長にどのように影響するかを深掘りする。"
-    ],
-    "sources": [
-      {
-        "name": "Brookings Institution",
-        "url": "https://www.brookings.edu/programs/foreign-policy/events"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 50
-  },
-  {
-    "id": "46",
-    "category": "Policy",
-    "title": "CSIS、宇宙における戦闘と戦略的安定性に関する議論を開催",
-    "date": "2026/05/26",
-    "summary": "CSISが宇宙空間の軍事利用とその抑止力、戦略的安定性への影響について議論。国際安全保障の新たなフロンティアへの対応が焦点。",
-    "details": "宇宙空間での軍事能力の進展は、国際的な抑止力と戦略的安定性に重大な影響を及ぼしている。CSISの専門家らは、この進化する領域における課題と機会、そして多国間協力の必要性について深く掘り下げた。",
-    "sources": [
-      {
-        "name": "CSIS",
-        "url": "https://www.csis.org/events/warfighting-and-war-winning-space"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70
-  },
-  {
-    "id": "47",
-    "category": "Policy",
-    "title": "CSIS、インド太平洋地域における米欧同盟対話を実施",
-    "date": "2026/05/26",
-    "summary": "CSISがインド太平洋地域の地政学的動向について米国のNATOおよび同盟国との対話を開催。進化する安全保障環境への協調的対応を模索。",
-    "details": "米国、NATO、インド太平洋地域の同盟国が、2026年の複雑な地政学的状況をどのように乗り越えるべきかについて議論。地域の安定、経済安全保障、そして民主的価値観の維持に向けた協力関係の強化が強調された。",
-    "sources": [
-      {
-        "name": "CSIS",
-        "url": "https://www.csis.org/events/2026-csis-csds-transatlantic-dialogue-indo-pacific"
+        "name": "The Japan Times",
+        "url": "https://www.japantimes.co.jp"
       }
     ],
     "importance": "high",
@@ -859,58 +909,20 @@
     "novelty": 65
   },
   {
-    "id": "48",
+    "id": "50",
     "category": "Policy",
-    "title": "CSIS、太平洋諸島の安全保障に関する若手リーダー報告書を発表",
-    "date": "2026/05/26",
-    "summary": "CSISが太平洋諸島の安全保障課題と外交政策の重要性を強調する若手リーダーの報告書を発表。地域特有の脆弱性と国際的支援の必要性を指摘。",
-    "details": "太平洋諸島は気候変動、経済的圧力、地政学的競争など多岐にわたる安全保障上の課題に直面している。本報告書は、これらの課題に対処するための若手リーダーの視点を提供し、国際社会からの協力と支援の重要性を強調した。",
+    "title": "EU外相会合、キプロス・レメソスで開催し主要国際課題を協議",
+    "date": "2026/05/28",
+    "summary": "欧州連合（EU）の外相がキプロスのレメソスで非公式会合（Gymnich）を開催し、ウクライナ情勢、中東の不安定化、インド太平洋地域の緊張など、喫緊の国際問題について意見交換した。",
+    "details": "EUの外交政策担当者は、ロシアによるウクライナ侵攻の長期化、中東地域における紛争の激化、そしてインド太平洋における地政学的緊張の高まりを受け、共通の外交戦略と連携強化の必要性を確認した。特に、加盟国間の情報共有と協力体制の強化が議論の焦点となった。",
     "sources": [
       {
-        "name": "CSIS",
-        "url": "https://www.csis.org/events/security-and-pacific-islands-insights-young-pacific-leaders-report-launch"
+        "name": "Audiovisual Service - European Commission",
+        "url": "https://audiovisual.ec.europa.eu/en/media/video/I-289680"
       }
     ],
     "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 50
-  },
-  {
-    "id": "49",
-    "category": "Business",
-    "title": "OpenAI、日本企業へ最新サイバーセキュリティAIモデルを提供",
-    "date": "2026/05/25",
-    "summary": "OpenAIが日本企業向けに最先端のサイバーセキュリティAIモデルの提供を開始。AIによる脅威検知・防御能力が向上し、企業の情報セキュリティ強化に貢献すると期待される。",
-    "details": [
-      "5月22日の報道によると、OpenAIは日本の企業向けに、AIを活用した最新のサイバーセキュリティモデルの提供を始めた。これにより、サイバー攻撃の早期発見や高度な脅威分析が可能となり、デジタルインフラの保護が強化される見込みだ。日本の産業界におけるAI技術の社会実装が加速する。"
-    ],
-    "sources": [
-      {
-        "name": "The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw"
-      }
-    ],
-    "importance": "high",
     "socialImpact": 75,
-    "novelty": 80
-  },
-  {
-    "id": "50",
-    "category": "Policy",
-    "title": "日本人声優、AI生成ナレーションを巡り訴訟提起",
-    "date": "2026/05/25",
-    "summary": "日本の声優が、自身の声に似たAI生成ナレーションの無断使用に対し訴訟を起こした。AI技術と著作権、肖像権の境界線を巡る法的な議論が本格化する。",
-    "details": [
-      "5月23日のNHK報道によると、著名な日本人声優が、AIによって生成された自身の音声に酷似したナレーションが商業利用されたとして、関連企業を提訴した。この訴訟は、AIが人間の創作活動にもたらす倫理的・法的課題、特に著作権や肖像権の保護に関する重要な判例となる可能性があり、今後のAI技術の発展と利用に大きな影響を与えるだろう。"
-    ],
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 85
+    "novelty": 60
   }
 ]
