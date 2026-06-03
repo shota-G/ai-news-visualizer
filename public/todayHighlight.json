@@ -1,71 +1,55 @@
 [
   {
     "id": "1",
-    "category": "Model",
-    "title": "GPT-5.4、デスクトップタスクで人間性能を上回る画期的なブレークスルーを達成",
+    "category": "Policy",
+    "title": "トランプ大統領、サプライチェーン強化と国家安全保障に関する大統領令に署名",
     "date": "2026/06/03",
-    "summary": "GPT-5.4がOSWorld-Verifiedデスクトップタスクベンチマークで平均的な人間性能を75.0%で上回り、あらゆる画面操作の自動化を可能にした。",
+    "summary": "トランプ米大統領は、重要サプライチェーンの強化と国家安全保障の促進を目的とした複数の大統領令に署名。経済的・地政学的な競争激化に対応。",
     "details": [
-      "OpenAIの最新モデルGPT-5.4が、APIが存在しないタスクでもリアルなコンピュータ操作で人間を凌駕する75.0%の性能を示した。これは企業ワークフローの自動化範囲を大幅に拡大し、AIの汎用的な実用化に向けた重要なマイルストーンとなる。これにより、多くの企業タスクが自動化可能となり、生産性向上に寄与する見込みだ。"
+      "大統領令は、重要鉱物などの戦略的サプライチェーンの信頼性向上と、重要インフラおよび産業への支援拡大を狙う。米国のAIリーダーシップ確立、経済成長、国家安全保障強化を重点項目に掲げ、貿易相手国による制約への対抗措置も含まれる。これにより、国際貿易における米国の競争力と自立性が強化される見込み。"
     ],
     "sources": [
       {
-        "name": "AI Breakthroughs in 2026: March Update | Kersai",
-        "url": "https://kersai.com/ai-breakthroughs-in-2026-march-update"
+        "name": "The White House",
+        "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-fact-sheet-president-donald-j-trump-strengthens-u-s-japan-alliance-for-the-benefit-of-all-americans"
       }
     ],
     "importance": "critical",
     "socialImpact": 90,
-    "novelty": 95
+    "novelty": 75
   },
   {
     "id": "2",
-    "category": "Service",
-    "title": "エージェントAIが本格化、自律的なタスク実行で業務効率を革新",
+    "category": "Policy",
+    "title": "CSISポッドキャストが北朝鮮、中露イランの連携と国際安全保障への影響を議論",
     "date": "2026/06/03",
-    "summary": "AIが単なる会話パートナーから、複雑な多段階ワークフローを自律的に実行する「チームメンバー」へと進化している。",
+    "summary": "CSISのライブポッドキャストにて、北朝鮮と中国、ロシア、イランの連携が地域および世界の安全保障に与える影響について専門家が議論した。",
     "details": [
-      "2026年はエージェントAIの時代となり、顧客サポートチケット処理から経費精算、メール送信まで、AIが人間のように思考し、行動し、タスクを完遂する能力が企業の生産性を劇的に向上させる。これにより、AIは単なるツールを超え、ビジネスの中核的な運用資産へと位置付けられる。"
+      "このセッションでは、地政学的緊張が高まる中、これら4ヶ国の結束が既存の国際秩序にどのような挑戦をもたらすかが分析された。特に、軍事技術協力、経済的支援、そして情報戦における連携が、地域の安定性、ひいてはグローバルな安全保障環境に与える複雑な影響が焦点となった。米国の外交戦略にも大きな影響を与える可能性が指摘されている。"
     ],
     "sources": [
       {
-        "name": "The Future of Generative AI: 10 Breakthroughs Defining 2026 | Artificial Intelligence",
-        "url": "https://www.artiba.org/blog/the-future-of-generative-ai-10-breakthroughs-defining-2026"
-      },
-      {
-        "name": "Generative AI Trends 2026: 8 Shifts",
-        "url": "https://futureagi.com/blog/generative-ai-trends-2026"
-      },
-      {
-        "name": "12 technology trends that will shape the agenda in 2026",
-        "url": "https://dobetter.esade.edu/en/technology-trends-2026"
+        "name": "CSIS",
+        "url": "https://www.csis.org/events/the-impossible-state-live-podcast-crink-challenge-implications-north-korea-and-global-security"
       }
     ],
-    "importance": "critical",
+    "importance": "high",
     "socialImpact": 85,
-    "novelty": 90
+    "novelty": 70
   },
   {
     "id": "3",
-    "category": "Model",
-    "title": "マルチモーダルAIが主流へ、言語・画像・動画を統合処理",
+    "category": "Business",
+    "title": "投資家が量子コンピューティング株に注目、次なる主要投資テーマとして期待高まる",
     "date": "2026/06/03",
-    "summary": "2026年、マルチモーダルAIは複数の入力タイプと出力を統合的に処理し、AIの汎用性と実用性を飛躍的に高めている。",
+    "summary": "AIに続き、世界各国政府の支援拡大を背景に、投資家の間で量子コンピューティング株への関心が高まっている。",
     "details": [
-      "Google GeminiやOpenAI GPT-4（当時）が示唆したテキストと画像の統合理解はさらに進化し、テキストから動画生成、テキスト・画像からテキスト生成など、より複雑な情報処理が可能に。これにより、AIは人間と同様に世界を多感覚で認識・行動できるようになり、ヘルスケアやスポーツなど多岐にわたる分野での応用が期待される。"
+      "量子コンピューティングは、AIに続く主要な投資テーマとして浮上しており、政府や民間からの大規模な資金投入が続いている。その画期的な計算能力は、医療、金融、防衛など多岐にわたる産業に変革をもたらすと期待され、新たな技術競争のフロンティアとなる見込み。関連企業の株価動向が注視される。"
     ],
     "sources": [
       {
-        "name": "Refonte Learning : Generative AI Models in 2026: Top Trends, Breakthroughs, and Opportunities",
-        "url": "https://www.refontelearning.com/blog/generative-ai-models-in-2026-top-trends-breakthroughs-and-opportunities"
-      },
-      {
-        "name": "The trends that will shape AI and tech in 2026 | IBM",
-        "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
-      },
-      {
-        "name": "12+ AI Trends Businesses Must Watch in 2026",
-        "url": "https://appinventiv.com/blog/ai-trends"
+        "name": "News On Japan",
+        "url": "https://newsonjapan.com/business/50133"
       }
     ],
     "importance": "high",
@@ -74,216 +58,242 @@
   },
   {
     "id": "4",
-    "category": "Entertainment",
-    "title": "生成型ビデオがエンタメ業界で成熟、制作時間・コストを大幅削減",
+    "category": "Business",
+    "title": "トヨタ、台風6号接近で国内13工場を生産停止 - 従業員の安全を最優先",
     "date": "2026/06/03",
-    "summary": "Netflixの主要シリーズ『El Eternauta』で生成型AIビデオが制作時間とコストを大幅に削減し、主流のエンタメで実用化。",
+    "summary": "台風6号の接近に伴い、トヨタ自動車は国内13工場での生産を一時停止。従業員と協力会社の安全確保を最優先とした措置。",
     "details": [
-      "生成型ビデオ技術が大幅に成熟し、従来の制作手法に比べてアニメーションや特殊効果の制作時間とコストを削減可能に。Netflixでの大規模な成功事例は、この技術がエンターテイメント業界において単なるデモから実用的なツールへと移行したことを明確に示しており、今後さらなる普及が期待される。"
+      "台風6号が日本列島を横断し、広範囲で悪天候が予想される中、トヨタは安全を確保するため、国内生産拠点の操業を停止した。この決定は、従業員の安全確保だけでなく、サプライチェーン全体への影響を最小限に抑えつつ、企業としての社会的責任を果たす姿勢を示している。生産への影響は短期的だが、サプライチェーンの脆弱性再認識につながる。"
     ],
     "sources": [
       {
-        "name": "The Future of Generative AI: 10 Breakthroughs Defining 2026 | Artificial Intelligence",
-        "url": "https://www.artiba.org/blog/the-future-of-generative-ai-10-breakthroughs-defining-2026"
-      },
-      {
-        "name": "Generative AI Trends 2026: The Future of Work & Life - Kellton",
-        "url": "https://www.kellton.com/kellton-tech-blog/generative-ai-trends-2026-transform-work-everyday-life"
+        "name": "News On Japan",
+        "url": "https://newsonjapan.com/business/50132"
       }
     ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 80
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 40
   },
   {
     "id": "5",
-    "category": "Business",
-    "title": "高度な合成データ生成がビジネスの成功を左右する鍵に",
+    "category": "Policy",
+    "title": "高市首相、中東危機によるエネルギーコスト増に対応し化学品サプライチェーン強化を公約",
     "date": "2026/06/03",
-    "summary": "生成型AIがデータセットのスキーマを学習し、リアルなパターンを反映した高品質な合成データを生成、ビジネス変革を推進。",
+    "summary": "高市首相は、中東危機に起因するエネルギーコスト上昇とナフサ供給不足を受け、化学品サプライチェーンの強化を表明した。",
     "details": [
-      "CTGANやGretel Data Syntheticなどのツールにより、AIがデータセットの複雑なスキーマ（型、制約、相関、季節性）を学習し、実世界のパターンを模倣した高品質な合成データを生成可能に。これは、データ不足の解消、プライバシー保護下での開発、モデル検証といったビジネス課題を解決し、データ活用の新たな道を開く。"
+      "中東情勢の緊迫化が原油価格とエネルギーコストを押し上げ、日本国内のナフサ供給に影響を与えている状況。これに対し、高市政権はサプライチェーンの強靭化を優先課題とし、特に化学品分野における国産化推進や調達先の多角化を図る方針を打ち出した。これにより、産業競争力の維持と国民生活への影響緩和を目指す。"
     ],
     "sources": [
       {
-        "name": "The Future of Generative AI: 10 Breakthroughs Defining 2026 | Artificial Intelligence",
-        "url": "https://www.artiba.org/blog/the-future-of-generative-ai-10-breakthroughs-defining-2026"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 85
-  },
-  {
-    "id": "6",
-    "category": "Service",
-    "title": "MITのAIが創薬を再発明、新薬発見プロセスを劇的に加速",
-    "date": "2026/06/03",
-    "summary": "MITのAI技術が従来の創薬プロセスを根本から変革し、新薬開発のスピードと効率を飛躍的に向上させている。",
-    "details": [
-      "AIによる創薬技術は、複雑な分子構造の予測や候補化合物のスクリーニングを高速化し、これまで数年かかっていたプロセスを劇的に短縮している。このブレークスルーは、医療分野における新たな治療法の発見や疾患の早期解決に貢献し、人類の健康と寿命に大きな影響をもたらすことが期待される。"
-    ],
-    "sources": [
-      {
-        "name": "AI Breakthroughs in 2026: March Update | Kersai",
-        "url": "https://kersai.com/ai-breakthroughs-in-2026-march-update"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 95,
-    "novelty": 90
-  },
-  {
-    "id": "7",
-    "category": "Model",
-    "title": "ワールドモデル研究に巨額投資、AGI達成への新たな道が開かれる",
-    "date": "2026/06/03",
-    "summary": "LLMの代替として、現実世界をシミュレートするワールドモデルへの10億ドル超の投資が、AGI研究の新たな潮流を示唆。",
-    "details": [
-      "Metaを去ったYann LeCunが提唱するワールドモデルは、LLMが欠く「行動の結果予測」能力を持つとされ、ロボティクスや創薬、気候モデリング分野での転換点となりうる。この巨額投資は、AI研究コミュニティが汎用AIへの経路について多様なアプローチを模索し始めた明確な信号であり、今後の技術進化に注目が集まる。"
-    ],
-    "sources": [
-      {
-        "name": "AI Breakthroughs in 2026: March Update | Kersai",
-        "url": "https://kersai.com/ai-breakthroughs-in-2026-march-update"
+        "name": "News On Japan",
+        "url": "https://newsonjapan.com/oilcrisis/50130"
       },
       {
-        "name": "AI In 2026: 10 Predictions On Automation And The Future Of Work",
-        "url": "https://www.forbes.com/sites/charlestowersclark/2025/12/10/ai-in-2026-10-predictions-on-automation-and-the-future-of-work"
-      },
-      {
-        "name": "What’s Next in AI: Five Trends to Watch in 2026",
-        "url": "https://blog.bytebytego.com/p/whats-next-in-ai-five-trends-to-watch"
+        "name": "Nippon.com",
+        "url": "https://www.nippon.com/en/in-depth/d01228"
       }
     ],
     "importance": "high",
     "socialImpact": 85,
-    "novelty": 90
+    "novelty": 65
   },
   {
-    "id": "8",
-    "category": "Model",
-    "title": "オープンソースAIが急速に拡大、AI巨人による独占体制に変化の兆し",
+    "id": "6",
+    "category": "Economy",
+    "title": "日経平均株価、史上初の68,000円台を突破し過去最高値を更新",
     "date": "2026/06/03",
-    "summary": "MetaのLlamaモデルを筆頭にオープンソースAIエコシステムが急成長し、中小モデルが優れた成果を出し大手AI企業の支配に風穴を開ける。",
+    "summary": "東京株式市場で日経平均株価が68,000円台を突破し、史上最高値を更新。ウォール街の記録的な上昇が追い風となった。",
     "details": [
-      "IBMのGraniteやAi2のOlmo 3、DeepSeekモデルといった小規模でドメイン特化型のオープンソースAIが目覚ましい進歩を遂げ、これまでOpenAIやAnthropicが独占してきた最先端AIのアクセス性を向上。これにより、イノベーションが加速し、AI技術の民主化が進むことで、より多くの企業や開発者がAIを活用できるようになる。"
+      "米国市場の好調な流れを受け、東京市場も活況を呈し、日経平均は歴史的な高値圏に突入した。これは、企業業績の改善期待、円安による輸出企業の収益増加、そして国内外からの資金流入が複合的に作用した結果と見られる。日本のデフレ脱却と経済成長への期待感が高まる一方で、過熱感への警戒も一部で指摘されている。"
     ],
     "sources": [
       {
-        "name": "The trends that will shape AI and tech in 2026 | IBM",
-        "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
-      },
-      {
-        "name": "What's next for AI in 2026 | MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026"
-      },
-      {
-        "name": "What’s Next in AI: Five Trends to Watch in 2026",
-        "url": "https://blog.bytebytego.com/p/whats-next-in-ai-five-trends-to-watch"
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw/articles/16766432"
       }
     ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 75
-  },
-  {
-    "id": "9",
-    "category": "Model",
-    "title": "LLMの推論能力と認知密度が劇的に向上、ハルシネーション抑制に寄与",
-    "date": "2026/06/03",
-    "summary": "Google Gemini 3.1 ProやOpenAI GPT-5.3など最新LLMが推論ベンチマークで記録を更新、より信頼性の高い出力が可能に。",
-    "details": [
-      "パラメータ数競争から「認知密度」と推論能力の向上へと焦点が移り、LLMは複雑な論理問題を解決する能力を大幅に強化。Anthropic Claude Opus 4.6の「適応的思考」機能などにより、ハルシネーションが減少。これにより、法務・医療診断・金融モデリングなど信頼性が不可欠な業務へのAI導入が加速する。"
-    ],
-    "sources": [
-      {
-        "name": "The AI Avalanche: 7 Breakthroughs Redefining March 2026 - Switas Consultancy",
-        "url": "https://www.switas.com/articles/the-ai-avalanche-7-breakthroughs-redefining-march-2026"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 85
-  },
-  {
-    "id": "10",
-    "category": "Ethics",
-    "title": "Generative AIの社会普及率が50%超、教育システムとの乖離が課題に",
-    "date": "2026/06/03",
-    "summary": "Generative AIの人口普及率が3年で53%に達するも、公式教育のAIスキルへの対応が遅れ、社会全体での活用格差が懸念される。",
-    "details": [
-      "2026年初頭までにGenerative AIはPCやインターネットを上回る速さで普及し、米国消費者への経済的価値は年間1,720億ドルに。しかし、AIスキル習得が全年代で進む一方で、公式な教育機関のカリキュラムが技術の進化に追いついておらず、これが将来的な労働市場のギャップや社会的な不平等を拡大するリスクがある。"
-    ],
-    "sources": [
-      {
-        "name": "The 2026 AI Index Report | Stanford HAI",
-        "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 90,
-    "novelty": 60
-  },
-  {
-    "id": "11",
-    "category": "Ethics",
-    "title": "AI技術の急速な進化に伴い、プライバシー・著作権・バイアス等の倫理問題が顕在化",
-    "date": "2026/06/03",
-    "summary": "生成型AIの普及は、データの透明性、バイアス、知財侵害、プライバシー侵害などの倫理的懸念を高め、規制の必要性が増大。",
-    "details": [
-      "AIモデルの訓練データや機能に関する透明性の欠如、バイアス、著作権侵害、プライバシー問題、ディープフェイクの拡散といったリスクが社会的な懸念として浮上。各国政府や機関はAI倫理ガイドラインの策定を進める一方、ユーザー教育や未検証情報の共有制限が、AIが引き起こす社会的な混乱を食い止める上で不可欠となる。"
-    ],
-    "sources": [
-      {
-        "name": "Top AI Trends to Watch in 2026: The Era of Agentic AI",
-        "url": "https://aisera.com/blog/artificial-intelligence-trends"
-      },
-      {
-        "name": "AI Podcasts 2026: Top Pods for AI Engineers and Founders",
-        "url": "https://arize.com/ai-podcasts"
-      }
-    ],
-    "importance": "high",
+    "importance": "critical",
     "socialImpact": 90,
     "novelty": 70
   },
   {
-    "id": "12",
+    "id": "7",
     "category": "Economy",
-    "title": "OECD、2026年経済アウトルックを発表、世界経済の動向と課題を分析",
+    "title": "円、中東情勢の緊迫化と金利差拡大で対ドル160円台に下落",
     "date": "2026/06/03",
-    "summary": "OECDが最新の経済アウトルックを公表し、日本経済を含む世界の成長見通し、インフレ、財政健全化の課題を詳述。",
+    "summary": "中東地域の緊迫化による原油価格の高騰と、日米金利差の拡大が重なり、円相場は対ドルで一時160円台を記録し、一段と下落した。",
     "details": [
-      "本日発表されたOECD経済アウトルックでは、世界の経済成長、インフレ動向、主要国の金融・財政政策の方向性が示された。日本については、国内需要に支えられた緩やかな成長が予測される一方で、高齢化社会における生産性向上や財政の持続可能性確保が重要な課題として強調されている。"
+      "中東における地政学リスクの高まりが安全資産としてのドルの需要を押し上げ、原油価格上昇が日本経済にマイナスに作用するとの懸念から円売りが進んだ。また、日本銀行の金融政策正常化ペースが米連邦準備制度理事会（FRB）に比べて緩やかであるため、金利差拡大がドル買い・円売りの動きを加速させている。企業の輸入コスト増加や家計の購買力低下に直結し、日本経済への影響が懸念される。"
     ],
     "sources": [
       {
-        "name": "OECD Economic Surveys: Japan 2026",
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw/articles/16766431"
+      },
+      {
+        "name": "CNN",
+        "url": "https://edition.cnn.com/world/asia/japan"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 95,
+    "novelty": 60
+  },
+  {
+    "id": "8",
+    "category": "Policy",
+    "title": "ロンドンからアイヌ民族遺骨が日本へ返還、歴史的解決に向けた一歩",
+    "date": "2026/06/03",
+    "summary": "ロンドンの自然史博物館からアイヌ民族の遺骨が日本に返還された。これは、先住民族の尊厳回復に向けた歴史的な動きとなる。",
+    "details": [
+      "大英博物館に所蔵されていたアイヌ民族の遺骨が、長年の交渉を経て日本に返還された。これは、植民地主義の歴史的遺産と向き合い、先住民族の文化遺産返還に向けた国際的な動きの一環であり、アイヌ文化復興と民族の尊厳回復に向けた重要な一歩となる。日本政府は、アイヌの人々との協働を通じて、適切な慰霊と文化継承を進める方針である。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw/articles/16766427"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 70
+  },
+  {
+    "id": "9",
+    "category": "Economy",
+    "title": "OECD、最新の経済アウトルックを発表 - 世界経済の不確実性と日本の課題を指摘",
+    "date": "2026/06/03",
+    "summary": "OECDが経済アウトルックを発表し、堅調な国内需要に支えられた日本経済の穏やかな成長予測と、財政健全化や生産性向上の必要性を強調した。",
+    "details": [
+      "OECDの報告書では、日本経済はグローバルな逆風にもかかわらず回復力を示し、国内需要が成長を牽引すると予測された。しかし、高齢化社会における財政の持続可能性確保、増大する公的債務への対応、および労働力減少下での生産性向上と労働供給の促進が喫緊の課題として挙げられている。金融政策は2%インフレ目標維持と財政健全化のバランスが求められる。"
+    ],
+    "sources": [
+      {
+        "name": "OECD",
         "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en.html"
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
-    "novelty": 40
+    "socialImpact": 85,
+    "novelty": 60
   },
   {
-    "id": "13",
-    "category": "Policy",
-    "title": "OECD閣僚理事会が開催、気候変動や貿易など国際的な課題を協議",
+    "id": "10",
+    "category": "Business",
+    "title": "FOOMA JAPAN 2026にアジア、ラテンアメリカ、アフリカの外交官が参加、日本の食品技術に注目",
     "date": "2026/06/03",
-    "summary": "OECD閣僚理事会が今日から開催され、加盟国の経済閣僚らが国際貿易、気候変動、新技術規制などの重要政策について議論する。",
+    "summary": "FOOMA JAPAN 2026に40ヶ国以上の外交官が来場し、日本の先進的な食品技術ソリューションを視察。国際的なビジネス機会が拡大。",
     "details": [
-      "3日から開催されるOECD閣僚理事会では、世界経済の安定化と持続的成長に向けた協力体制の強化が主要議題となる。特に、保護主義の台頭、サプライチェーンの強靭化、AI技術のガバナンス、そして気候変動対策への国際協調の必要性が強調され、具体的な政策提言が行われる予定だ。日本を含む主要国が、これらの課題にどう対応するかが注目される。"
+      "日本食品機械工業会が主催するFOOMA JAPAN 2026は、食品製造プロセスにおける最新技術を一堂に展示。特に、食品安全、効率化、省力化に貢献する日本の技術が、発展途上国における食料問題解決や産業振興に貢献する可能性が注目された。今回の外交官視察は、日本の食品技術の国際展開を加速させる重要な機会となる。"
     ],
     "sources": [
       {
-        "name": "OECD Economic Surveys: Japan 2026",
-        "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en.html"
+        "name": "Foreign Press Center Japan",
+        "url": "https://fpcj.jp/en/prlisting"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 55
+  },
+  {
+    "id": "11",
+    "category": "Policy",
+    "title": "福島第一原発2号機、使用済み燃料プールからの核燃料取り出し作業を開始",
+    "date": "2026/06/03",
+    "summary": "東京電力は、福島第一原子力発電所2号機の使用済み燃料プールからの核燃料取り出し作業を開始したと発表。廃炉作業の重要な段階へ。",
+    "details": [
+      "福島第一原発の廃炉作業において、最も困難な課題の一つである核燃料デブリと使用済み燃料の取り出しが本格化。2号機の燃料取り出しは、損傷の激しい原子炉建屋内の複雑な状況下で行われるため、遠隔操作技術や安全管理体制の高度化が不可欠となる。この作業は、地元住民の不安解消と長期的な廃炉計画の進捗に極めて重要である。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
       }
     ],
     "importance": "high",
     "socialImpact": 80,
-    "novelty": 40
+    "novelty": 50
+  },
+  {
+    "id": "12",
+    "category": "Policy",
+    "title": "日本の防衛白書、中国の軍事活動に「深刻な懸念」を表明",
+    "date": "2026/06/03",
+    "summary": "日本の防衛省が最新の防衛白書を発表し、中国による海洋進出や軍事力増強について「深刻な懸念」を示した。",
+    "details": [
+      "防衛白書は、東シナ海や南シナ海における中国の一方的な現状変更の試み、台湾周辺での軍事活動の活発化、および急速な軍事力近代化を詳細に記述。これらの動きが日本の安全保障環境にとってかつてない脅威であると強調した。日本は、日米同盟の強化と防衛力の抜本的強化により、地域の平和と安定に貢献する姿勢を改めて示した。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
+      },
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw/articles/16766428"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 70
+  },
+  {
+    "id": "13",
+    "category": "Policy",
+    "title": "東京・マニラ海洋協議が反応を呼ぶ、南シナ海の緊張緩和に向けた動き",
+    "date": "2026/06/03",
+    "summary": "日本とフィリピン間で海洋協力に関する協議が開催され、特に南シナ海における地域安全保障と協力関係強化の可能性が注目されている。",
+    "details": [
+      "東京とマニラの間で行われた海洋協議は、中国による南シナ海での活動活発化を背景に、両国間の防衛・安全保障協力を深める意図がある。特に、海洋監視能力の向上、共同訓練の実施、および地域における法の支配の維持が議題の中心となった。この協議は、自由で開かれたインド太平洋構想の推進に寄与し、地域の安定化に繋がる可能性を秘めている。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 65
+  },
+  {
+    "id": "14",
+    "category": "Policy",
+    "title": "米国防総省、報道機関のアクセスを制限しメディアとの緊張が高まる",
+    "date": "2026/06/03",
+    "summary": "米国防総省が報道機関のペンタゴン内アクセスをさらに制限する方針を発表。情報透明性に関する懸念が強まっている。",
+    "details": [
+      "国防総省は、特定のエリアへのメディア立ち入り禁止や、高官への個別取材機会の削減など、報道機関のアクセスを一層厳格化すると決定した。これは、機密情報の漏洩防止を名目としているが、トランプ政権下での情報統制強化の一環と見られ、報道の自由や政府の透明性に対する懸念がメディア界から噴出している。軍事・安全保障に関する正確な情報が伝わりにくくなる可能性がある。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 55
+  },
+  {
+    "id": "15",
+    "category": "Business",
+    "title": "CSISイベント：アメリカ製造業の競争力とイノベーションを2030年・2035年に向けたビジョン",
+    "date": "2026/06/03",
+    "summary": "CSISのイベントで、国家アカデミーの報告書に基づき、米国製造業の競争力強化とイノベーション推進に関するビジョンが議論された。",
+    "details": [
+      "このイベントでは、米国の製造業が直面する課題と機会に焦点を当て、特に労働力開発、地域イノベーション、産業政策の観点から、将来的な競争力を確保するための戦略が検討された。AIや先進技術の導入が不可欠であり、政府と産業界の連携による投資と政策支援が、米国製造業の再活性化に繋がるとの認識が示された。"
+    ],
+    "sources": [
+      {
+        "name": "CSIS",
+        "url": "https://www.csis.org/events/manufacturing-usa-2030-and-2035-vision-competitiveness-and-innovation"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 60
   }
 ]
