@@ -288,6 +288,303 @@
   },
   {
     "id": "14",
+    "category": "Policy",
+    "title": "トランプ大統領、サプライチェーン強化と国家安全保障に関する大統領令に署名",
+    "date": "2026/06/03",
+    "summary": "トランプ米大統領は、重要サプライチェーンの強化と国家安全保障の促進を目的とした複数の大統領令に署名。経済的・地政学的な競争激化に対応。",
+    "details": [
+      "大統領令は、重要鉱物などの戦略的サプライチェーンの信頼性向上と、重要インフラおよび産業への支援拡大を狙う。米国のAIリーダーシップ確立、経済成長、国家安全保障強化を重点項目に掲げ、貿易相手国による制約への対抗措置も含まれる。これにより、国際貿易における米国の競争力と自立性が強化される見込み。"
+    ],
+    "sources": [
+      {
+        "name": "The White House",
+        "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-fact-sheet-president-donald-j-trump-strengthens-u-s-japan-alliance-for-the-benefit-of-all-americans"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 75
+  },
+  {
+    "id": "15",
+    "category": "Policy",
+    "title": "CSISポッドキャストが北朝鮮、中露イランの連携と国際安全保障への影響を議論",
+    "date": "2026/06/03",
+    "summary": "CSISのライブポッドキャストにて、北朝鮮と中国、ロシア、イランの連携が地域および世界の安全保障に与える影響について専門家が議論した。",
+    "details": [
+      "このセッションでは、地政学的緊張が高まる中、これら4ヶ国の結束が既存の国際秩序にどのような挑戦をもたらすかが分析された。特に、軍事技術協力、経済的支援、そして情報戦における連携が、地域の安定性、ひいてはグローバルな安全保障環境に与える複雑な影響が焦点となった。米国の外交戦略にも大きな影響を与える可能性が指摘されている。"
+    ],
+    "sources": [
+      {
+        "name": "CSIS",
+        "url": "https://www.csis.org/events/the-impossible-state-live-podcast-crink-challenge-implications-north-korea-and-global-security"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 70
+  },
+  {
+    "id": "16",
+    "category": "Business",
+    "title": "投資家が量子コンピューティング株に注目、次なる主要投資テーマとして期待高まる",
+    "date": "2026/06/03",
+    "summary": "AIに続き、世界各国政府の支援拡大を背景に、投資家の間で量子コンピューティング株への関心が高まっている。",
+    "details": [
+      "量子コンピューティングは、AIに続く主要な投資テーマとして浮上しており、政府や民間からの大規模な資金投入が続いている。その画期的な計算能力は、医療、金融、防衛など多岐にわたる産業に変革をもたらすと期待され、新たな技術競争のフロンティアとなる見込み。関連企業の株価動向が注視される。"
+    ],
+    "sources": [
+      {
+        "name": "News On Japan",
+        "url": "https://newsonjapan.com/business/50133"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 85
+  },
+  {
+    "id": "17",
+    "category": "Business",
+    "title": "トヨタ、台風6号接近で国内13工場を生産停止 - 従業員の安全を最優先",
+    "date": "2026/06/03",
+    "summary": "台風6号の接近に伴い、トヨタ自動車は国内13工場での生産を一時停止。従業員と協力会社の安全確保を最優先とした措置。",
+    "details": [
+      "台風6号が日本列島を横断し、広範囲で悪天候が予想される中、トヨタは安全を確保するため、国内生産拠点の操業を停止した。この決定は、従業員の安全確保だけでなく、サプライチェーン全体への影響を最小限に抑えつつ、企業としての社会的責任を果たす姿勢を示している。生産への影響は短期的だが、サプライチェーンの脆弱性再認識につながる。"
+    ],
+    "sources": [
+      {
+        "name": "News On Japan",
+        "url": "https://newsonjapan.com/business/50132"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 40
+  },
+  {
+    "id": "18",
+    "category": "Policy",
+    "title": "高市首相、中東危機によるエネルギーコスト増に対応し化学品サプライチェーン強化を公約",
+    "date": "2026/06/03",
+    "summary": "高市首相は、中東危機に起因するエネルギーコスト上昇とナフサ供給不足を受け、化学品サプライチェーンの強化を表明した。",
+    "details": [
+      "中東情勢の緊迫化が原油価格とエネルギーコストを押し上げ、日本国内のナフサ供給に影響を与えている状況。これに対し、高市政権はサプライチェーンの強靭化を優先課題とし、特に化学品分野における国産化推進や調達先の多角化を図る方針を打ち出した。これにより、産業競争力の維持と国民生活への影響緩和を目指す。"
+    ],
+    "sources": [
+      {
+        "name": "News On Japan",
+        "url": "https://newsonjapan.com/oilcrisis/50130"
+      },
+      {
+        "name": "Nippon.com",
+        "url": "https://www.nippon.com/en/in-depth/d01228"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 65
+  },
+  {
+    "id": "19",
+    "category": "Economy",
+    "title": "日経平均株価、史上初の68,000円台を突破し過去最高値を更新",
+    "date": "2026/06/03",
+    "summary": "東京株式市場で日経平均株価が68,000円台を突破し、史上最高値を更新。ウォール街の記録的な上昇が追い風となった。",
+    "details": [
+      "米国市場の好調な流れを受け、東京市場も活況を呈し、日経平均は歴史的な高値圏に突入した。これは、企業業績の改善期待、円安による輸出企業の収益増加、そして国内外からの資金流入が複合的に作用した結果と見られる。日本のデフレ脱却と経済成長への期待感が高まる一方で、過熱感への警戒も一部で指摘されている。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw/articles/16766432"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 70
+  },
+  {
+    "id": "20",
+    "category": "Economy",
+    "title": "円、中東情勢の緊迫化と金利差拡大で対ドル160円台に下落",
+    "date": "2026/06/03",
+    "summary": "中東地域の緊迫化による原油価格の高騰と、日米金利差の拡大が重なり、円相場は対ドルで一時160円台を記録し、一段と下落した。",
+    "details": [
+      "中東における地政学リスクの高まりが安全資産としてのドルの需要を押し上げ、原油価格上昇が日本経済にマイナスに作用するとの懸念から円売りが進んだ。また、日本銀行の金融政策正常化ペースが米連邦準備制度理事会（FRB）に比べて緩やかであるため、金利差拡大がドル買い・円売りの動きを加速させている。企業の輸入コスト増加や家計の購買力低下に直結し、日本経済への影響が懸念される。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw/articles/16766431"
+      },
+      {
+        "name": "CNN",
+        "url": "https://edition.cnn.com/world/asia/japan"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 95,
+    "novelty": 60
+  },
+  {
+    "id": "21",
+    "category": "Policy",
+    "title": "ロンドンからアイヌ民族遺骨が日本へ返還、歴史的解決に向けた一歩",
+    "date": "2026/06/03",
+    "summary": "ロンドンの自然史博物館からアイヌ民族の遺骨が日本に返還された。これは、先住民族の尊厳回復に向けた歴史的な動きとなる。",
+    "details": [
+      "大英博物館に所蔵されていたアイヌ民族の遺骨が、長年の交渉を経て日本に返還された。これは、植民地主義の歴史的遺産と向き合い、先住民族の文化遺産返還に向けた国際的な動きの一環であり、アイヌ文化復興と民族の尊厳回復に向けた重要な一歩となる。日本政府は、アイヌの人々との協働を通じて、適切な慰霊と文化継承を進める方針である。"
+    ],
+    "sources": [
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw/articles/16766427"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 70
+  },
+  {
+    "id": "22",
+    "category": "Economy",
+    "title": "OECD、最新の経済アウトルックを発表 - 世界経済の不確実性と日本の課題を指摘",
+    "date": "2026/06/03",
+    "summary": "OECDが経済アウトルックを発表し、堅調な国内需要に支えられた日本経済の穏やかな成長予測と、財政健全化や生産性向上の必要性を強調した。",
+    "details": [
+      "OECDの報告書では、日本経済はグローバルな逆風にもかかわらず回復力を示し、国内需要が成長を牽引すると予測された。しかし、高齢化社会における財政の持続可能性確保、増大する公的債務への対応、および労働力減少下での生産性向上と労働供給の促進が喫緊の課題として挙げられている。金融政策は2%インフレ目標維持と財政健全化のバランスが求められる。"
+    ],
+    "sources": [
+      {
+        "name": "OECD",
+        "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en.html"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 60
+  },
+  {
+    "id": "23",
+    "category": "Business",
+    "title": "FOOMA JAPAN 2026にアジア、ラテンアメリカ、アフリカの外交官が参加、日本の食品技術に注目",
+    "date": "2026/06/03",
+    "summary": "FOOMA JAPAN 2026に40ヶ国以上の外交官が来場し、日本の先進的な食品技術ソリューションを視察。国際的なビジネス機会が拡大。",
+    "details": [
+      "日本食品機械工業会が主催するFOOMA JAPAN 2026は、食品製造プロセスにおける最新技術を一堂に展示。特に、食品安全、効率化、省力化に貢献する日本の技術が、発展途上国における食料問題解決や産業振興に貢献する可能性が注目された。今回の外交官視察は、日本の食品技術の国際展開を加速させる重要な機会となる。"
+    ],
+    "sources": [
+      {
+        "name": "Foreign Press Center Japan",
+        "url": "https://fpcj.jp/en/prlisting"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 55
+  },
+  {
+    "id": "24",
+    "category": "Policy",
+    "title": "福島第一原発2号機、使用済み燃料プールからの核燃料取り出し作業を開始",
+    "date": "2026/06/03",
+    "summary": "東京電力は、福島第一原子力発電所2号機の使用済み燃料プールからの核燃料取り出し作業を開始したと発表。廃炉作業の重要な段階へ。",
+    "details": [
+      "福島第一原発の廃炉作業において、最も困難な課題の一つである核燃料デブリと使用済み燃料の取り出しが本格化。2号機の燃料取り出しは、損傷の激しい原子炉建屋内の複雑な状況下で行われるため、遠隔操作技術や安全管理体制の高度化が不可欠となる。この作業は、地元住民の不安解消と長期的な廃炉計画の進捗に極めて重要である。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 50
+  },
+  {
+    "id": "25",
+    "category": "Policy",
+    "title": "日本の防衛白書、中国の軍事活動に「深刻な懸念」を表明",
+    "date": "2026/06/03",
+    "summary": "日本の防衛省が最新の防衛白書を発表し、中国による海洋進出や軍事力増強について「深刻な懸念」を示した。",
+    "details": [
+      "防衛白書は、東シナ海や南シナ海における中国の一方的な現状変更の試み、台湾周辺での軍事活動の活発化、および急速な軍事力近代化を詳細に記述。これらの動きが日本の安全保障環境にとってかつてない脅威であると強調した。日本は、日米同盟の強化と防衛力の抜本的強化により、地域の平和と安定に貢献する姿勢を改めて示した。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
+      },
+      {
+        "name": "The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw/articles/16766428"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 70
+  },
+  {
+    "id": "26",
+    "category": "Policy",
+    "title": "東京・マニラ海洋協議が反応を呼ぶ、南シナ海の緊張緩和に向けた動き",
+    "date": "2026/06/03",
+    "summary": "日本とフィリピン間で海洋協力に関する協議が開催され、特に南シナ海における地域安全保障と協力関係強化の可能性が注目されている。",
+    "details": [
+      "東京とマニラの間で行われた海洋協議は、中国による南シナ海での活動活発化を背景に、両国間の防衛・安全保障協力を深める意図がある。特に、海洋監視能力の向上、共同訓練の実施、および地域における法の支配の維持が議題の中心となった。この協議は、自由で開かれたインド太平洋構想の推進に寄与し、地域の安定化に繋がる可能性を秘めている。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 65
+  },
+  {
+    "id": "27",
+    "category": "Policy",
+    "title": "米国防総省、報道機関のアクセスを制限しメディアとの緊張が高まる",
+    "date": "2026/06/03",
+    "summary": "米国防総省が報道機関のペンタゴン内アクセスをさらに制限する方針を発表。情報透明性に関する懸念が強まっている。",
+    "details": [
+      "国防総省は、特定のエリアへのメディア立ち入り禁止や、高官への個別取材機会の削減など、報道機関のアクセスを一層厳格化すると決定した。これは、機密情報の漏洩防止を名目としているが、トランプ政権下での情報統制強化の一環と見られ、報道の自由や政府の透明性に対する懸念がメディア界から噴出している。軍事・安全保障に関する正確な情報が伝わりにくくなる可能性がある。"
+    ],
+    "sources": [
+      {
+        "name": "NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 55
+  },
+  {
+    "id": "28",
+    "category": "Business",
+    "title": "CSISイベント：アメリカ製造業の競争力とイノベーションを2030年・2035年に向けたビジョン",
+    "date": "2026/06/03",
+    "summary": "CSISのイベントで、国家アカデミーの報告書に基づき、米国製造業の競争力強化とイノベーション推進に関するビジョンが議論された。",
+    "details": [
+      "このイベントでは、米国の製造業が直面する課題と機会に焦点を当て、特に労働力開発、地域イノベーション、産業政策の観点から、将来的な競争力を確保するための戦略が検討された。AIや先進技術の導入が不可欠であり、政府と産業界の連携による投資と政策支援が、米国製造業の再活性化に繋がるとの認識が示された。"
+    ],
+    "sources": [
+      {
+        "name": "CSIS",
+        "url": "https://www.csis.org/events/manufacturing-usa-2030-and-2035-vision-competitiveness-and-innovation"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 60
+  },
+  {
+    "id": "29",
     "category": "Model",
     "title": "GPT-5.4がデスクトップタスクで人間性能を超過、MIT AIが創薬を革新",
     "date": "2026/06/01",
@@ -306,7 +603,7 @@
     "novelty": 95
   },
   {
-    "id": "15",
+    "id": "30",
     "category": "Service",
     "title": "エージェントAIの夜明け：2026年、自律型ワークフローとLLM推論が進化",
     "date": "2026/06/01",
@@ -325,7 +622,7 @@
     "novelty": 92
   },
   {
-    "id": "16",
+    "id": "31",
     "category": "Economy",
     "title": "モルガン・スタンレー、2026年前半のAI飛躍的進展に警告",
     "date": "2026/06/01",
@@ -344,7 +641,7 @@
     "novelty": 80
   },
   {
-    "id": "17",
+    "id": "32",
     "category": "Service",
     "title": "AIが医療とロボティクスで躍進、各国がAI戦略を加速",
     "date": "2026/06/01",
@@ -363,7 +660,7 @@
     "novelty": 85
   },
   {
-    "id": "18",
+    "id": "33",
     "category": "Model",
     "title": "マルチモーダル生成AIが2026年のブレークスルーを牽引",
     "date": "2026/06/01",
@@ -382,7 +679,7 @@
     "novelty": 90
   },
   {
-    "id": "19",
+    "id": "34",
     "category": "Entertainment",
     "title": "生成AIがエンタメ動画制作とコード合成を革新、合成データも高度化",
     "date": "2026/06/01",
@@ -401,7 +698,7 @@
     "novelty": 88
   },
   {
-    "id": "20",
+    "id": "35",
     "category": "Service",
     "title": "エッジAIがリアルタイム・パーソナライズ体験を提供、コストとプライバシーを両立",
     "date": "2026/06/01",
@@ -420,7 +717,7 @@
     "novelty": 85
   },
   {
-    "id": "21",
+    "id": "36",
     "category": "Model",
     "title": "Alibaba QwenがオープンソースLLMを牽引、DeepMindがAI科学発見を先導",
     "date": "2026/06/01",
@@ -439,7 +736,7 @@
     "novelty": 89
   },
   {
-    "id": "22",
+    "id": "37",
     "category": "Business",
     "title": "IBMが小規模マルチモーダルAIと複雑な企業ワークフロー自動化を2026年の主要トレンドに",
     "date": "2026/06/01",
@@ -458,7 +755,7 @@
     "novelty": 87
   },
   {
-    "id": "23",
+    "id": "38",
     "category": "Economy",
     "title": "日本、中東情勢の緊迫化で2026年末以降の原油供給を確保へ",
     "date": "2026/06/01",
@@ -477,7 +774,7 @@
     "novelty": 70
   },
   {
-    "id": "24",
+    "id": "39",
     "category": "Policy",
     "title": "日本、2026年4月から扶養控除「130万円の壁」見直し、子育て支援金導入へ",
     "date": "2026/06/01",
@@ -496,7 +793,7 @@
     "novelty": 70
   },
   {
-    "id": "25",
+    "id": "40",
     "category": "Economy",
     "title": "世界のAI市場が2033年までに3.5兆ドル規模へ、テック大手が投資加速",
     "date": "2026/06/01",
@@ -515,7 +812,7 @@
     "novelty": 75
   },
   {
-    "id": "26",
+    "id": "41",
     "category": "Service",
     "title": "生成AIが動画・3Dコンテンツ制作と科学シミュレーションを加速",
     "date": "2026/06/01",
@@ -534,7 +831,7 @@
     "novelty": 80
   },
   {
-    "id": "27",
+    "id": "42",
     "category": "Business",
     "title": "NVIDIA、GTC台北基調講演でAIエコシステム拡大と生産性向上を強調",
     "date": "2026/06/01",
@@ -551,7 +848,7 @@
     "novelty": 85
   },
   {
-    "id": "28",
+    "id": "43",
     "category": "Policy",
     "title": "ガーナ大統領、チャタムハウスで変化する世界秩序におけるアフリカの役割を講演",
     "date": "2026/06/01",
@@ -568,7 +865,7 @@
     "novelty": 60
   },
   {
-    "id": "29",
+    "id": "44",
     "category": "Policy",
     "title": "日韓両国、軍事・兵站支援協定に関する情報共有協議を開始",
     "date": "2026/06/01",
@@ -589,7 +886,7 @@
     "novelty": 70
   },
   {
-    "id": "30",
+    "id": "45",
     "category": "Policy",
     "title": "日本、中国の「新軍国主義」批判を否定し、急速な軍備増強に懸念",
     "date": "2026/06/01",
@@ -606,7 +903,7 @@
     "novelty": 70
   },
   {
-    "id": "31",
+    "id": "46",
     "category": "Policy",
     "title": "中国、台湾周辺海域を巡回し日比間の境界線協議を強く批判",
     "date": "2026/06/01",
@@ -623,7 +920,7 @@
     "novelty": 75
   },
   {
-    "id": "32",
+    "id": "47",
     "category": "Policy",
     "title": "トランプ大統領、特定の国の核計画に関する文言を含む合意草案に言及",
     "date": "2026/06/01",
@@ -640,7 +937,7 @@
     "novelty": 80
   },
   {
-    "id": "33",
+    "id": "48",
     "category": "Policy",
     "title": "高市首相、イラン大統領に米国との早期合意に向け柔軟な姿勢を要求",
     "date": "2026/06/01",
@@ -657,7 +954,7 @@
     "novelty": 65
   },
   {
-    "id": "34",
+    "id": "49",
     "category": "Economy",
     "title": "日本政府、円安阻止のため約730億ドルを円買い介入に支出",
     "date": "2026/06/01",
@@ -678,7 +975,7 @@
     "novelty": 75
   },
   {
-    "id": "35",
+    "id": "50",
     "category": "Economy",
     "title": "日経平均株価、67,000円台突破で2日連続史上最高値を更新",
     "date": "2026/06/01",
@@ -693,280 +990,5 @@
     "importance": "high",
     "socialImpact": 80,
     "novelty": 60
-  },
-  {
-    "id": "36",
-    "category": "Economy",
-    "title": "日本、中東情勢緊迫化を受け約200億ドルの追加予算案を編成",
-    "date": "2026/06/01",
-    "summary": "日本政府が中東情勢の緊迫化に対応し、エネルギー価格高騰対策など約200億ドル規模の追加予算を編成する方針を発表した。",
-    "details": "日本政府は、中東情勢の緊迫化に伴う原油価格の高騰やサプライチェーンの混乱に対応するため、約200億ドル（約3兆円）規模の追加予算を編成する方針を固めた。この予算は、エネルギー補助金や戦略的備蓄の強化、サプライチェーン強靭化のための企業支援などに充てられる見込み。国民生活や企業活動への影響を緩和し、経済の安定化を図る狙いがある。",
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 65
-  },
-  {
-    "id": "37",
-    "category": "Business",
-    "title": "ソフトバンク、フランスにAIデータセンター建設で750億ユーロ投資を発表",
-    "date": "2026/06/01",
-    "summary": "ソフトバンクグループがフランスにAIデータセンター建設のため、750億ユーロもの巨額投資を発表。欧州のAIインフラを強化する。",
-    "details": "ソフトバンクグループは、フランスにAIデータセンターを建設するため、750億ユーロ（約12兆円）の巨額投資計画を発表した。この投資は、欧州におけるAIインフラの強化とデータ処理能力の向上を目指すものであり、ソフトバンクがグローバルなAIリーダーシップを確立するための戦略の一環と見られる。欧州経済にとっても、新たな雇用創出と技術革新の加速が期待される。",
-    "sources": [
-      {
-        "name": "NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 80
-  },
-  {
-    "id": "38",
-    "category": "Ethics",
-    "title": "日本、大麻由来化合物カンナビノール（CBN）の製造・販売・所持・使用を禁止",
-    "date": "2026/06/01",
-    "summary": "日本政府は6月1日より、大麻由来の化合物カンナビノール（CBN）の製造、販売、所持、使用を全面的に禁止する方針を決定した。",
-    "details": "厚生労働省は、大麻由来の化合物カンナビノール（CBN）について、6月1日より製造、販売、所持、および使用を全面的に禁止すると発表した。これは、CBNが精神活性作用を持つ可能性や、乱用のリスクが指摘されていることを受けた措置であり、健康被害の予防と薬物乱用対策の強化を目的としている。規制薬物の範囲を広げることで、新たな問題への対応を図る政府の姿勢が示された形だ。",
-    "sources": [
-      {
-        "name": "The Japan Times",
-        "url": "https://www.japantimes.co.jp"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 50
-  },
-  {
-    "id": "39",
-    "category": "Policy",
-    "title": "インド太平洋における「大いなるヘッジ」戦略：米国の疑念と中国台頭への対応",
-    "date": "2026/06/01",
-    "summary": "米国への信頼が揺らぎ、中国の台頭が進む中、日本はインド太平洋地域で防衛関係を深化させる「ヘッジ戦略」を推進している。",
-    "details": "米国が同盟国へのコミットメントに疑念が生じ、中国の軍事・経済的影響力が拡大する中、日本はインド太平洋地域において多角的な防衛関係を深化させる「ヘッジ戦略」を加速している。これは、地域の安全保障環境が複雑化する中で、日本が自国の安全保障を確保し、地域の安定に貢献するための積極的な外交・防衛努力の一環であり、他のアジア諸国も同様の動きを見せている。",
-    "sources": [
-      {
-        "name": "The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70
-  },
-  {
-    "id": "40",
-    "category": "Model",
-    "title": "最新のAI研究論文がarXivで公開され、多様なアルゴリズムとモデル進化を示す",
-    "date": "2026/06/01",
-    "summary": "6月1日、arXivで200件以上の新たなAI研究論文が公開され、基盤モデルやエージェントAIに関する最新の学術的進展が示された。",
-    "details": "学術論文リポジトリarXivにて、6月1日付けで200件を超えるAI関連の新作論文が公開された。これには、大規模言語モデルの新たなアーキテクチャ、エージェントAIの行動計画、マルチモーダル学習の進化に関する研究などが含まれる。これらの発表は、AI技術の基礎研究における活発な動向を示しており、将来の実用化に向けた学術的なブレイクスルーの継続を裏付けている。",
-    "sources": [
-      {
-        "name": "arXiv",
-        "url": "https://arxiv.org/list/cs.AI/recent"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 80
-  },
-  {
-    "id": "41",
-    "category": "Business",
-    "title": "AI企業、市場獲得のためChatGPT登場後も低価格戦略を継続",
-    "date": "2026/06/01",
-    "summary": "AI企業は市場シェア拡大を狙い、ChatGPT登場後も低価格戦略を継続。収益性と持続可能性が課題となっている。",
-    "details": "AI企業が、市場への参入障壁を下げ、顧客を獲得するために、ChatGPTの登場以来、低価格戦略を継続している。この「薄利多売」のビジネスモデルは、初期の成長を促進する一方で、長期的な収益性や持続可能性に疑問を投げかけている。競争激化の中で、企業はサービスの差別化や新たな収益源の確立を模索する必要がある。",
-    "sources": [
-      {
-        "name": "The Japan Times",
-        "url": "https://www.japantimes.co.jp"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 40
-  },
-  {
-    "id": "42",
-    "category": "Economy",
-    "title": "日本政府、高騰する生活費負担軽減のため追加予算案を発表",
-    "date": "2026/05/31",
-    "summary": "日本政府は原油価格高騰による生活費上昇に対応するため、追加予算案の策定計画を発表した。これにより国民の購買力維持と経済安定化を図る。",
-    "details": "高市首相は、中東情勢に起因するエネルギー価格高騰が家計を圧迫している現状を受け、国民の生活負担を軽減するための補正予算案を策定する方針を明らかにした。具体的な財源や対策は今後協議されるが、経済安全保障と国民生活の安定化が主要な目的となる。",
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/video/2026/05/26/japan-government-unveils-extra-budget-to-ease-cost-of-living-burden.html"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 70
-  },
-  {
-    "id": "43",
-    "category": "Model",
-    "title": "GPT-5.4、デスクトップタスクで人間性能を凌駕するブレークスルー",
-    "date": "2026/05/31",
-    "summary": "GPT-5.4がOSWorld-Verifiedデスクトップタスクベンチマークで人間の平均性能を上回り、APIなしの画面操作タスクでAIが人間を超える初のマイルストーンを達成した。",
-    "details": "この画期的な進展は、企業におけるあらゆるデスクトップワークフローの自動化範囲を大幅に拡大する可能性を秘めている。特に、複雑なソフトウェア操作やデータ入力など、APIが存在しないタスクでもAIが自律的に実行できるようになり、生産性向上に革命をもたらすことが期待される。",
-    "sources": [
-      {
-        "name": "Kersai",
-        "url": "https://kersai.com/ai-breakthroughs-in-2026-march-update"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 95,
-    "novelty": 95
-  },
-  {
-    "id": "44",
-    "category": "Service",
-    "title": "エージェントAI、自律型ワークフローとして企業に広く普及",
-    "date": "2026/05/31",
-    "summary": "2026年初頭、エージェントAIが単なる生成モデルを超え、目標設定から計画、多様なツール連携まで自律的にこなす「デジタルコワーカー」として企業ワークフローに定着した。",
-    "details": "Gartnerの予測では、2026年末までに企業アプリケーションの40%にタスク特化型AIエージェントが組み込まれる見込みだ。AnthropicのClaudeが企業向け生産性エコシステムに拡大したように、AIが既存業務にシームレスに統合され、非技術者も日常業務でAIを活用する時代が到来している。",
-    "sources": [
-      {
-        "name": "Switas Consultancy",
-        "url": "https://www.switas.com/articles/the-ai-avalanche-7-breakthroughs-redefining-march-2026"
-      },
-      {
-        "name": "Innovation Mode",
-        "url": "https://theinnovationmode.com/the-innovation-blog/2026-innovation-trends"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 90
-  },
-  {
-    "id": "45",
-    "category": "Policy",
-    "title": "AIガバナンスと規制順守が企業の競争優位性を左右する時代に",
-    "date": "2026/05/31",
-    "summary": "2026年、EU AI Actの義務化やNISTのAIリスク管理フレームワークにより、AIガバナンスと規制順守が企業の競争優位性を左右する重要な要素となっている。",
-    "details": "企業はモデルカード、評価、インシデント報告、データ処理規則、ヒューマン・イン・ザ・ループ制御など、AIパイプラインへの直接的な組み込みが急務となっている。コンプライアンスの迅速な達成は、市場での信頼性と差別化につながり、AI導入の成功に不可欠な要素である。",
-    "sources": [
-      {
-        "name": "Progress",
-        "url": "https://www.progress.com/blogs/the-6-ai-trends-that-will-actually-matter-in-2026"
-      },
-      {
-        "name": "TechTarget",
-        "url": "https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 75
-  },
-  {
-    "id": "46",
-    "category": "Ethics",
-    "title": "LLM利用における機密データ漏洩の懸念が高まる",
-    "date": "2026/05/31",
-    "summary": "大規模言語モデル（LLM）の広範な利用に伴い、政府職員による機密文書の誤ったアップロードなど、具体的なデータ漏洩事例が報告され、AIセキュリティとプライバシー保護の課題が顕在化している。",
-    "details": "AIの導入が進む中で、企業や政府機関はLLMが処理する情報の機密性や、生成されるコンテンツの正確性に関するセキュリティリスクを再評価する必要に迫られている。特に機密情報を含むプロンプトの利用については、厳格なデータガバナンスと利用ルールの徹底が求められる。",
-    "sources": [
-      {
-        "name": "Info-Tech Research Group",
-        "url": "https://www.infotech.com/digital-disruption/llms-in-2026-what-s-real-what-s-hype-and-what-s-coming-next"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 88,
-    "novelty": 70
-  },
-  {
-    "id": "47",
-    "category": "Model",
-    "title": "マルチモーダルAIモデルが進化し、多様なデータ形式を統合処理",
-    "date": "2026/05/31",
-    "summary": "2026年、マルチモーダル生成AIモデルが大幅な進歩を遂げ、テキスト、画像、音声、動画など複数のデータ形式を統合的に処理し、より汎用的なAI体験を提供している。",
-    "details": "Google GeminiやOpenAI GPTシリーズの進化により、テキストと画像入力の統合からテキストや画像からの動画生成まで可能になり、AIの適用範囲が大きく拡大した。これにより、より人間らしい感覚で世界を理解し、相互作用するAIシステムが実現されつつある。",
-    "sources": [
-      {
-        "name": "Refonte Learning",
-        "url": "https://www.refontelearning.com/blog/generative-ai-models-in-2026-top-trends-breakthroughs-and-opportunities"
-      },
-      {
-        "name": "Coursera",
-        "url": "https://www.coursera.org/articles/ai-trends"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 90
-  },
-  {
-    "id": "48",
-    "category": "Service",
-    "title": "AIによる科学的発見が加速、特に製薬・気候変動分野で顕著な進展",
-    "date": "2026/05/31",
-    "summary": "2026年、生成AIは科学研究の強力なツールとして定着し、新薬開発、タンパク質フォールディング、気候変動対策など、人類が直面する大きな課題の解決において画期的な発見を推進している。",
-    "details": "MITのAIによる創薬やGoogle DeepMindのAlphaEvolveのようなシステムは、大規模言語モデルと進化的アルゴリズムを組み合わせることで、未解決問題の新しいアルゴリズムを発見している。これは、科学のあらゆる分野で研究プロセスを加速させ、イノベーションを促進する可能性を示唆している。",
-    "sources": [
-      {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/bernardmarr/2025/10/13/10-generative-ai-trends-in-2026-that-will-transform-work-and-life"
-      },
-      {
-        "name": "Kersai",
-        "url": "https://kersai.com/ai-breakthroughs-in-2026-march-update"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 92,
-    "novelty": 90
-  },
-  {
-    "id": "49",
-    "category": "Economy",
-    "title": "日本経済、財政規律の見直しとAI等への戦略的投資を推進",
-    "date": "2026/05/31",
-    "summary": "日本は財政運営の軸足を単年度目標から中長期的な債務対GDP比の安定化へ移行し、AIや先端製造業など経済成長と危機対応を両立させる戦略的投資を強化している。",
-    "details": "高市政権は「責任ある積極財政」を掲げ、エネルギー安全保障、サプライチェーン強靭化、AI・半導体分野での成長投資を官民連携で推進。これにより雇用・所得・生産性向上を目指しつつ、財政の持続可能性と市場の信頼確保を両立させる新たな経済モデルへの転換を図っている。",
-    "sources": [
-      {
-        "name": "OMFIF",
-        "url": "https://www.omfif.org/2026/04/japan-shifts-to-a-new-fiscal-anchor"
-      },
-      {
-        "name": "MAY Planning",
-        "url": "https://en.may-plan.com/kconsulting-b/6172"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 75
-  },
-  {
-    "id": "50",
-    "category": "Business",
-    "title": "エッジAIの進化がB2C/B2B分野で超パーソナライズ化を可能に",
-    "date": "2026/05/31",
-    "summary": "2026年、エッジAIの進化により、APIコスト削減、ゼロに近いレイテンシー、優れたデータプライバシーが実現し、B2C/B2B分野で超パーソナライズツールの普及を促進している。",
-    "details": "クラウドベースLLMの応答遅延がユーザー体験の障害となる中、エッジAIはデバイス上での即時処理を可能にし、顧客は瞬時に状況に応じたAI体験を享受できるようになった。これにより、クラウドのみの競合は速度や応答性で太刀打ちできなくなり、新たなビジネス機会が生まれている。",
-    "sources": [
-      {
-        "name": "Vocal.Media Futurism",
-        "url": "https://vocal.media/futurism/5-generative-ai-breakthroughs-that-will-define-2026"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 88,
-    "novelty": 85
   }
 ]
