@@ -1,154 +1,150 @@
 [
   {
     "id": "1",
-    "category": "Model",
-    "title": "最新AI研究論文が多数公開、基礎モデルの推論・効率性進化を加速",
-    "date": "2026/06/04",
-    "summary": "arXivにて200件以上のAI関連論文が公開され、基礎モデルやアルゴリズムの進化を示唆。推論能力や効率性向上が焦点。",
-    "details": [
-      "自然言語処理、コンピュータビジョン、ロボティクスなど多岐にわたる分野での研究が発表され、今後のAI技術の発展を牽引する。特にモデルの認知密度と応用範囲の拡大に関する理論的・実践的知見が注目される。"
-    ],
-    "sources": [
-      {
-        "name": "Artificial Intelligence - arXiv",
-        "url": "https://arxiv.org/list/cs.AI/recent"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 85
-  },
-  {
-    "id": "2",
-    "category": "Policy",
-    "title": "米国外交政策に新たな動き、国際情勢の緊張続く",
-    "date": "2026/06/04",
-    "summary": "2026年6月4日、米国政府の外交政策に関する最新動向が報じられ、中東情勢や米中関係への影響が注目されている。",
-    "details": [
-      "米国は中東での紛争や中国との経済的・技術的競争に直面し、同盟国との関係再構築や国際秩序におけるリーダーシップのあり方が問われている。新たな地政学的リスクへの対応が急務。"
-    ],
-    "sources": [
-      {
-        "name": "US foreign policy | The Guardian",
-        "url": "https://www.theguardian.com/us-news/us-foreign-policy"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 65
-  },
-  {
-    "id": "3",
-    "category": "Policy",
-    "title": "米中首脳会談を巡る議論が白熱、新たな国際秩序の模索",
-    "date": "2026/06/04",
-    "summary": "2026年6月4日、米中首脳会談（トランプ・習会談）の成果と今後の世界秩序への影響について専門家が議論した。",
-    "details": [
-      "両国間の貿易摩擦、技術競争、地政学的対立が深まる中、首脳会談は限定的な進展に留まり、今後の国際関係は多極化の方向へ向かうとの見方が示された。多極化が加速する世界情勢の象徴。"
-    ],
-    "sources": [
-      {
-        "name": "The Long Game: China, America, and the Future of the Global Order | Chicago Council on Global Affairs",
-        "url": "https://globalaffairs.org/upcoming-events"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 75
-  },
-  {
-    "id": "4",
-    "category": "Economy",
-    "title": "共同通信が2026年6月4日の主要ニュースダイジェストを配信",
-    "date": "2026/06/04",
-    "summary": "共同通信が2026年6月4日の国内外の主要ニュースをまとめたダイジェストを公開。経済、政治、社会の動きを概観する。",
-    "details": [
-      "AI技術の進展、国際情勢の緊張、日本経済の動向など、多岐にわたる分野のヘッドラインが網羅されており、最新の国内外情勢を簡潔に把握するための重要な情報源となっている。"
-    ],
-    "sources": [
-      {
-        "name": "Kyodo News Digest: June 4, 2026",
-        "url": "https://english.kyodonews.net/articles/-/75745"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 50
-  },
-  {
-    "id": "5",
     "category": "Business",
-    "title": "日本政府と主要銀行、Anthropicの「Claude Mythos AI」利用へ",
-    "date": "2026/06/05",
-    "summary": "日本政府と大手銀行がAnthropicの高度AIモデル「Claude Mythos AI」へのアクセスを確保し、セキュリティテストと業務導入を進める方針。",
+    "title": "AIの社会浸透と企業価値が急速に拡大、ChatGPT・Geminiユーザー数とOpenAI評価額が顕著に増加",
+    "date": "2026/06/06",
+    "summary": "ChatGPTが9億人、Google Geminiが7.5億人ユーザーを突破し、OpenAIは8,520億ドルの評価額を達成。AIの社会浸透と企業価値が急速に高まっている。",
     "details": [
-      "金融分野におけるAIのセキュリティと信頼性が重視される中、この動きは企業における機密データ処理への生成AI活用を加速させるものとみられる。国家レベルでのAI導入競争が激化。"
+      "生成AIの登場から3年半で、ChatGPTの月間アクティブユーザーは9億人、Google Geminiは7.5億人に達し、OpenAIは最新資金調達で8,520億ドル評価と、AIが日常業務や企業戦略に不可欠なツールとして定着している。エージェントワークフローの採用も進展し、AIが企業と個人の両面で不可欠な存在へと進化。今後もその成長は加速する見込みだ。"
     ],
     "sources": [
       {
-        "name": "Latest Japan and World News | NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      },
-      {
-        "name": "The Asahi Shimbun | Breaking News, Japan News and Analysis",
-        "url": "https://www.asahi.com/ajw"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 88,
-    "novelty": 92
-  },
-  {
-    "id": "6",
-    "category": "Economy",
-    "title": "日経平均株価が史上初の68,000円台を突破、AI関連株が牽引",
-    "date": "2026/06/05",
-    "summary": "日経平均株価が史上最高値を更新し68,000円台に達した。世界的なAI需要の高まりを背景に、関連技術企業の株価が堅調に推移。",
-    "details": [
-      "円安進行と企業業績の好調、特に半導体やAI関連技術への投資加速が市場を押し上げている。一方で、急速な市場上昇には過熱感も指摘され、地政学リスクや金融政策の転換が今後の動向を左右する可能性。"
-    ],
-    "sources": [
-      {
-        "name": "Latest Japan and World News | NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+        "name": "How People Are Really Using AI in 2026 - Harvard Business Review",
+        "url": "https://hbr.org/2026/06/how-people-are-really-using-ai-in-2026"
       }
     ],
     "importance": "critical",
     "socialImpact": 95,
-    "novelty": 70
+    "novelty": 80
   },
   {
-    "id": "7",
+    "id": "2",
     "category": "Policy",
-    "title": "トランプ大統領、高度AIモデルのセキュリティチェックに関する大統領令に署名",
-    "date": "2026/06/05",
-    "summary": "米トランプ大統領が、国家安全保障上のリスクを管理するため、高度なAIモデルに対する厳格なセキュリティチェックを義務付ける大統領令に署名。",
+    "title": "米仲介のイスラエル・レバノン停戦、両国内で強い反発に直面",
+    "date": "2026/06/06",
+    "summary": "米国仲介によるイスラエルとレバノンの停戦合意が発表されたが、両国内で強い反発に直面しており、中東情勢の安定化は依然不透明。",
     "details": [
-      "AIの急速な進化に伴う潜在的な脅威に対処するため、政府機関やAI開発企業に対し、モデルの安全性評価、悪用防止策の強化、データプライバシー保護を求める内容が含まれるとみられる。"
+      "米国が仲介したイスラエルとレバノンの停戦合意は、双方の強硬派から反発を受けている。イスラエル側では安全保障上の懸念、レバノン側ではヒズボラの抵抗が主要因であり、停戦の持続可能性と地域全体の平和への影響が懸念される。今後の交渉の行方に注目が集まる。"
     ],
     "sources": [
       {
-        "name": "Latest Japan and World News | NHK WORLD-JAPAN News",
+        "name": "Latest Japan and World News - NHK WORLD-JAPAN News",
         "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
       }
     ],
     "importance": "critical",
-    "socialImpact": 87,
-    "novelty": 80
+    "socialImpact": 90,
+    "novelty": 70
   },
   {
-    "id": "8",
-    "category": "Ethics",
-    "title": "AIに対する世界の態度調査、期待と懸念が拮抗",
-    "date": "2026/05/26",
-    "summary": "Ipsosの2026年AIモニター調査で、AIに対する期待と不安が世界的にほぼ同等であることが判明。同一人物内でも両感情を抱く傾向。",
+    "id": "3",
+    "category": "Policy",
+    "title": "日本政府、エネルギー安全保障強化へ2040年代までに複数原発の再稼働・再建を検討",
+    "date": "2026/06/06",
+    "summary": "日本政府はエネルギー安全保障強化のため、2040年代までに複数の原子力発電所の再稼働・再建を検討しており、電力供給の安定化と脱炭素化を両立させる方針。",
     "details": [
-      "AIの社会実装が加速する一方で、雇用喪失、プライバシー侵害、ハルシネーションなどの負の側面への懸念が拡大。技術的進歩と並行して、社会受容性、倫理的枠組みの構築が国際的な課題となっている。"
+      "中東情勢によるエネルギー価格高騰を受け、日本政府は電源構成の多様化と安定供給を目指し、2040年代までに複数の原子力発電所の再建・再稼働を目指す方針。脱炭素目標達成と経済的負担軽減が期待される一方、国民の安全保障への懸念も課題となる。長期的なエネルギー戦略の転換点となる。"
     ],
     "sources": [
       {
-        "name": "What Worries the World – May 2026 - Ipsos",
-        "url": "https://www.ipsos.com/en/what-worries-world"
+        "name": "Latest Japan and World News - NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 60
+  },
+  {
+    "id": "4",
+    "category": "Ethics",
+    "title": "国連機関、AIの進展で2030年までにデータセンターの電力・水消費が倍増と警告",
+    "date": "2026/06/06",
+    "summary": "国連機関は、AIの急速な発展によりデータセンターの電力と水消費量が2030年までに倍増する可能性を警告し、環境負荷と持続可能性への課題を提起。",
+    "details": [
+      "AI技術の普及に伴うデータセンターの拡大が、電力および水資源の消費を2030年までに現在の2倍に押し上げると国連機関が発表した。これは環境負荷の増大を意味し、AI開発における持続可能なインフラ整備の重要性が高まっている。エネルギー効率の改善や再生可能エネルギーへの転換が急務となる。"
+    ],
+    "sources": [
+      {
+        "name": "Latest Japan and World News - NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 88,
+    "novelty": 85
+  },
+  {
+    "id": "5",
+    "category": "Business",
+    "title": "SpaceX、過去最大規模の750億ドルIPOを計画、宇宙産業への投資熱高まる",
+    "date": "2026/06/06",
+    "summary": "SpaceXが過去最大規模の750億ドルIPOを計画しており、宇宙産業への投資熱が高まる中、次世代宇宙開発の資金調達を加速させる見込み。",
+    "details": [
+      "イーロン・マスク率いるSpaceXが、史上最高額となる750億ドル規模の新規株式公開（IPO）を準備中。これは同社のスターリンク衛星インターネットサービスや火星探査計画への大規模な資金投入を可能にし、宇宙経済のさらなる成長を牽引すると見られる。宇宙開発における民間企業の役割が拡大している。"
+    ],
+    "sources": [
+      {
+        "name": "Latest Japan and World News - NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 75
+  },
+  {
+    "id": "6",
+    "category": "Economy",
+    "title": "東京株式市場、記録的高値から利益確定売り優勢で下落、中東情勢が影響",
+    "date": "2026/06/06",
+    "summary": "東京株式市場は、前日の記録的高値から利益確定売りが優勢となり下落。中東情勢の不確実性も投資家心理に影響を与えた。",
+    "details": [
+      "日経平均株価は、連日の上昇を受けて投資家が利益確定に動き、下落して取引を終えた。中東情勢の緊張や地政学リスクの高まりが背景にあり、国内外の経済動向への警戒感が引き続き市場を左右する見込み。投資家はさらなる情勢変化に注意を払っている。"
+    ],
+    "sources": [
+      {
+        "name": "Latest Japan and World News - NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 60,
+    "novelty": 40
+  },
+  {
+    "id": "7",
+    "category": "Economy",
+    "title": "米FRB調査、多数の地区でインフレ圧力継続を報告、利下げ開始の不透明感増す",
+    "date": "2026/06/06",
+    "summary": "米連邦準備制度理事会（FRB）の最新地区連銀報告書によると、多くの地区でインフレ圧力の継続が報告され、利下げ開始時期の不透明感が増している。",
+    "details": [
+      "米FRBのベージュブック調査では、労働市場の逼迫とサプライチェーンの制約を背景に、広範な地域で物価上昇が継続していることが示された。これにより、FRBが早期に金融緩和に踏み切る可能性は低くなり、金融政策の方向性が注目される。高金利の長期化が経済成長に与える影響が懸念される。"
+    ],
+    "sources": [
+      {
+        "name": "Latest Japan and World News - NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 50
+  },
+  {
+    "id": "8",
+    "category": "Policy",
+    "title": "トランプ前大統領、来月のNATO首脳会議に出席へ、米大統領選控え外交動向に注目",
+    "date": "2026/06/06",
+    "summary": "マルコ・ルビオ上院議員は、トランプ前大統領が来月開催されるNATO首脳会議に出席する意向だと発言し、米国の大統領選を控えた外交動向に注目が集まっている。",
+    "details": [
+      "来月のNATO首脳会議にトランプ前大統領が出席する可能性が浮上。これは、大統領選を前にした外交的な影響力行使と見られ、ウクライナ情勢や欧州の安全保障に対する米国の関与の度合いが議論される重要な場となる。同盟関係の将来に大きな影響を与える可能性を秘めている。"
+    ],
+    "sources": [
+      {
+        "name": "Latest Japan and World News - NHK WORLD-JAPAN News",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
       }
     ],
     "importance": "high",
@@ -157,135 +153,78 @@
   },
   {
     "id": "9",
-    "category": "Policy",
-    "title": "G7会合でオンライン安全規制を巡り米英仏が対立",
-    "date": "2026/05/27",
-    "summary": "G7会合において、子どもたちのオンライン安全確保のための規制に関して、米国、英国、フランスの間で意見の相違が表面化した。",
+    "category": "Business",
+    "title": "大手AI企業が巨額評価額でIPOを計画、AI技術開発競争と資本市場の熱狂続く",
+    "date": "2026/06/05",
+    "summary": "Anthropic、SpaceX、OpenAIなど主要AI企業が巨額の評価額でIPOを計画しており、AI競争の激化と資本市場の熱狂を示している。",
     "details": [
-      "オンライン上の有害コンテンツから子どもを保護する重要性は共有されているものの、具体的な規制手法や企業の責任範囲に関して、国家間の法制度や文化的背景の違いが課題となっている。国際協調の難しさを示す。"
+      "複数の大手AI企業がウォール街でのIPO準備を進めており、その評価額は急騰している。これは、AI技術開発競争の加速と、技術革新を支える大規模な資本調達の必要性を反映。投資家のAI市場への強い期待が、今後のテクノロジー業界の勢力図を塗り替える可能性を秘めている。"
     ],
     "sources": [
       {
-        "name": "Foreign Affairs – POLITICO",
-        "url": "https://www.politico.com/news/foreign-affairs"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 60
-  },
-  {
-    "id": "10",
-    "category": "Economy",
-    "title": "国連、ホルムズ海峡の紛争長期化で世界的な食糧危機を警告",
-    "date": "2026/05/20",
-    "summary": "ホルムズ海峡での緊張が続く中、国連は今後6ヶ月以内に世界的な食糧危機が起こる可能性を警告。エネルギー供給の混乱が主要因。",
-    "details": [
-      "中東情勢の不安定化が海上輸送に与える影響は深刻で、石油だけでなく食料品やその他の物資の供給網にも支障をきたし、インフレと飢餓のリスクを高めている。人道危機を深刻化させる恐れ。"
-    ],
-    "sources": [
-      {
-        "name": "Foreign Affairs – POLITICO",
-        "url": "https://www.politico.com/news/foreign-affairs"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 92,
-    "novelty": 70
-  },
-  {
-    "id": "11",
-    "category": "Policy",
-    "title": "イラン戦争で米中間の力関係が変化、中国が優位に",
-    "date": "2026/05/14",
-    "summary": "機密情報報告書が、イラン戦争の長期化により米国と中国の間の地政学的力関係が変化し、中国が主要な競争分野で優位に立っていると指摘。",
-    "details": [
-      "米国が中東問題に資源を割く中、中国はアジア太平洋地域での経済・軍事的存在感を着実に高めている。技術覇権争いにおいても中国の投資が加速しており、国際秩序におけるパワーバランスのシフトを示唆する。"
-    ],
-    "sources": [
-      {
-        "name": "Foreign Policy - The Washington Post",
-        "url": "https://www.washingtonpost.com/foreign-policy"
+        "name": "AI titans rush to Wall Street with soaring valuations - The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw/articles/14925828"
       }
     ],
     "importance": "critical",
     "socialImpact": 90,
-    "novelty": 80
+    "novelty": 85
+  },
+  {
+    "id": "10",
+    "category": "Ethics",
+    "title": "英国規制当局、GoogleにAI学習用ニューススクレイピングのオプトアウト義務付け",
+    "date": "2026/06/05",
+    "summary": "英国規制当局はGoogleに対し、AI学習のためのニュースコンテンツ収集をオプトアウトできる仕組みを義務付け、AIと著作権の新たな規制枠組みを示した。",
+    "details": [
+      "英国の規制当局が、GoogleのAIサービスがニュースサイトのコンテンツをスクレイピングする際、サイト運営者がオプトアウトできる仕組みを設けるよう命令。これは、生成AIによる著作権侵害やコンテンツ利用に関する世界初の具体的な規制措置であり、AIとメディア業界の関係に大きな影響を与える。今後の国際的なAI規制議論に先鞭をつけるものだ。"
+    ],
+    "sources": [
+      {
+        "name": "UK curbs Google in world-first ruling over AI scraping - The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw/articles/14925827"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 92,
+    "novelty": 90
+  },
+  {
+    "id": "11",
+    "category": "Policy",
+    "title": "アトランティック・カウンシル、ブラジルとモロッコ間のスポーツ外交の可能性を議論",
+    "date": "2026/06/05",
+    "summary": "アトランティック・カウンシルがブラジルとモロッコ間のスポーツ外交の可能性を探るイベントを開催し、国際関係における非伝統的アプローチの重要性を示唆。",
+    "details": [
+      "アトランティック・カウンシルは、スポーツを通じてブラジルとモロッコの外交関係を強化する可能性について議論するイベントを開催。これは、文化交流やソフトパワーが地政学的な課題解決に貢献し、経済・社会関係を深化させる新たな外交戦略として注目されている。非国家主体間の連携が新たな外交の形となる。"
+    ],
+    "sources": [
+      {
+        "name": "Upcoming events - Atlantic Council",
+        "url": "https://www.atlanticcouncil.org/events"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 55
   },
   {
     "id": "12",
     "category": "Policy",
-    "title": "トランプ大統領、中国サミットで貿易協定締結に意欲",
-    "date": "2026/05/13",
-    "summary": "トランプ大統領は、国内の課題に直面する中、中国との首脳会談で貿易協定を含む取引を成立させることに意欲を示した。",
+    "title": "ロシア、ウクライナ侵攻で外国人徴用を違法に利用か、人権侵害と紛争長期化の懸念",
+    "date": "2026/06/05",
+    "summary": "ロシアがウクライナ侵攻のため外国人徴用を違法に利用している問題が指摘され、国際的な人権侵害と紛争の長期化への影響が懸念される。",
     "details": [
-      "中国からの圧力もあり、台湾への米国支援の見直しを示唆したことで、同盟国に警戒感が広がっている。米中関係の動向が世界経済に大きな影響を与える。国際的な緊張関係の緩和も期待されるが、その代償も大きい。"
+      "ロシアがウクライナとの戦争において、外国人労働者や留学生などを騙したり強制したりして軍事活動に従事させているとの報告がある。これは国際法違反であり、人権問題として深刻化するだけでなく、紛争の倫理的側面や国際社会の対応に大きな影響を与える。国際社会の非難が高まることは必至だ。"
     ],
     "sources": [
       {
-        "name": "Foreign Policy - The Washington Post",
-        "url": "https://www.washingtonpost.com/foreign-policy"
+        "name": "Upcoming events - Atlantic Council",
+        "url": "https://www.atlanticcouncil.org/events"
       }
     ],
     "importance": "high",
     "socialImpact": 85,
     "novelty": 70
-  },
-  {
-    "id": "13",
-    "category": "Policy",
-    "title": "各国首脳が外交活動を活発化、多極化する国際関係",
-    "date": "2026/05/18",
-    "summary": "2026年5月、トランプ米大統領の北京訪問、モディ印首相の欧州訪問など、各国首脳の外交活動が活発化。国際関係の多極化が顕著に。",
-    "details": [
-      "地域大国が独自の外交戦略を推進し、従来の二極構造から多極的な国際秩序へと移行しつつある。貿易、安全保障、技術協力など、多岐にわたる分野で新たなアライアンスが形成され、国際情勢は複雑さを増している。"
-    ],
-    "sources": [
-      {
-        "name": "Leaders dial up diplomacy: String of diplomatic visits by global leaders to shore up ties - CNA (YouTube)",
-        "url": "https://www.youtube.com/watch?v=YWrGfjQ3WA0"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 65
-  },
-  {
-    "id": "14",
-    "category": "Economy",
-    "title": "日銀、中東情勢の影響で景気減速と物価上昇を予測",
-    "date": "2026/04/XX",
-    "summary": "日本銀行の4月展望レポートは、中東情勢の影響で日本経済が減速し、物価が上昇するリスクを指摘。賃上げは継続も消費に懸念。",
-    "details": [
-      "エネルギー価格高騰とサプライチェーンの混乱が日本経済に影を落とす一方で、労働市場の逼迫を背景に賃上げは安定。しかし、消費者の購買力低下により個人消費は伸び悩み、景気の先行きには不透明感が残る。金融政策の舵取りが注目される。"
-    ],
-    "sources": [
-      {
-        "name": "Economic Activity, Prices, and Monetary Policy in Japan (PDF) - Bank of Japan",
-        "url": "https://www.boj.or.jp/en/about/press/koen_2026/data/ko260521a1.pdf"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 60
-  },
-  {
-    "id": "15",
-    "category": "Model",
-    "title": "主要LLMの推論能力向上と企業統合加速",
-    "date": "2026/03/XX",
-    "summary": "Google Gemini 3.1 ProとOpenAI GPT-5.3が推論能力を大幅向上。Claudeは企業生産性エコシステムに深く統合され、AIのビジネス活用が加速。",
-    "details": [
-      "モデル開発の焦点がパラメータ数から「認知密度」と実用的な推論能力へとシフト。これによりAIの信頼性と応用範囲が広がり、非技術者も日常業務でAIを容易に利用できるようになり、企業のデジタル変革を強力に推進する。"
-    ],
-    "sources": [
-      {
-        "name": "The AI Avalanche: 7 Breakthroughs Redefining March 2026 - Switas Consultancy",
-        "url": "https://www.switas.com/articles/the-ai-avalanche-7-breakthroughs-redefining-march-2026"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 90
   }
 ]
