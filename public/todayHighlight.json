@@ -1,230 +1,288 @@
 [
   {
-    "id": "1",
-    "category": "Business",
-    "title": "AIの社会浸透と企業価値が急速に拡大、ChatGPT・Geminiユーザー数とOpenAI評価額が顕著に増加",
-    "date": "2026/06/06",
-    "summary": "ChatGPTが9億人、Google Geminiが7.5億人ユーザーを突破し、OpenAIは8,520億ドルの評価額を達成。AIの社会浸透と企業価値が急速に高まっている。",
-    "details": [
-      "生成AIの登場から3年半で、ChatGPTの月間アクティブユーザーは9億人、Google Geminiは7.5億人に達し、OpenAIは最新資金調達で8,520億ドル評価と、AIが日常業務や企業戦略に不可欠なツールとして定着している。エージェントワークフローの採用も進展し、AIが企業と個人の両面で不可欠な存在へと進化。今後もその成長は加速する見込みだ。"
-    ],
-    "sources": [
-      {
-        "name": "How People Are Really Using AI in 2026 - Harvard Business Review",
-        "url": "https://hbr.org/2026/06/how-people-are-really-using-ai-in-2026"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 95,
-    "novelty": 80
-  },
-  {
-    "id": "2",
+    "id": 1,
     "category": "Policy",
-    "title": "米仲介のイスラエル・レバノン停戦、両国内で強い反発に直面",
+    "title": "Trump Admin Discusses Taking U.S. Government Equity Stake in OpenAI",
     "date": "2026/06/06",
-    "summary": "米国仲介によるイスラエルとレバノンの停戦合意が発表されたが、両国内で強い反発に直面しており、中東情勢の安定化は依然不透明。",
+    "summary": "トランプ政権がOpenAIの株式を米政府が直接取得する案を議論していることが判明。国家主権基金構想の一環であり、AI覇権の確保と納税者への利益還元を目指す画期的な政策方針である。",
     "details": [
-      "米国が仲介したイスラエルとレバノンの停戦合意は、双方の強硬派から反発を受けている。イスラエル側では安全保障上の懸念、レバノン側ではヒズボラの抵抗が主要因であり、停戦の持続可能性と地域全体の平和への影響が懸念される。今後の交渉の行方に注目が集まる。"
+      "トランプ政権がOpenAIへの直接出資を検討している。これは2026年2月に署名された国家主権基金設立の大統領令に沿うもので、米政府がAI覇権を確保しつつ納税者に利益を還元する狙いがある。安全保障上の関与を強める一方で、市場競争の歪みや利益相反の懸念も生じており、競合のAnthropicが排除されている点も含め、今後の政府とAI企業の距離感に注目が集まる。"
     ],
     "sources": [
       {
-        "name": "Latest Japan and World News - NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 70
-  },
-  {
-    "id": "3",
-    "category": "Policy",
-    "title": "日本政府、エネルギー安全保障強化へ2040年代までに複数原発の再稼働・再建を検討",
-    "date": "2026/06/06",
-    "summary": "日本政府はエネルギー安全保障強化のため、2040年代までに複数の原子力発電所の再稼働・再建を検討しており、電力供給の安定化と脱炭素化を両立させる方針。",
-    "details": [
-      "中東情勢によるエネルギー価格高騰を受け、日本政府は電源構成の多様化と安定供給を目指し、2040年代までに複数の原子力発電所の再建・再稼働を目指す方針。脱炭素目標達成と経済的負担軽減が期待される一方、国民の安全保障への懸念も課題となる。長期的なエネルギー戦略の転換点となる。"
-    ],
-    "sources": [
-      {
-        "name": "Latest Japan and World News - NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 60
-  },
-  {
-    "id": "4",
-    "category": "Ethics",
-    "title": "国連機関、AIの進展で2030年までにデータセンターの電力・水消費が倍増と警告",
-    "date": "2026/06/06",
-    "summary": "国連機関は、AIの急速な発展によりデータセンターの電力と水消費量が2030年までに倍増する可能性を警告し、環境負荷と持続可能性への課題を提起。",
-    "details": [
-      "AI技術の普及に伴うデータセンターの拡大が、電力および水資源の消費を2030年までに現在の2倍に押し上げると国連機関が発表した。これは環境負荷の増大を意味し、AI開発における持続可能なインフラ整備の重要性が高まっている。エネルギー効率の改善や再生可能エネルギーへの転換が急務となる。"
-    ],
-    "sources": [
-      {
-        "name": "Latest Japan and World News - NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 88,
-    "novelty": 85
-  },
-  {
-    "id": "5",
-    "category": "Business",
-    "title": "SpaceX、過去最大規模の750億ドルIPOを計画、宇宙産業への投資熱高まる",
-    "date": "2026/06/06",
-    "summary": "SpaceXが過去最大規模の750億ドルIPOを計画しており、宇宙産業への投資熱が高まる中、次世代宇宙開発の資金調達を加速させる見込み。",
-    "details": [
-      "イーロン・マスク率いるSpaceXが、史上最高額となる750億ドル規模の新規株式公開（IPO）を準備中。これは同社のスターリンク衛星インターネットサービスや火星探査計画への大規模な資金投入を可能にし、宇宙経済のさらなる成長を牽引すると見られる。宇宙開発における民間企業の役割が拡大している。"
-    ],
-    "sources": [
-      {
-        "name": "Latest Japan and World News - NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 75
-  },
-  {
-    "id": "6",
-    "category": "Economy",
-    "title": "東京株式市場、記録的高値から利益確定売り優勢で下落、中東情勢が影響",
-    "date": "2026/06/06",
-    "summary": "東京株式市場は、前日の記録的高値から利益確定売りが優勢となり下落。中東情勢の不確実性も投資家心理に影響を与えた。",
-    "details": [
-      "日経平均株価は、連日の上昇を受けて投資家が利益確定に動き、下落して取引を終えた。中東情勢の緊張や地政学リスクの高まりが背景にあり、国内外の経済動向への警戒感が引き続き市場を左右する見込み。投資家はさらなる情勢変化に注意を払っている。"
-    ],
-    "sources": [
-      {
-        "name": "Latest Japan and World News - NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+        "name": "Source",
+        "url": "https://opentools.ai/news/trump-admin-openai-us-government-equity-stake"
       }
     ],
     "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 40
+    "socialImpact": 90,
+    "novelty": 85,
+    "confidence": 95,
+    "priorityReason": "政府によるAI企業への直接出資という異例の政策議論。",
+    "rankScore": 78,
+    "rankTier": "A",
+    "ageDays": 0,
+    "rank": 1,
+    "summaryLevel": "deep"
   },
   {
-    "id": "7",
-    "category": "Economy",
-    "title": "米FRB調査、多数の地区でインフレ圧力継続を報告、利下げ開始の不透明感増す",
+    "id": 2,
+    "category": "Ethics",
+    "title": "Anthropic issues AI ‘self-improvement without human intervention' caution, calls for global slowdown in development",
     "date": "2026/06/06",
-    "summary": "米連邦準備制度理事会（FRB）の最新地区連銀報告書によると、多くの地区でインフレ圧力の継続が報告され、利下げ開始時期の不透明感が増している。",
+    "summary": "AIスタートアップのAnthropicは、AIが人間の介入なしに自律進化する「再帰的自己改善」のリスクを警告。安全対策が整うまで、世界的な開発の一時停止や減速を合意すべきだと呼びかけた。",
     "details": [
-      "米FRBのベージュブック調査では、労働市場の逼迫とサプライチェーンの制約を背景に、広範な地域で物価上昇が継続していることが示された。これにより、FRBが早期に金融緩和に踏み切る可能性は低くなり、金融政策の方向性が注目される。高金利の長期化が経済成長に与える影響が懸念される。"
+      "Anthropicが公開した内部データにより、AIモデルの急速な進化が示された。同社は、AIが自律的に性能を向上させる「再帰的自己改善」が社会の対応能力を超える速度で到来するリスクを指摘。安全対策や法整備が追いつくまで、世界的な開発の一時停止や減速を検証可能な形で合意すべきだと提唱した。今後は競合他社や各国政府がこの規制案にどう同調するかが焦点となる。"
     ],
     "sources": [
       {
-        "name": "Latest Japan and World News - NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+        "name": "Source",
+        "url": "https://www.hindustantimes.com/world-news/anthropic-issues-ai-self-improvement-without-human-intervention-caution-calls-for-global-slowdown-in-development-101780729261046.html"
       }
     ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 50
+    "importance": "medium",
+    "socialImpact": 85,
+    "novelty": 80,
+    "confidence": 95,
+    "priorityReason": "AIの自律的進化リスクに対する開発元からの異例の警告。",
+    "rankScore": 75,
+    "rankTier": "A",
+    "ageDays": 0,
+    "rank": 2,
+    "summaryLevel": "deep"
   },
   {
-    "id": "8",
-    "category": "Policy",
-    "title": "トランプ前大統領、来月のNATO首脳会議に出席へ、米大統領選控え外交動向に注目",
-    "date": "2026/06/06",
-    "summary": "マルコ・ルビオ上院議員は、トランプ前大統領が来月開催されるNATO首脳会議に出席する意向だと発言し、米国の大統領選を控えた外交動向に注目が集まっている。",
+    "id": 1,
+    "category": "Model",
+    "title": "Researchers build self-replicating worm with BYO small AI model",
+    "date": "2026/06/04",
+    "summary": "トロント大学の研究チームが、小型LLMを内蔵し、ネットワーク上で自律的に攻撃手法を適応させながら自己複製するAIワーム「ClawWorm」を開発した。既存のAIエージェントの脆弱性を浮き彫りにしている。",
     "details": [
-      "来月のNATO首脳会議にトランプ前大統領が出席する可能性が浮上。これは、大統領選を前にした外交的な影響力行使と見られ、ウクライナ情勢や欧州の安全保障に対する米国の関与の度合いが議論される重要な場となる。同盟関係の将来に大きな影響を与える可能性を秘めている。"
+      "トロント大学のNicolas Papernot准教授率いるチームが、オープンウェイトの小型LLMを搭載した自律型AIワーム「ClawWorm」を開発した。このワームは、固定された脆弱性を狙うのではなく、遭遇したマシンごとに攻撃戦略を自律的に推論・適応させる。感染したGPU搭載ノードの計算資源を寄生的に利用して自己複製を維持する仕組みで、AIエージェントエコシステムの深刻な構造的脆弱性を示している。今後はモデルのコード生成能力向上に伴う脅威の拡大に注視すべ…"
     ],
     "sources": [
       {
-        "name": "Latest Japan and World News - NHK WORLD-JAPAN News",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/list"
+        "name": "Source",
+        "url": "https://www.itnews.com.au/news/researchers-build-self-replicating-worm-with-byo-small-ai-model-626409"
       }
     ],
-    "importance": "high",
+    "importance": "medium",
+    "socialImpact": 85,
+    "novelty": 95,
+    "confidence": 100,
+    "priorityReason": "AIエージェントを標的とする初の自律型ワームの登場。",
+    "rankScore": 74,
+    "rankTier": "A",
+    "ageDays": 2,
+    "rank": 3,
+    "summaryLevel": "deep"
+  },
+  {
+    "id": 5,
+    "category": "Model",
+    "title": "Novel artificial intelligence technology improves eye disease diagnosis",
+    "date": "2026/06/05",
+    "summary": "ワシントン大学の研究チームが、3D眼底検査画像から眼疾患を診断し、さらに心筋梗塞や脳卒中などの全身の健康リスクまで予測するAIモデルを開発した。",
+    "details": [
+      "ワシントン大学医学部が、光干渉断層計（OCT）の3D画像を用いるマルチモーダル基盤モデル「OCTCube-M」を開発した。このモデルは眼疾患の診断精度を向上させるだけでなく、網膜の微細な血管変化から心筋梗塞、脳卒中、腎不全などの全身疾患リスクを予測できる。簡単な眼科検診を強力な全身疾患の早期発見ツールへと変貌させる可能性があり、今後の臨床試験と実用化の進展が期待される。"
+    ],
+    "sources": [
+      {
+        "name": "Source",
+        "url": "https://www.news-medical.net/news/20260605/Novel-artificial-intelligence-technology-improves-eye-disease-diagnosis.aspx"
+      }
+    ],
+    "importance": "medium",
     "socialImpact": 80,
-    "novelty": 65
+    "novelty": 85,
+    "confidence": 90,
+    "priorityReason": "眼科検診から全身の重篤な病気を予測する画期的な医療AI。",
+    "rankScore": 73,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 4,
+    "summaryLevel": "standard"
   },
   {
-    "id": "9",
-    "category": "Business",
-    "title": "大手AI企業が巨額評価額でIPOを計画、AI技術開発競争と資本市場の熱狂続く",
-    "date": "2026/06/05",
-    "summary": "Anthropic、SpaceX、OpenAIなど主要AI企業が巨額の評価額でIPOを計画しており、AI競争の激化と資本市場の熱狂を示している。",
-    "details": [
-      "複数の大手AI企業がウォール街でのIPO準備を進めており、その評価額は急騰している。これは、AI技術開発競争の加速と、技術革新を支える大規模な資本調達の必要性を反映。投資家のAI市場への強い期待が、今後のテクノロジー業界の勢力図を塗り替える可能性を秘めている。"
-    ],
-    "sources": [
-      {
-        "name": "AI titans rush to Wall Street with soaring valuations - The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw/articles/14925828"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 85
-  },
-  {
-    "id": "10",
-    "category": "Ethics",
-    "title": "英国規制当局、GoogleにAI学習用ニューススクレイピングのオプトアウト義務付け",
-    "date": "2026/06/05",
-    "summary": "英国規制当局はGoogleに対し、AI学習のためのニュースコンテンツ収集をオプトアウトできる仕組みを義務付け、AIと著作権の新たな規制枠組みを示した。",
-    "details": [
-      "英国の規制当局が、GoogleのAIサービスがニュースサイトのコンテンツをスクレイピングする際、サイト運営者がオプトアウトできる仕組みを設けるよう命令。これは、生成AIによる著作権侵害やコンテンツ利用に関する世界初の具体的な規制措置であり、AIとメディア業界の関係に大きな影響を与える。今後の国際的なAI規制議論に先鞭をつけるものだ。"
-    ],
-    "sources": [
-      {
-        "name": "UK curbs Google in world-first ruling over AI scraping - The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw/articles/14925827"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 92,
-    "novelty": 90
-  },
-  {
-    "id": "11",
+    "id": 3,
     "category": "Policy",
-    "title": "アトランティック・カウンシル、ブラジルとモロッコ間のスポーツ外交の可能性を議論",
+    "title": "US says it will speed development and use of AI for national security",
     "date": "2026/06/05",
-    "summary": "アトランティック・カウンシルがブラジルとモロッコ間のスポーツ外交の可能性を探るイベントを開催し、国際関係における非伝統的アプローチの重要性を示唆。",
+    "summary": "米ホワイトハウスは、国家安全保障や軍事分野でのAI開発と導入を加速させる大統領令を発表。不法な監視や検閲への使用は厳格に禁止し、米国の価値観に沿った責任ある利用を推進する。",
     "details": [
-      "アトランティック・カウンシルは、スポーツを通じてブラジルとモロッコの外交関係を強化する可能性について議論するイベントを開催。これは、文化交流やソフトパワーが地政学的な課題解決に貢献し、経済・社会関係を深化させる新たな外交戦略として注目されている。非国家主体間の連携が新たな外交の形となる。"
+      "トランプ政権は、軍事やインテリジェンス分野でのAI活用を加速する大統領令（国家安全保障メモランダム）を発表した。国防長官に対し、兵器システムの自律性に関する既存指針を90日以内に更新するよう指示。一方で、言論統制や違法な監視へのAI利用を厳格に禁じる。安全保障上の優位性を確保しつつ、倫理的境界線をどう維持するかが今後の運用における最大の課題となる。"
     ],
     "sources": [
       {
-        "name": "Upcoming events - Atlantic Council",
-        "url": "https://www.atlanticcouncil.org/events"
+        "name": "Source",
+        "url": "https://www.reuters.com/technology/us-says-it-will-speed-development-use-ai-national-security-2026-06-05/"
       }
     ],
     "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 55
+    "socialImpact": 80,
+    "novelty": 75,
+    "confidence": 95,
+    "priorityReason": "米国の軍事・安保分野におけるAI導入の国家戦略。",
+    "rankScore": 71,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 5,
+    "summaryLevel": "standard"
   },
   {
-    "id": "12",
-    "category": "Policy",
-    "title": "ロシア、ウクライナ侵攻で外国人徴用を違法に利用か、人権侵害と紛争長期化の懸念",
+    "id": 2,
+    "category": "Business",
+    "title": "The Tech Download: Anthropic’s IPO sets up first big test of AI boom valuations",
     "date": "2026/06/05",
-    "summary": "ロシアがウクライナ侵攻のため外国人徴用を違法に利用している問題が指摘され、国際的な人権侵害と紛争の長期化への影響が懸念される。",
+    "summary": "AIスタートアップのAnthropicが新規公開株（IPO）の予備申請を非公開で行った。評価額は9650億ドルに達し、OpenAIを抜いて首位に。今回のIPOは、AIブームの市場評価を測る最大の試金…",
     "details": [
-      "ロシアがウクライナとの戦争において、外国人労働者や留学生などを騙したり強制したりして軍事活動に従事させているとの報告がある。これは国際法違反であり、人権問題として深刻化するだけでなく、紛争の倫理的側面や国際社会の対応に大きな影響を与える。国際社会の非難が高まることは必至だ。"
+      "Anthropicが米国証券取引委員会（SEC）にIPOの機密申請を行った。同社は直近の資金調達で評価額9650億ドルに達し、OpenAIの8520億ドルを上回る。今回のIPOは、巨額のインフラコストを賄うための資金調達が目的であり、同時期に上場を計画するSpaceXとともに、公設市場におけるAI企業の超高評価額が正当化されるかどうかの重大なテストケースとなる。今後は公開され…"
     ],
     "sources": [
       {
-        "name": "Upcoming events - Atlantic Council",
-        "url": "https://www.atlanticcouncil.org/events"
+        "name": "Source",
+        "url": "https://www.cnbc.com/2026/06/05/tech-download-anthropic-ipo-ai-valuations.html"
       }
     ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 70
+    "importance": "medium",
+    "socialImpact": 80,
+    "novelty": 75,
+    "confidence": 100,
+    "priorityReason": "巨額AIスタートアップのIPO申請による市場への影響。",
+    "rankScore": 71,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 6,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": 4,
+    "category": "Business",
+    "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence",
+    "date": "2026/06/05",
+    "summary": "マイクロソフトのAI部門トップは、OpenAIとの契約制限から解放され、独自のフロンティアモデルや自社製半導体「Maia 200」の開発を本格化させたと明かした。",
+    "details": [
+      "マイクロソフトのムスタファ・スレイマン氏が、OpenAIとの提携による開発制限から「解放された」と語り、自社独自のフロンティアモデル開発に注力していることを明かした。IowaやArizonaで稼働中の自社製AI半導体「Maia 200」のグローバル展開も進めており、OpenAIへの依存を減らしつつ、2030年までに自立したAIラボとしての地位確立を目指す。両社の競合関係の激化…"
+    ],
+    "sources": [
+      {
+        "name": "Source",
+        "url": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 75,
+    "novelty": 80,
+    "confidence": 95,
+    "priorityReason": "巨大テック企業間の提携と競争のパワーバランスの変化。",
+    "rankScore": 70,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 7,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": 5,
+    "category": "Economy",
+    "title": "Deglobalization sparks race for strategic resources, driving gold and copper outlook",
+    "date": "2026/06/04",
+    "summary": "Sohn Montrealカンファレンスにて、脱グローバル化とAIインフラ構築に伴う電力需要の急増が、銅やアルミニウムなどの物理的資源の深刻な不足を招き、構造的な高インフレを引き起こすと指摘された。",
+    "details": [
+      "Sohn Montrealカンファレンスにおいて、金融リーダーらが脱グローバル化による地政学的な資源囲い込みと、AIデータセンター建設に伴う電力インフラ需要の爆発的増加が重なっていると警告した。送電網や発電に必要な銅、アルミニウム、銀などの物理的資源が長期的なボトルネックとなり、構造的な高インフレを維持する要因になるという。投資家はハイテク株だけでなく、実物資産へのシフトを検…"
+    ],
+    "sources": [
+      {
+        "name": "Source",
+        "url": "https://www.kitco.com/news/article/2026-06-04/deglobalization-sparks-race-strategic-resources-driving-gold-and-copper"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 75,
+    "novelty": 70,
+    "confidence": 100,
+    "priorityReason": "AIブームの裏で進行する物理的資源不足とインフレの警告。",
+    "rankScore": 66,
+    "rankTier": "B",
+    "ageDays": 2,
+    "rank": 8,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": 3,
+    "category": "Business",
+    "title": "OpenAI is going public as the worst value among its AI peers",
+    "date": "2026/06/03",
+    "summary": "PitchBookの分析によると、OpenAIは競合他社と比較して「ビジネスの質に対する価格」が最も割高な状態で上場する見通しだ。同社の収益性はMicrosoftとの期…",
+    "details": [
+      "PitchBookの最新調査で、OpenAIが競合のAI企業と比較して最も割高な評価額でIPOに臨むことが指摘された。同社の黒字化への道筋は、2030年までMicrosoftへの支払いを380億ドルに制限する収益分配契約に依存しており、この契約がなければフリーキャッシュフローのプラス化は困難とされ…"
+    ],
+    "sources": [
+      {
+        "name": "Source",
+        "url": "https://pitchbook.com/news/articles/openai-business-quality-valuation-analysis"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 75,
+    "novelty": 70,
+    "confidence": 100,
+    "priorityReason": "OpenAI上場における財務リスクと評価額の妥当性の検証。",
+    "rankScore": 66,
+    "rankTier": "B",
+    "ageDays": 3,
+    "rank": 9,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": 4,
+    "category": "Economy",
+    "title": "Boston Fed paper says Fed can concentrate on inflation risks amid energy shock",
+    "date": "2026/06/04",
+    "summary": "ボストン連邦準備銀行の論文は、米国のエネルギー効率向上と国内生産増により、原油価格ショックが雇用に与える影響が和らいでいるため、FRBは金融政策においてインフレリスクに…",
+    "details": [
+      "ボストン連銀が発表した研究論文によると、米国のエネルギー効率の改善と国内エネルギー生産の拡大により、原油価格の急騰が雇用市場に与える悪影響は1970年代に比べて大幅に減少している。このため、エネルギーショック時でもスタグフレーションのような雇用とインフレの二者択一に陥る可能性は低く、FRBはインフ…"
+    ],
+    "sources": [
+      {
+        "name": "Source",
+        "url": "https://www.kitco.com/news/off-the-wire/2026-06-04/boston-fed-paper-says-fed-can-concentrate-inflation-risks-amid-energy"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 65,
+    "confidence": 100,
+    "priorityReason": "FRBの金融政策判断に影響を与える新たな研究結果。",
+    "rankScore": 64,
+    "rankTier": "B",
+    "ageDays": 2,
+    "rank": 10,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": 6,
+    "category": "Economy",
+    "title": "Japan's manufacturing sector is losing its edge — Here's Why",
+    "date": "2026/06/03",
+    "summary": "日本の製造業がAIやデータ統合の遅れにより競争力を失いつつあると指摘された。2025年の総務省白書によると、生成AIの利用率は日本が26.7%と、中国や米国に比べて大幅…",
+    "details": [
+      "かつて高品質で知られた日本の製造業が、AI時代への適応遅れにより岐路に立たされている。総務省のデータでは日本の生成AI利用率は26.7%に過ぎず、中国（81.2%）や米国（68.8%）に大きく水をあけられている。熟練技術者の経験に依存する伝統的手法は、データ駆動型の競合に凌駕されるリスクがあり、サ…"
+    ],
+    "sources": [
+      {
+        "name": "Source",
+        "url": "https://news.cgtn.com/news/2026-06-03/Japan-s-manufacturing-sector-is-losing-its-edge-Here-s-Why-1NFQOPCVHQ4/p.html"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 60,
+    "confidence": 100,
+    "priorityReason": "日本の基幹産業である製造業が直面するAI導入の遅れ。",
+    "rankScore": 63,
+    "rankTier": "B",
+    "ageDays": 3,
+    "rank": 11,
+    "summaryLevel": "brief"
   }
 ]
