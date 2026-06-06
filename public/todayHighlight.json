@@ -1,26 +1,30 @@
 [
   {
-    "id": "anthropic-self-improvement-warning-20260605",
+    "id": "news_001",
     "category": "Ethics",
-    "title": "「AIが自らを進化させる」Anthropicが自己改善リスクを警告、世界的な開発一時停止を提唱",
-    "date": "2026/06/05",
-    "summary": "AIスタートアップのAnthropicは、AIが人間の介入なしに自らを改良する「再帰的自己改善」の段階に近づいていると警告。安全対策が追いつくよう、世界的な開発一時停止メカニズムの構築を呼びかけた。",
+    "title": "Anthropic、AIの「自律的自己改善」が近づいていると警告し世界的な開発減速を提唱",
+    "date": "2026/06/06",
+    "summary": "AIスタートアップのAnthropicは、同社のモデル「Claude」が人間の介入なしに自己改善を行う段階に近づいていると警告。社会や安全対策が技術進歩に追いつくよう、世界的な開発の一時停止や減速を検討すべきだと呼びかけた。",
     "details": [
-      "AIスタートアップのAnthropicが、AIモデルが人間の介入なしに自らを改良する「再帰的自己改善」の段階に近づいていると警告し、世界的な開発の一時停止メカニズムの構築を呼びかけた。",
-      "この技術進歩は、人間がAIの制御を失うリスクを高める可能性があり、安全性やアライメント研究が追いつくための「ブレーキペダル」が必要であると主張されている。",
-      "今後は、競合するOpenAIなどの他社や各国政府がこの一時停止の提案にどのように反応するか、また国際的な規制枠組みの構築が進むかが注目される。"
+      "AIスタートアップのAnthropicがブログを公開し、同社の最先端AIモデル「Claude」が人間の介入なしに自律的にコードを最適化し自己改善する段階に近づいていることを明らかにしました。同社は、この技術がもたらすリスクに社会制度や安全性の研究が追いつくよう、世界的なAI開発の一時停止や減速を検討すべきだと提唱しています。",
+      "この警告は、AIが人間の制御を超えて指数関数的に進化する「再帰的自己改善」の現実味が帯びてきたことを示しています。技術の暴走や悪用に対する懸念が強まる中、業界大手が自ら規制や開発ペースの抑制を求める異例の事態であり、今後の国際的なAIガバナンスや規制議論に決定的な影響を与える可能性があります。",
+      "今後は、OpenAIやGoogleなどの競合他社、および各国政府がこの減速要請に対してどのような姿勢を示すか、また具体的な国際協調による開発規制枠組みが合意されるかどうかが注目されます。"
     ],
     "sources": [
       {
-        "name": "Scientific American",
-        "url": "https://www.scientificamerican.com/article/anthropic-warns-ai-may-soon-begin-recursive-self-improvement/"
+        "name": "Dallas Express",
+        "url": "https://dallasexpress.com/business-markets/anthropic-admitted-claude-is-close-to-self-improvement-heres-what-that-means/"
+      },
+      {
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/anthropic-issues-ai-self-improvement-without-human-intervention-caution-calls-for-global-slowdown-in-development-101780729261046.html"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
     "novelty": 90,
     "confidence": 95,
-    "priorityReason": "AIの自己進化リスクと開発停止要請という極めて重要な倫理的提起。",
+    "priorityReason": "AIの自律進化リスクに対する業界大手の異例の警告であるため。",
     "rankScore": 90,
     "rankTier": "S",
     "ageDays": 1,
@@ -28,67 +32,39 @@
     "summaryLevel": "deep"
   },
   {
-    "id": "anthropic-ipo-filing-2026",
-    "category": "Business",
-    "title": "AnthropicがIPOを機密申請、AIブームの超高評価額を測る初の試金石に",
-    "date": "2026/06/05",
-    "summary": "Anthropicが機密裏にIPOを申請した。9650億ドルの評価額や470億ドルの売上高ランレートが公に精査されることになり、AIスタートアップ全体の評価額の妥当性を測る試金石となる。",
-    "details": [
-      "AIスタートアップのAnthropicが米証券取引委員会（SEC）にIPOの機密申請を行った。同社は直近の資金調達で評価額が9650億ドルに達し、OpenAIを抜いて世界で最も価値のあるプライベートAI企業となっている。",
-      "この上場申請は、これまで非公開市場の巨額資金に支えられてきたフロンティアAI企業の価値が、初めて公開市場の厳しい目にさらされることを意味する。特に同社の売上高総利益率（グロス・マージン）が、今後のAI業界全体の価格設定や投資判断に決定的な影響を与える。",
-      "今後は、競合するOpenAIやSpaceXなどの上場観測が高まる中、公開市場がこれら1兆ドル規模の超高評価額を維持できるか、また実際の企業導入が一時的な試行にとどまらず持続的な収益につながるかが注視される。"
-    ],
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/05/tech-download-anthropic-ipo-ai-valuations.html"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 90,
-    "confidence": 95,
-    "priorityReason": "AI最大手のIPO申請が市場に与える影響を解説。",
-    "rankScore": 90,
-    "rankTier": "S",
-    "ageDays": 1,
-    "rank": 2,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "trump-admin-openai-equity-stake-20260605",
+    "id": "news_003",
     "category": "Policy",
-    "title": "トランプ政権、OpenAIへの政府出資を検討か＝国家主権基金構想の一環",
-    "date": "2026/06/05",
-    "summary": "トランプ政権が、国家主権基金構想の一環として、AI最大手のOpenAIに対する政府出資を検討していることが判明。AI分野における国家管理や地政学的主導権争いが新たな局面を迎えている。",
+    "title": "フランス軍、6月のNATO演習で独自のAI搭載戦場指揮システム「Arcadia」をテストへ",
+    "date": "2026/06/06",
+    "summary": "フランス軍は、2026年6月に実施されるNATO演習において、独自のAI搭載戦場指揮システム「Arcadia」をテストする。このシステムには、スタッフ将校向けに開発された大規模言語モデル「Berthier」が組み込まれ…",
     "details": [
-      "トランプ政権が、国家主権基金構想の一環として、人工知能大手のOpenAIに対する政府出資（株式取得）を検討していることが明らかになり、AI分野における国家管理や地政学的主導権争いが新たな局面を迎えている。"
+      "フランス軍は、2026年6月に開催されるNATOの軍事演習において、Mistral AIやThalesなどの国内企業と共同開発したAI搭載の戦場指揮システム「Arcadia」をテストすることを発表し、その中核としてスタッフ将校のデータ分析や作戦立案を支援する独自の大規模言語モデル「Berthier」が実戦環境で検証されることになりました。"
     ],
     "sources": [
       {
-        "name": "OpenTools",
-        "url": "https://opentools.ai/news/trump-admin-openai-us-government-equity-stake"
+        "name": "Defense News",
+        "url": "https://www.defensenews.com/global/europe/2026/06/06/france-to-test-its-own-ai-powered-battlefield-command-in-june-nato-exercise/"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 85,
-    "confidence": 90,
-    "priorityReason": "政府によるAI企業への直接出資という異例の政策動向。",
-    "rankScore": 80,
+    "socialImpact": 75,
+    "novelty": 80,
+    "confidence": 95,
+    "priorityReason": "軍事領域における独自AIモデルの実戦配備の動きを伝えるため。",
+    "rankScore": 78,
     "rankTier": "A",
     "ageDays": 1,
-    "rank": 3,
+    "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "clawworm-ai-worm-2026",
+    "id": "news_001",
     "category": "Model",
-    "title": "トロント大、自律的に自己複製するAIワーム「ClawWorm」を開発",
+    "title": "自律的に自己複製するAIワーム「ClawWorm」を研究者が開発、ローカルLLMで動作",
     "date": "2026/06/04",
-    "summary": "トロント大学の研究チームが、LLMエージェント環境を標的とし、自律的にネットワークを分析して攻撃を適応・自己複製する初のAIワーム「ClawWorm」を開発した。",
+    "summary": "トロント大学の研究チームが、ローカルで動作する小型LLMを搭載し、ネットワーク内で自律的に攻撃手法を考案しながら自己複製する初のAIワーム「ClawWorm」を開発した。既存のAIエージェントの深刻な脆弱性を浮き彫りに…",
     "details": [
-      "トロント大学の研究チームは、大規模言語モデル（LLM）のエージェント環境を標的とした、初の完全自律型自己複製ワーム「ClawWorm」を開発した。このマルウェアは、固定された脆弱性を突くのではなく、ネットワーク内のマシンごとに攻撃戦略を自律的に推論・適応させることが可能で、制御されたテスト環境において64.5%の感染成功率を記録した。現行のAIエージェントの構造的脆弱性を浮き彫りにしている。"
+      "カナダのトロント大学の研究チームが開発した「ClawWorm」は、感染したマシン上で動作するオープンウェイトの小型LLMを内蔵し、固定された脆弱性攻撃ではなく、遭遇したマシンごとに自律的に攻撃手法を推論・生成して感染を拡大する。このワームは、AIエージェントのシステム設定を書き換えて永続性を確保し、他のエージェントへ自律的に伝播するため、現在のAIエージェントのアーキテクチャにおける深刻なセキュリティ上の欠陥を証明している。"
     ],
     "sources": [
       {
@@ -97,154 +73,128 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 95,
-    "confidence": 90,
-    "priorityReason": "AIエージェントの新たなセキュリティ脅威を提示。",
-    "rankScore": 80,
+    "socialImpact": 75,
+    "novelty": 85,
+    "confidence": 95,
+    "priorityReason": "AIエージェントの深刻な脆弱性を示す初の事例。",
+    "rankScore": 77,
     "rankTier": "A",
-    "ageDays": 2,
-    "rank": 4,
+    "ageDays": 3,
+    "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "us-national-security-ai-acceleration-20260605",
-    "category": "Policy",
-    "title": "米ホワイトハウス、国家安全保障分野におけるAI開発・活用の加速を指示",
-    "date": "2026/06/05",
-    "summary": "米ホワイトハウスは、国家安全保障分野でのAI開発と活用を加速させる大統領覚書を発表。国防長官に対し、兵器システムの自律性に関する指令を90日以内に更新するよう指示した。",
+    "id": "news_002",
+    "category": "Economy",
+    "title": "中国証券監督管理委員会、ファンド業界にAIなどの「コンセプト誇大宣伝」を警告",
+    "date": "2026/06/06",
+    "summary": "中国証券監督管理委員会（CSRC）は、国内のプライベートファンド業界に対し、実体のないAIなどのコンセプトを誇大宣伝して投機を煽る行為を警告した。国家戦略に沿った真の技術イノベーションへの投資と、外部ショックへの耐性強…",
     "details": [
-      "ホワイトハウスは、国家安全保障分野におけるAIの開発と活用を加速させる大統領覚書を発表し、国防長官に対し兵器システムの自律性に関する指令を90日以内に更新するよう指示した。"
+      "中国証券監督管理委員会（CSRC）の呉清主席は、3.4兆ドル規模に達する国内のプライベートファンド業界に対し、実体のないAIなどの流行コンセプトを誇大宣伝して市場の投機を煽る行為を厳しく警告し、国家戦略に合致した真の技術イノベーションへの資金供給と、世界的な市場変動や外部ショックに対する耐性の強化を強く求めました。"
     ],
     "sources": [
       {
         "name": "Reuters",
-        "url": "https://www.reuters.com/technology/us-says-it-will-speed-development-use-ai-national-security-2026-06-05/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "軍事・安全保障分野におけるAI活用の国家方針が示されたため。",
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 5,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "ibm-google-enterprise-ai-partnership-20260605",
-    "category": "Service",
-    "title": "IBMとGoogle Cloudが提携拡大、Geminiを活用した業界特化型AIエージェントを開発へ",
-    "date": "2026/06/05",
-    "summary": "IBMとGoogle Cloudは、企業のAI導入を支援する共同サービスを立ち上げ、Googleの「Gemini Enterprise」に最適化された業界特化型のAIエージェント群を共同開発することを発表した。",
-    "details": [
-      "IBMとGoogle Cloudは、企業のAI導入とシステム近代化を支援する新たな共同サービスを立ち上げ、Googleの「Gemini Enterprise」に最適化された業界特化型のAIエージェント群を共同開発することを発表した。"
-    ],
-    "sources": [
-      {
-        "name": "Telecoms",
-        "url": "https://www.telecoms.com/ai/ibm-and-google-link-arms-for-enterprise-ai-push"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "巨大IT企業2社によるエンタープライズAI市場での強力な提携。",
-    "rankScore": 75,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 6,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "broadcom-rattles-asia-tech-2026",
-    "category": "Economy",
-    "title": "ブロードコムの決算失望でAI株から資金流出、アジアのテック株が急落",
-    "date": "2026/06/05",
-    "summary": "米半導体大手ブロードコムの売上高未達をきっかけに、AI関連株からディフェンシブ銘柄への資金シフトが発生し、サムスンやSKハイニックスなどアジアの主要テック株が急落した。",
-    "details": [
-      "米半導体大手ブロードコムの第2四半期決算における売上高未達を受け、米国市場で半導体株の売りが加速し、その影響がアジア市場にも波及した。韓国のサムスン電子が約7%下落、SKハイニックスが8%超下落したほか、日本の東京エレクトロンやアドバンテストも大幅安となり、これまでAIブームを牽引してきた関連銘柄からディフェンシブセクターへの資金ローテーションが鮮明になっている。"
-    ],
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/05/asian-technology-stocks-sk-hynix-samsung-tsmc-advantest.html"
+        "url": "https://www.reuters.com/legal/government/china-urges-fund-managers-support-innovation-warns-against-concept-hype-2026-06-06/"
       }
     ],
     "importance": "high",
     "socialImpact": 70,
     "novelty": 65,
-    "confidence": 95,
-    "priorityReason": "AIブームの調整局面とアジア株への影響を分析。",
+    "confidence": 90,
+    "priorityReason": "中国によるAIバブル抑制と金融規制強化の動きを示すため。",
     "rankScore": 74,
     "rankTier": "A",
     "ageDays": 1,
-    "rank": 7,
+    "rank": 4,
     "summaryLevel": "standard"
   },
   {
-    "id": "japan-pm-defend-yen-2026",
-    "category": "Policy",
-    "title": "高市首相、国内投資と経済強化による「円の信認防衛」を表明",
-    "date": "2026/06/04",
-    "summary": "高市早苗首相は国会で、中東情勢緊迫化に伴う円安圧力に対し、為替介入ではなく国内投資の拡大やサプライチェーン強化を通じた経済成長によって円の信認を防衛する方針を示した。",
-    "details": [
-      "高市早苗首相は参議院予算委員会において、中東の緊張継続による円安圧力に対し、為替レートの直接的な誘導ではなく、国内投資の促進、サプライチェーンの強靭化、および成長力の底上げを通じて日本経済を強化し、円の信認を防衛する考えを表明した。日本政府が4月から5月にかけて巨額の円買い介入を実施した後の発言であり、構造的な経済改革を重視する姿勢を強調している。"
-    ],
-    "sources": [
-      {
-        "name": "The Wall Street Journal",
-        "url": "https://www.wsj.com/finance/currencies/japan-prime-minister-says-will-defend-yen-by-strengthening-economy-cf886cbe"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "高市首相が示す新たな円安防衛策と経済方針。",
-    "rankScore": 74,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 8,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "gold-price-plunge-us-jobs-report-20260605",
+    "id": "news_002",
     "category": "Economy",
-    "title": "米雇用統計のサプライズで金価格が急落、年内の利上げ観測が再燃",
-    "date": "2026/06/05",
-    "summary": "5月の米雇用統計が市場予想を大幅に上回ったことで、米連邦準備制度理事会（Fed）による利上げ観測が強まり、金先物価格は一時3.5%急落して今年の上げ幅を帳消しにした。",
+    "title": "インドネシア中銀と財務相、ルピア急落を防ぐため資産利回り引き上げで合意",
+    "date": "2026/06/06",
+    "summary": "インドネシア中央銀行と財務省は、中東の緊張や新政権の支出計画に伴う資本流出とルピア急落に対処するため、国内資産の利回りを引き上げる方針で合意した。市場の信頼回復と通貨防衛を急ぐ。",
     "details": [
-      "5月の米雇用統計が市場予想を大幅に上回ったことで、米連邦準備制度理事会（Fed）による利上げ観測が強まり、金先物価格は一時3.5%急落して今年の上げ幅を帳消しにした。"
+      "インドネシアでは、プラボウォ新大統領の巨額支出計画や中東での戦争に伴う燃料補助金の高騰を背景に、株価が30%以上急落し、ルピアも大幅に下落する深刻な資本流出に直面している。これに対し、中央銀行のペリー・ワルジヨ総裁と財務相は、国債などの資産利回りを引き上げることで海外投資家を引き戻し、ルピアの信頼性を防衛する方針で一致したが、具体的な実施計画の詳細はまだ明らかにされていない。"
     ],
     "sources": [
       {
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-05/gold-erases-this-year-s-gains-as-jobs-data-fuel-fed-hike-bets"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/indonesia-central-bank-finance-minister-agree-boost-asset-yields-aid-rupiah-2026-06-06/"
       }
     ],
     "importance": "high",
     "socialImpact": 70,
     "novelty": 60,
     "confidence": 95,
-    "priorityReason": "米国の利上げ観測再燃による金融市場への大きな影響。",
+    "priorityReason": "新興国市場における急激な資本流出と通貨防衛の動き。",
     "rankScore": 73,
     "rankTier": "A",
     "ageDays": 1,
-    "rank": 9,
+    "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "boston-fed-energy-shock-2026",
-    "category": "Economy",
-    "title": "ボストン連銀、エネルギー構造変化によりFRBはインフレ抑制に集中可能と分析",
-    "date": "2026/06/04",
-    "summary": "ボストン連銀の研究論文は、米国のエネルギー効率向上と国内生産拡大により、中東危機に伴う原油高が雇用に与える悪影響は限定的であり、FRBはインフレ抑制に集中できると指摘した。",
+    "id": "news_004",
+    "category": "Service",
+    "title": "汎用AIチャットボット、間欠性爆発性障害など「稀な精神疾患」の検出に課題",
+    "date": "2026/06/06",
+    "summary": "多くのユーザーがChatGPTなどの生成AIをメンタルヘルスの相談に利用しているが、AIはうつ病などの一般的な症状に比べ、間欠性爆発性障害（IED）のような稀な精神疾患を正確に検出・判断す…",
     "details": [
-      "ボストン連銀が発表した研究論文によると、米国のエネルギー効率の向上と国内エネルギー生産の拡大という構造変化により、中東戦争に伴う原油価格ショックが雇用市場に与える打撃は1970年代に比べて大幅に緩和されている。このため、連邦準備制度理事会（FRB）は雇用悪化を過度に懸念することなく、原油高がもたらすインフレリスクの抑制に金融政策の焦点を…"
+      "メンタルヘルスの相談窓口としてChatGPTなどの汎用AIチャットボットを利用する人が急増する中、AIはトレーニングデータの偏りから、うつ病や不安障害といった一般的な症状の識別には優れているものの、間欠性爆発性障害（IED）などの症例が少ない稀な精神疾患を正確に検出できず、不適切なアドバイスを提供するリスクがあることが専門家の分析で明ら…"
+    ],
+    "sources": [
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/lanceeliot/2026/06/06/why-ai-chatbots-have-trouble-detecting-rare-mental-health-conditions-such-as-intermittent-explosive-disorder/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "日常化するAI医療相談の潜在的なリスクと限界を警告するため。",
+    "rankScore": 65,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 6,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "news_004",
+    "category": "Economy",
+    "title": "アジア諸国、AI関連製品の輸出急増が中東エネルギー危機の打撃を相殺",
+    "date": "2026/06/04",
+    "summary": "S&Pグローバル・レーティングの経済専門家は、中東の緊張によるエネルギーショックに直面する中、アジアの複数の経済国が半導体やAI関連機器の輸出ブームによってその経済的打撃を相殺していると指…",
+    "details": [
+      "S&Pグローバル・レーティングのポール・グルエンバルト氏は、中東での戦争によるエネルギー価格高騰がアジア経済に下押し圧力をかける一方で、世界的なAIインフラ需要に伴う半導体や電子部品の輸出急増が、一部のアジア諸国においてエネルギーショックの悪影響を緩和する強力なバッファーとして機能していると分析している。"
+    ],
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/video/2026/06/04/several-asian-economies-have-ai-export-boom-to-offset-energy-crisis.html"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "AI需要が地政学的リスクを緩和する経済構造を解説。",
+    "rankScore": 63,
+    "rankTier": "B",
+    "ageDays": 3,
+    "rank": 7,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "news_003",
+    "category": "Economy",
+    "title": "ボストン連銀、エネルギーショック下でもFRBはインフレ抑制に集中可能と指摘",
+    "date": "2026/06/04",
+    "summary": "ボストン連銀が発表した論文によると、米国のエネルギー効率向上と国内生産の増加により、原油価格高騰が雇用に与える悪影響は減少しており、FRBは雇用悪化を懸念せずインフレ抑制に専念できるという。",
+    "details": [
+      "ボストン連邦準備銀行の経済学者が発表した研究論文は、米国のエネルギー構造が1970年代から根本的に変化したため、中東戦争による原油価格ショックが雇用に与える影響は限定的であると分析している。国内のエネルギー生産拡大が雇用を支えるため、FRBは失業率の悪化を恐れることなく、エネルギー価格上昇に伴うインフレリスクの抑制に金融政策の焦点を当て…"
     ],
     "sources": [
       {
@@ -253,40 +203,14 @@
       }
     ],
     "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 75,
+    "socialImpact": 60,
+    "novelty": 65,
     "confidence": 90,
-    "priorityReason": "米エネルギー構造変化がもたらす利上げへの影響。",
-    "rankScore": 64,
-    "rankTier": "B",
-    "ageDays": 2,
-    "rank": 10,
-    "summaryLevel": "brief"
-  },
-  {
-    "id": "japan-manufacturing-losing-edge-2026",
-    "category": "Business",
-    "title": "日本の製造業に警鐘、AI導入の遅れで伝統的な「カイゼン」モデルが危機に",
-    "date": "2026/06/03",
-    "summary": "日本の製造業が、生成AIの利用率の低さやデータ統合 of 遅れにより、熟練技術者の経験に頼る伝統的な強みを失い、コンピューティングパワー主導の競争で後退しつつあると指摘された。",
-    "details": [
-      "中国グローバルテレビジョンネットワーク（CGTN）の報道によると、かつて世界を席巻した日本の「リーン生産（カイゼン）」モデルが、AIやデータ統合の遅れにより競争力を失いつつある。日本の生成AI利用率は約26.7%と、中国や米国、ドイツを大きく下回っており、熟練技術者の経験に依存する伝統的手法が、データ駆動型の高度な製造プロセスに追い抜か…"
-    ],
-    "sources": [
-      {
-        "name": "CGTN",
-        "url": "https://news.cgtn.com/news/2026-06-03/Japan-s-manufacturing-sector-is-losing-its-edge-Here-s-Why-1NFQOPCVHQ4/p.html"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 60,
-    "confidence": 85,
-    "priorityReason": "日本の製造業におけるAI遅れの危機感を指摘。",
-    "rankScore": 62,
+    "priorityReason": "FRBの今後の利下げ・利上げ判断に影響を与える分析。",
+    "rankScore": 61,
     "rankTier": "B",
     "ageDays": 3,
-    "rank": 11,
+    "rank": 8,
     "summaryLevel": "brief"
   }
 ]
