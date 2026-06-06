@@ -1,6 +1,38 @@
 [
   {
     "id": "1",
+    "category": "Ethics",
+    "title": "Anthropic、AIの「自律的自己改善」が近づいていると警告し世界的な開発減速を提唱",
+    "date": "2026/06/06",
+    "summary": "AIスタートアップのAnthropicは、同社のモデル「Claude」が人間の介入なしに自己改善を行う段階に近づいていると警告。社会や安全対策が技術進歩に追いつくよう、世界的な開発の一時停止や減速を検討すべきだと呼びかけた。",
+    "details": [
+      "AIスタートアップのAnthropicがブログを公開し、同社の最先端AIモデル「Claude」が人間の介入なしに自律的にコードを最適化し自己改善する段階に近づいていることを明らかにしました。同社は、この技術がもたらすリスクに社会制度や安全性の研究が追いつくよう、世界的なAI開発の一時停止や減速を検討すべきだと提唱しています。",
+      "この警告は、AIが人間の制御を超えて指数関数的に進化する「再帰的自己改善」の現実味が帯びてきたことを示しています。技術の暴走や悪用に対する懸念が強まる中、業界大手が自ら規制や開発ペースの抑制を求める異例の事態であり、今後の国際的なAIガバナンスや規制議論に決定的な影響を与える可能性があります。",
+      "今後は、OpenAIやGoogleなどの競合他社、および各国政府がこの減速要請に対してどのような姿勢を示すか、また具体的な国際協調による開発規制枠組みが合意されるかどうかが注目されます。"
+    ],
+    "sources": [
+      {
+        "name": "Dallas Express",
+        "url": "https://dallasexpress.com/business-markets/anthropic-admitted-claude-is-close-to-self-improvement-heres-what-that-means/"
+      },
+      {
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/anthropic-issues-ai-self-improvement-without-human-intervention-caution-calls-for-global-slowdown-in-development-101780729261046.html"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 85,
+    "novelty": 90,
+    "confidence": 95,
+    "priorityReason": "AIの自律進化リスクに対する業界大手の異例の警告であるため。",
+    "rankScore": 90,
+    "rankTier": "S",
+    "ageDays": 1,
+    "rank": 1,
+    "summaryLevel": "deep"
+  },
+  {
+    "id": "2",
     "category": "Business",
     "title": "AIの社会浸透と企業価値が急速に拡大、ChatGPT・Geminiユーザー数とOpenAI評価額が顕著に増加",
     "date": "2026/06/06",
@@ -20,15 +52,15 @@
     "socialImpact": 95,
     "novelty": 80,
     "confidence": 70,
-    "rankScore": 91,
+    "rankScore": 89,
     "rankTier": "S",
-    "ageDays": 0,
+    "ageDays": 1,
     "priorityReason": "Business領域の最重要変化",
-    "rank": 1,
+    "rank": 2,
     "summaryLevel": "deep"
   },
   {
-    "id": "2",
+    "id": "3",
     "category": "Ethics",
     "title": "Anthropic issues AI ‘self-improvement without human intervention' caution, calls for global slowdown in development",
     "date": "2026/06/06",
@@ -49,14 +81,146 @@
     "novelty": 80,
     "confidence": 95,
     "priorityReason": "AIの自己改善リスクと開発減速の提唱は極めて重要。",
-    "rankScore": 90,
+    "rankScore": 88,
     "rankTier": "S",
-    "ageDays": 0,
-    "rank": 2,
+    "ageDays": 1,
+    "rank": 3,
     "summaryLevel": "deep"
   },
   {
-    "id": "3",
+    "id": "4",
+    "category": "Policy",
+    "title": "フランス軍、6月のNATO演習で独自のAI搭載戦場指揮システム「Arcadia」をテストへ",
+    "date": "2026/06/06",
+    "summary": "フランス軍は、2026年6月に実施されるNATO演習において、独自のAI搭載戦場指揮システム「Arcadia」をテストする。このシステムには、スタッフ将校向けに開発された大規模言語モデル「Berthier」が組み込まれ…",
+    "details": [
+      "フランス軍は、2026年6月に開催されるNATOの軍事演習において、Mistral AIやThalesなどの国内企業と共同開発したAI搭載の戦場指揮システム「Arcadia」をテストすることを発表し、その中核としてスタッフ将校のデータ分析や作戦立案を支援する独自の大規模言語モデル「Berthier」が実戦環境で検証されることになりました。"
+    ],
+    "sources": [
+      {
+        "name": "Defense News",
+        "url": "https://www.defensenews.com/global/europe/2026/06/06/france-to-test-its-own-ai-powered-battlefield-command-in-june-nato-exercise/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 80,
+    "confidence": 95,
+    "priorityReason": "軍事領域における独自AIモデルの実戦配備の動きを伝えるため。",
+    "rankScore": 78,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 15,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "5",
+    "category": "Economy",
+    "title": "中国証券監督管理委員会、ファンド業界にAIなどの「コンセプト誇大宣伝」を警告",
+    "date": "2026/06/06",
+    "summary": "中国証券監督管理委員会（CSRC）は、国内のプライベートファンド業界に対し、実体のないAIなどのコンセプトを誇大宣伝して投機を煽る行為を警告した。国家戦略に沿った真の技術イノベーションへの投資と、外部ショックへの耐性強…",
+    "details": [
+      "中国証券監督管理委員会（CSRC）の呉清主席は、3.4兆ドル規模に達する国内のプライベートファンド業界に対し、実体のないAIなどの流行コンセプトを誇大宣伝して市場の投機を煽る行為を厳しく警告し、国家戦略に合致した真の技術イノベーションへの資金供給と、世界的な市場変動や外部ショックに対する耐性の強化を強く求めました。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/legal/government/china-urges-fund-managers-support-innovation-warns-against-concept-hype-2026-06-06/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 65,
+    "confidence": 90,
+    "priorityReason": "中国によるAIバブル抑制と金融規制強化の動きを示すため。",
+    "rankScore": 74,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 19,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "6",
+    "category": "Economy",
+    "title": "インドネシア中銀と財務相、ルピア急落を防ぐため資産利回り引き上げで合意",
+    "date": "2026/06/06",
+    "summary": "インドネシア中央銀行と財務省は、中東の緊張や新政権の支出計画に伴う資本流出とルピア急落に対処するため、国内資産の利回りを引き上げる方針で合意した。市場の信頼回復と通貨防衛を急ぐ。",
+    "details": [
+      "インドネシアでは、プラボウォ新大統領の巨額支出計画や中東での戦争に伴う燃料補助金の高騰を背景に、株価が30%以上急落し、ルピアも大幅に下落する深刻な資本流出に直面している。これに対し、中央銀行のペリー・ワルジヨ総裁と財務相は、国債などの資産利回りを引き上げることで海外投資家を引き戻し、ルピアの信頼性を防衛する方針で一致したが、具体的な実施計画の詳細はまだ明らかにされていない。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/indonesia-central-bank-finance-minister-agree-boost-asset-yields-aid-rupiah-2026-06-06/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 60,
+    "confidence": 95,
+    "priorityReason": "新興国市場における急激な資本流出と通貨防衛の動き。",
+    "rankScore": 73,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 23,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "7",
+    "category": "Service",
+    "title": "汎用AIチャットボット、間欠性爆発性障害など「稀な精神疾患」の検出に課題",
+    "date": "2026/06/06",
+    "summary": "多くのユーザーがChatGPTなどの生成AIをメンタルヘルスの相談に利用しているが、AIはうつ病などの一般的な症状に比べ、間欠性爆発性障害（IED）のような稀な精神疾患を正確に検出・判断す…",
+    "details": [
+      "メンタルヘルスの相談窓口としてChatGPTなどの汎用AIチャットボットを利用する人が急増する中、AIはトレーニングデータの偏りから、うつ病や不安障害といった一般的な症状の識別には優れているものの、間欠性爆発性障害（IED）などの症例が少ない稀な精神疾患を正確に検出できず、不適切なアドバイスを提供するリスクがあることが専門家の分析で明ら…"
+    ],
+    "sources": [
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/lanceeliot/2026/06/06/why-ai-chatbots-have-trouble-detecting-rare-mental-health-conditions-such-as-intermittent-explosive-disorder/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "日常化するAI医療相談の潜在的なリスクと限界を警告するため。",
+    "rankScore": 65,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 34,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "8",
+    "category": "Ethics",
+    "title": "英国規制当局、GoogleにAI学習用ニューススクレイピングのオプトアウト義務付け",
+    "date": "2026/06/05",
+    "summary": "英国規制当局はGoogleに対し、AI学習のためのニュースコンテンツ収集をオプトアウトできる仕組みを義務付け、AIと著作権の新たな規制枠組みを示した。",
+    "details": [
+      "英国の規制当局が、GoogleのAIサービスがニュースサイトのコンテンツをスクレイピングする際、サイト運営者がオプトアウトできる仕組みを設けるよう命令。",
+      "これは、生成AIによる著作権侵害やコンテンツ利用に関する世界初の具体的な規制措置であり、AIとメディア業界の関係に大きな影響を与える。",
+      "今後の国際的なAI規制議論に先鞭をつけるものだ。"
+    ],
+    "sources": [
+      {
+        "name": "UK curbs Google in world-first ruling over AI scraping - The Asahi Shimbun",
+        "url": "https://www.asahi.com/ajw/articles/14925827"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 92,
+    "novelty": 90,
+    "confidence": 70,
+    "rankScore": 88,
+    "rankTier": "S",
+    "ageDays": 2,
+    "priorityReason": "Ethics領域の最重要変化",
+    "rank": 4,
+    "summaryLevel": "deep"
+  },
+  {
+    "id": "9",
     "category": "Business",
     "title": "AnthropicがIPOを機密申請、AIブームの超高評価額を測る初の試金石に",
     "date": "2026/06/05",
@@ -77,42 +241,14 @@
     "novelty": 90,
     "confidence": 95,
     "priorityReason": "AI最大手のIPO申請が市場に与える影響を解説。",
-    "rankScore": 90,
+    "rankScore": 87,
     "rankTier": "S",
-    "ageDays": 1,
-    "rank": 4,
+    "ageDays": 2,
+    "rank": 5,
     "summaryLevel": "deep"
   },
   {
-    "id": "4",
-    "category": "Ethics",
-    "title": "英国規制当局、GoogleにAI学習用ニューススクレイピングのオプトアウト義務付け",
-    "date": "2026/06/05",
-    "summary": "英国規制当局はGoogleに対し、AI学習のためのニュースコンテンツ収集をオプトアウトできる仕組みを義務付け、AIと著作権の新たな規制枠組みを示した。",
-    "details": [
-      "英国の規制当局が、GoogleのAIサービスがニュースサイトのコンテンツをスクレイピングする際、サイト運営者がオプトアウトできる仕組みを設けるよう命令。",
-      "これは、生成AIによる著作権侵害やコンテンツ利用に関する世界初の具体的な規制措置であり、AIとメディア業界の関係に大きな影響を与える。",
-      "今後の国際的なAI規制議論に先鞭をつけるものだ。"
-    ],
-    "sources": [
-      {
-        "name": "UK curbs Google in world-first ruling over AI scraping - The Asahi Shimbun",
-        "url": "https://www.asahi.com/ajw/articles/14925827"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 92,
-    "novelty": 90,
-    "confidence": 70,
-    "rankScore": 90,
-    "rankTier": "S",
-    "ageDays": 1,
-    "priorityReason": "Ethics領域の最重要変化",
-    "rank": 3,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "5",
+    "id": "10",
     "category": "Ethics",
     "title": "「AIが自らを進化させる」Anthropicが自己改善リスクを警告、世界的な開発一時停止を提唱",
     "date": "2026/06/05",
@@ -133,14 +269,14 @@
     "novelty": 90,
     "confidence": 95,
     "priorityReason": "AIの自己進化リスクと開発停止要請という極めて重要な倫理的提起。",
-    "rankScore": 90,
+    "rankScore": 87,
     "rankTier": "S",
-    "ageDays": 1,
-    "rank": 5,
+    "ageDays": 2,
+    "rank": 6,
     "summaryLevel": "deep"
   },
   {
-    "id": "6",
+    "id": "11",
     "category": "Business",
     "title": "大手AI企業が巨額評価額でIPOを計画、AI技術開発競争と資本市場の熱狂続く",
     "date": "2026/06/05",
@@ -160,15 +296,15 @@
     "socialImpact": 90,
     "novelty": 85,
     "confidence": 70,
-    "rankScore": 89,
+    "rankScore": 86,
     "rankTier": "S",
-    "ageDays": 1,
+    "ageDays": 2,
     "priorityReason": "Business領域の最重要変化",
-    "rank": 6,
+    "rank": 7,
     "summaryLevel": "deep"
   },
   {
-    "id": "7",
+    "id": "12",
     "category": "Policy",
     "title": "トランプ政権、OpenAIへの政府出資を検討か＝国家主権基金構想の一環",
     "date": "2026/06/05",
@@ -187,14 +323,14 @@
     "novelty": 85,
     "confidence": 90,
     "priorityReason": "政府によるAI企業への直接出資という異例の政策動向。",
-    "rankScore": 80,
+    "rankScore": 78,
     "rankTier": "A",
-    "ageDays": 1,
-    "rank": 13,
+    "ageDays": 2,
+    "rank": 16,
     "summaryLevel": "standard"
   },
   {
-    "id": "8",
+    "id": "13",
     "category": "Policy",
     "title": "ロシア、ウクライナ侵攻で外国人徴用を違法に利用か、人権侵害と紛争長期化の懸念",
     "date": "2026/06/05",
@@ -212,15 +348,15 @@
     "socialImpact": 85,
     "novelty": 70,
     "confidence": 70,
-    "rankScore": 78,
+    "rankScore": 75,
     "rankTier": "A",
-    "ageDays": 1,
+    "ageDays": 2,
     "priorityReason": "Policy領域で要注視",
-    "rank": 16,
+    "rank": 18,
     "summaryLevel": "standard"
   },
   {
-    "id": "9",
+    "id": "14",
     "category": "Policy",
     "title": "米ホワイトハウス、国家安全保障分野におけるAI開発・活用の加速を指示",
     "date": "2026/06/05",
@@ -239,14 +375,14 @@
     "novelty": 70,
     "confidence": 95,
     "priorityReason": "軍事・安全保障分野におけるAI活用の国家方針が示されたため。",
-    "rankScore": 76,
+    "rankScore": 74,
     "rankTier": "A",
-    "ageDays": 1,
-    "rank": 18,
+    "ageDays": 2,
+    "rank": 20,
     "summaryLevel": "standard"
   },
   {
-    "id": "10",
+    "id": "15",
     "category": "Service",
     "title": "IBMとGoogle Cloudが提携拡大、Geminiを活用した業界特化型AIエージェントを開発へ",
     "date": "2026/06/05",
@@ -265,40 +401,14 @@
     "novelty": 75,
     "confidence": 95,
     "priorityReason": "巨大IT企業2社によるエンタープライズAI市場での強力な提携。",
-    "rankScore": 75,
+    "rankScore": 72,
     "rankTier": "A",
-    "ageDays": 1,
-    "rank": 21,
+    "ageDays": 2,
+    "rank": 28,
     "summaryLevel": "standard"
   },
   {
-    "id": "11",
-    "category": "Economy",
-    "title": "ブロードコムの決算失望でAI株から資金流出、アジアのテック株が急落",
-    "date": "2026/06/05",
-    "summary": "米半導体大手ブロードコムの売上高未達をきっかけに、AI関連株からディフェンシブ銘柄への資金シフトが発生し、サムスンやSKハイニックスなどアジアの主要テック株が急落した。",
-    "details": [
-      "米半導体大手ブロードコムの第2四半期決算における売上高未達を受け、米国市場で半導体株の売りが加速し、その影響がアジア市場にも波及した。韓国のサムスン電子が約7%下落、SKハイニックスが8%超下落したほか、日本の東京エレクトロンやアドバンテストも大幅安となり、これまでAIブームを牽引してきた関連銘柄からディフェンシブセクターへの資金ローテーションが鮮明になっている。"
-    ],
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/05/asian-technology-stocks-sk-hynix-samsung-tsmc-advantest.html"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 65,
-    "confidence": 95,
-    "priorityReason": "AIブームの調整局面とアジア株への影響を分析。",
-    "rankScore": 74,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 22,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "12",
+    "id": "16",
     "category": "Economy",
     "title": "Wall Street's hottest trade is cracking",
     "date": "2026/06/05",
@@ -317,14 +427,40 @@
     "novelty": 60,
     "confidence": 95,
     "priorityReason": "AIバブル崩壊の懸念と市場への巨額の影響を解説。",
-    "rankScore": 74,
+    "rankScore": 72,
     "rankTier": "A",
-    "ageDays": 1,
-    "rank": 23,
+    "ageDays": 2,
+    "rank": 29,
     "summaryLevel": "standard"
   },
   {
-    "id": "13",
+    "id": "17",
+    "category": "Economy",
+    "title": "ブロードコムの決算失望でAI株から資金流出、アジアのテック株が急落",
+    "date": "2026/06/05",
+    "summary": "米半導体大手ブロードコムの売上高未達をきっかけに、AI関連株からディフェンシブ銘柄への資金シフトが発生し、サムスンやSKハイニックスなどアジアの主要テック株が急落した。",
+    "details": [
+      "米半導体大手ブロードコムの第2四半期決算における売上高未達を受け、米国市場で半導体株の売りが加速し、その影響がアジア市場にも波及した。韓国のサムスン電子が約7%下落、SKハイニックスが8%超下落したほか、日本の東京エレクトロンやアドバンテストも大幅安となり、これまでAIブームを牽引してきた関連銘柄からディフェンシブセクターへの資金ローテーションが鮮明になっている。"
+    ],
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/05/asian-technology-stocks-sk-hynix-samsung-tsmc-advantest.html"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 65,
+    "confidence": 95,
+    "priorityReason": "AIブームの調整局面とアジア株への影響を分析。",
+    "rankScore": 71,
+    "rankTier": "B",
+    "ageDays": 2,
+    "rank": 30,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "18",
     "category": "Economy",
     "title": "米雇用統計のサプライズで金価格が急落、年内の利上げ観測が再燃",
     "date": "2026/06/05",
@@ -343,14 +479,14 @@
     "novelty": 60,
     "confidence": 95,
     "priorityReason": "米国の利上げ観測再燃による金融市場への大きな影響。",
-    "rankScore": 73,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 27,
+    "rankScore": 70,
+    "rankTier": "B",
+    "ageDays": 2,
+    "rank": 32,
     "summaryLevel": "standard"
   },
   {
-    "id": "14",
+    "id": "19",
     "category": "Policy",
     "title": "米中首脳会談を巡る議論が白熱、新たな国際秩序の模索",
     "date": "2026/06/04",
@@ -372,39 +508,13 @@
     "confidence": 70,
     "rankScore": 85,
     "rankTier": "S",
-    "ageDays": 2,
+    "ageDays": 3,
     "priorityReason": "Policy領域の最重要変化",
-    "rank": 7,
+    "rank": 8,
     "summaryLevel": "deep"
   },
   {
-    "id": "15",
-    "category": "Model",
-    "title": "トロント大、自律的に自己複製するAIワーム「ClawWorm」を開発",
-    "date": "2026/06/04",
-    "summary": "トロント大学の研究チームが、LLMエージェント環境を標的とし、自律的にネットワークを分析して攻撃を適応・自己複製する初のAIワーム「ClawWorm」を開発した。",
-    "details": [
-      "トロント大学の研究チームは、大規模言語モデル（LLM）のエージェント環境を標的とした、初の完全自律型自己複製ワーム「ClawWorm」を開発した。このマルウェアは、固定された脆弱性を突くのではなく、ネットワーク内のマシンごとに攻撃戦略を自律的に推論・適応させることが可能で、制御されたテスト環境において64.5%の感染成功率を記録した。現行のAIエージェントの構造的脆弱性を浮き彫りにしている。"
-    ],
-    "sources": [
-      {
-        "name": "iTnews",
-        "url": "https://www.itnews.com.au/news/researchers-build-self-replicating-worm-with-byo-small-ai-model-626409"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 95,
-    "confidence": 90,
-    "priorityReason": "AIエージェントの新たなセキュリティ脅威を提示。",
-    "rankScore": 80,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 14,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "16",
+    "id": "20",
     "category": "Model",
     "title": "Researchers build self-replicating AI worm with BYO LLM",
     "date": "2026/06/04",
@@ -425,12 +535,38 @@
     "priorityReason": "AIエージェントを狙う初の自律ワーム",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 2,
-    "rank": 15,
+    "ageDays": 3,
+    "rank": 14,
     "summaryLevel": "standard"
   },
   {
-    "id": "17",
+    "id": "21",
+    "category": "Model",
+    "title": "自律的に自己複製するAIワーム「ClawWorm」を研究者が開発、ローカルLLMで動作",
+    "date": "2026/06/04",
+    "summary": "トロント大学の研究チームが、ローカルで動作する小型LLMを搭載し、ネットワーク内で自律的に攻撃手法を考案しながら自己複製する初のAIワーム「ClawWorm」を開発した。既存のAIエージェントの深刻な脆弱性を浮き彫りに…",
+    "details": [
+      "カナダのトロント大学の研究チームが開発した「ClawWorm」は、感染したマシン上で動作するオープンウェイトの小型LLMを内蔵し、固定された脆弱性攻撃ではなく、遭遇したマシンごとに自律的に攻撃手法を推論・生成して感染を拡大する。このワームは、AIエージェントのシステム設定を書き換えて永続性を確保し、他のエージェントへ自律的に伝播するため、現在のAIエージェントのアーキテクチャにおける深刻なセキュリティ上の欠陥を証明している。"
+    ],
+    "sources": [
+      {
+        "name": "iTnews",
+        "url": "https://www.itnews.com.au/news/researchers-build-self-replicating-worm-with-byo-small-ai-model-626409"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 85,
+    "confidence": 95,
+    "priorityReason": "AIエージェントの深刻な脆弱性を示す初の事例。",
+    "rankScore": 77,
+    "rankTier": "A",
+    "ageDays": 3,
+    "rank": 17,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "22",
     "category": "Model",
     "title": "最新AI研究論文が多数公開、基礎モデルの推論・効率性進化を加速",
     "date": "2026/06/04",
@@ -450,13 +586,13 @@
     "confidence": 70,
     "rankScore": 74,
     "rankTier": "A",
-    "ageDays": 2,
+    "ageDays": 3,
     "priorityReason": "Model領域で要注視",
-    "rank": 24,
+    "rank": 21,
     "summaryLevel": "standard"
   },
   {
-    "id": "18",
+    "id": "23",
     "category": "Policy",
     "title": "高市首相、国内投資と経済強化による「円の信認防衛」を表明",
     "date": "2026/06/04",
@@ -477,18 +613,44 @@
     "priorityReason": "高市首相が示す新たな円安防衛策と経済方針。",
     "rankScore": 74,
     "rankTier": "A",
-    "ageDays": 2,
-    "rank": 25,
+    "ageDays": 3,
+    "rank": 22,
     "summaryLevel": "standard"
   },
   {
-    "id": "19",
+    "id": "24",
     "category": "Economy",
-    "title": "ボストン連銀、エネルギー構造変化によりFRBはインフレ抑制に集中可能と分析",
+    "title": "アジア諸国、AI関連製品の輸出急増が中東エネルギー危機の打撃を相殺",
     "date": "2026/06/04",
-    "summary": "ボストン連銀の研究論文は、米国のエネルギー効率向上と国内生産拡大により、中東危機に伴う原油高が雇用に与える悪影響は限定的であり、FRBはインフレ抑制に集中できると指摘した。",
+    "summary": "S&Pグローバル・レーティングの経済専門家は、中東の緊張によるエネルギーショックに直面する中、アジアの複数の経済国が半導体やAI関連機器の輸出ブームによってその経済的打撃を相殺していると指…",
     "details": [
-      "ボストン連銀が発表した研究論文によると、米国のエネルギー効率の向上と国内エネルギー生産の拡大という構造変化により、中東戦争に伴う原油価格ショックが雇用市場に与える打撃は1970年代に比べて大幅に緩和されている。このため、連邦準備制度理事会（FRB）は雇用悪化を過度に懸念することなく、原油高がもたらすインフレリスクの抑制に金融政策の焦点を…"
+      "S&Pグローバル・レーティングのポール・グルエンバルト氏は、中東での戦争によるエネルギー価格高騰がアジア経済に下押し圧力をかける一方で、世界的なAIインフラ需要に伴う半導体や電子部品の輸出急増が、一部のアジア諸国においてエネルギーショックの悪影響を緩和する強力なバッファーとして機能していると分析している。"
+    ],
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/video/2026/06/04/several-asian-economies-have-ai-export-boom-to-offset-energy-crisis.html"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "AI需要が地政学的リスクを緩和する経済構造を解説。",
+    "rankScore": 63,
+    "rankTier": "B",
+    "ageDays": 3,
+    "rank": 36,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "25",
+    "category": "Economy",
+    "title": "ボストン連銀、エネルギーショック下でもFRBはインフレ抑制に集中可能と指摘",
+    "date": "2026/06/04",
+    "summary": "ボストン連銀が発表した論文によると、米国のエネルギー効率向上と国内生産の増加により、原油価格高騰が雇用に与える悪影響は減少しており、FRBは雇用悪化を懸念せずインフレ抑制に専念できるという。",
+    "details": [
+      "ボストン連邦準備銀行の経済学者が発表した研究論文は、米国のエネルギー構造が1970年代から根本的に変化したため、中東戦争による原油価格ショックが雇用に与える影響は限定的であると分析している。国内のエネルギー生産拡大が雇用を支えるため、FRBは失業率の悪化を恐れることなく、エネルギー価格上昇に伴うインフレリスクの抑制に金融政策の焦点を当て…"
     ],
     "sources": [
       {
@@ -497,18 +659,18 @@
       }
     ],
     "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 75,
+    "socialImpact": 60,
+    "novelty": 65,
     "confidence": 90,
-    "priorityReason": "米エネルギー構造変化がもたらす利上げへの影響。",
-    "rankScore": 64,
+    "priorityReason": "FRBの今後の利下げ・利上げ判断に影響を与える分析。",
+    "rankScore": 61,
     "rankTier": "B",
-    "ageDays": 2,
-    "rank": 31,
+    "ageDays": 3,
+    "rank": 37,
     "summaryLevel": "brief"
   },
   {
-    "id": "20",
+    "id": "26",
     "category": "Policy",
     "title": "トランプ大統領、サプライチェーン強化と国家安全保障に関する大統領令に署名",
     "date": "2026/06/03",
@@ -528,15 +690,15 @@
     "socialImpact": 90,
     "novelty": 75,
     "confidence": 70,
-    "rankScore": 85,
-    "rankTier": "S",
-    "ageDays": 3,
+    "rankScore": 82,
+    "rankTier": "A",
+    "ageDays": 4,
     "priorityReason": "Policy領域の最重要変化",
-    "rank": 8,
+    "rank": 11,
     "summaryLevel": "deep"
   },
   {
-    "id": "21",
+    "id": "27",
     "category": "Economy",
     "title": "日経平均株価、史上初の68,000円台を突破し過去最高値を更新",
     "date": "2026/06/03",
@@ -556,15 +718,15 @@
     "socialImpact": 90,
     "novelty": 70,
     "confidence": 70,
-    "rankScore": 84,
+    "rankScore": 81,
     "rankTier": "A",
-    "ageDays": 3,
+    "ageDays": 4,
     "priorityReason": "Economy領域で要注視",
-    "rank": 10,
+    "rank": 12,
     "summaryLevel": "deep"
   },
   {
-    "id": "22",
+    "id": "28",
     "category": "Economy",
     "title": "円、中東情勢の緊迫化と金利差拡大で対ドル160円台に下落",
     "date": "2026/06/03",
@@ -588,15 +750,71 @@
     "socialImpact": 95,
     "novelty": 60,
     "confidence": 70,
-    "rankScore": 84,
+    "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 3,
+    "ageDays": 4,
     "priorityReason": "Economy領域で要注視",
-    "rank": 11,
+    "rank": 13,
     "summaryLevel": "deep"
   },
   {
-    "id": "23",
+    "id": "29",
+    "category": "Business",
+    "title": "投資家が量子コンピューティング株に注目、次なる主要投資テーマとして期待高まる",
+    "date": "2026/06/03",
+    "summary": "AIに続き、世界各国政府の支援拡大を背景に、投資家の間で量子コンピューティング株への関心が高まっている。",
+    "details": [
+      "量子コンピューティングは、AIに続く主要な投資テーマとして浮上しており、政府や民間からの大規模な資金投入が続いている。その画期的な計算能力は、医療、金融、防衛など多岐にわたる産業に変革をもたらすと期待され、新たな技術競争のフロンティアとなる見込み。関連企業の株価動向が注視される。"
+    ],
+    "sources": [
+      {
+        "name": "News On Japan",
+        "url": "https://newsonjapan.com/business/50133"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 85,
+    "confidence": 70,
+    "rankScore": 73,
+    "rankTier": "A",
+    "ageDays": 4,
+    "priorityReason": "Business領域で要注視",
+    "rank": 25,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "30",
+    "category": "Ethics",
+    "title": "AI技術の急速な進化に伴い、プライバシー・著作権・バイアス等の倫理問題が顕在化",
+    "date": "2026/06/03",
+    "summary": "生成型AIの普及は、データの透明性、バイアス、知財侵害、プライバシー侵害などの倫理的懸念を高め、規制の必要性が増大。",
+    "details": [
+      "AIモデルの訓練データや機能に関する透明性の欠如、バイアス、著作権侵害、プライバシー問題、ディープフェイクの拡散といったリスクが社会的な懸念として浮上。各国政府や機関はAI倫理ガイドラインの策定を進める一方、ユーザー教育や未検証情報の共有制限が、AIが引き起こす社会的な混乱を食い止める上で不可欠と…"
+    ],
+    "sources": [
+      {
+        "name": "Top AI Trends to Watch in 2026: The Era of Agentic AI",
+        "url": "https://aisera.com/blog/artificial-intelligence-trends"
+      },
+      {
+        "name": "AI Podcasts 2026: Top Pods for AI Engineers and Founders",
+        "url": "https://arize.com/ai-podcasts"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 90,
+    "novelty": 70,
+    "confidence": 70,
+    "rankScore": 73,
+    "rankTier": "A",
+    "ageDays": 4,
+    "priorityReason": "Ethics領域で要注視",
+    "rank": 26,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "31",
     "category": "Model",
     "title": "マルチモーダルAIが主流へ、言語・画像・動画を統合処理",
     "date": "2026/06/03",
@@ -622,71 +840,15 @@
     "socialImpact": 80,
     "novelty": 85,
     "confidence": 70,
-    "rankScore": 77,
+    "rankScore": 73,
     "rankTier": "A",
-    "ageDays": 3,
+    "ageDays": 4,
     "priorityReason": "Model領域で要注視",
-    "rank": 17,
+    "rank": 24,
     "summaryLevel": "standard"
   },
   {
-    "id": "24",
-    "category": "Business",
-    "title": "投資家が量子コンピューティング株に注目、次なる主要投資テーマとして期待高まる",
-    "date": "2026/06/03",
-    "summary": "AIに続き、世界各国政府の支援拡大を背景に、投資家の間で量子コンピューティング株への関心が高まっている。",
-    "details": [
-      "量子コンピューティングは、AIに続く主要な投資テーマとして浮上しており、政府や民間からの大規模な資金投入が続いている。その画期的な計算能力は、医療、金融、防衛など多岐にわたる産業に変革をもたらすと期待され、新たな技術競争のフロンティアとなる見込み。関連企業の株価動向が注視される。"
-    ],
-    "sources": [
-      {
-        "name": "News On Japan",
-        "url": "https://newsonjapan.com/business/50133"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 85,
-    "confidence": 70,
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 3,
-    "priorityReason": "Business領域で要注視",
-    "rank": 20,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "25",
-    "category": "Ethics",
-    "title": "AI技術の急速な進化に伴い、プライバシー・著作権・バイアス等の倫理問題が顕在化",
-    "date": "2026/06/03",
-    "summary": "生成型AIの普及は、データの透明性、バイアス、知財侵害、プライバシー侵害などの倫理的懸念を高め、規制の必要性が増大。",
-    "details": [
-      "AIモデルの訓練データや機能に関する透明性の欠如、バイアス、著作権侵害、プライバシー問題、ディープフェイクの拡散といったリスクが社会的な懸念として浮上。各国政府や機関はAI倫理ガイドラインの策定を進める一方、ユーザー教育や未検証情報の共有制限が、AIが引き起こす社会的な混乱を食い止める上で不可欠と…"
-    ],
-    "sources": [
-      {
-        "name": "Top AI Trends to Watch in 2026: The Era of Agentic AI",
-        "url": "https://aisera.com/blog/artificial-intelligence-trends"
-      },
-      {
-        "name": "AI Podcasts 2026: Top Pods for AI Engineers and Founders",
-        "url": "https://arize.com/ai-podcasts"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 90,
-    "novelty": 70,
-    "confidence": 70,
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 3,
-    "priorityReason": "Ethics領域で要注視",
-    "rank": 19,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "26",
+    "id": "32",
     "category": "Ethics",
     "title": "Generative AIの社会普及率が50%超、教育システムとの乖離が課題に",
     "date": "2026/06/03",
@@ -704,15 +866,15 @@
     "socialImpact": 90,
     "novelty": 60,
     "confidence": 70,
-    "rankScore": 74,
-    "rankTier": "A",
-    "ageDays": 3,
+    "rankScore": 71,
+    "rankTier": "B",
+    "ageDays": 4,
     "priorityReason": "Ethics領域で要注視",
-    "rank": 26,
+    "rank": 31,
     "summaryLevel": "standard"
   },
   {
-    "id": "27",
+    "id": "33",
     "category": "Economy",
     "title": "OECD、最新の経済アウトルックを発表 - 世界経済の不確実性と日本の課題を指摘",
     "date": "2026/06/03",
@@ -730,15 +892,15 @@
     "socialImpact": 85,
     "novelty": 60,
     "confidence": 70,
-    "rankScore": 73,
-    "rankTier": "A",
-    "ageDays": 3,
+    "rankScore": 70,
+    "rankTier": "B",
+    "ageDays": 4,
     "priorityReason": "Economy領域で要注視",
-    "rank": 28,
+    "rank": 33,
     "summaryLevel": "standard"
   },
   {
-    "id": "28",
+    "id": "34",
     "category": "Service",
     "title": "Microsoft teases new era of AI-driven devices",
     "date": "2026/06/03",
@@ -757,14 +919,14 @@
     "novelty": 85,
     "confidence": 90,
     "priorityReason": "アプリ不要のAIエージェント端末構想",
-    "rankScore": 68,
+    "rankScore": 64,
     "rankTier": "B",
-    "ageDays": 3,
-    "rank": 30,
+    "ageDays": 4,
+    "rank": 35,
     "summaryLevel": "brief"
   },
   {
-    "id": "29",
+    "id": "35",
     "category": "Business",
     "title": "日本の製造業に警鐘、AI導入の遅れで伝統的な「カイゼン」モデルが危機に",
     "date": "2026/06/03",
@@ -783,14 +945,14 @@
     "novelty": 60,
     "confidence": 85,
     "priorityReason": "日本の製造業におけるAI遅れの危機感を指摘。",
-    "rankScore": 62,
+    "rankScore": 59,
     "rankTier": "B",
-    "ageDays": 3,
-    "rank": 32,
+    "ageDays": 4,
+    "rank": 38,
     "summaryLevel": "brief"
   },
   {
-    "id": "30",
+    "id": "36",
     "category": "Model",
     "title": "GPT-5.4がデスクトップタスクで人間性能を超過、MIT AIが創薬を革新",
     "date": "2026/06/01",
@@ -812,13 +974,13 @@
     "confidence": 70,
     "rankScore": 85,
     "rankTier": "S",
-    "ageDays": 5,
+    "ageDays": 6,
     "priorityReason": "Model領域の最重要変化",
     "rank": 9,
     "summaryLevel": "deep"
   },
   {
-    "id": "31",
+    "id": "37",
     "category": "Service",
     "title": "エージェントAIの夜明け：2026年、自律型ワークフローとLLM推論が進化",
     "date": "2026/06/01",
@@ -840,13 +1002,13 @@
     "confidence": 70,
     "rankScore": 83,
     "rankTier": "A",
-    "ageDays": 5,
+    "ageDays": 6,
     "priorityReason": "Service領域で要注視",
-    "rank": 12,
+    "rank": 10,
     "summaryLevel": "deep"
   },
   {
-    "id": "32",
+    "id": "38",
     "category": "Economy",
     "title": "モルガン・スタンレー、2026年前半のAI飛躍的進展に警告",
     "date": "2026/06/01",
@@ -866,9 +1028,9 @@
     "confidence": 70,
     "rankScore": 73,
     "rankTier": "A",
-    "ageDays": 5,
+    "ageDays": 6,
     "priorityReason": "Economy領域で要注視",
-    "rank": 29,
+    "rank": 27,
     "summaryLevel": "standard"
   }
 ]
