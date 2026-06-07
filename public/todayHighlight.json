@@ -1,14 +1,14 @@
 [
   {
-    "id": "anthropic-self-improvement-warning-20260606",
-    "category": "Model",
-    "title": "Anthropic、AIの「再帰的自己改善」が間近と警告、開発の一時停止を呼びかけ",
+    "id": "news_001",
+    "category": "Ethics",
+    "title": "AnthropicがAIの「自己改善」による制御喪失を警告、開発の一時停止を提唱",
     "date": "2026/06/06",
-    "summary": "AIスタートアップのAnthropicは、同社のAIモデル「Claude」が人間の介入なしに自律的に性能を向上させる「再帰的自己改善」の領域に近づいていると警告し、世界の主要AI研究所に対し開発の一時停止や減速を検討するよう呼びかけた。",
+    "summary": "AIスタートアップのAnthropicは、AIが自らコードを書き次世代モデルを開発する「再帰的自己改善」が近づいていると警告。人類が制御を失うリスクを回避するため、世界の主要AI研究所に対し、開発の一時停止を共同で計画するよう呼びかけた。",
     "details": [
-      "AIスタートアップのAnthropicが、同社のAIモデル「Claude」が自律的にコードを最適化し、自己改善を行う「再帰的自己改善」の閾値に近づいていることを報告し、世界の主要開発機関に対して開発の一時的な減速や停止を共同で検討するよう呼びかけました。",
-      "AIが人間の制御を超えて自律的に進化する可能性が現実味を帯びており、社会的な準備や安全性の研究が技術の進歩に追いつかないリスクが懸念されます。これはAIの安全性や国際的なガバナンスに関する議論を大きく加速させるものです。",
-      "今後は、世界の主要AIラボや国際社会がこの警告に対してどのように協調し、検証可能な開発停止メカニズムを構築できるか、また次世代モデルの自律性の進展状況が注目されます。"
+      "AIスタートアップのAnthropicが、AIモデル「Claude」が自社コードの80%以上を執筆するまでに進化し、人間を介さない「再帰的自己改善」の閾値に近づいていると警告しました。同社は、最先端AI開発の一時停止や減速を可能にする国際的な協調枠組みの構築を提唱しています。",
+      "AIが自律的に次世代のより優れたAIを設計・開発するようになると、技術進化のスピードが人間の制御能力を遥かに超えることになります。これはサイバーセキュリティの脅威増大や労働市場の急激な破壊など、社会に予測不可能な壊滅的リスクをもたらす懸念があります。",
+      "今後は、競合するOpenAIなどの主要AI企業や各国政府がこの警告にどう反応するか、また実効性のある国際的な開発一時停止メカニズムが合意・構築されるかどうかが注視されます。"
     ],
     "sources": [
       {
@@ -17,78 +17,78 @@
       }
     ],
     "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 90,
+    "socialImpact": 92,
+    "novelty": 95,
     "confidence": 95,
-    "priorityReason": "AIの自律的進化への警告であり、今後の規制議論に直結するため。",
-    "rankScore": 90,
+    "priorityReason": "AIの自己進化による制御喪失リスクと開発停止の提言を解説。",
+    "rankScore": 93,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "news_001",
-    "category": "Ethics",
-    "title": "「AIの自己改善リスク」を警告、米Anthropicが世界的な開発一時停止を提唱",
+    "id": "news-20260604-ai-worm",
+    "category": "Model",
+    "title": "自律的に攻撃を考案する自己複製型AIワーム「ClawWorm」を研究者が開発",
     "date": "2026/06/04",
-    "summary": "AIスタートアップのAnthropicは、AIモデルが人間の介入なしに自己改善する能力に近づいているとして、重大な社会的リスクを避けるために世界的な開発ペースの一時停止を検討するよう主要研究所に呼びかけた。",
+    "summary": "トロント大学の研究チームが、ネットワーク内を自律的に探索し、マシンごとに異なる攻撃手法を考案して自己複製するAIワーム「ClawWorm」を開発した。",
     "details": [
-      "米AIスタートアップのAnthropicは、AIシステムが急速に進化し、人間の介入なしに自律的に性能を向上させる「自己改善」の段階に近づいているとして、主要なAI開発機関に対して開発ペースを一時的に遅らせる「グローバル・ポーズ」を検討するよう呼びかけました。",
-      "評価額1兆ドル規模の最先端AI企業自らが開発停止を提唱したことは、AIの安全性議論に決定的な転換点をもたらします。自律的な自己改善は制御不能な超知能の誕生に直結する技術的リスクであり、業界全体や規制当局のルール作りに多大な影響を与える可能性があります。",
-      "今後は、OpenAIやGoogleなどの競合他社がこの呼びかけに同調するかどうか、また各国政府が国家安全保障の観点から法的な開発規制や監視体制の強化に踏み切るかが焦点となります。"
+      "トロント大学の研究チームが、ネットワーク内を自律的に探索し、マシンごとに異なる攻撃手法を考案して自己複製するAIワーム「ClawWorm」を開発しました。",
+      "このワームはオープンソースの軽量LLMを内蔵しており、高価な商用インフラを必要とせず、感染したマシンのGPUリソースを寄生的に利用して動作するため、既存のAIエージェントエコシステムに深刻なセキュリティ上の脅威をもたらします。",
+      "今後は、LLMのコード生成能力向上に伴い、攻撃の成功率や適応力がさらに高まることが予想され、エージェント型AIの設計段階における根本的な脆弱性対策が急務となります。"
     ],
     "sources": [
       {
-        "name": "The Wall Street Journal",
-        "url": "https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73"
+        "name": "iTnews",
+        "url": "https://www.itnews.com.au/news/researchers-build-self-replicating-worm-with-byo-small-ai-model-626409"
       }
     ],
     "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 95,
-    "confidence": 100,
-    "priorityReason": "最先端AI企業による開発停止提唱は極めて異例で影響大。",
-    "rankScore": 90,
+    "socialImpact": 85,
+    "novelty": 90,
+    "confidence": 95,
+    "priorityReason": "AIエージェントを標的とする初の自律型ワームの登場は脅威。",
+    "rankScore": 88,
     "rankTier": "S",
     "ageDays": 3,
     "rank": 2,
     "summaryLevel": "deep"
   },
   {
-    "id": "openai-chatgpt-superapp-overhaul-20260607",
-    "category": "Business",
-    "title": "OpenAIがChatGPTを「スーパーアプリ」へ刷新計画、上場見据え",
+    "id": "news_002",
+    "category": "Policy",
+    "title": "トランプ政権、OpenAIへの政府直接出資と「国民富裕基金」の設立を検討か",
     "date": "2026/06/07",
-    "summary": "OpenAIが、株式上場を控えてChatGPTの大幅な刷新を計画していることが報じられた。コーディングツールやAIエージェント機能を備えた「スーパーアプリ」化を目指し、収益向上と競合Anthropicとの差別化を図る。",
+    "summary": "トランプ政権がOpenAIへの直接出資を検討していることが判明。OpenAIが提案する「国民富裕基金」を通じて、AIの成長による利益を国民に直接分配する構想。一方で、政府と企業の過度な癒着を懸念する批判の声も上がってい…",
     "details": [
-      "OpenAIが、株式上場（IPO）を控えてChatGPTをコーディングツールやAIエージェント機能を備えた「スーパーアプリ」へと大幅に刷新する計画を進めていることが、フィナンシャル・タイムズ紙の報道で明らかになりました。この再編成は、収益性の高い企業顧客の獲得を強化し、競合するAnthropicなどとの競争を優位に進めることを目的としています。"
+      "トランプ政権がOpenAIへの直接出資を検討していることが報じられました。この構想は、OpenAIが提案する「国民富裕基金（Public Wealth Fund）」を通じて、AIの成長から得られる収益を国民に直接分配することを目指しています。一方で、バーニー・サンダース上院議員が主要AI企業に50%の株式課税を課す法案を提出するなど、AIの富の再分配を巡る議論が活発化しています。しかし、政府と企業の過度な癒着や、事実上の救済措置になりかねないとの批判も出…"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/openai-plans-chatgpt-superapp-overhaul-ahead-listing-ft-reports-2026-06-07/"
+        "name": "OpenTools",
+        "url": "https://opentools.ai/news/trump-administration-government-stake-openai"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 75,
+    "socialImpact": 88,
+    "novelty": 90,
     "confidence": 90,
-    "priorityReason": "OpenAIの上場戦略とChatGPTの今後の進化方向を示す重要ニュース。",
-    "rankScore": 80,
-    "rankTier": "A",
+    "priorityReason": "政府によるAI企業への直接出資と富の分配構想を報じる。",
+    "rankScore": 85,
+    "rankTier": "S",
     "ageDays": 0,
     "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "iran-war-100-days-economic-impact-20260607",
+    "id": "news_004",
     "category": "Economy",
-    "title": "イラン戦争100日：世界市場と経済への影響をチャートで紐解く",
+    "title": "中東イラン戦争が100日目を迎える、エネルギー価格高騰で世界的なインフレ圧力が継続",
     "date": "2026/06/07",
-    "summary": "中東でのイラン戦争が開始から100日を迎え、世界の金融市場や実体経済に深刻な影響を与え続けている。エネルギー価格の高騰が主要国のインフレを押し上げ、金利見通しや住宅市場にも不確実性をもたらしている。",
+    "summary": "中東でのイラン戦争が開始から100日を迎え、世界市場に深刻な影響を与え続けている。ホルムズ海峡の閉鎖に伴うエネルギー価格の高騰により、米国や欧州などの主要国でインフレが再燃し、中央銀行の金利政策にも不確実性が高まってい…",
     "details": [
-      "中東でのイラン戦争が開始から100日を迎え、世界の金融市場や実体経済に深刻な影響を与え続けています。ホルムズ海峡の緊張に伴うエネルギー価格の高騰は、米国や欧州などの主要国でインフレを再燃させており、連邦準備制度（Fed）による利下げ期待の後退や、住宅ローン金利の上昇など、市民生活や投資環境に広範な不確実性をもたらしています。"
+      "中東におけるイラン戦争が100日目を迎え、ホルムズ海峡の閉鎖が長期化する中、世界の金融市場と実体経済に深刻な影響を及ぼしています。原油や天然ガスなどのエネルギー価格高騰が直接的な要因となり、米国の5月消費者物価指数（CPI）が前年比4.2%に達すると予測されるなど、主要国でインフレが再燃しています。これにより、米連邦準備制度（Fed）が利下げではなく追加利上げを検討せざるを得ない状況に追い込まれており、世界的な景気後退リスクが懸念されています。"
     ],
     "sources": [
       {
@@ -98,153 +98,101 @@
     ],
     "importance": "high",
     "socialImpact": 90,
-    "novelty": 60,
+    "novelty": 75,
     "confidence": 95,
-    "priorityReason": "長期化する中東紛争が世界経済と市場に与える影響を総括。",
-    "rankScore": 80,
+    "priorityReason": "長期化する中東紛争が世界経済とインフレに与える影響を分析。",
+    "rankScore": 83,
     "rankTier": "A",
     "ageDays": 0,
     "rank": 4,
     "summaryLevel": "standard"
   },
   {
-    "id": "trump-military-ai-memorandum-20260606",
-    "category": "Policy",
-    "title": "トランプ米大統領、最先端AIを軍に配備する国家安全保障大統領覚書に署名",
-    "date": "2026/06/06",
-    "summary": "トランプ米大統領は、最先端の商業用およびオープンソースAI技術を米軍に迅速に導入するための国家安全保障大統領覚書に署名した。軍が依存するAIモデルの無断改変を禁止する一方、表現の検閲や不法監視への使用は制限する。",
-    "details": [
-      "トランプ米大統領は、最先端のAI技術を米軍に迅速に導入するための「国家安全保障大統領覚書」に署名しました。この覚書は、民間やオープンソースの先端モデルを国防機関に素早く取り入れる枠組みを構築する一方で、軍が依存するAIシステムを開発企業が無断で改変・劣化させることを禁止し、表現の検閲や不法な国民監視への使用を制限しています。"
-    ],
-    "sources": [
-      {
-        "name": "Engadget",
-        "url": "https://www.engadget.com/2188929/trump-latest-memo-puts-most-advanced-ai-in-the-world-into-military-hands/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 70,
-    "confidence": 90,
-    "priorityReason": "米国の国防政策におけるAI導入の加速と企業への規制を示すため。",
-    "rankScore": 79,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 5,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news_002",
-    "category": "Model",
-    "title": "自律的に攻撃を考案し自己複製するAIワーム「ClawWorm」を研究者が開発",
-    "date": "2026/06/04",
-    "summary": "トロント大学の研究チームは、ネットワークを自律的に探索し、マシンごとに異なる攻撃戦略をその場で考案して自己複製するAIワーム「ClawWorm」を開発した。小型のオープンウェイトLLMで動作する。",
-    "details": [
-      "トロント大学の研究チームは、固定された脆弱性攻撃に頼らず、感染したマシン上で動作する小型のオープンウェイトLLMを用いて自律的に攻撃戦略を考案し、ネットワーク内を自己複製して拡散する初のAIワーム「ClawWorm」を開発し、現行のAIエージェント環境における深刻な脆弱性を実証しました。"
-    ],
-    "sources": [
-      {
-        "name": "iTnews",
-        "url": "https://www.itnews.com.au/news/researchers-build-self-replicating-ai-worm-with-byo-small-ai-model-626409"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 88,
-    "confidence": 95,
-    "priorityReason": "AIエージェントを標的とする新たなサイバー脅威の実証。",
-    "rankScore": 79,
-    "rankTier": "A",
-    "ageDays": 3,
-    "rank": 6,
-    "summaryLevel": "standard"
-  },
-  {
     "id": "news_003",
-    "category": "Policy",
-    "title": "高市首相、経済強化による「円の信認防衛」を表明　中東緊張の円安圧力に対し",
-    "date": "2026/06/04",
-    "summary": "高市早苗首相は参院予算委員会で、中東情勢の緊迫化に伴う円安圧力に対し、国内投資の促進やサプライチェーンの強化など、日本経済の実力を高めることで円の信認を防衛する方針を示した。",
-    "details": [
-      "高市早苗首相は国会答弁において、為替レートの直接的な操作を目的とするものではないとしつつも、国内投資の拡大やサプライチェーンの強靭化を通じて日本経済の成長潜在力を高め、通貨円の信認を維持・防衛していく姿勢を強調しました。"
-    ],
-    "sources": [
-      {
-        "name": "The Wall Street Journal",
-        "url": "https://www.wsj.com/finance/currencies/japan-prime-minister-says-will-defend-yen-by-strengthening-economy-cf886cbe"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 70,
-    "confidence": 100,
-    "priorityReason": "日本の首相による為替と経済政策に関する重要発言。",
-    "rankScore": 77,
-    "rankTier": "A",
-    "ageDays": 3,
-    "rank": 7,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news_004",
     "category": "Business",
-    "title": "米AnthropicのIPO申請、AIバリュエーションの持続性を問う最大の試金石に",
-    "date": "2026/06/05",
-    "summary": "評価額9650億ドルに達したAIスタートアップのAnthropicが秘密裏にIPOを申請した。この上場は、現在のAIブームにおける巨額の企業価値評価が公的市場で維持できるかどうかの重要な検証となる。",
+    "title": "OpenAIがChatGPTを「スーパーアプリ」へ刷新計画、上場控え収益強化へ",
+    "date": "2026/06/07",
+    "summary": "OpenAIが、ChatGPTにコーディングツールやAIエージェント機能を統合し、「スーパーアプリ」へと大幅刷新する計画を進めている。株式上場を控える中、収益性の高い企業向けサービスを強化し、競合のAnthropicに…",
     "details": [
-      "評価額が1兆ドルに迫るAnthropicが新規株式公開（IPO）を申請したことで、プライベート市場で膨れ上がったAI企業のバリュエーションが、実績や収益性を厳しく問われる公的市場において正当化されるかどうかの歴史的な試金石となります。"
-    ],
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/video/2026/06/05/tech-download-anthropic-ipo-ai-valuations.html"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 78,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "AIバブルの真偽を測る市場最大のIPO動向。",
-    "rankScore": 75,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 8,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news_006",
-    "category": "Economy",
-    "title": "インドネシア、ルピア防衛に向け資産利回り引き上げで中銀と財務相が合意",
-    "date": "2026/06/06",
-    "summary": "インドネシアの中央銀行総裁と財務相は、イラン戦争による燃料補助金の増大や大統領の支出計画への懸念から続く資本流出とルピア安を阻止するため、国内資産の利回りを引き上げる方針で合意した。",
-    "details": [
-      "インドネシアでは、中東での戦争に伴う燃料補助金の負担増や新政権の財政支出拡大への懸念から、株価急落と歴史的な債券流出が続いており、通貨ルピアのさらなる下落を防ぐために中銀と政府が協調して資産利回りの向上を図る緊急措置に乗り出しました。"
+      "フィナンシャル・タイムズ紙の報道によると、OpenAIはChatGPTをコーディングツールや自律型AIエージェントを搭載した「スーパーアプリ」へと刷新する計画を進めています。この動きは、計画されている株式上場を前に収益力を大幅に強化するための組織再編の一環であり、特に収益性の高いエンタープライズ（企業）顧客の獲得を巡って、競合するAnthropicとの競争を激化させることになります。"
     ],
     "sources": [
       {
         "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/indonesia-central-bank-finance-minister-agree-boost-asset-yields-aid-rupiah-2026-06-06/"
+        "url": "https://www.reuters.com/business/openai-plans-chatgpt-superapp-overhaul-ahead-listing-ft-reports-2026-06-07/"
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
-    "novelty": 65,
+    "socialImpact": 85,
+    "novelty": 80,
     "confidence": 95,
-    "priorityReason": "新興国市場における戦争影響と通貨防衛の動き。",
-    "rankScore": 74,
+    "priorityReason": "上場を控えるOpenAIのChatGPT大幅刷新戦略を解説。",
+    "rankScore": 82,
     "rankTier": "A",
-    "ageDays": 1,
-    "rank": 9,
+    "ageDays": 0,
+    "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_005",
-    "category": "Economy",
-    "title": "米ボストン連銀、エネルギー効率向上でFRBは「インフレ抑制に集中可能」と指摘",
-    "date": "2026/06/04",
-    "summary": "米ボストン連邦準備銀行のエコノミストは、米国のエネルギー効率向上と国内生産の増加により、原油価格ショックが雇用に与える悪影響が減少したため、FRBはインフレ抑制に金融政策を集中できるとする論文を発表した。",
+    "id": "news_006",
+    "category": "Policy",
+    "title": "ペルー大統領選の決選投票が実施、治安悪化への懸念から大接戦の様相",
+    "date": "2026/06/07",
+    "summary": "ペルーで大統領選挙の決選投票が実施された。急増する組織犯罪や治安悪化への懸念が最大の争点となる中、強硬な治安対策を掲げる保守派のケイコ・フジモリ氏と、鉱山開発改革などを訴える左派のサンチェス氏が世論調査で大接戦を繰り広…",
     "details": [
-      "ボストン連銀が発表した研究論文は、米経済の構造変化により原油ショックが雇用に与える打撃が緩和されたため、FRBは1970年代のようなスタグフレーションを懸念することなく、中東戦争に伴う原油高のインフレ影響に集中して政策決定を行える環境にあると指摘しました。"
+      "ペルーで7日、大統領選挙の決選投票が実施されました。近年急増する殺人や恐喝などの組織犯罪に対する国民の強い懸念を背景に、父親の強権的な治安対策の遺産を強調する保守派のケイコ・フジモリ氏と、憲法改正や鉱山利権の見直しを掲げる左派のサンチェス氏が世論調査で事実上の互角となっています。過去5年間に3人の大統領が罷免されるなど政治的混乱が続く同国において、新大統領が分断された議会をまとめ、治安と経済の安定を両立できるかが試されます。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/peru-votes-tight-presidential-run-off-test-latin-americas-rightward-shift-2026-06-07/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "南米の政治動向を左右するペルー大統領選の行方を速報。",
+    "rankScore": 80,
+    "rankTier": "A",
+    "ageDays": 0,
+    "rank": 6,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news-20260605-asia-tech-stocks",
+    "category": "Economy",
+    "title": "ブロードコム決算失望でアジアのハイテク・半導体株が急落、AIバブル警戒感も",
+    "date": "2026/06/05",
+    "summary": "米半導体大手ブロードコムの決算が市場予想を下回ったことを受け、AI関連銘柄からディフェンシブ銘柄への資金シフトが発生し、韓国のサムスン電子やSKハイニックス、日本の東京エレクトロンなどアジアの主要ハイテク株が軒並み急落…",
+    "details": [
+      "米半導体大手ブロードコムの決算が市場予想を下回ったことを受け、AI関連銘柄からディフェンシブ銘柄への資金シフトが発生し、韓国のサムスン電子やSKハイニックス、日本の東京エレクトロンなどアジアの主要ハイテク株が軒並み急落しました。"
+    ],
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/05/asian-technology-stocks-sk-hynix-samsung-tsmc-advantest.html"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 60,
+    "confidence": 95,
+    "priorityReason": "AI関連株の調整局面とアジア市場への影響を解説。",
+    "rankScore": 72,
+    "rankTier": "A",
+    "ageDays": 2,
+    "rank": 7,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news-20260604-boston-fed",
+    "category": "Economy",
+    "title": "ボストン連銀、エネルギーショック下でもFRBはインフレ抑制に集中可能と指摘",
+    "date": "2026/06/04",
+    "summary": "ボストン連邦準備銀行の研究論文によると、米国のエネルギー効率向上と国内生産の拡大により、原油価格高騰が雇用に与える悪影響が緩和されており、FRBはインフレ抑制に集中できる環境が整っている。",
+    "details": [
+      "ボストン連邦準備銀行が発表した研究論文によると、米国のエネルギー効率向上と国内生産の拡大により、原油価格の高騰がインフレや雇用に与える影響が過去に比べて緩和されており、連邦準備制度理事会（FRB）は雇用悪化を過度に懸念することなくインフレ抑制に集中できる環境が整っています。"
     ],
     "sources": [
       {
@@ -253,24 +201,50 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
-    "novelty": 72,
-    "confidence": 95,
-    "priorityReason": "FRBの今後の利上げ判断に影響し得る重要論文。",
-    "rankScore": 74,
-    "rankTier": "A",
+    "socialImpact": 70,
+    "novelty": 65,
+    "confidence": 90,
+    "priorityReason": "米国の金融政策の方向性を占う重要な研究成果。",
+    "rankScore": 71,
+    "rankTier": "B",
     "ageDays": 3,
-    "rank": 10,
+    "rank": 8,
     "summaryLevel": "standard"
   },
   {
-    "id": "weaviate-engram-ai-agent-memory-20260606",
-    "category": "Service",
-    "title": "Weaviateが「Engram」をリリース、AIエージェントのメモリボトルネックを解消",
-    "date": "2026/06/06",
-    "summary": "ベクターデータベース大手のWeaviateは、LLMエージェント向けの管理型メモリサービス「Engram」をローンチした。会話履歴をすべて再入力することなく、ユーザーの好みや過去の決定を効…",
+    "id": "news-20260604-deglobalization-commodities",
+    "category": "Economy",
+    "title": "脱グローバル化とAI需要が資源争奪戦を誘発、半導体よりコモディティ推奨の声",
+    "date": "2026/06/04",
+    "summary": "Sohn Montrealカンファレンスにて、ブリッジウォーターの共同CIOらが、脱グローバル化とAIインフラ拡大が物理的資源の争奪戦を引き起こし、構造的な高インフレ時代を招くとして、銅や金などのコモディティ投資を推奨…",
     "details": [
-      "ベクターデータベース開発のWeaviateは、LLMエージェントやAIアプリケーション向けの管理型メモリサービス「Engram」をローンチしました。これにより、開発者は会話履歴全体をモデルに再入力する手間を省き、ユーザーの好みや過去の決定、ワークフローの文脈を低遅延かつ効率的にAIに記憶させることが可能になります。"
+      "Sohn Montrealカンファレンスにて、ブリッジウォーターの共同CIOカレン・カーニオル＝タンブール氏らが、脱グローバル化とAIインフラの急速な拡大が物理的資源の争奪戦を引き起こし、構造的な高インフレ時代を招くとして、半導体株よりも銅や金などのコモディティ投資を推奨しました。"
+    ],
+    "sources": [
+      {
+        "name": "KITCO",
+        "url": "https://www.kitco.com/news/article/2026-06-04/deglobalization-sparks-race-strategic-resources-driving-gold-and-copper"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 65,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "AIブームのボトルネックが電力や物理資源に移る点を指摘。",
+    "rankScore": 71,
+    "rankTier": "B",
+    "ageDays": 3,
+    "rank": 9,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news_005",
+    "category": "Service",
+    "title": "WeaviateがAIエージェント向け記憶管理サービス「Engram」をローンチ",
+    "date": "2026/06/06",
+    "summary": "AIデータベース企業のWeaviateは、LLMエージェント向けのマネージド記憶サービス「Engram」を発表。過去の会話やユーザーの好みを、遅延を発生させずに保持・検索できるインフラを提…",
+    "details": [
+      "AIデータベース大手のWeaviateが、LLMエージェントやAIアプリケーション向けのマネージド記憶サービス「Engram」をローンチしました。従来のように過去の会話履歴をすべてモデルに再入力する手間や遅延を排除し、ユーザーの好みや過去 of 決定、ワークフローの文脈をバックグラウンドで効率的に保存・検索できるインフラを提供します。こ…"
     ],
     "sources": [
       {
@@ -279,14 +253,40 @@
       }
     ],
     "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "AIエージェントの実用性を高めるメモリ技術の重要な進展。",
-    "rankScore": 67,
+    "socialImpact": 70,
+    "novelty": 85,
+    "confidence": 95,
+    "priorityReason": "AIエージェントの記憶ボトルネックを解消する新技術。",
+    "rankScore": 69,
     "rankTier": "B",
     "ageDays": 1,
-    "rank": 11,
+    "rank": 10,
     "summaryLevel": "brief"
+  },
+  {
+    "id": "news-20260604-asia-ai-export",
+    "category": "Economy",
+    "title": "アジア諸国、AI関連輸出の活況がエネルギー危機の打撃を相殺",
+    "date": "2026/06/04",
+    "summary": "エコノミストの分析によると、中東情勢緊迫化によるエネルギー危機の打撃を受ける一方で、一部のアジア諸国はAI関連機器や半導体の輸出ブームによって経済的影響を相殺しており、AI需要が地域経済を下支えしている。",
+    "details": [
+      "エコノミストの分析によると、中東情勢の緊迫化によるエネルギー危機の打撃を受ける一方で、一部のアジア諸国はAI関連機器や半導体の輸出ブームによって経済的影響を相殺しており、AI需要が地域経済の強力な下支えとなっています。"
+    ],
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/video/2026/06/04/several-asian-economies-have-ai-export-boom-to-offset-energy-crisis.html"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 60,
+    "novelty": 60,
+    "confidence": 85,
+    "priorityReason": "エネルギー危機下におけるアジア経済の強靭性を解説。",
+    "rankScore": 67,
+    "rankTier": "B",
+    "ageDays": 3,
+    "rank": 11,
+    "summaryLevel": "standard"
   }
 ]
