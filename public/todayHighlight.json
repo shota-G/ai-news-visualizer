@@ -1,30 +1,26 @@
 [
   {
     "id": "anthropic-self-improvement-warning-20260606",
-    "category": "Ethics",
-    "title": "Anthropic、AIの「人間を介さない自己改善」に警告、世界的な開発減速を呼びかけ",
+    "category": "Model",
+    "title": "Anthropic、AIの「再帰的自己改善」が間近と警告、開発の一時停止を呼びかけ",
     "date": "2026/06/06",
-    "summary": "AIスタートアップのAnthropicは、AIモデルが人間の介入なしに自律的に性能を向上させる「再帰的自己改善」の危険性が近づいていると警告。世界の主要なAI研究所に対し、安全対策が追いつくまで開発を一時的に減速・停止する協調メカニズムの検討を求めた。",
+    "summary": "AIスタートアップのAnthropicは、同社のAIモデル「Claude」が人間の介入なしに自律的に性能を向上させる「再帰的自己改善」の領域に近づいていると警告し、世界の主要AI研究所に対し開発の一時停止や減速を検討するよう呼びかけた。",
     "details": [
-      "AIスタートアップのAnthropicが、最新モデル「Claude」の急速な進化に伴い、AIが自律的にコードを書き換えて次世代モデルを構築する「再帰的自己改善（Recursive Self-Improvement）」の閾値に近づいていると警告しました。同社は、社会制度や安全性の整合性研究が技術の進歩に追いつくよう、世界的な開発の一時停止や減速を行うための国際的な協調体制の構築を提唱しています。",
-      "この警告は、AIが人間の制御を超えて指数関数的に進化する「技術的特異点（シンギュラリティ）」への懸念が、単なるSFではなく現実の技術的ロードマップ上の課題として浮上していることを示しています。特に、同社の最新モデルがすでに自社コードの80%を執筆しているという事実は、開発の自律化が急速に進んでいることを裏付けており、市場や規制当局に大きな衝撃を与えています。",
-      "今後は、OpenAIやGoogleなどの競合する主要AI研究所がこの呼びかけに同調するか、また政府レベルで実効性のある国際的なAI開発規制や監視体制の構築に向けた具体的な議論が始まるかどうかが焦点となります。"
+      "AIスタートアップのAnthropicが、同社のAIモデル「Claude」が自律的にコードを最適化し、自己改善を行う「再帰的自己改善」の閾値に近づいていることを報告し、世界の主要開発機関に対して開発の一時的な減速や停止を共同で検討するよう呼びかけました。",
+      "AIが人間の制御を超えて自律的に進化する可能性が現実味を帯びており、社会的な準備や安全性の研究が技術の進歩に追いつかないリスクが懸念されます。これはAIの安全性や国際的なガバナンスに関する議論を大きく加速させるものです。",
+      "今後は、世界の主要AIラボや国際社会がこの警告に対してどのように協調し、検証可能な開発停止メカニズムを構築できるか、また次世代モデルの自律性の進展状況が注目されます。"
     ],
     "sources": [
-      {
-        "name": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/anthropic-issues-ai-self-improvement-without-human-intervention-caution-calls-for-global-slowdown-in-development-101780729261046.html"
-      },
       {
         "name": "Dallas Express",
         "url": "https://dallasexpress.com/business-markets/anthropic-admitted-claude-is-close-to-self-improvement-heres-what-that-means/"
       }
     ],
     "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 85,
+    "socialImpact": 85,
+    "novelty": 90,
     "confidence": 95,
-    "priorityReason": "AIの自律進化という重大なリスクに対する当事者からの警告。",
+    "priorityReason": "AIの自律的進化への警告であり、今後の規制議論に直結するため。",
     "rankScore": 90,
     "rankTier": "S",
     "ageDays": 1,
@@ -32,93 +28,145 @@
     "summaryLevel": "deep"
   },
   {
-    "id": "20260605-anthropic-ipo",
-    "category": "Business",
-    "title": "Anthropicが秘密裏にIPO申請、1兆ドル規模のAI評価額を問う初の試金石へ",
-    "date": "2026/06/05",
-    "summary": "AIスタートアップのAnthropicが米証券取引委員会にIPOを秘密裏に申請した。直近の評価額は9650億ドルに達しており、公の市場がこの巨額のAIバブル評価をどのように受け止めるか、業界全体の試金石となる。",
+    "id": "news_001",
+    "category": "Ethics",
+    "title": "「AIの自己改善リスク」を警告、米Anthropicが世界的な開発一時停止を提唱",
+    "date": "2026/06/04",
+    "summary": "AIスタートアップのAnthropicは、AIモデルが人間の介入なしに自己改善する能力に近づいているとして、重大な社会的リスクを避けるために世界的な開発ペースの一時停止を検討するよう主要研究所に呼びかけた。",
     "details": [
-      "米AIスタートアップのAnthropicが、早ければ2026年秋にも実施される新規株式公開（IPO）に向けて、米証券取引委員会（SEC）に秘密裏に申請書類を提出したことが明らかになりました。同社は直近のシリーズHラウンドで650億ドルを調達し、評価額は9650億ドルに達しています。",
-      "この上場は、これまで非公開市場の潤沢な資金に支えられてきた最先端AI企業が、初めて公開市場の厳しい精査を受ける機会となります。特に同社の売上高総利益率（グロス・マージン）や、莫大な計算資源コストをマイルストーンとする持続可能なビジネスモデルが示されるため、AI業界全体の適正評価額を再定義する影響力を持ちます。",
-      "今後は、SECへの正式な目論見書の開示スケジュールや、同時期に上場が噂されるSpaceXやOpenAIとの市場資金の獲得競争、そして公開市場の投資家が示す初期の需要動向に注目が集まります。"
+      "米AIスタートアップのAnthropicは、AIシステムが急速に進化し、人間の介入なしに自律的に性能を向上させる「自己改善」の段階に近づいているとして、主要なAI開発機関に対して開発ペースを一時的に遅らせる「グローバル・ポーズ」を検討するよう呼びかけました。",
+      "評価額1兆ドル規模の最先端AI企業自らが開発停止を提唱したことは、AIの安全性議論に決定的な転換点をもたらします。自律的な自己改善は制御不能な超知能の誕生に直結する技術的リスクであり、業界全体や規制当局のルール作りに多大な影響を与える可能性があります。",
+      "今後は、OpenAIやGoogleなどの競合他社がこの呼びかけに同調するかどうか、また各国政府が国家安全保障の観点から法的な開発規制や監視体制の強化に踏み切るかが焦点となります。"
     ],
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/05/tech-download-anthropic-ipo-ai-valuations.html"
+        "name": "The Wall Street Journal",
+        "url": "https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73"
       }
     ],
     "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 90,
-    "confidence": 95,
-    "priorityReason": "AI企業の巨額評価額の妥当性を測る極めて重要な上場劇のため。",
-    "rankScore": 87,
+    "socialImpact": 90,
+    "novelty": 95,
+    "confidence": 100,
+    "priorityReason": "最先端AI企業による開発停止提唱は極めて異例で影響大。",
+    "rankScore": 90,
     "rankTier": "S",
-    "ageDays": 2,
+    "ageDays": 3,
     "rank": 2,
     "summaryLevel": "deep"
   },
   {
-    "id": "20260604-clawworm-ai-worm",
-    "category": "Model",
-    "title": "自己複製するAIワーム「ClawWorm」開発、ローカルLLMで自律的に攻撃手法を考案",
-    "date": "2026/06/04",
-    "summary": "トロント大学の研究チームが、ローカルで動作する小型LLMを搭載し、ネットワーク内で自律的に攻撃手法を考案しながら自己複製するAIワーム「ClawWorm」を開発した。既存のセキュリティ対策に深刻な脆弱性を突きつけている。",
+    "id": "openai-chatgpt-superapp-overhaul-20260607",
+    "category": "Business",
+    "title": "OpenAIがChatGPTを「スーパーアプリ」へ刷新計画、上場見据え",
+    "date": "2026/06/07",
+    "summary": "OpenAIが、株式上場を控えてChatGPTの大幅な刷新を計画していることが報じられた。コーディングツールやAIエージェント機能を備えた「スーパーアプリ」化を目指し、収益向上と競合Anthropicとの差別化を図る。",
     "details": [
-      "カナダのトロント大学の研究チームは、固定された攻撃コードに頼らず、感染したマシン上でローカルLLMを実行して自律的にネットワーク内の探索と攻撃手法の考案を行う自己複製型AIワーム「ClawWorm」を開発しました。このワームは、GPUを搭載した感染ノードを計算資源として寄生的に利用し、低リソースのIoTデバイスなどは感染ノードに推論クエリを送信する仕組みを備えており、実験環境で64.5%の感染成功率を記録しました。"
+      "OpenAIが、株式上場（IPO）を控えてChatGPTをコーディングツールやAIエージェント機能を備えた「スーパーアプリ」へと大幅に刷新する計画を進めていることが、フィナンシャル・タイムズ紙の報道で明らかになりました。この再編成は、収益性の高い企業顧客の獲得を強化し、競合するAnthropicなどとの競争を優位に進めることを目的としています。"
     ],
     "sources": [
       {
-        "name": "iTnews",
-        "url": "https://www.itnews.com.au/news/researchers-build-self-replicating-worm-with-byo-small-ai-model-626409"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/openai-plans-chatgpt-superapp-overhaul-ahead-listing-ft-reports-2026-06-07/"
       }
     ],
     "importance": "high",
     "socialImpact": 80,
-    "novelty": 95,
+    "novelty": 75,
     "confidence": 90,
-    "priorityReason": "AIを悪用した自律型サイバー兵器の現実味を示す研究のため。",
+    "priorityReason": "OpenAIの上場戦略とChatGPTの今後の進化方向を示す重要ニュース。",
     "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 3,
+    "ageDays": 0,
     "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "china-taiwan-patrols-escalation-20260606",
-    "category": "Policy",
-    "title": "中国、台湾東方で「特別海上交通法執行作戦」を開始、日比の境界交渉に対抗",
-    "date": "2026/06/06",
-    "summary": "中国交通運輸部は、台湾の東方海域で特別海上交通法執行作戦を開始した。これは、日本とフィリピンが同海域での海上境界交渉や防衛協力の強化に合意したことに対する直接的な対抗措置とみられ、地域の緊張がさらに高まっている。",
+    "id": "iran-war-100-days-economic-impact-20260607",
+    "category": "Economy",
+    "title": "イラン戦争100日：世界市場と経済への影響をチャートで紐解く",
+    "date": "2026/06/07",
+    "summary": "中東でのイラン戦争が開始から100日を迎え、世界の金融市場や実体経済に深刻な影響を与え続けている。エネルギー価格の高騰が主要国のインフレを押し上げ、金利見通しや住宅市場にも不確実性をもたらしている。",
     "details": [
-      "中国政府は、日本とフィリピンが海上境界の交渉や防衛協力の深化に合意したことを受け、台湾東方海域において「特別海上交通法執行作戦」を開始しました。中国側は「海上行政管轄権」を行使し国家主権を守るための措置と主張していますが、日米比の安全保障連携に対する強い牽制であり、地政学的な緊張をさらに高める要因となっています。"
+      "中東でのイラン戦争が開始から100日を迎え、世界の金融市場や実体経済に深刻な影響を与え続けています。ホルムズ海峡の緊張に伴うエネルギー価格の高騰は、米国や欧州などの主要国でインフレを再燃させており、連邦準備制度（Fed）による利下げ期待の後退や、住宅ローン金利の上昇など、市民生活や投資環境に広範な不確実性をもたらしています。"
     ],
     "sources": [
       {
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-06/china-escalates-patrols-near-taiwan-over-japan-philippines-talks"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/07/iran-war-100-days-trump-stocks-sp500-bonds-oil.html"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
+    "socialImpact": 90,
     "novelty": 60,
     "confidence": 95,
-    "priorityReason": "東アジアの安全保障に直結する中国の軍事・法執行の動き。",
-    "rankScore": 76,
+    "priorityReason": "長期化する中東紛争が世界経済と市場に与える影響を総括。",
+    "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 1,
+    "ageDays": 0,
     "rank": 4,
     "summaryLevel": "standard"
   },
   {
-    "id": "20260604-japan-pm-yen-defense",
+    "id": "trump-military-ai-memorandum-20260606",
     "category": "Policy",
-    "title": "高市首相、経済実力の強化による円の信認維持を表明、為替介入の憶測広がる中で",
-    "date": "2026/06/04",
-    "summary": "高市早苗首相は国会で、中東情勢の緊迫化に伴う円安圧力に対し、国内投資の促進やサプライチェーンの強化など、日本経済の実力を高めることで円の信認を維持する方針を示した。",
+    "title": "トランプ米大統領、最先端AIを軍に配備する国家安全保障大統領覚書に署名",
+    "date": "2026/06/06",
+    "summary": "トランプ米大統領は、最先端の商業用およびオープンソースAI技術を米軍に迅速に導入するための国家安全保障大統領覚書に署名した。軍が依存するAIモデルの無断改変を禁止する一方、表現の検閲や不法監視への使用は制限する。",
     "details": [
-      "高市早苗首相は参議院予算委員会などの国会答弁において、中東での紛争激化に伴うエネルギー価格上昇と円安圧力に対し、為替相場を直接コントロールすることを目的とせず、国内投資の拡大やサプライチェーンの強靭化を通じて日本経済の潜在成長率を高めることで、円の信認を中長期的に防衛していく姿勢を強調しました。"
+      "トランプ米大統領は、最先端のAI技術を米軍に迅速に導入するための「国家安全保障大統領覚書」に署名しました。この覚書は、民間やオープンソースの先端モデルを国防機関に素早く取り入れる枠組みを構築する一方で、軍が依存するAIシステムを開発企業が無断で改変・劣化させることを禁止し、表現の検閲や不法な国民監視への使用を制限しています。"
+    ],
+    "sources": [
+      {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2188929/trump-latest-memo-puts-most-advanced-ai-in-the-world-into-military-hands/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "米国の国防政策におけるAI導入の加速と企業への規制を示すため。",
+    "rankScore": 79,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 5,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news_002",
+    "category": "Model",
+    "title": "自律的に攻撃を考案し自己複製するAIワーム「ClawWorm」を研究者が開発",
+    "date": "2026/06/04",
+    "summary": "トロント大学の研究チームは、ネットワークを自律的に探索し、マシンごとに異なる攻撃戦略をその場で考案して自己複製するAIワーム「ClawWorm」を開発した。小型のオープンウェイトLLMで動作する。",
+    "details": [
+      "トロント大学の研究チームは、固定された脆弱性攻撃に頼らず、感染したマシン上で動作する小型のオープンウェイトLLMを用いて自律的に攻撃戦略を考案し、ネットワーク内を自己複製して拡散する初のAIワーム「ClawWorm」を開発し、現行のAIエージェント環境における深刻な脆弱性を実証しました。"
+    ],
+    "sources": [
+      {
+        "name": "iTnews",
+        "url": "https://www.itnews.com.au/news/researchers-build-self-replicating-ai-worm-with-byo-small-ai-model-626409"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 88,
+    "confidence": 95,
+    "priorityReason": "AIエージェントを標的とする新たなサイバー脅威の実証。",
+    "rankScore": 79,
+    "rankTier": "A",
+    "ageDays": 3,
+    "rank": 6,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news_003",
+    "category": "Policy",
+    "title": "高市首相、経済強化による「円の信認防衛」を表明　中東緊張の円安圧力に対し",
+    "date": "2026/06/04",
+    "summary": "高市早苗首相は参院予算委員会で、中東情勢の緊迫化に伴う円安圧力に対し、国内投資の促進やサプライチェーンの強化など、日本経済の実力を高めることで円の信認を防衛する方針を示した。",
+    "details": [
+      "高市早苗首相は国会答弁において、為替レートの直接的な操作を目的とするものではないとしつつも、国内投資の拡大やサプライチェーンの強靭化を通じて日本経済の成長潜在力を高め、通貨円の信認を維持・防衛していく姿勢を強調しました。"
     ],
     "sources": [
       {
@@ -127,102 +175,50 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
+    "socialImpact": 85,
     "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "日本の新首相による為替と経済政策の基本方針が示されたため。",
-    "rankScore": 74,
+    "confidence": 100,
+    "priorityReason": "日本の首相による為替と経済政策に関する重要発言。",
+    "rankScore": 77,
     "rankTier": "A",
     "ageDays": 3,
-    "rank": 5,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "weaviate-engram-launch-20260606",
-    "category": "Service",
-    "title": "Weaviate、AIエージェントのメモリボトルネックを解消する管理型記憶サービス「Engram」をローンチ",
-    "date": "2026/06/06",
-    "summary": "ベクターデータベース大手のWeaviateは、LLMエージェント向けの管理型記憶サービス「Engram」を発表した。過去の会話履歴をすべてモデルに再入力することなく、ユーザーの好みや文脈を保持・検索できるようにし、遅延…",
-    "details": [
-      "Weaviateが発表した「Engram」は、AIエージェントがユーザーの好みや過去の意思決定、ワークフローの文脈を効率的に記憶・学習できるようにするサービスです。従来のシステムのように過去の会話履歴をすべてプロンプトに再入力する必要がなくなるため、処理の遅延（レイテンシ）を劇的に抑えつつ、長期的なコンテキストの維持を可能にします。これにより、パーソナライズされたチャットボットやコーディングアシスタントなどの実用性が大幅に向上すると期待されています。"
-    ],
-    "sources": [
-      {
-        "name": "Lokmat Times",
-        "url": "https://www.lokmattimes.com/business/weaviate-launches-engram-to-break-the-ai-memory-bottleneck-and-let-agents-learn-from-conversation-without-slowing-down/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 65,
-    "novelty": 75,
-    "confidence": 90,
-    "priorityReason": "AIエージェントの実用性を高める重要なインフラ技術。",
-    "rankScore": 73,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 6,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "20260605-broadcom-shock-asia-tech",
-    "category": "Economy",
-    "title": "ブロードコムの減収でアジアの半導体・テック株が急落、AI関連銘柄に調整売り",
-    "date": "2026/06/05",
-    "summary": "米半導体大手ブロードコムの決算での減収発表を受け、米国株のハイテク売りがアジア市場に波及。韓国のサムスンやSKハイニックス、日本の東京エレクトロンなどの株価が急落した。",
-    "details": [
-      "米半導体大手ブロードコムが発表した第2四半期決算での売上高未達をきっかけに、これまで急騰を続けていたAI関連銘柄からディフェンシブ銘柄への資金シフトが発生し、アジア市場でも韓国のサムスン電子が約7%下落、SKハイニックスが8%超下落、日本の東京エレクトロンやアドバンテストも5〜6%下落するなど、半導体・テック株を中心に大幅な調整売りが広がりました。"
-    ],
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/05/asian-technology-stocks-sk-hynix-samsung-tsmc-advantest.html"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 65,
-    "confidence": 95,
-    "priorityReason": "AIブームに沸く半導体市場の一時的な調整局面を示す動きのため。",
-    "rankScore": 71,
-    "rankTier": "B",
-    "ageDays": 2,
     "rank": 7,
     "summaryLevel": "standard"
   },
   {
-    "id": "china-csrc-fund-warning-20260606",
-    "category": "Economy",
-    "title": "中国証券監督管理委員会、ファンド業界に「AIなどのコンセプト便乗」を警告、実質的な技術支援を要請",
-    "date": "2026/06/06",
-    "summary": "中国証券監督管理委員会（CSRC）の呉清主席は、ファンドマネージャーに対し、AIなどの流行コンセプトに便乗した過度な投機や高値でのファンド組成を警告した。国家戦略に沿った初期段階のハードテ…",
+    "id": "news_004",
+    "category": "Business",
+    "title": "米AnthropicのIPO申請、AIバリュエーションの持続性を問う最大の試金石に",
+    "date": "2026/06/05",
+    "summary": "評価額9650億ドルに達したAIスタートアップのAnthropicが秘密裏にIPOを申請した。この上場は、現在のAIブームにおける巨額の企業価値評価が公的市場で維持できるかどうかの重要な検証となる。",
     "details": [
-      "中国証券監督管理委員会（CSRC）の呉清主席は、国内のファンド業界に対し、人工知能（AI）などの流行コンセプトを煽る過度な投機や、株価が高騰している時期に安易にファンドを立ち上げて短期的な利益を狙う行為を厳しく警告しました。代わりに、国家の技術自立戦略を支えるため、初期段階のハードテクノロジー系スタートアップへの長期的な投資を行うよう求…"
+      "評価額が1兆ドルに迫るAnthropicが新規株式公開（IPO）を申請したことで、プライベート市場で膨れ上がったAI企業のバリュエーションが、実績や収益性を厳しく問われる公的市場において正当化されるかどうかの歴史的な試金石となります。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/legal/government/china-urges-fund-managers-support-innovation-warns-against-concept-hype-2026-06-06/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/video/2026/06/05/tech-download-anthropic-ipo-ai-valuations.html"
       }
     ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 65,
-    "confidence": 90,
-    "priorityReason": "中国の金融規制当局によるAI投機抑制と技術支援の姿勢。",
-    "rankScore": 66,
-    "rankTier": "B",
-    "ageDays": 1,
+    "importance": "high",
+    "socialImpact": 78,
+    "novelty": 75,
+    "confidence": 95,
+    "priorityReason": "AIバブルの真偽を測る市場最大のIPO動向。",
+    "rankScore": 75,
+    "rankTier": "A",
+    "ageDays": 2,
     "rank": 8,
-    "summaryLevel": "brief"
+    "summaryLevel": "standard"
   },
   {
-    "id": "indonesia-rupiah-defense-yields-20260606",
+    "id": "news_006",
     "category": "Economy",
-    "title": "インドネシア中銀と財務省、ルピア安阻止に向け資産利回りの引き上げで合意",
+    "title": "インドネシア、ルピア防衛に向け資産利回り引き上げで中銀と財務相が合意",
     "date": "2026/06/06",
-    "summary": "インドネシア中銀のペリー総裁と財務相は、ルピア安と資本流出に歯止めをかけるため、国内資産の利回りを引き上げることで合意した。中東情勢の緊迫化による燃料補助金の増大や、新政権の財政支出計画へ…",
+    "summary": "インドネシアの中央銀行総裁と財務相は、イラン戦争による燃料補助金の増大や大統領の支出計画への懸念から続く資本流出とルピア安を阻止するため、国内資産の利回りを引き上げる方針で合意した。",
     "details": [
-      "インドネシア中央銀行と財務省は、急激な資本流出とルピア安に対処するため、国内資産の利回りを引き上げて投資家を引きつける方針で合意しました。インドネシア市場は、プラボウォ次期大統領の大規模な支出計画や、中東での戦争に伴う燃料補助金の負担増大に対する懸念から、株価が30%以上下落するなど強い圧力を受けており、今回の措置で市場の安定化を図る狙…"
+      "インドネシアでは、中東での戦争に伴う燃料補助金の負担増や新政権の財政支出拡大への懸念から、株価急落と歴史的な債券流出が続いており、通貨ルピアのさらなる下落を防ぐために中銀と政府が協調して資産利回りの向上を図る緊急措置に乗り出しました。"
     ],
     "sources": [
       {
@@ -230,15 +226,67 @@
         "url": "https://www.reuters.com/world/asia-pacific/indonesia-central-bank-finance-minister-agree-boost-asset-yields-aid-rupiah-2026-06-06/"
       }
     ],
-    "importance": "medium",
-    "socialImpact": 75,
-    "novelty": 55,
-    "confidence": 90,
-    "priorityReason": "新興国市場における通貨防衛策と財政懸念の動向。",
-    "rankScore": 66,
-    "rankTier": "B",
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 65,
+    "confidence": 95,
+    "priorityReason": "新興国市場における戦争影響と通貨防衛の動き。",
+    "rankScore": 74,
+    "rankTier": "A",
     "ageDays": 1,
     "rank": 9,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news_005",
+    "category": "Economy",
+    "title": "米ボストン連銀、エネルギー効率向上でFRBは「インフレ抑制に集中可能」と指摘",
+    "date": "2026/06/04",
+    "summary": "米ボストン連邦準備銀行のエコノミストは、米国のエネルギー効率向上と国内生産の増加により、原油価格ショックが雇用に与える悪影響が減少したため、FRBはインフレ抑制に金融政策を集中できるとする論文を発表した。",
+    "details": [
+      "ボストン連銀が発表した研究論文は、米経済の構造変化により原油ショックが雇用に与える打撃が緩和されたため、FRBは1970年代のようなスタグフレーションを懸念することなく、中東戦争に伴う原油高のインフレ影響に集中して政策決定を行える環境にあると指摘しました。"
+    ],
+    "sources": [
+      {
+        "name": "KITCO",
+        "url": "https://www.kitco.com/news/off-the-wire/2026-06-04/boston-fed-paper-says-fed-can-concentrate-inflation-risks-amid-energy"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 72,
+    "confidence": 95,
+    "priorityReason": "FRBの今後の利上げ判断に影響し得る重要論文。",
+    "rankScore": 74,
+    "rankTier": "A",
+    "ageDays": 3,
+    "rank": 10,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "weaviate-engram-ai-agent-memory-20260606",
+    "category": "Service",
+    "title": "Weaviateが「Engram」をリリース、AIエージェントのメモリボトルネックを解消",
+    "date": "2026/06/06",
+    "summary": "ベクターデータベース大手のWeaviateは、LLMエージェント向けの管理型メモリサービス「Engram」をローンチした。会話履歴をすべて再入力することなく、ユーザーの好みや過去の決定を効…",
+    "details": [
+      "ベクターデータベース開発のWeaviateは、LLMエージェントやAIアプリケーション向けの管理型メモリサービス「Engram」をローンチしました。これにより、開発者は会話履歴全体をモデルに再入力する手間を省き、ユーザーの好みや過去の決定、ワークフローの文脈を低遅延かつ効率的にAIに記憶させることが可能になります。"
+    ],
+    "sources": [
+      {
+        "name": "Lokmat Times",
+        "url": "https://www.lokmattimes.com/business/weaviate-launches-engram-to-break-the-ai-memory-bottleneck-and-let-agents-learn-from-conversation-without-slowing-down/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 80,
+    "confidence": 90,
+    "priorityReason": "AIエージェントの実用性を高めるメモリ技術の重要な進展。",
+    "rankScore": 67,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 11,
     "summaryLevel": "brief"
   }
 ]
