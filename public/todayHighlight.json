@@ -2,13 +2,13 @@
   {
     "id": "news-001",
     "category": "Policy",
-    "title": "フロンティアAIがもたらすサイバー脅威、規制は手遅れか",
+    "title": "「ハリケーン警報だ」超高性能AIモデルの規制、サイバー脅威の加速に追いつかず",
     "date": "2026/06/07",
-    "summary": "Anthropicの「Claude Mythos」やOpenAIの「GPT 5.5-Cyber」など、脆弱性発見やサイバー攻撃能力を持つ新型AIが急速に進化。米国の規制が追いつかない中、中国が同等モデルを開発・悪用するまでの猶予は半年から1年と警告されている。",
+    "summary": "AnthropicのClaude MythosやOpenAIのGPT 5.5-Cyberなど、サイバー攻撃能力を持つ新型AIの進化が法規制を上回るスピードで進行しており、安全保障上の危機感が高まっている。",
     "details": [
-      "米国で開発された「Claude Mythos」や「GPT 5.5-Cyber」といった最新のフロンティアAIモデルが、ソフトウェアの未知の脆弱性（ゼロデイ）を特定し、サイバー攻撃を実行する高度な能力を示している。しかし、これらの技術進歩のスピードは政府の規制整備を遥かに上回っており、安全対策が間に合わない懸念が高まっている。",
-      "この事態は国家安全保障および地政学的なパワーバランスに重大な影響を与える。専門家は、中国が同等のサイバー兵器級AIモデルを開発または入手するまでに残された時間はわずか6〜12ヶ月であると見積もっており、米中間のAI軍拡競争がサイバー空間の安全性を根底から揺るがすリスクがある。",
-      "今後は、トランプ政権が署名したAIイノベーションと安全保障に関する新たな大統領令に基づき、国家安全保障局（NSA）などが主導する高度AIモデルのサイバーリスク評価フレームワークが、民間企業や国際社会にどのように適用され、実効性を持つかが注視される。"
+      "Anthropicの「Claude Mythos」やOpenAIの「GPT 5.5-Cyber」といった最先端AIモデルが、ソフトウェアの脆弱性を特定しサイバー攻撃を実行する高度な能力を示しており、法規制の整備が追いつかない状況が明らかになった。",
+      "これらのモデルは数千件のゼロデイ脆弱性を検出可能であり、ハッカーや国家規模のサイバー敵対勢力に悪用されるリスクが極めて高い。米国が中国などの競合国に対して技術的優位を保てる期間は残り6〜12ヶ月と推計されており、地政学的なサイバー安全保障のパワーバランスを揺るがす重大な局面を迎えている。",
+      "今後は、政府や防衛機関がこれらの最先端AIを防御側としていかに迅速に導入し、重要インフラの脆弱性をパッチできるか、また国際的なAI安全基準の策定が間に合うかが焦点となる。"
     ],
     "sources": [
       {
@@ -20,7 +20,7 @@
     "socialImpact": 92,
     "novelty": 88,
     "confidence": 95,
-    "priorityReason": "安全保障を揺るがす最新AIのサイバー脅威と米中競争の現状を解説。",
+    "priorityReason": "AIの軍事・サイバー悪用リスクと地政学的猶予を警告する重要報告。",
     "rankScore": 92,
     "rankTier": "S",
     "ageDays": 1,
@@ -28,13 +28,39 @@
     "summaryLevel": "deep"
   },
   {
-    "id": "news-003",
-    "category": "Business",
-    "title": "自己改善型AI開発のRecursive、設立4ヶ月で約1000億円を調達",
-    "date": "2026/06/07",
-    "summary": "元Metaの主任研究員Yuandong Tian氏らが設立したスタートアップ「Recursive Superintelligence」が、ステルスから脱却し6億5000万ドルを調達。評価額は46.5億ドルに達し、AIが…",
+    "id": "news-004",
+    "category": "Economy",
+    "title": "アジアのハイテク株が大幅続落、米市場のAI株急落と利上げ懸念が波及",
+    "date": "2026/06/08",
+    "summary": "米国市場でのハイテク株急落を受け、アジア市場でもAI関連株の売りが加速。韓国のKospiが一時8%急落したほか、サムスンやTSMC、ソフトバンクなどの株価が大幅に下落した。",
     "details": [
-      "Recursive Superintelligenceは、人間を介さずにAIモデルが自ら次世代のより優れたモデルを訓練・開発する「自己改善ループ」の自動化を目指している。設立わずか4ヶ月で製品も未リリースながら、NvidiaやAMD、AlphabetのGVなどから巨額の資金を集めたことは、半導体大手やVCがこの自己改善技術を単なる理論ではなく、極めて近い将来のコンピューティング需要の起爆剤と捉えていることを示している。"
+      "米国の好調な雇用統計に伴う連邦準備制度（Fed）の利上げ懸念やBroadcomの業績見通しを背景に、先週のNasdaqが4.5%超下落した流れを受け、アジア市場でもサムスン電子が一時9.7%安、ソフトバンクが7%超安となるなど、これまで市場を牽引してきたAIバブルへの警戒感が広がっている。"
+    ],
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/08/softbank-samsung-tech-ai-stocks-asia-fall.html"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 88,
+    "novelty": 65,
+    "confidence": 95,
+    "priorityReason": "世界的なAIバブル崩壊懸念とアジア市場への直接的影響を網羅。",
+    "rankScore": 81,
+    "rankTier": "A",
+    "ageDays": 0,
+    "rank": 2,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news-002",
+    "category": "Business",
+    "title": "自己改善型AI開発のRecursive、ステルス脱却し約1000億円の資金調達を実施",
+    "date": "2026/06/07",
+    "summary": "元MetaのAI研究ディレクターであるYuandong Tian氏らが率いる新興企業Recursive Superintelligenceが、評価額46.5億ドルで6億5000万ドルの資金調達を完了した。",
+    "details": [
+      "元MetaのAI研究ディレクターであるYuandong Tian氏らが共同創業したRecursive Superintelligenceは、人間を介さずにAIが自ら研究開発と自己改善を繰り返す「閉ループ最適化」技術の開発を目指しており、GVやGreycroft、Nvidia、AMDなどから計6億5000万ドルを調達した。"
     ],
     "sources": [
       {
@@ -43,102 +69,76 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 78,
-    "novelty": 95,
+    "socialImpact": 80,
+    "novelty": 90,
     "confidence": 95,
-    "priorityReason": "自己改善型AIという次世代技術に巨額資金が集まる背景を分析。",
+    "priorityReason": "自己改善AIという次世代技術に巨額資金が動いた背景を解説。",
     "rankScore": 81,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 2,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "openai-superapp-20260607",
-    "category": "Business",
-    "title": "OpenAI、上場を控えChatGPTを「スーパーアプリ」へ刷新計画＝FT報道",
-    "date": "2026/06/07",
-    "summary": "OpenAIが、計画中の株式上場を前に、コーディングツールやAIエージェントを搭載した「スーパーアプリ」へとChatGPTを大幅に刷新する計画であることが報じられた。競合のAnthropicに対抗し、収益性の高い企業顧…",
-    "details": [
-      "フィナンシャル・タイムズ紙によると、OpenAIは株式上場を控える中、ChatGPTにコーディングツールや自律型AIエージェントを統合し、多機能な「スーパーアプリ」へと進化させる大規模な再編成を計画している。これは、急速に台頭する競合のAnthropicに対抗し、より収益性の高いエンタープライズ（企業）向け市場での優位性を確立するための戦略的シフトとみられている。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/openai-plans-chatgpt-superapp-overhaul-ahead-listing-ft-reports-2026-06-07/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "上場を控えるOpenAIの次なる戦略シフトを示す重要ニュース。",
-    "rankScore": 80,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "news-004",
-    "category": "Economy",
-    "title": "AIビジネスが直面する「4つの厳しい現実」と市場の警戒感",
-    "date": "2026/06/07",
-    "summary": "AI技術の急速な進歩の裏で、ビジネス面における4つの課題（高コスト、不透明な投資回収、インフラ需要の鈍化、金利高止まり）が浮き彫りになっている。市場ではドットコムバブル崩壊時を彷彿とさせる警戒感も出始めている。",
+    "id": "news-006",
+    "category": "Policy",
+    "title": "ペルー大統領選の決選投票は大接戦、フジモリ氏とサンチェス氏が統計的タイ",
+    "date": "2026/06/08",
+    "summary": "ペルー大統領選挙の決選投票が実施され、出口調査でケイコ・フジモリ氏とロベルト・サンチェス氏が事実上の互角となっており、公式結果の確定には数週間を要する見通し。",
     "details": [
-      "投資家は、AIインフラへの巨額投資に対して十分な利益が伴っていないという現実に直面している。Broadcomの控えめな業績見通しや、Metaによる巨額の増資検討の報道が引き金となり、ハイテク株中心のナスダック指数が急落するなど、これまでの「AI万能論」に基づく市場の期待値と、実際の収益化ペースとの乖離が浮き彫りになっている。"
+      "治安悪化や汚職への懸念が高まるペルーで実施された大統領選決選投票は、都市部を地盤とする右派のフジモリ氏と、地方や鉱山労働者の支持を集める左派のサンチェス氏が真っ二つに競り合っており、2021年同様に異議申し立てが相次ぎ混乱が長期化する恐れがある。"
     ],
     "sources": [
       {
-        "name": "Axios",
-        "url": "https://www.axios.com/2026/06/07/ai-business-technology-stocks-broadcom"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/ipsos-quick-count-shows-statistical-tie-perus-presidential-race-2026-06-08/"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
+    "socialImpact": 82,
     "novelty": 70,
     "confidence": 95,
-    "priorityReason": "AIバブル崩壊の懸念も指し示される市場の厳しい現実を分析。",
-    "rankScore": 78,
+    "priorityReason": "南米の政治動向を左右するペルー大統領選の緊迫した情勢。",
+    "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 1,
+    "ageDays": 0,
     "rank": 4,
     "summaryLevel": "standard"
   },
   {
-    "id": "japan-pm-defend-yen-20260605",
-    "category": "Policy",
-    "title": "高市首相、経済強化による円の信認防衛を表明",
-    "date": "2026/06/05",
-    "summary": "高市早苗首相は国会で、中東情勢の緊迫化に伴う円安圧力に対し、為替レートの直接的な誘導ではなく、日本経済そのものを強化することで円の信認を防衛する方針を示した。",
+    "id": "news-003",
+    "category": "Service",
+    "title": "OpenAIがChatGPTを「スーパーアプリ」へ刷新、対話型からエージェント重視へ",
+    "date": "2026/06/07",
+    "summary": "OpenAIがChatGPTの大幅な刷新を計画しており、コーディングツールやAIエージェント機能を統合した「スーパーアプリ」として、年内のIPOに向けた収益化を急ぐ。",
     "details": [
-      "高市早苗首相は国会答弁において、中東の緊張を背景に再び強まる円安圧力に対し、為替レートを直接操作することを目的とした政策は行わないとしつつ、日本経済のファンダメンタルズを強化することによって円の信認と価値を維持していく方針を強調した。日本政府は4月から5月にかけて巨額の円買い介入を実施したばかりであり、今後の為替政策のスタンスが注目される。"
+      "OpenAIは、動画生成AI「Sora」などの周辺プロジェクトを一時棚上げし、ChatGPTを個人や業務のあらゆるタスクを支援するエージェント機能を備えた「スーパーアプリ」へと刷新する方針を固め、競合するAnthropicへの対抗とIPO前の収益性向上を狙う。"
     ],
     "sources": [
       {
-        "name": "The Wall Street Journal",
-        "url": "https://www.wsj.com/finance/currencies/japan-prime-minister-says-will-defend-yen-by-strengthening-economy-cf886cbe"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/"
       }
     ],
     "importance": "high",
     "socialImpact": 85,
-    "novelty": 75,
+    "novelty": 82,
     "confidence": 95,
-    "priorityReason": "日本の新たな首相による為替と経済政策の基本スタンスを示す。",
-    "rankScore": 78,
+    "priorityReason": "OpenAIの対話型からエージェントへの大転換とIPO戦略。",
+    "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 3,
+    "ageDays": 1,
     "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "japan-gdp-rate-hike-20260608",
+    "id": "news-007",
     "category": "Economy",
-    "title": "日本の1Q実質GDP改定値は下方修正も、利上げ期待は維持",
-    "date": "2026/06/08",
-    "summary": "日本の2026年第1四半期の実質GDP改定値は、前期比年率1.8%増と速報値の2.1%増から下方修正された。しかし、経済の回復基調は維持されており、日銀による早期利上げへの期待は依然として残っている。",
+    "title": "日本の第1四半期GDP改定値は年率1.8%増へ下方修正、利上げ観測は維持",
+    "date": "2026/06/07",
+    "summary": "日本の2026年第1四半期の実質GDP改定値は、設備投資の下振れにより年率1.8%増と速報値から下方修正されたが、緩やかな回復基調により日銀の利上げ期待は継続している。",
     "details": [
-      "内閣府が発表した2026年1〜3月期の実質国内総生産（GDP）改定値は、前期比年率換算で1.8%増となり、速報値の2.1%増から下方修正された。設備投資などのデータが引き下げられたものの、緩やかな景気回復基調は維持されていると判断されており、市場では日銀が近く追加利上げに踏み切るとの観測は後退していない。"
+      "内閣府が発表した第1四半期の実質GDP改定値は、速報値の年率2.1%増から1.8%増へと下方修正されたものの、日本経済が回復軌道にあるとの見方は変わらず、市場では日銀が今月にも追加利上げに踏み切るとの観測が根強く残っている。"
     ],
     "sources": [
       {
@@ -150,33 +150,33 @@
     "socialImpact": 78,
     "novelty": 60,
     "confidence": 95,
-    "priorityReason": "日本のGDP改定値と日銀の利上げシナリオへの影響を解説。",
-    "rankScore": 77,
+    "priorityReason": "日銀の利上げ判断に直結するGDP改定値の下振れ要因を分析。",
+    "rankScore": 75,
     "rankTier": "A",
-    "ageDays": 0,
+    "ageDays": 1,
     "rank": 6,
     "summaryLevel": "standard"
   },
   {
-    "id": "asian-central-banks-dilemma-20260605",
-    "category": "Economy",
-    "title": "アジアの中央銀行がジレンマに直面：成長支援、インフレ抑制、通貨防衛の選択",
+    "id": "news-20260605-takaichi-yen",
+    "category": "Policy",
+    "title": "高市首相、経済強化による円の信認防衛を表明",
     "date": "2026/06/05",
-    "summary": "中東での戦争によるエネルギーショックの中、インド、インドネシア、日本などのアジアの中央銀行は、経済成長の維持、インフレの抑制、自国通貨の防衛という困難な政策のジレンマに直面している。",
+    "summary": "高市早苗首相は参議院で、中東情勢の緊迫化を背景に円安圧力が強まる中、為替レートを直接操作するのではなく、日本経済のファンダメンタルズを強化することで円の信認を維持していく方針を強調した。",
     "details": [
-      "中東での紛争激化に伴うエネルギーショックが世界経済を揺るがす中、インド、インドネシア、日本をはじめとするアジア各国の中央銀行は、景気後退を防ぐための成長支援、物価高を抑えるインフレ抑制、そして急激な通貨安を防ぐための為替防衛という、相反する3つの課題を同時に解決しなければならない極めて困難な政策判断を迫られている。"
+      "高市首相は国会答弁で、自身が推進する経済財政運営は為替レートの誘導を意図したものではないとした上で、経済の強靭化を通じて通貨の信頼性を守る姿勢を示し、政府が4月末から5月にかけて実施した巨額の円買い介入後の市場の警戒感に対応した。"
     ],
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/video/2026/06/05/asian-central-banks-facing-growth-inflation-currency-dilemma.html"
+        "name": "The Wall Street Journal",
+        "url": "https://www.wsj.com/finance/currencies/japan-prime-minister-says-will-defend-yen-by-strengthening-economy-cf886cbe"
       }
     ],
     "importance": "high",
     "socialImpact": 80,
     "novelty": 70,
-    "confidence": 90,
-    "priorityReason": "エネルギーショック下のアジア経済の行方を左右する金融政策。",
+    "confidence": 95,
+    "priorityReason": "日本の新首相による為替と経済政策の方針を示す重要発言。",
     "rankScore": 75,
     "rankTier": "A",
     "ageDays": 3,
@@ -186,11 +186,11 @@
   {
     "id": "news-005",
     "category": "Ethics",
-    "title": "AIに意識はあるか？ヒントン氏の主張にSF作家テッド・チャン氏が反論",
+    "title": "「AIに意識はあるか」SF作家テッド・チャン氏がヒントン氏の主張を否定",
     "date": "2026/06/08",
-    "summary": "AIの意識の有無を巡り、ジェフリー・ヒントン氏が「すでに意識がある」と主張する一方、SF作家のテッド・チャン氏がそれを否定する論考を発表。主要AIラボが哲学者の採用を進める中、AGI開発ロ…",
+    "summary": "AI先駆者のジェフリー・ヒントン氏が「AIはすでに意識を持っている」と主張したのに対し、SF作家のテッド・チャン氏がそれを否定する1万字のエッセイを発表し、議論を呼んでいる。",
     "details": [
-      "AnthropicがClaudeの内部に「感情ベクトル」を発見したと発表し、AIの意識やウェルビーイングを研究するために哲学者や心理学者の採用を強化する中、AIの意識を「実在する深刻な問題」とする開発者側と、「高度なマーケティングによる錯覚」とする批判派の間で議論が二分している。この論争は、単なる哲学的な問いにとどまらず、今後の人工汎用…"
+      "AnthropicやGoogle DeepMindなどの主要AI研究所がAIの意識やウェルビーイングを研究する専門家を雇用する中、ヒントン氏の「意識あり」とする見解に対し、映画『メッセージ』の原作者テッド・チャン氏が「AIの意識は錯覚に過ぎない」と反論し、AGI（汎用人工知能）開発ロードマップにおける倫理的・哲学的な対立が浮き彫りになっ…"
     ],
     "sources": [
       {
@@ -202,7 +202,7 @@
     "socialImpact": 75,
     "novelty": 85,
     "confidence": 90,
-    "priorityReason": "AIの意識を巡る世界的権威とSF作家の対立から倫理的課題を紐解く。",
+    "priorityReason": "AIの意識を巡る科学者と作家の哲学的対立の最前線を示す。",
     "rankScore": 73,
     "rankTier": "A",
     "ageDays": 0,
@@ -210,13 +210,13 @@
     "summaryLevel": "brief"
   },
   {
-    "id": "broadcom-tech-drop-20260605",
+    "id": "news-20260605-broadcom-impact",
     "category": "Economy",
-    "title": "ブロードコムの決算失望でアジアのテック株が急落、AI取引に冷や水",
+    "title": "ブロードコムの減収がAI取引を揺るがし、アジアのハイテク株が急落",
     "date": "2026/06/05",
-    "summary": "米半導体大手ブロードコムの第2四半期決算が市場予想を下回ったことで、米国株に続きアジアの半導体・テック関連株が急落した。韓国のサムスン電子やSKハイニックス、日本の東京エレクトロンなどが大幅安となった。",
+    "summary": "米半導体大手ブロードコムの第2四半期決算での減収発表を受け、AI関連銘柄からディフェンシブ銘柄への資金シフトが発生。韓国のサムスン電子やSKハイニックス、日本の東京エレクトロンなどアジアの主要ハイテク株が軒並み急落した。",
     "details": [
-      "米半導体大手ブロードコムの第2四半期決算における売上高が市場予想に届かなかったことを受け、これまでAIブームを牽引してきた半導体関連銘柄からディフェンシブ銘柄への資金シフトが発生した。この影響はアジア市場にも波及し、韓国のサムスン電子が約7%急落、SKハイニックスが8%超下落したほか、日本の東京エレクトロンやアドバンテストも5〜6%超の連れ安となった。"
+      "米ブロードコムの決算失望をきっかけに、これまで急騰していたAI・半導体関連株で利益確定の売りが加速し、韓国のサムスン電子が約7%下落、SKハイニックスが8%超下落したほか、日本の東京エレクトロンやアドバンテストも大幅安となり、アジア市場全体に売りが波及した。"
     ],
     "sources": [
       {
@@ -226,13 +226,65 @@
     ],
     "importance": "high",
     "socialImpact": 75,
-    "novelty": 65,
+    "novelty": 60,
     "confidence": 95,
-    "priorityReason": "AIバブル懸念と半導体市場の調整局面を示す重要な株価動向。",
-    "rankScore": 73,
+    "priorityReason": "AIバブル懸念による半導体株急落の市場影響を伝えるため。",
+    "rankScore": 72,
     "rankTier": "A",
     "ageDays": 3,
     "rank": 9,
     "summaryLevel": "standard"
+  },
+  {
+    "id": "news-20260608-japan-tourism-gdp",
+    "category": "Economy",
+    "title": "日本の観光セクターが経済を牽引、2025年の旅行予約額は8%増の942億ドルに",
+    "date": "2026/06/08",
+    "summary": "最新の調査によると、日本の観光セクターは2025年にGDPの約7〜8%を占める規模に成長し、旅行予約総額は前年比8%増の942億ドルに達した。政府は量から質への転換やオーバーツーリズム対策…",
+    "details": [
+      "円高局面でもドル建ての旅行予約額が実質的な成長を示した日本市場において、政府は単なる観光客数の増加だけでなく、高付加価値旅行者の誘致や地方分散、オーバーツーリズムの抑制といった持続可能な観光政策へのシフトを本格化させている。"
+    ],
+    "sources": [
+      {
+        "name": "Tourism Review",
+        "url": "https://www.tourism-review.com/japans-travel-sector-steadily-growing-news15494"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 60,
+    "confidence": 90,
+    "priorityReason": "日本経済における観光業の重要性と政策転換を伝えるため。",
+    "rankScore": 66,
+    "rankTier": "B",
+    "ageDays": 0,
+    "rank": 10,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "news-20260605-asian-banks-dilemma",
+    "category": "Economy",
+    "title": "アジア各中銀、中東エネルギーショックによる成長とインフレのジレンマに直面",
+    "date": "2026/06/05",
+    "summary": "中東での戦争に伴うエネルギーショックを受け、日本、インド、インドネシアなどのアジア主要国の中央銀行は、経済成長の維持、インフレの抑制、そして自国通貨の防衛という極めて困難な政策の選択を迫ら…",
+    "details": [
+      "中東情勢の緊迫化に伴う原油価格の高騰がアジア各国の物価を押し上げる中、景気後退リスクを避けつつ通貨下落を防ぐための利上げを行うべきか、各国中央銀行が政策決定において深刻なジレンマに直面している状況が議論された。"
+    ],
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/video/2026/06/05/asian-central-banks-facing-growth-inflation-currency-dilemma.html"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 65,
+    "confidence": 90,
+    "priorityReason": "アジア全体の金融政策に影響するエネルギー危機の構図を解説。",
+    "rankScore": 64,
+    "rankTier": "B",
+    "ageDays": 3,
+    "rank": 11,
+    "summaryLevel": "brief"
   }
 ]
