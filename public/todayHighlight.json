@@ -1,26 +1,26 @@
 [
   {
-    "id": "news_20260608_netanyahu_iran",
-    "category": "Policy",
-    "title": "イスラエル首相がイランへの大規模攻撃を計画、トランプ米大統領の説得で断念",
+    "id": "news_001",
+    "category": "Business",
+    "title": "OpenAIが米国でIPOを非公開申請、Anthropicに続く動き",
     "date": "2026/06/08",
-    "summary": "イスラエルのネタニヤフ首相がイランへの大規模な報復攻撃を準備していたものの、トランプ米大統領による説得を受けて思いとどまったことが明らかになった。中東の緊張緩和に向けた外交努力が続けられている。",
+    "summary": "OpenAIが米国での新規株式公開（IPO）に向けて非公開で申請を行ったことが明らかになった。先行してIPOを申請した競合のAnthropicを追う形で、AI大手の市場上場への動きが本格化している。",
     "details": [
-      "イスラエルのネタニヤフ首相がイランへの大規模な報復攻撃を計画していたものの、トランプ米大統領による直接の説得を受けて攻撃を断念したことが明らかになりました。",
-      "中東における全面戦争の危機が一時的に回避された形ですが、依然として緊張は極めて高く、原油価格の急騰や世界市場の混乱など地政学的リスクが世界経済に影を落としています。",
-      "トランプ政権による外交的介入の実効性と、イラン・イスラエル両国が今後提示する停戦条件の進展、およびホルムズ海峡の安全確保に向けた国際社会の動きが注目されます。"
+      "OpenAIが米国証券取引委員会（SEC）に対し、新規株式公開（IPO）の申請書を非公開で提出した。同社は直近で1,100億ドルを調達し、評価額は8,400億ドルに達している。",
+      "膨大なAI開発コストを賄うため、非営利主導の複雑な組織構造からパブリック・ベネフィット・コーポレーション（公益法人）への移行を進める中での上場申請となる。競合のAnthropicに続くこの動きは、AIスタートアップの資金調達環境を大きく変え、市場におけるAIバブル懸念と期待の双方を刺激する。",
+      "今後は、筆頭投資家であるMicrosoftとのレベニューシェア契約の行方や、上場時の具体的な評価額、そして一般投資家への株式公開スケジュールが注目される。"
     ],
     "sources": [
       {
-        "name": "CNN",
-        "url": "https://www.cnn.com/2026/06/08/world/video/cncpm-trump-netanyahu-barak-ravid"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/technology/openai-files-us-ipo-after-anthropic-ai-giants-head-public-markets-2026-06-08/"
       }
     ],
     "importance": "critical",
     "socialImpact": 90,
-    "novelty": 80,
+    "novelty": 85,
     "confidence": 95,
-    "priorityReason": "中東情勢の緊迫化と米国の外交介入を示す重要ニュース。",
+    "priorityReason": "OpenAIの上場申請は市場に極めて大きな影響を与えるため。",
     "rankScore": 90,
     "rankTier": "S",
     "ageDays": 1,
@@ -28,13 +28,91 @@
     "summaryLevel": "deep"
   },
   {
-    "id": "news_20260608_ntt_iown_fund",
-    "category": "Business",
-    "title": "NTT、次世代光ネットワーク「IOWN」とAI開発支援へ5億ドル規模のファンド設立へ",
+    "id": "apple-wwdc-siri-ai-gemini-20260608",
+    "category": "Model",
+    "title": "アップルがWWDC 2026で「Siri AI」を発表、GoogleのGeminiと共同開発",
     "date": "2026/06/08",
-    "summary": "NTTが次世代光技術「IOWN」の普及とAI開発を加速させるため、約5億ドル規模の投資ファンドを準備していることが判明した。韓国SKグループや台湾の中華電信、日本政策投資銀行なども参画する見通し。",
+    "summary": "アップルはWWDC 2026にて、GoogleのGeminiモデルを統合した新しい「Siri AI」を発表した。オンデバイスとプライベートクラウドを組み合わせたハイブリッド構成で、マルチモーダルな複雑な推論やアプリを跨…",
     "details": [
-      "通信大手のNTTが、次世代の光・無線ネットワーク技術「IOWN」の商用エコシステム拡大とAI開発を支援するため、約5億ドル規模の投資ファンド「IOWN AI Fund」の設立を準備していることが報じられました。このファンドには、韓国のSKグループ、台湾の中華電信、日本政策投資銀行がパートナーとして参画する予定であり、北米、アジア、欧州のスタートアップを対象に投資を行うことで、従来の電子処理に代わるオールフォトニクスネットワークの構築を世界規模で加速させる…"
+      "アップルは年次開発者会議「WWDC 2026」において、Googleとの提携に基づき開発された新しい「Siri AI」および「Apple Intelligence」の機能を発表した。この新アーキテクチャは、オンデバイス処理とPrivate Cloud Computeを組み合わせたハイブリッド型で動作し、ユーザーのプライバシーを最優先にしながら、マルチモーダルな画像理解や複雑なタスクの実行を可能にする。これにより、ユーザーは写真から栄養情報を推定したり、ア…"
+    ],
+    "sources": [
+      {
+        "name": "MediaPost",
+        "url": "https://www.mediapost.com/publications/article/415625/apple-announces-siri-ai-based-on-google-collabor.html"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 80,
+    "confidence": 90,
+    "priorityReason": "AppleとGoogleの強力なAI提携が正式発表されたため",
+    "rankScore": 81,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 2,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news_002",
+    "category": "Model",
+    "title": "Apple、外部AIモデルの統合を容易にする開発者向け新フレームワークを発表",
+    "date": "2026/06/08",
+    "summary": "Appleは、開発者が自社アプリにAppleやGoogle Gemini、ClaudeなどのAIモデルを容易に統合できる新しいフレームワークと、オンデバイス実行を最適化する「Core AI」を発表した。",
+    "details": [
+      "Appleは、開発者が自社アプリ内に高度なAI機能を柔軟に組み込めるよう、単一のネイティブSwift APIを介してApple独自の基盤モデルやGoogleのGemini、AnthropicのClaudeなどを呼び出せる新しいフレームワークを発表した。さらに、Apple Siliconの統合メモリとNeural Engineに最適化された「Core AI」フレームワークにより、ローカル環境での大規模言語モデル（LLM）の効率的な実行が可能になる。"
+    ],
+    "sources": [
+      {
+        "name": "Financial Times",
+        "url": "https://markets.ft.com/data/announce/detail?dockey=600-202606081700BIZWIRE_USPRX____20260608_BW093428-1"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 80,
+    "confidence": 90,
+    "priorityReason": "AppleのAIエコシステム開放と開発者支援の具体策を示すため。",
+    "rankScore": 81,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 3,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "google-notebooklm-gemini-upgrade-20260608",
+    "category": "Service",
+    "title": "GoogleのNotebookLMが大幅刷新、Gemini 3.5とAntigravityを搭載",
+    "date": "2026/06/08",
+    "summary": "Googleは、AIノート作成ツール「NotebookLM」に最新のGemini 3.5モデルとコーディングツール「Antigravity」を導入する大規模アップデートを発表した。コード実行機能や多様なファイル形式への…",
+    "details": [
+      "Googleは、ドキュメント分析・要約サービス「NotebookLM」の基盤モデルを最新の「Gemini 3.5」に移行し、さらにコーディング支援技術「Antigravity」を統合する大規模なアップデートを公開した。このアップデートにより、各ノートブック内に安全なクラウドコンピューティング環境が提供され、NotebookLMが自らコードを記述・実行して複雑なデータセットの解析やグラフ作成を行えるようになる。また、ExcelやPowerPoint、画像な…"
+    ],
+    "sources": [
+      {
+        "name": "9to5Google",
+        "url": "https://9to5google.com/2026/06/08/notebooklm-gemini-3-5-antigravity/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 85,
+    "confidence": 95,
+    "priorityReason": "NotebookLMがコード実行機能を備え、分析ツールとして進化",
+    "rankScore": 78,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 4,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "ntt-iown-ai-fund-20260608",
+    "category": "Business",
+    "title": "NTTが約5億ドルの「IOWN AIファンド」を設立へ、光電融合技術を支援",
+    "date": "2026/06/08",
+    "summary": "NTTが、次世代光通信規格「IOWN」とAI開発を支援するため、約5億ドル（約780億円）規模の投資ファンドを今月末に設立することが明らかになった。韓国SKグループや台湾の中華電信、日本の主要金融機関などが参画する。",
+    "details": [
+      "NTTは、光技術を用いた次世代ネットワーク構想「IOWN（アイオン）」の商業エコシステム拡大と、それを支えるAIインフラ開発を加速させるため、約5億ドル規模の「IOWN AIファンド」を今月末に設立する。このファンドには、韓国のSKグループ、台湾の中華電信、日本政策投資銀行のほか、ソニーや東芝、メガバンク各行など多数 of 企業が参画を予定している。北米、アジア、欧州のスタートアップを対象に、光電融合技術やAI半導体、IOWNネイティブなAIモデルの開発…"
     ],
     "sources": [
       {
@@ -43,167 +121,89 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
-    "novelty": 85,
+    "socialImpact": 70,
+    "novelty": 75,
     "confidence": 90,
-    "priorityReason": "NTT主導の国際アライアンスによる次世代インフラ投資。",
-    "rankScore": 78,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 2,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news_20260608_asia_tech_selloff",
-    "category": "Economy",
-    "title": "アジアのテック株が大幅続落、ソフトバンクGは7.5%急落しAIバブルへの警戒感強まる",
-    "date": "2026/06/08",
-    "summary": "米国の利上げ懸念や半導体大手Broadcomの決算未達を受け、アジア市場でAI関連株の売りが加速した。ソフトバンクグループが7.5%急落したほか、韓国サムスンや台湾TSMCなども軒並み下落した。",
-    "details": [
-      "米国の好調な雇用統計に伴う利上げ懸念と、半導体大手Broadcomの決算が市場予想に届かなかったことをきっかけに、これまで市場を牽引してきたAI関連株への警戒感が強まり、アジアの主要テック株が軒並み急落しました。日本市場ではソフトバンクグループが7.5%下落したほか、韓国のサムスン電子が5%、台湾のTSMCが2.1%下落するなど、アジアの主要ハイテク指数を大きく押し下げる結果となり、過熱していたAI投資への健全な調整局面かどうかが議論されています。"
-    ],
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/08/softbank-samsung-tech-ai-stocks-asia-fall.html"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "世界的なAI関連株の下落トレンドと市場への影響を解説。",
-    "rankScore": 78,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 3,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news_20260608_gsdf_hvgp",
-    "category": "Policy",
-    "title": "陸上自衛隊、島嶼防衛用の新型兵器「島嶼防衛用高速滑空弾」の発射機を初公開",
-    "date": "2026/06/08",
-    "summary": "陸上自衛隊は、静岡県の東富士演習場で行われた実戦的演習において、今年配備されたばかりの「島嶼防衛用高速滑空弾（HVGP）」の移動式発射機を初めて報道陣に公開した。",
-    "details": [
-      "陸上自衛隊は、静岡県の東富士演習場で開催された年次の実弾射撃演習において、日本の反撃能力（敵基地攻撃能力）の柱となる「島嶼防衛用高速滑空弾（HVGP）」の移動式発射機（ランチャー）を初めて一般および報道陣に公開しました。この兵器は、高高度まで打ち上げられた後に超音速で滑空して標的を破壊するものであり、周辺国への抑止力を高めるための防衛力強化の一環として今年配備されたばかりの最新装備です。"
-    ],
-    "sources": [
-      {
-        "name": "Myanmar International TV",
-        "url": "https://www.myanmaritv.com/news/japans-ground-self-defense-force-unveils-hyper-speed-gliding-weapon-system"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "日本の防衛装備の最新動向と抑止力強化の実態。",
-    "rankScore": 78,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 4,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news_20260608_ai_sovereign_fund",
-    "category": "Policy",
-    "title": "米国で議論される「AI主権国家ファンド」構想、専門家が政府と企業の融合リスクを警告",
-    "date": "2026/06/08",
-    "summary": "トランプ大統領やサンダース上院議員が提唱する「AI主権国家ファンド」構想に対し、専門家は政府と企業の過度な融合がもたらす経済的・地政学的リスクを警告しており、国民への還元方法を巡る議論が活発化している。",
-    "details": [
-      "米国ではトランプ大統領やバーニー・サンダース上院議員が国民への還元を目指す「AI主権国家ファンド」の設立を議論しているが、シンクタンクの専門家は政府とAI企業の過度な融合がもたらす地政学的・経済的リスクを指摘している。"
-    ],
-    "sources": [
-      {
-        "name": "The Washington Post",
-        "url": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/06/08/ai-tech-brief-an-ai-sovereign-fund/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "AI主権ファンドの是非とリスクを学ぶ",
-    "rankScore": 78,
+    "priorityReason": "NTTが東アジアの巨頭と組み、次世代光AIインフラへ巨額投資",
+    "rankScore": 75,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_20260608_japan_shareholder_proposals",
-    "category": "Business",
-    "title": "日本企業への株主提案が過去最高の139件に、アクティビストの攻勢強まる",
+    "id": "news_003",
+    "category": "Economy",
+    "title": "日本の1-3月期GDP改定値は年率1.8%増に下方修正、利上げ期待は維持",
     "date": "2026/06/08",
-    "summary": "6月の株主総会に向け、アクティビストから日本企業への提案数が過去最高の139件に達した。東証による資本効率改善要求や、役員解任を求める海外投資家の動きが活発化している。",
+    "summary": "日本の2026年1-3月期の実質GDP改定値は、速報値の年率2.1%増から1.8%増へ下方修正された。しかし、緩やかな景気回復軌道は維持されており、市場では日銀による追加利上げへの期待が依然として根強い。",
     "details": [
-      "三菱UFJ信託銀行のまとめによると、今年6月の株主総会に向けてアクティビスト（物言う株主）が日本企業に提出した株主提案数が、過去最高の139件に達したことが明らかになりました。東京証券取引所による株価や資本効率の改善要求を背景に、海外投資家を中心とした提案が活発化しており、特に経営陣の退任や取締役の選任を求める提案が前年の14件から19件に増加するなど、日本企業のガバナンス改革に対する圧力が一段と強まっています。"
+      "内閣府が発表した2026年1-3月期の実質国内総生産（GDP）改定値は、速報値の年率換算2.1%増から1.8%増へとやや下方修正されたものの、日本経済が回復基調にあるという見方は変わっていない。この結果を受けて市場関係者の間では、日銀が為替の安定やインフレ抑制を目的に、近いうちに追加利上げに踏み切るとの観測が維持されている。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/legal/government/japanese-firms-field-record-proposals-activists-this-years-shareholder-meetings-2026-06-08/"
+        "name": "The Wall Street Journal",
+        "url": "https://www.wsj.com/economy/global/japan-rate-hike-hopes-intact-despite-growth-miss-64a2c8c8"
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
-    "novelty": 75,
+    "socialImpact": 75,
+    "novelty": 60,
     "confidence": 95,
-    "priorityReason": "日本企業のガバナンス変革と株主総会の最新動向。",
-    "rankScore": 75,
+    "priorityReason": "日本の金融政策と景気動向を占う上で重要な指標であるため。",
+    "rankScore": 74,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 6,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_20260608_rbi_rate_hike",
+    "id": "bank-indonesia-rate-hike-20260609",
     "category": "Economy",
-    "title": "ゴールドマン・サックス、インフレ懸念でインド中銀が10月に利上げ開始と予測",
-    "date": "2026/06/08",
-    "summary": "ゴールドマン・サックスは、インドのインフレ率が2026年後半に最大6%まで上昇するリスクを指摘し、インド準備銀行（RBI）が早ければ8月、遅くとも10月までに利上げサイクルを開始するとの見通しを示した。",
+    "title": "インドネシア中銀が予想外の利上げ、通貨ルピア防衛へ",
+    "date": "2026/06/09",
+    "summary": "インドネシア中央銀行は、通貨ルピアの急落を阻止するため、臨時の会合でベンチマーク金利を25ベーシスポイント引き上げ5.50%にすることを発表した。あわせて、外国人投資を誘致するための追加措置も導入する。",
     "details": [
-      "ゴールドマン・サックスのチーフ・インド・エコノミストであるサンタヌ・セングプタ氏は、現在低水準にあるインドのインフレ率が第3四半期に約5%、第4四半期には最大6%に達する見込みであることから、インド準備銀行（RBI）が8月から10月の間に利上げサイクルに踏み切る可能性が高いと指摘した。"
+      "インドネシア中央銀行（Bank Indonesia）は、複数の逆風によって下落圧力を受けている自国通貨ルピアを安定させるため、予定外の臨時決定として政策金利を25ベーシスポイント引き上げ、5.50%とすることを発表した。このサプライズ利上げに加え、中銀は外国人投資家を呼び込むためのインセンティブ制度などの追加対策も公表し、資本流出の抑制と通貨防衛に全力を挙げる姿勢を示した。"
     ],
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/video/2026/06/08/rbi-likely-to-embark-on-hiking-cycle-by-october-goldman-sachs.html"
+        "name": "The Wall Street Journal",
+        "url": "https://www.wsj.com/economy/central-banking/bank-indonesia-surprises-with-rate-hike-to-stem-rupiah-bleeding-cfd4961c"
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
-    "novelty": 65,
+    "socialImpact": 65,
+    "novelty": 60,
     "confidence": 95,
-    "priorityReason": "新興国市場の金利動向とインフレ予測",
-    "rankScore": 74,
+    "priorityReason": "通貨急落を防ぐため、インドネシア中銀が予定外の利上げを断行",
+    "rankScore": 73,
     "rankTier": "A",
-    "ageDays": 1,
+    "ageDays": 0,
     "rank": 7,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_20260608_spain_middle_east",
-    "category": "Policy",
-    "title": "スペイン外相、緊迫する中東情勢に「軍事的解決策はない」と強調",
+    "id": "news_004",
+    "category": "Economy",
+    "title": "日本の投資家、5月に過去5年間で最大の外国株式売り越しを記録",
     "date": "2026/06/08",
-    "summary": "スペインのアルバレス外相はCNNのインタビューで、緊迫化する中東情勢について軍事的な解決策は存在しないと強調し、持続可能な和平の実現に向けた外交的対話と国際社会による和平プロセスの重要性を…",
+    "summary": "財務省のデータによると、日本の投資家は5月に外国株式を3.38兆円売り越し、過去5年間で最大規模となった。一方で、外国債券には2.9兆円を投資しており、安全資産へのシフトが見られる。",
     "details": [
-      "スペインのホセ・マヌエル・アルバレス外相はCNNのインタビューに応じ、イランやイスラエルを巡る中東の戦闘激化に対し、軍事力による解決は存在しないと述べ、持続可能な和平に向けた外交努力を強く求めた。"
+      "財務省が発表した対外及び対内証券売買契約等の状況によると、日本の信託勘定などは5月に外国株式を3兆3,800億円売り越した。これは過去5年間で最大の売り越し規模であり、米国雇用統計の好調に伴う利下げ期待の後退やAI関連株の調整が背景にあるとみられる一方、外国債券には2兆9,000億円が流入しており、株式から債券への資金シフトが鮮明になっ…"
     ],
     "sources": [
       {
-        "name": "CNN",
-        "url": "https://www.cnn.com/2026/06/08/world/video/u-s-iran-israel-spanish-foreign-minister-jose-manuel-albares-live-guest-060802pseg1-cnni-world-fast?cid=external-feeds_iluminar_google"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/finance/japanese-investors-make-biggest-foreign-stock-exit-five-years-may-2026-06-08/"
       }
     ],
     "importance": "medium",
-    "socialImpact": 85,
-    "novelty": 50,
-    "confidence": 95,
-    "priorityReason": "緊迫する中東情勢への外交的視点を示す",
-    "rankScore": 68,
+    "socialImpact": 70,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "日本の機関投資家による大規模な資金シフトの動向を示すため。",
+    "rankScore": 67,
     "rankTier": "B",
     "ageDays": 1,
     "rank": 8,
