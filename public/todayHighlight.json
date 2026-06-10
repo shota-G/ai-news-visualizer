@@ -1,42 +1,50 @@
 [
   {
-    "id": "news-001",
-    "category": "Business",
-    "title": "OpenAIが秘密裏にIPOを申請、Anthropicとの上場競争が本格化",
-    "date": "2026/06/09",
-    "summary": "ChatGPTを開発するOpenAIが、米証券取引委員会（SEC）に秘密裏に新規公開株（IPO）の申請書類を提出した。先行して申請した競合のAnthropicや、今週上場予定のSpaceXに続き、AI超大手の株式公開に向けた動きが加速している。",
+    "id": "anthropic-fable-5-release",
+    "category": "Model",
+    "title": "Anthropicが超高性能AIモデル「Fable 5」を一般公開、強力なハッキング能力を持つ「Mythos」の安全版",
+    "date": "2026/06/10",
+    "summary": "Anthropicは、極めて高いサイバーセキュリティ能力を持つ「Mythos」クラスの技術をベースにした新モデル「Fable 5」を一般公開した。インフラへのハッキングや生物兵器などの危険な用途をブロックする安全対策が施されている。",
     "details": [
-      "ChatGPTを運営するOpenAIが、米証券取引委員会（SEC）に対して秘密裏に新規公開株（S-1）の申請を行ったことが明らかになった。同社は具体的な上場時期を決定していないとしているが、先行してIPOを申請した競合のAnthropicや、今週金曜日に市場デビューを控えるSpaceX（xAIを内包）に続く形となる。",
-      "この動きは、AI業界の巨頭たちが莫大なインフラ投資資金を確保するために、パブリック市場へのアクセスを本格化させていることを示している。時価総額が数千億ドル規模に達するこれら企業のIPOは、AIバブルの真価を問う試金石となり、ウォール街からの厳しい収益性への監視に直面することになる。",
-      "今後は、各社が公開する目論見書（S-1）に記載される監査済みの粗利益率や、持続可能な収益モデルがどのように評価されるかが焦点となる。また、先行するSpaceXの株価推移が、OpenAIやAnthropicの価格設定に与える影響が注目される。"
+      "AIスタートアップのAnthropicは、同社で最も先進的な「Mythos」クラスの技術を基盤とした新モデル「Fable 5」を一般向けにリリースしました。このモデルは、ソフトウェア開発や科学研究、画像分析などで過去最高の性能を示す一方、サイバー攻撃や生物化学兵器などの危険なタスクへの利用を制限する強力なガードレールが備えられています。",
+      "このリリースは、高度なAIがもたらす国家安全保障上のリスクと、市場での競争激化のバランスを象徴しています。米国政府が先端AIモデルの事前審査を求める大統領令を署名した直後の公開であり、ハッキング能力を持つAIの一般普及に対する規制当局やセキュリティ業界の懸念を和らげつつ、競合のOpenAIなどに対抗する狙いがあります。",
+      "今後は、制限が解除された「Mythos 5」モデルへのアクセスが許可される政府機関や厳選されたインフラ事業者による共同検証の進捗と、一般開発者による「Fable 5」の活用事例や安全性への評価が注目されます。"
     ],
     "sources": [
       {
-        "name": "CNN",
-        "url": "https://www.cnn.com/2026/06/09/tech/openai-ipo-anthropic-wall-street"
+        "name": "iTnews",
+        "url": "https://www.itnews.com.au/news/anthropic-releases-mythos-class-model-for-public-use-626507?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Security+feed"
+      },
+      {
+        "name": "Politico",
+        "url": "https://www.politico.com/news/2026/06/09/anthropic-makes-mythos-level-ai-model-available-to-the-public-00954829"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/tech/security/fable-5-anthropic-release-public-mythos-claude-model-rcna349104"
       }
     ],
     "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 85,
+    "socialImpact": 85,
+    "novelty": 90,
     "confidence": 95,
-    "priorityReason": "AI業界の勢力図と市場資金の流れを決定づける極めて重要な動き。",
-    "rankScore": 90,
+    "priorityReason": "最先端AIのハッキングリスクと安全対策の最前線を示すため。",
+    "rankScore": 92,
     "rankTier": "S",
-    "ageDays": 1,
+    "ageDays": 0,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "news-001",
+    "id": "openai-ipo-filing-2026",
     "category": "Business",
-    "title": "OpenAIが米IPOを非公開申請、Anthropicに続きAI巨頭が株式公開へ",
+    "title": "OpenAIが米IPOを非公開申請、AI巨頭のパブリック市場進出が本格化",
     "date": "2026/06/08",
-    "summary": "OpenAIが米証券取引委員会（SEC）に対し、新規株式公開（IPO）を非公開で申請したことが明らかになった。先行して申請した競合のAnthropicを追う形となり、巨額の資金調達を目指すAI業界の競争は新たな局面を迎える。",
+    "summary": "OpenAIが米SECに対し、新規株式公開（IPO）に向けた申請書を非公開で提出した。競合のAnthropicに続く動きであり、ChatGPTの週次アクティブユーザー数が9億人を超える中、巨額のAI開発資金を市場から調達する狙いがある。",
     "details": [
-      "人工知能（AI）開発の先駆者であるOpenAIが、米国での新規株式公開（IPO）に向けて非公開でS-1申請を行った。同社は今年初めに1100億ドルを調達し、評価額は8400億ドルに達している。今回の申請は、競合のAnthropicがIPOを申請した直後に行われたものであり、両社による市場での資金調達レースが本格化している。",
-      "AIモデルの開発やインフラ維持には天文学的なコストがかかるため、プライベート市場だけでなくパブリック市場からの巨額資金調達が不可欠となっている。今回のIPOは、AI分野が世界の株式市場における最大の投資テーマであることを決定づけるものであり、テック業界全体の勢力図や評価基準を大きく塗り替える可能性がある。",
-      "今後は、具体的な上場時期や公開価格の設定、および最大株主であるMicrosoftとの提携関係の再交渉内容がどのように開示されるかが注視される。また、先行するSpaceXやAnthropicの上場プロセスが市場に与える影響も重要な指標となる。"
+      "ChatGPTを運営するOpenAIが、米証券取引委員会（SEC）に対し、新規株式公開（IPO）に向けた申請書（S-1）を非公開で提出したことが明らかになった。同社は今年初めに評価額8400億ドルで1100億ドルの資金調達を計画していると報じられていた。",
+      "この上場申請は、先行してIPOを申請した競合のAnthropicや、今月上場を控えるSpaceX（xAIを内包）に続くものであり、AI業界の資金調達がプライベートからパブリック市場へと移行する歴史的転換点となる。莫大なインフラコストを賄うための必然的な動きであり、市場全体のAI企業評価を決定づける。",
+      "今後は、具体的な上場時期や調達規模、そして非営利部門と営利部門の複雑なガバナンス構造の再編プロセスがどのように進むかが最大の注目点となる。"
     ],
     "sources": [
       {
@@ -48,7 +56,7 @@
     "socialImpact": 95,
     "novelty": 90,
     "confidence": 95,
-    "priorityReason": "AI業界の覇権を握る巨頭の上場申請は市場に最大の影響を与えるため。",
+    "priorityReason": "AI業界の覇権を争う巨頭の上場申請は市場に最大級の影響を与えるため。",
     "rankScore": 90,
     "rankTier": "S",
     "ageDays": 2,
@@ -56,13 +64,13 @@
     "summaryLevel": "deep"
   },
   {
-    "id": "news-007",
+    "id": "china-inc-quiet-layoffs",
     "category": "Ethics",
-    "title": "中国企業、AI導入に伴う「静かなレイオフ」で大規模削減を回避か",
+    "title": "中国企業、大量解雇規制を避けるためAI導入に伴う「静かなレイオフ」を拡大",
     "date": "2026/06/10",
-    "summary": "中国のIT企業などが、AIツールの急速な普及に伴い、契約社員を中心に「静かな人員削減」を進めている。厳しい労働法や社会不安の発生による政治的リスクを避けるため、政府の承認が必要となる10%以上の大規模な一斉解雇を意図的…",
+    "summary": "中国のテック企業などが、AIツールの導入により業務を効率化する一方で、大量解雇に対する政府の厳しい規制や社会的混乱を避けるため、契約社員の削減や新規採用の抑制といった「静かなレイオフ」を進めている。",
     "details": [
-      "中国ではAIエージェントなどの導入が急速に進んでおり、マーケティングやフロントエンド業務がAIに置き換わりつつある。しかし、10%を超える人員削減には政府の承認が必要であり、また「社会的不安定」を嫌う当局の意向を反映し、企業は一斉解雇ではなく、契約非更新や新規採用の抑制といった段階的かつ小規模な「静かなレイオフ」を選択している。AIの普及が雇用創出を上回り、若者の失業懸念が高まる中での苦肉の策と言える。"
+      "中国の労働法では、全従業員の10%を超える人員削減には政府の承認が必要であり、AI代替による解雇を無効とする判例も出ています。このため、中国企業は社会的不安や政治的リスクを回避しつつAIによる生産性向上を達成するため、契約社員の静かな削減や新卒採用の縮小という形で、段階的かつ目立たない人員整理を進めており、若年層の雇用不安をさらに高める要因となっています。"
     ],
     "sources": [
       {
@@ -71,128 +79,24 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "AI普及がもたらす雇用の変化と中国特有の労働市場の歪み。",
-    "rankScore": 82,
+    "socialImpact": 82,
+    "novelty": 78,
+    "confidence": 90,
+    "priorityReason": "AI普及が雇用に与える影響と、中国特有の規制回避の動きを示すため。",
+    "rankScore": 81,
     "rankTier": "A",
     "ageDays": 0,
     "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "news-004",
-    "category": "Economy",
-    "title": "マレーシア、日本へのLNGとナフサの最大限の供給継続を約束へ",
-    "date": "2026/06/10",
-    "summary": "マレーシアのアンワル首相と日本の高市早苗首相が首脳会談を行い、日本への液化天然ガス（LNG）とナフサの最大限の供給を約束する共同声明を発表する見通し。中東情勢の緊迫化によるエネルギー不足懸念に対応し、調達先の多角化を図…",
-    "details": [
-      "中東のホルムズ海峡を巡る緊張の高まりから、日本のエネルギー供給に懸念が生じる中、日本にとって第2位 of LNG供給国であるマレーシアとの首脳会談が東京で開催される。両首脳は、LNGおよび石油化学原料であるナフサの最大限 of 供給を約束するほか、中国の輸出規制を念頭に置いたレアアースなどの経済安全保障分野や、原子力発電技術、AI政策における協力についても議論し、共同声明として文書化する予定である。"
-    ],
-    "sources": [
-      {
-        "name": "KITCO (Reuters)",
-        "url": "https://www.kitco.com/news/off-the-wire/2026-06-09/malaysia-promise-japan-maximum-possible-lng-and-naphtha-supplies"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 70,
-    "confidence": 90,
-    "priorityReason": "中東緊迫化に伴う日本のエネルギー安全保障の重要な一手。",
-    "rankScore": 81,
-    "rankTier": "A",
-    "ageDays": 0,
-    "rank": 4,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news-002",
-    "category": "Business",
-    "title": "脱Nvidiaを掲げるクラウドスタートアップTensorWave、15.5億ドルの評価額で資金調達",
-    "date": "2026/06/10",
-    "summary": "Nvidiaの独占に対抗するクラウドコンピューティングスタートアップのTensorWaveが、新たに3億5000万ドルを調達し、評価額が15億5000万ドルに達した。同社はNvidia製GPUを一切使わず、AMD製チッ…",
-    "details": [
-      "ラスベガスを拠点とするクラウドスタートアップのTensorWaveは、NvidiaによるAIインフラ市場の独占が競争を阻害していると懸念し、同社製品を一切使用しない方針を掲げている。今回調達した3億5000万ドルは、出資元でもあるAMD製のAIチップを導入し、データセンターの容量を拡大するために使用される。Nvidia一強の市場において、AMD製チップを主軸とした代替インフラの需要が高まっていることを示す象徴的な事例となった。"
-    ],
-    "sources": [
-      {
-        "name": "WSJ",
-        "url": "https://www.wsj.com/tech/ai/anti-nvidia-data-center-startup-is-valued-at-1-55-billion-in-new-funding-round-e58b2aec"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "Nvidia一強のAI半導体市場における競争促進の動きを示す。",
-    "rankScore": 80,
-    "rankTier": "A",
-    "ageDays": 0,
-    "rank": 5,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news-005",
-    "category": "Economy",
-    "title": "ソフトバンクグループ株が10%急落、OpenAI株担保の融資交渉難航報道で",
-    "date": "2026/06/10",
-    "summary": "10日の東京株式市場でソフトバンクグループの株価が一時10%急落した。同社が保有するOpenAI株を担保に少なくとも60億ドルを調達する融資交渉が難航しているとの報道や、米国のテック株安が嫌気され、アジアの半導体・テッ…",
-    "details": [
-      "ソフトバンクグループはOpenAI株を担保にしたマージンローンにより少なくとも60億ドルの資金調達を模索していたが、この交渉が難航していると報じられたことで投資家心理が悪化した。さらに、米国市場でのAI関連株の過熱感に対する懸念からテック株の売りが波及し、韓国のサムスン電子やSKハイニックスなどアジアの主要半導体・IT銘柄も軒並み大幅安となるなど、AI主導の市場ラリーに一時的な冷や水が浴びせられた形となった。"
-    ],
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/10/softbank-samsung-skhynix-asia-tech-stocks-ai-ipo.html"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "ソフトバンクの資金調達動向とアジアのテック株急落の背景。",
-    "rankScore": 80,
-    "rankTier": "A",
-    "ageDays": 0,
-    "rank": 6,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news-006",
-    "category": "Policy",
-    "title": "米下院、重要鉱物の中国依存を脱却する「DOMINANCE法案」を可決",
-    "date": "2026/06/09",
-    "summary": "米下院は、重要鉱物のサプライチェーンにおける中国への依存を減らし、同盟国との連携を強化するための超党派法案「DOMINANCE法案」を可決した。中国が世界のレアアース加工の約9割を支配する現状に対抗し、エネルギー安全保…",
-    "details": [
-      "米国下院で可決された「DOMINANCE法案（H.R. 7037）」は、クリーンエネルギーやハイテク産業に不可欠な重要鉱物の調達において、中国による輸出制限や経済的威圧に対抗することを目指している。法案は、米国内の採掘・加工能力の拡大を推進するだけでなく、信頼できる同盟国やパートナー国との外交・経済的協力を緊密化し、戦略的投資を動員することで、強靭なサプライチェーンを構築することを規定している。"
-    ],
-    "sources": [
-      {
-        "name": "Mining.com",
-        "url": "https://www.mining.com/the-us-passes-dominance-act-for-critical-minerals-security/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "米国の対中重要鉱物サプライチェーン戦略の法制化の進展。",
-    "rankScore": 80,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 7,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news-002",
+    "id": "apple-wwdc-ai-frameworks-2026",
     "category": "Model",
-    "title": "Apple、WWDCで新たなAIフレームワーク「Core AI」と開発者ツールを発表",
+    "title": "AppleがWWDCで新AI開発ツール発表、GeminiやClaudeとの連携を容易に",
     "date": "2026/06/08",
-    "summary": "AppleはWWDCにて、デバイス上で大規模言語モデル（LLM）を効率的に実行するための新フレームワーク「Core AI」や、GoogleのGeminiと連携した次世代基盤モデルフレームワークを発表し、アプリ開発におけ…",
+    "summary": "AppleはWWDC 2026にて、アプリ開発を加速させる新しいインテリジェンスフレームワークを発表した。開発者はデバイス上での高度なモデル実行に加え、GoogleのGeminiやAnthropicのClaudeなどの…",
     "details": [
-      "Appleは開発者会議（WWDC）において、Apple SiliconのユニファイドメモリとNeural Engineに最適化された新しいフレームワーク「Core AI」を発表した。これにより開発者はデバイス上でローカルにフルスケールのLLMを実行可能になるほか、GoogleのGemini等と共同開発した次世代基盤モデルをSwift API経由で容易に統合できるようになる。"
+      "Appleは開発者会議において、アプリ開発を加速させる新しいインテリジェンスフレームワークを発表した。Swift APIを通じてデバイス上およびクラウド上のモデルを統合的に扱えるほか、App Storeのスモールビジネスプログラム対象者にはPrivate Cloud Computeを無償提供し、GeminiやClaudeなどの外部LLMも容易に組み込めるプロトコルを導入することで、エコシステム内でのAIアプリ開発を強力に支援する。"
     ],
     "sources": [
       {
@@ -204,21 +108,21 @@
     "socialImpact": 88,
     "novelty": 85,
     "confidence": 90,
-    "priorityReason": "AppleのエコシステムにおけるAI開発環境の劇的な進化を示すため。",
+    "priorityReason": "AppleのAI戦略と外部モデルとの連携方針が明確になったため。",
     "rankScore": 80,
     "rankTier": "A",
     "ageDays": 2,
-    "rank": 8,
+    "rank": 4,
     "summaryLevel": "standard"
   },
   {
-    "id": "news-005",
-    "category": "Business",
-    "title": "自己改善型AI開発のRecursive、元Meta科学者ら率い6億5000万ドルを調達",
+    "id": "recursive-self-improving-ai-funding",
+    "category": "Model",
+    "title": "元Meta研究者らのRecursive、自己改善型AI開発に6億5000万ドル調達",
     "date": "2026/06/07",
-    "summary": "元Metaの科学者Tian氏やYou.com創業者のSocher氏らが率いるAIスタートアップ「Recursive」が、6億5000万ドルの資金調達を実施した。AI自身がAIを研究・開発する「自己改善型AI」の実現を目…",
+    "summary": "元MetaのAI研究者Tian氏らが率いるRecursiveは、AI自身がAIを開発する「自己改善型AI」の実現に向け、6億5000万ドルの資金を調達した。人間を介さない自律的なモデル開発ループの構築を目指す。",
     "details": [
-      "元Metaの科学者であるTian氏や、元SalesforceチーフサイエンティストのRichard Socher氏ら著名な研究者が共同創業したRecursiveは、6億5000万ドルの資金を調達した。同社は、人間による設計やデータラベリングに頼らず、システム自体が自律的に研究開発を自動化して性能を向上させる「自己改善ループ」を備えたAIモデルの開発を進めており、2026年中期に自律トレーニングシステムの公開を予定している。"
+      "元Metaの著名なAI研究者であるTian氏やYou.com創業者のRichard Socher氏らが共同設立したRecursiveは、AI研究開発自体を自動化する「自己改善型AI」の構築に向けて6億5000万ドルの資金調達を実施した。同社は、人間による手動のモデル設計やデータラベリングの限界を突破するため、クローズドな最適化ループを通じてモデルが自律的に次世代モデルを訓練するシステムの開発を進めており、2026年中頃の自律訓練システム公開を目指している。"
     ],
     "sources": [
       {
@@ -227,76 +131,106 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
+    "socialImpact": 80,
     "novelty": 92,
     "confidence": 90,
-    "priorityReason": "AIがAIを作る次世代技術への巨額投資トレンドを示す。",
-    "rankScore": 80,
+    "priorityReason": "AIがAIを作る「自己改善」技術への巨額投資トレンドを示すため。",
+    "rankScore": 79,
     "rankTier": "A",
     "ageDays": 3,
-    "rank": 9,
+    "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "news-004",
-    "category": "Policy",
-    "title": "トランプ米大統領、イランとイスラエルの「停戦」合意が間近と主張",
-    "date": "2026/06/08",
-    "summary": "トランプ米大統領は、イランとイスラエルが停戦を目指しており、合意が間近に迫っていると主張した。しかし、専門家は依然として重要な対立点が残されており、実際の合意形成には至っていないと指摘している。",
+    "id": "ai-trio-ipo-race",
+    "category": "Business",
+    "title": "OpenAIが秘密裏にIPOを申請、AnthropicやSpaceXに続く「1兆ドル規模」の上場ラッシュへ",
+    "date": "2026/06/09",
+    "summary": "OpenAIが米証券取引委員会（SEC）に秘密裏に新規公開株（IPO）の登録申請書を提出したことが明らかになった。先行して申請したライバルのAnthropicや、今週上場予定のSpaceXとともに、ウォール街史上最大の…",
     "details": [
-      "トランプ米大統領はオーバルオフィスからの発言などで、緊迫するイランとイスラエルの衝突について、両国が停戦に向けて動いており合意は近いと強調した。一方で、シンクタンク等の専門家は、米国や当事国が目標に近づいているものの、核心的な対立点（スティッキングポイント）が解決されておらず、楽観視はできないと分析している。"
+      "ChatGPTを開発するOpenAIが、ライバルのAnthropicに続いて秘密裏にIPO（新規公開株）の申請を行ったことが判明しました。今週金曜日にはイーロン・マスク氏率いるSpaceXの上場も控えており、AIインフラの巨額な構築コストを賄うため、未上場の巨大テック企業が相次いで公開市場からの資金調達へ舵を切っています。これにより、ウォール街は過去最大規模のAI市場の試練と評価の局面を迎えることになります。"
     ],
     "sources": [
       {
         "name": "CNN",
-        "url": "https://www.cnn.com/2026/06/08/world/video/iran-war-israel-pause-intv-tabrizi-fst-060809aseg-1-cnni-world-fast"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 90,
-    "novelty": 75,
-    "confidence": 90,
-    "priorityReason": "中東情勢の行方と原油市場・世界経済への影響が極めて大きいため。",
-    "rankScore": 79,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 10,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news-003",
-    "category": "Business",
-    "title": "Google、Anthropicの350億ドル規模のAIチップリース契約を保証",
-    "date": "2026/06/09",
-    "summary": "Googleが、AIスタートアップのAnthropicが5つのデータセンターで強力なAIチップをリースするための契約を保証したことが判明した。これによりAnthropicは実質的に350億ドル規模の融資を確保し、巨大テ…",
-    "details": [
-      "GoogleはAnthropicの初期からの投資家であるが、今回、同社がデータセンターでAIチップをリースする際の支払いを保証（バックストップ）する合意を結んでいたことが明らかになった。この保証により、Anthropicは実質的に350億ドル（約5.4兆円）にのぼる巨大な融資枠を確保したことになり、AIインフラの急速な拡張を支える資金調達において、巨大テック企業が果たす役割の大きさと、両社の緊密かつ複雑なビジネス関係が改めて示された。"
-    ],
-    "sources": [
+        "url": "https://www.cnn.com/2026/06/09/tech/openai-ipo-anthropic-wall-street"
+      },
       {
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-09/google-s-backstops-underpin-35-billion-chip-deal-for-anthropic"
+        "name": "Ynetnews",
+        "url": "https://www.ynetnews.com/business/article/b18fudu11fl"
       }
     ],
     "importance": "high",
     "socialImpact": 80,
     "novelty": 75,
     "confidence": 95,
-    "priorityReason": "巨大テックとAIスタートアップの巨額資金を巡る複雑な提携関係。",
+    "priorityReason": "巨大AI企業の株式公開が市場に与える影響が極めて大きいため。",
     "rankScore": 78,
     "rankTier": "A",
     "ageDays": 1,
-    "rank": 11,
+    "rank": 6,
     "summaryLevel": "standard"
   },
   {
-    "id": "news-003",
+    "id": "global-ai-debt-issuance-2026",
     "category": "Economy",
-    "title": "ソフトバンク孫正義氏、AIブームを背景に4年ぶり日本の富豪首位に返り咲き",
-    "date": "2026/06/08",
-    "summary": "フォーブス誌が発表した2026年版の日本の富豪ランキングで、ソフトバンクグループの孫正義会長兼社長が首位を奪還した。OpenAIへの巨額投資やAI関連株の高騰により、資産額は800億ドル（約184%増）に達した。",
+    "title": "2026年の世界AI関連債券発行額は5000億ドル突破へ、モルガン・スタンレー予測",
+    "date": "2026/06/10",
+    "summary": "モルガン・スタンレーは、巨大テック企業が巨額のAIインフラ投資（カペックス）を賄うため、2026年のAI関連の債券発行額が前年比2倍以上の約5700億ドルに達すると予測した。資金調達手段の多様化が進む。",
     "details": [
-      "フォーブスのアジア版が発表した「日本の富豪50人」2026年版において、ソフトバンクグループの創業者である孫正義氏が、資産額を前年から518億ドル増やして800億ドルとし、4年ぶりに首位に返り咲いた。これはOpenAIへの投資成功や、半導体製造装置メーカーのディスコなどAI関連銘柄の株価急騰が寄与したもので、日本市場におけるAIブームの恩恵を象徴している。"
+      "モルガン・スタンレーの予測によると、2026年のAI関連の世界的な債券発行額は、前年比で2倍以上となる約5700億ドルに達する見通しです。AlphabetやMicrosoftなどのハイパースケーラーが、AIデータセンターやチップ確保のための巨額の設備投資（カペックス）を賄うため、従来の豊富な手元資金だけでなく、外貨建て債券を含む多様な債券市場での資金調達を急増させていることが背景にあります。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/global-ai-debt-issuance-top-500-billion-2026-morgan-stanley-says-2026-06-10/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 72,
+    "confidence": 95,
+    "priorityReason": "AI投資の規模が金融市場の資金循環に与える影響を示すため。",
+    "rankScore": 77,
+    "rankTier": "A",
+    "ageDays": 0,
+    "rank": 7,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "us-dominance-act-passed",
+    "category": "Policy",
+    "title": "米下院、重要鉱物の脱中国依存を推進する「DOMINANCE Act」を可決",
+    "date": "2026/06/09",
+    "summary": "米国下院は、クリーンエネルギーやハイテク産業に不可欠な重要鉱物のサプライチェーンにおいて、中国への依存を減らし、同盟国との連携を強化するための超党派法案「DOMINANCE Act」を可決した。",
+    "details": [
+      "米国下院は、エネルギー安全保障の強化と重要鉱物サプライチェーンにおける中国依存の脱却を目指す超党派法案「DOMINANCE Act（H.R. 7037）」を可決しました。この法案は、信頼できる同盟国やパートナー国との連携を通じて、海外での鉱物投資を促進し、強靭な供給網を構築することを目的としており、ハイテク産業や防衛産業の基盤確保に向けた米国の地政学的戦略を前進させるものです。"
+    ],
+    "sources": [
+      {
+        "name": "Mining.com",
+        "url": "https://www.mining.com/the-us-passes-dominance-act-for-critical-minerals-security/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "ハイテク産業の生命線である重要鉱物の地政学的リスクに関わるため。",
+    "rankScore": 76,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 8,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "japans-richest-son-reclaims-top-2026",
+    "category": "Business",
+    "title": "日本の富豪ランキング、ソフトバンク孫正義氏がAIブームを背景に首位奪還",
+    "date": "2026/06/08",
+    "summary": "Forbes発表の2026年版「日本の富豪」ランキングで、ソフトバンクグループの孫正義氏が4年ぶりに首位に返り咲いた。OpenAIへの巨額投資やAI関連株の急騰を背景に、資産額は前年比18…",
+    "details": [
+      "世界的なAIブームと株価上昇を背景に、ソフトバンクグループの創業者である孫正義氏の資産が前年比184%増 of 800億ドル（約12.5兆円）に急増し、日本の富豪ランキングで4年ぶりにトップに返り咲いた。同社がChatGPT開発元のOpenAIへマルチビリオン規模の投資を行ったことや、半導体関連株のDiscoなどの急騰が、日本の富裕層の…"
     ],
     "sources": [
       {
@@ -304,15 +238,15 @@
         "url": "https://www.forbes.com/sites/phisanuphromchanya/2026/06/08/japans-50-richest-2026-softbanks-masayoshi-son-reclaims-top-spot-as-countrys-richest-person-amid-ai-boom/"
       }
     ],
-    "importance": "high",
-    "socialImpact": 80,
+    "importance": "medium",
+    "socialImpact": 75,
     "novelty": 70,
     "confidence": 95,
-    "priorityReason": "日本の産業界におけるAIシフトと資本移動の象徴的なニュース。",
-    "rankScore": 75,
-    "rankTier": "A",
+    "priorityReason": "AI投資の成功が日本の富の勢力図に与えた影響を示すため。",
+    "rankScore": 66,
+    "rankTier": "B",
     "ageDays": 2,
-    "rank": 12,
-    "summaryLevel": "standard"
+    "rank": 9,
+    "summaryLevel": "brief"
   }
 ]
