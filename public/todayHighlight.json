@@ -1,42 +1,42 @@
 [
   {
-    "id": "news_002",
-    "category": "Economy",
-    "title": "ECBが3年ぶり利上げへ、イラン情勢緊迫化による原油高と米インフレ加速が背景",
-    "date": "2026/06/11",
-    "summary": "欧州中央銀行（ECB）がイラン情勢に伴うエネルギー価格高騰を受けて利上げに踏み切る見通しとなった。米国でも5月の消費者物価指数（CPI）が前年比4.2%上昇し、世界的なインフレ懸念が強まっている。",
+    "id": "anthropic-policy-20260610",
+    "category": "Policy",
+    "title": "Anthropic、AIの経済影響研究に2億ドル拠出、CEOは政府規制を提唱",
+    "date": "2026/06/10",
+    "summary": "Anthropicは、AIが雇用や経済に与える影響を研究する基金に2億ドルを投じると発表。同時にダリオ・アモデイCEOは、強力なAIモデルのリリースを政府が阻止できる強制力のある規制や、ベーシックインカムの導入を提唱した。",
     "details": [
-      "欧州中央銀行（ECB）が約3年ぶりとなる利上げ（25ベーシスポイント）を行う見通しとなった。イラン情勢の緊迫化に伴う原油価格の高騰がユーロ圏のインフレを押し上げており、米国でも5月の消費者物価指数（CPI）が前年比4.2%と急上昇している。",
-      "この動きは、世界的な金融引き締めの長期化を示唆しており、市場に大きな影響を与える。エネルギーショックが広範なインフレに波及するリスクを抑え込むため、主要中銀が相次いでタカ派姿勢を強めており、景気後退懸念と市場のボラティリティが高まっている。",
-      "次に見るべき点は、ECB総裁の記者会見における追加利上げへの言及、来週に控える日本銀行の金融政策決定会合での利上げ判断、そして緊迫する中東情勢が原油供給やホルムズ海峡の通航に与える影響である。"
+      "AIスタートアップのAnthropicは、AIが労働市場や経済に及ぼす影響を調査する「経済未来研究基金」の設立に2億ドルを投資すると発表しました。同時に、同社のダリオ・アモデイCEOは個人エッセイを公開し、政府が危険なAIモデルの展開を阻止・抑止できる法的権限を持つべきだと主張しました。",
+      "この動きは、これまで自主的な安全性開示に留まっていたAI業界の自主規制路線からの大きな転換を意味します。AIの急速な進化がもたらす大量失業やサイバーセキュリティ、バイオ兵器などの壊滅的リスクに対し、航空機や医薬品と同等の厳格な政府監査と、ベーシックインカムなどの社会的セーフティネットの必要性を大手AI企業自らが公式に認めた形で、今後の政策議論に決定的な影響を与えます。",
+      "今後は、トランプ政権が先週署名したAI監視に関する大統領令との整合性や、議会における強制力のあるAI規制法案の具体化、そして他社（OpenAIなど）が同様の規制強化案に同調するかどうかが焦点となります。"
     ],
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/11/cnbc-daily-open-ecb-heads-for-a-hike-amid-iran-energy-price-pressures.html"
+        "name": "AP News",
+        "url": "https://apnews.com/article/anthropic-dario-amodei-ai-afeb5279eef406980dffa46ff91495e0"
       }
     ],
     "importance": "critical",
     "socialImpact": 90,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "世界的な金利上昇とインフレ再燃の引き金を解説。",
-    "rankScore": 90,
+    "novelty": 85,
+    "confidence": 100,
+    "priorityReason": "AI企業自らが強力な政府規制を求めた歴史的転換点。",
+    "rankScore": 91,
     "rankTier": "S",
-    "ageDays": 0,
+    "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "openai-ipo-filing-20260608",
+    "id": "openai-ipo-filing-2026",
     "category": "Business",
-    "title": "OpenAIが米IPOを非公開申請、Anthropicに続き株式公開へ",
+    "title": "OpenAIが米IPOを非公開申請、Anthropicに続きAI大手が株式公開へ",
     "date": "2026/06/08",
-    "summary": "OpenAIが米証券取引委員会（SEC）に対し、新規株式公開（IPO）に向けた申請を非公開で行ったことが明らかになった。競合のAnthropicやSpaceXに続く動きであり、AI業界の巨大企業による市場調達競争が本格化する。",
+    "summary": "OpenAIが米証券取引委員会（SEC）に対し、新規株式公開（IPO）に向けた申請書を非公開で提出した。競合のAnthropicに続く動きで、AI大手の市場上場への競争が本格化している。",
     "details": [
-      "人工知能（AI）開発の先駆者であるOpenAIが、米証券取引委員会（SEC）に対して新規株式公開（IPO）の非公開申請を行った。同社はこれまでにソフトバンクやAmazon、NVIDIAなどから多額の資金を調達しており、ChatGPTの週次アクティブユーザー数は9億人を超えている。",
-      "今回のIPO申請は、競合するAnthropicの申請に続くものであり、AIブームの評価額がパブリック市場で初めて本格的な試練にさらされることを意味する。巨額の開発・インフラコストを賄うための資金調達競争が激化しており、市場全体の資金循環やAI企業の適正評価に決定的な影響を与える。",
-      "今後は、具体的な上場時期や調達目標額、および非営利団体による支配構造からパブリック・ベネフィット・コーポレーション（公益法人）への移行プロセスの詳細が注目される。"
+      "OpenAIが、米証券取引委員会（SEC）に対して新規株式公開（IPO）に向けた登録届出書（S-1）を非公開で提出したことが明らかになった。これは競合のAnthropicがIPOプロセスを開始した直後の動きであり、ChatGPTの週次アクティブユーザー数が9億人を超える中での歴史的な決断となる。",
+      "このIPOは、莫大な開発コストを要する最先端AI分野において、民間資金調達からパブリック市場への移行を象徴している。Microsoftとの提携見直しや、AmazonやGoogleとの新たな協業体制の構築など、AI業界の勢力図や市場の投資テーマを大きく塗り替える可能性がある。",
+      "今後は、具体的な上場時期（今秋が有力視される）や、非営利団体による支配構造からパブリック・ベネフィット・コーポレーション（公益法人）への組織再編がどのように進むか、そして市場がその巨額の評価額をどのように消化するかが注視される。"
     ],
     "sources": [
       {
@@ -48,7 +48,7 @@
     "socialImpact": 95,
     "novelty": 90,
     "confidence": 100,
-    "priorityReason": "AI最大手OpenAIの上場申請は市場に極めて大きな影響を与えるため。",
+    "priorityReason": "AI業界最大の巨頭による歴史的な上場申請の動きを追うため。",
     "rankScore": 90,
     "rankTier": "S",
     "ageDays": 3,
@@ -56,41 +56,65 @@
     "summaryLevel": "deep"
   },
   {
-    "id": "news_001",
+    "id": "openai-anthropic-ipo-20260611",
     "category": "Business",
-    "title": "OpenAIとAnthropicがIPOへ本格始動、ヘルスケア分野へのAI展開も急拡大",
-    "date": "2026/06/10",
-    "summary": "OpenAIとAnthropicが新規株式公開（IPO）に向けた具体的な手続きを開始した。両社は巨額の資金調達を進めつつ、ヘルスケアやライフサイエンス分野へのAIエージェント導入を加速させており、市場の注目を集めている。",
+    "title": "OpenAIとAnthropicがIPOを巡り激突、売上計上方法でも対立激化",
+    "date": "2026/06/11",
+    "summary": "OpenAIとAnthropicが相次いで秘密裏にIPOを申請し、市場での主導権争いが激化。OpenAI側が、Anthropicの売上計上方法が実態を数十億ドル過大評価していると批判するなど、両社の対立が浮き彫りになっ…",
     "details": [
-      "OpenAIとAnthropicが、それぞれ新規株式公開（IPO）に向けた正式な手続きを開始したことが明らかになった。両社はヘルスケアや臨床ワークフロー、ライフサイエンス分野へのAI技術の導入を急速に進めており、Bristol Myers SquibbやNovo Nordiskなどの大手製薬企業との提携を強化している。",
-      "この動きは、AI市場における投資マネーの再配分を促す可能性があり、極めて重要である。これまでクラウド事業者や半導体メーカーに向いていた投資家の関心が、直接AIのリーディングカンパニーへと向かうことで、株式市場全体のAI関連取引の構図が大きく塗り替わることが予想される。",
-      "今後は、両社の具体的な上場時期や調達規模、そしてヘルスケア分野におけるAIエージェントの実用化とそれによる生産性向上の実証データが、投資家や市場関係者の次の注目点となる。"
+      "生成AIの二大巨頭であるOpenAIとAnthropicが、それぞれ米国規制当局に秘密裏にIPO（新規公開株）を申請し、株式市場での「AI本命銘柄」の座を巡る競争が本格化しています。この中で、OpenAIは従業員や投資家に対し、Anthropicがパートナー企業（AmazonやGoogle）に分配する前の総売上を自社売上として計上しているため、数十億ドル規模で売上を過大評価していると批判しており、上場を控えた両社の激しい牽制が表面化しています。"
     ],
     "sources": [
       {
-        "name": "MobiHealthNews",
-        "url": "https://www.mobihealthnews.com/news/openai-anthropic-take-steps-toward-ipos-healthcare-ai-footprints-expand"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/legal/transactional/anthropic-v-openai-behind-bitter-battle-future-ai-2026-06-11/"
       }
     ],
-    "importance": "critical",
+    "importance": "high",
     "socialImpact": 85,
     "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "AI二大巨頭の上場準備と医療分野への進出を網羅。",
-    "rankScore": 88,
-    "rankTier": "S",
-    "ageDays": 1,
+    "confidence": 100,
+    "priorityReason": "AI市場の勢力図を塗り替える巨大IPOの裏舞台。",
+    "rankScore": 83,
+    "rankTier": "A",
+    "ageDays": 0,
     "rank": 3,
-    "summaryLevel": "deep"
+    "summaryLevel": "standard"
   },
   {
-    "id": "news_003",
-    "category": "Policy",
-    "title": "中国のインジウムリン輸出規制、AIデータセンター向け光通信部品の製造に打撃",
+    "id": "neura-robotics-funding-20260611",
+    "category": "Business",
+    "title": "独Neura Roboticsが14億ドル調達、AmazonやNvidiaが支援",
     "date": "2026/06/11",
-    "summary": "中国によるインジウムリン（InP）の輸出規制が、AIデータセンター向けの高速・省エネ光通信部品の製造において大きな障壁となっている。米国企業などは代替調達先の確保を急いでいる。",
+    "summary": "ドイツのロボティクス企業Neura Roboticsが、AmazonやNvidiaなどから最大14億ドルの資金調達を実施。製造や物流、家庭向けの人型ロボットの量産化と商業展開を加速させる。",
     "details": [
-      "中国が導入したインジウムリン（InP）の輸出規制が、次世代AIデータセンターの展開に深刻な影を落としている。光通信技術（フォトニクス）に不可欠なこの化合物の供給が滞ることで、Nvidiaなどの巨額投資を受けた米国の光部品メーカーの製造ペースが乱れる恐れがあり、米中間のハイテク覇権争いにおける新たな地政学的リスクとして浮上している。"
+      "ドイツのNeura Roboticsは、Amazon、Nvidia、欧州投資銀行などから最大14億ドルの資金を確保したと発表しました。この資金調達により、同社は認知機能を持つロボットや人型ロボット（ヒューマノイド）の生産規模を2030年までに数百万台規模へ拡大することを目指し、製造、物流、ヘルスケア、消費者向けアプリケーションにおける「物理AI（Physical AI）」プラットフォームの商業化を本格化させます。"
+    ],
+    "sources": [
+      {
+        "name": "The Wall Street Journal",
+        "url": "https://www.wsj.com/tech/ai/nvidia-amazon-back-neura-robotics-1-4-billion-fundraise-ff630662"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 85,
+    "confidence": 100,
+    "priorityReason": "物理AIと人型ロボット量産化に向けた巨額投資。",
+    "rankScore": 81,
+    "rankTier": "A",
+    "ageDays": 0,
+    "rank": 4,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "china-indium-phosphide-export-20260611",
+    "category": "Economy",
+    "title": "中国のインジウムリン輸出規制、AIデータセンター整備の深刻な障壁に",
+    "date": "2026/06/11",
+    "summary": "中国が導入したインジウムリン（InP）の輸出規制が、AIデータセンターに不可欠な高速光通信部品の製造を直撃。Nvidiaなどの米テック企業による次世代インフラ整備に遅れが生じる懸念が浮上している。",
+    "details": [
+      "中国政府が実施しているインジウムリン（InP）の輸出制限措置が、AIデータセンターの高速化・省電力化に不可欠な光通信（フォトニクス）部品のサプライチェーンを直撃しています。Nvidiaなどの米大手テック企業が次世代データセンター向けに光技術への投資を急ぐ中、原材料の主要供給国である中国の規制は、世界的なAIインフラの拡張ペースを鈍化させる地政学的リスクとして浮き彫りになっています。"
     ],
     "sources": [
       {
@@ -100,61 +124,35 @@
     ],
     "importance": "high",
     "socialImpact": 80,
-    "novelty": 85,
-    "confidence": 90,
-    "priorityReason": "AIインフラを揺るがす米中地政学リスクの最前線。",
-    "rankScore": 82,
-    "rankTier": "A",
-    "ageDays": 0,
-    "rank": 4,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news_005",
-    "category": "Business",
-    "title": "ドイツのNeura Roboticsが14億ドルを調達、AmazonやNvidiaが支援",
-    "date": "2026/06/11",
-    "summary": "ドイツのNeura Roboticsが、AmazonやNvidiaなどから最大14億ドルの資金を調達した。2030年までに数百万台の認知ロボットや人型ロボットを量産し、物理AIプラットフォームの構築を目指す。",
-    "details": [
-      "ドイツのロボティクス企業Neura Roboticsが、AmazonやNvidia、欧州投資銀行などから最大14億ドルの資金調達に成功した。この資金は、製造、物流、ヘルスケアなどの分野で需要が急増している人型ロボットや認知ロボットの量産体制を2030年までに構築するために使われ、物理空間で動作する「フィジカルAI」の商業化競争が一段と激化していることを示している。"
-    ],
-    "sources": [
-      {
-        "name": "WSJ",
-        "url": "https://www.wsj.com/tech/ai/nvidia-amazon-back-neura-robotics-1-4-billion-fundraise-ff630662"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 85,
-    "confidence": 95,
-    "priorityReason": "巨額資金が動く人型ロボット量産化の最新動向。",
-    "rankScore": 80,
+    "novelty": 75,
+    "confidence": 100,
+    "priorityReason": "AIインフラを揺るがす中国の重要素材輸出規制。",
+    "rankScore": 81,
     "rankTier": "A",
     "ageDays": 0,
     "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_004",
-    "category": "Ethics",
-    "title": "AnthropicがAIの経済的影響研究に2億ドルを投資、CEOはベーシックインカムを提唱",
+    "id": "semiconductor-market-q1-2026",
+    "category": "Economy",
+    "title": "世界半導体市場、2026年第1四半期の売上高が3190億ドルを突破",
     "date": "2026/06/10",
-    "summary": "Anthropicは、AIが雇用や経済に与える影響を研究するため、2億ドルの基金設立を発表した。CEOはAIによる失業対策としてベーシックインカムなどの政策的支援を提唱している。",
+    "summary": "Omdiaの調査によると、2026年第1四半期の世界半導体売上高は前四半期比27%増の3190億ドルに達した。AI需要に伴うメモリ市場の急成長が全体を牽引している。",
     "details": [
-      "Anthropicが「経済未来研究基金」に2億ドルを投じ、AIによる雇用代替や経済的混乱への対策を模索し始めた。同社CEOのダリオ・アモデイ氏は、AIがもたらす労働市場の急激な変化に備え、政府によるユニバーサル・ベーシックインカム（UBI）の導入や雇用促進インセンティブなどの政策的介入が必要であると主張しており、技術の社会的責任に関する議論を加速させている。"
+      "調査会社Omdiaの最新レポートによると、2026年第1四半期の世界半導体売上高は、前四半期比27%増の3190億ドルに達し、過去最高水準を記録した。特にAI向け需要の爆発的な高まりを背景に、DRAMやNANDフラッシュメモリなどのメモリ部門の売上高が前四半期比でほぼ倍増し、半導体市場全体の売上高の40%以上を占めるなど、歴史的な市場構造の変化が起きている。"
     ],
     "sources": [
       {
-        "name": "AP News",
-        "url": "https://apnews.com/article/anthropic-dario-amodei-ai-afeb5279eef406980dffa46ff91495e0"
+        "name": "Financial Times",
+        "url": "https://markets.ft.com/data/announce/detail?dockey=600-202606100507BIZWIRE_USPRX____20260610_BW290507-1"
       }
     ],
     "importance": "high",
     "socialImpact": 85,
-    "novelty": 80,
+    "novelty": 75,
     "confidence": 95,
-    "priorityReason": "AIによる失業問題に対する開発元の異例の提言。",
+    "priorityReason": "AI需要が半導体市場に与える具体的な規模を数値で確認する。",
     "rankScore": 80,
     "rankTier": "A",
     "ageDays": 1,
@@ -162,65 +160,91 @@
     "summaryLevel": "standard"
   },
   {
-    "id": "apple-wwdc-ai-frameworks-20260608",
-    "category": "Model",
-    "title": "Appleが新たなAI開発フレームワークを発表、Google Geminiとの連携も強化",
-    "date": "2026/06/08",
-    "summary": "Appleは開発者向け会議にて、アプリへのAI統合を容易にする新しい「Foundation Models」フレームワークを発表した。GoogleのGeminiモデルと共同構築した次世代モデルへのアクセスや、ローカル実行…",
+    "id": "apple-wwdc-ai-2026",
+    "category": "Service",
+    "title": "AppleがWWDCで統合AI機能を発表、Google Geminiとの提携も",
+    "date": "2026/06/09",
+    "summary": "Appleは年次開発者会議（WWDC）にて、OS全体に深く統合された新たなAI機能「Apple Intelligence」を発表した。一部機能ではGoogleのGeminiとの提携も盛り込まれている。",
     "details": [
-      "Appleは、開発者がアプリ内に高度なAI機能を容易に組み込めるよう、Swift APIをベースとした新しい「Foundation Models」フレームワークを発表した。この次世代モデルはGoogleのGeminiと共同で構築されており、デバイス上およびプライベート・クラウド・コンピューティング（PCC）上で動作する。さらに、AppleシリコンのNeural Engineに最適化されたローカルLLM実行用フレームワーク「Core AI」も新たに導入され…"
+      "Appleは年次開発者会議（WWDC）において、同社史上最大規模となるAI機能の統合を発表した。この「Apple Intelligence」は、長らく遅れていたSiriのアップグレードを含め、OS全体に自動化機能を組み込むものであり、さらに一部の高度な処理においてはGoogleのGeminiと提携することも明かされた。これにより、Appleは自社エコシステムをAI技術を中心に再定義し、コンシューマー向けAI市場での主導権奪還を狙う。"
     ],
     "sources": [
       {
-        "name": "Financial Times",
-        "url": "https://markets.ft.com/data/announce/detail?dockey=600-202606081700BIZWIRE_USPRX____20260608_BW093428-1"
+        "name": "Let's Data Science",
+        "url": "https://letsdatascience.com/news/apple-debuts-integrated-ai-features-at-wwdc-f3115011"
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
-    "novelty": 80,
+    "socialImpact": 90,
+    "novelty": 85,
     "confidence": 95,
-    "priorityReason": "AppleのエコシステムにおけるAI開発環境の劇的な変化を示すため。",
-    "rankScore": 78,
+    "priorityReason": "AppleのAI戦略と他社との提携が市場に与える影響を把握。",
+    "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 3,
+    "ageDays": 2,
     "rank": 7,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_006",
+    "id": "ecb-boj-rate-hikes-20260610",
     "category": "Economy",
-    "title": "世界半導体市場、2026年第1四半期に売上高3000億ドルを突破し過去最高を記録",
+    "title": "欧州中銀と日本銀行、エネルギー価格高騰を背景に利上げへ",
     "date": "2026/06/10",
-    "summary": "Omdiaの調査によると、2026年第1四2026年第1四半期の世界半導体売上高が前四半期比27%増の3190億ドルに達し、過去最高を記録した。AI需要に伴うメモリ価格の急上昇が市場を牽引している。",
+    "summary": "欧州中央銀行（ECB）と日本銀行が、イラン戦争に伴うエネルギー価格高騰とインフレ圧力に対応するため、相次いで利上げに踏み切る見通し。世界的な金融引き締めが再加速する懸念が高まっている。",
     "details": [
-      "2026年第1四半期の世界半導体売上高が、前四半期比27%増の3190億ドルに達し、四半期ベースで初めて3000億ドルの大台を突破した。AIやデータセンター向けの需要爆発を背景に、DRAMやNANDフラッシュメモリの売上高が前四半期比でほぼ倍増しており、メモリ供給不足に伴う価格上昇が半導体市場全体の成長を強力に牽引している。"
+      "欧州中央銀行（ECB）は3年ぶりの利上げとなる預金金利2.25%への引き上げを決定する見通しであり、日本銀行も政策金利を1995年以来の高水準となる1%へ引き上げる準備を進めています。両地域ともに、中東でのイラン戦争による原油・エネルギー価格の急騰が国内の広範なインフレに波及するリスクを警戒しており、景気の底堅さを背景に、インフレ抑制を最優先する姿勢を強めています。"
     ],
     "sources": [
       {
-        "name": "Light Reading",
-        "url": "https://www.lightreading.com/semiconductors/semiconductor-market-surpasses-300b-quarterly-revenue-in-1q26-omdia"
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/06/10/ecb-rates-europe-japan"
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "AIブームがもたらした半導体市場の歴史的急拡大。",
-    "rankScore": 76,
+    "socialImpact": 80,
+    "novelty": 70,
+    "confidence": 100,
+    "priorityReason": "中東情勢が引き起こす世界的な金利上昇局面の到来。",
+    "rankScore": 78,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 8,
     "summaryLevel": "standard"
   },
   {
-    "id": "japan-richest-son-20260608",
+    "id": "standard-bots-series-c-2026",
     "category": "Business",
-    "title": "日本の富豪ランキング2026：ソフトバンクの孫正義氏がAIブームを背景に首位奪還",
-    "date": "2026/06/08",
-    "summary": "米フォーブス誌が発表した2026年版の日本の富豪ランキングで、ソフトバンクグループ創業者の孫正義氏が4年ぶりに首位に返り咲いた。OpenAIへの巨額投資やAI関連株の急騰により、純資産は前年比184%増の800億ドルに…",
+    "title": "ロボティクスAIの「Standard Bots」が2億ドル調達、評価額10億ドルに",
+    "date": "2026/06/09",
+    "summary": "物理AIおよびロボティクス分野のスタートアップ「Standard Bots」が、シリーズCで2億ドルの資金調達を完了し、評価額が10億ドルのユニコーン企業となった。",
     "details": [
-      "フォーブス誌が発表した2026年版の「日本の富豪50人」において、ソフトバンクグループの創業者である孫正義氏が、純資産800億ドル（前年比184%増）を記録し、4年ぶりに日本の首位に返り咲いた。この資産急増は、同社によるChatGPT開発元OpenAIへのマルチビリオン規模の投資や、世界的なAIブームに伴う保有株式の価値高騰が背景にある。2位にはファーストリテイリングの柳井正氏が続いたが、AI関連銘柄の株価上昇が富の勢力図を大きく塗り替える結果となった。"
+      "物理AIおよびロボティクス開発を手がける「Standard Bots」が、シリーズCラウンドで2億ドルの資金調達を実施し、企業評価額が10億ドルに達した。この調達は、AI技術を物理的なロボットや製造・自動化プロセスに統合する「フィジカルAI」分野への投資熱の高まりを裏付けるものであり、産業用ロボットの自律性と安全性を高める技術開発の加速が期待されている。"
+    ],
+    "sources": [
+      {
+        "name": "Robotics & Automation News",
+        "url": "https://roboticsandautomationnews.com/2026/06/09/standard-bots-reaches-1-billion-valuation-after-raising-200-million-series-c/102393/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 80,
+    "confidence": 95,
+    "priorityReason": "物理AI・ロボティクス分野での大型調達と市場の期待を示す。",
+    "rankScore": 75,
+    "rankTier": "A",
+    "ageDays": 2,
+    "rank": 9,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "japan-richest-son-2026",
+    "category": "Economy",
+    "title": "2026年版「日本の富豪」ソフトバンク孫正義氏がAIブームで首位に返り咲き",
+    "date": "2026/06/08",
+    "summary": "フォーブス誌が発表した2026年版の日本の富豪ランキングで、ソフトバンクグループの孫正義氏が資産額800億ドルで4年ぶりに首位を奪還した。AI関連投資の成功が背景にある。",
+    "details": [
+      "フォーブスのアジア版が発表した2026年版の「日本の富豪50人」において、ソフトバンクグループの創業者である孫正義氏が、資産額を前年から184%増の800億ドル（約12.5兆円）に急増させ、4年ぶりに首位に返り咲いた。OpenAIへの巨額投資や、世界的なAI半導体・関連株のブームがソフトバンクの業績を押し上げたことが要因であり、日本市場におけるAIブームの恩恵を象徴する結果となった。"
     ],
     "sources": [
       {
@@ -229,14 +253,92 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
+    "socialImpact": 80,
     "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "国内ビジネス界におけるAIシフトの影響力を象徴するニュースのため。",
-    "rankScore": 73,
+    "confidence": 100,
+    "priorityReason": "AIブームが日本の富豪の勢力図に与えた影響を示す象徴的ニュース。",
+    "rankScore": 75,
     "rankTier": "A",
     "ageDays": 3,
-    "rank": 9,
+    "rank": 10,
     "summaryLevel": "standard"
+  },
+  {
+    "id": "chinese-science-ignored-20260610",
+    "category": "Ethics",
+    "title": "急増する中国の科学論文、西側研究者から軽視される現状を分析",
+    "date": "2026/06/10",
+    "summary": "中国の科学論文発表数が主要先進国の合計に匹敵する規模に達しているにもかかわらず、西側の研究者から引用されず無視されている実態が判明。文化的偏見や不信感が背景にあると指摘されている。",
+    "details": [
+      "2025年に中国の学術論文発表数が米国、英国、ドイツ、日本の合計を上回り、一流誌の掲載数でもトップに立ったものの、西側の研究者からは依然として大部分が無視されているという分析が明らかになりました。この背景には、中国の学術界に対する根強い不信感や文化的な無理解があるとみられており、グローバルな科学的知見の共有やイノベーションの妨げになって…"
+    ],
+    "sources": [
+      {
+        "name": "The Economist",
+        "url": "https://www.economist.com/science-and-technology/2026/06/10/too-much-chinese-science-is-ignored-by-the-west"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 80,
+    "confidence": 100,
+    "priorityReason": "科学界における西側と中国の分断と偏見を浮き彫りに。",
+    "rankScore": 69,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 11,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "fearn-seed-round-2026",
+    "category": "Business",
+    "title": "AI特許起草プラットフォーム「Fearn」が550万ドルのシード資金を調達",
+    "date": "2026/06/10",
+    "summary": "AIを活用して特許の起草を自動化するスタートアップ「Fearn」が、550万ドルのシード資金調達を発表した。特許1件あたり2000ドルの固定料金でサービスを提供する。",
+    "details": [
+      "2025年にカルテックの卒業生らによって設立されたAI特許起草プラットフォーム「Fearn」が、550万ドルのシード資金調達を完了した。同社はAIを用いて特許のドラフト作成を自動化し、1件あたり2,000ドルの固定料金で提供することで、従来は弁護士や専門家が多大な時間をかけていた特許出願プロセスの効率化とコスト削減を目指している。"
+    ],
+    "sources": [
+      {
+        "name": "Law.com",
+        "url": "https://www.law.com/legaltechnews/2026/06/10/ai-powered-patent-platform-fearn-announces-55m-seed-round-/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 80,
+    "confidence": 90,
+    "priorityReason": "専門職である特許業務のAI自動化と資金調達の最新動向。",
+    "rankScore": 67,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 12,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "vivatech-2026-enterprise-ai",
+    "category": "Service",
+    "title": "欧州最大級のテックイベント「VivaTech 2026」でエンタープライズAIが主役に",
+    "date": "2026/06/10",
+    "summary": "欧州最大級の技術見本市「VivaTech 2026」では、従来の消費者向けチャットボットから、製造や物流などの複雑な産業システムにAIを組み込む「エンタープライズAI」へと焦点がシフトして…",
+    "details": [
+      "パリで開催される欧州最大級のテックイベント「VivaTech 2026」において、エンタープライズ（企業向け）AIが最大のテーマとして浮上している。シリコンバレーが基盤モデルや消費者向けチャットボットの開発で先行する一方、欧州企業は製造、物流、ヘルスケア、エネルギーといった既存の複雑な産業システムへのAI統合に注力しており、実験段階から…"
+    ],
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "AIトレンドが実用的な産業統合へとシフトする潮流を理解する。",
+    "rankScore": 67,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 13,
+    "summaryLevel": "brief"
   }
 ]
