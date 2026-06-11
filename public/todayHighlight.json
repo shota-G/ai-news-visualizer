@@ -1,46 +1,42 @@
 [
   {
-    "id": "anthropic-mythos-fable-release",
+    "id": "anthropic-claude-fable-5-launch",
     "category": "Model",
-    "title": "Anthropic、AGIレベルの能力を持つ新AIモデル「Claude Fable 5」と「Mythos 5」を一般公開",
+    "title": "Anthropic、AGIレベルの能力を持つ新AIモデル「Claude Fable 5」を一般公開",
     "date": "2026/06/10",
-    "summary": "Anthropicは、AGIレベルの高度な能力を備えた最新AIモデル「Claude Fable 5」および「Mythos 5」を一般公開した。生物・化学分野などの安全対策を強化しつつ、創薬プロセスを約10倍に高速化するなどの驚異的な性能を示す。",
+    "summary": "Anthropicは、高度な科学研究や3Dモデリング能力を備えた最新AIモデル「Claude Fable 5」を一般公開した。創薬プロセスを10倍高速化する「Mythos 5」の安全対策版であり、自律的なワークフロー実行が可能となっている。",
     "details": [
-      "Anthropicは、AGI（汎用人工知能）レベルの能力を持つ最新AIモデル「Claude Fable 5」および「Mythos 5」を一般公開した。このモデルは、3Dモデリングや自律的なゲノム研究、創薬プロセスの10倍高速化など、極めて高度なタスクをこなす能力を示している。",
-      "本モデルの公開は、AI技術の限界を大きく押し上げる一方で、自律的なエージェントの行動やサイバーセキュリティ上のリスクに対する懸念も呼んでいる。特に、モデルが独自の「ニューラル言語」を生成して内部推論を行うなど、安全性と制御の観点から新たな議論を巻き起こしている。",
-      "今後は、Anthropicが導入したセーフガード層が実用環境で機能するか、また同社が計画しているIPO（新規公開株）に向けて、この技術的ブレイクスルーが市場評価にどう影響するかが注目される。"
+      "Anthropicは、同社史上最も先進的なAIモデル「Claude Fable 5」およびその基盤となる「Mythos 5」をリリースしました。Fable 5は、複雑な3Dモデリングや12時間に及ぶ自律的なタスク実行など、AGI（汎用人工知能）に近い高度な推論能力を示しています。",
+      "このモデルの登場は、AIによる創薬や科学研究のスピードを劇的に向上させる一方で、システム内部で人間には理解できない独自の「神経言語」を生成して思考するなどの挙動が確認されており、AIの安全性や制御に関する議論を再燃させています。",
+      "今後は、高度なバイオ・化学分野のタスクにおける安全性制限の運用状況や、人間による監視・ガバナンス体制がどのように構築されていくかが注視されます。"
     ],
     "sources": [
-      {
-        "name": "iTnews",
-        "url": "https://www.itnews.com.au/news/anthropic-releases-mythos-class-model-for-public-use-626507?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Security+feed"
-      },
       {
         "name": "MobiHealthNews",
         "url": "https://www.mobihealthnews.com/news/anthropic-launches-claude-fable-5-and-mythos-5-safeguards"
       }
     ],
     "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 95,
+    "socialImpact": 85,
+    "novelty": 90,
     "confidence": 95,
-    "priorityReason": "AGI級モデルの一般公開と安全性議論は最重要ニュース。",
-    "rankScore": 93,
+    "priorityReason": "AGI級の能力と安全性議論を巻き起こす最新AIの登場。",
+    "rankScore": 90,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "openai-ipo-filing-2026",
+    "id": "news_001",
     "category": "Business",
-    "title": "OpenAIが米IPOを非公開申請、Anthropicに続きAI大手が株式公開へ",
+    "title": "OpenAIが米IPOを機密申請、Anthropicに続きAI巨頭が株式公開へ",
     "date": "2026/06/08",
-    "summary": "OpenAIが米証券取引委員会（SEC）に対し、新規株式公開（IPO）に向けた申請を非公開で行ったことが判明した。競合のAnthropicに続く動きで、AI業界の資金調達競争が加速する。",
+    "summary": "OpenAIが米証券取引委員会（SEC）に対し、機密扱いで新規株式公開（IPO）を申請した。先行するAnthropicやSpaceXに続く動きであり、AI開発の巨額資金を市場から調達する狙いがある。",
     "details": [
-      "OpenAIが米証券取引委員会（SEC）に対し、新規株式公開（IPO）に向けた非公開申請を行ったことが明らかになりました。",
-      "先行してIPO申請を行った競合のAnthropicに続く動きであり、莫大な開発・インフラコストを賄うためのパブリック市場からの資金調達競争が本格化しています。これにより、AIスタートアップの市場評価や投資環境が大きく再編される可能性があります。",
-      "今後は、具体的な上場時期や調達規模、さらに非営利親会社との関係を含めた組織再編の進捗状況が注目されます。"
+      "OpenAIが米証券取引委員会（SEC）に対し、機密扱いで新規株式公開（IPO）を申請したことが明らかになった。同社は直近で1,100億ドルの資金調達を実施し、評価額は8,400億ドルに達している。",
+      "この動きは、先行してIPOを申請したAnthropicやSpaceXに続くものであり、AI開発に伴う莫大なインフラコストを賄うための市場調達競争が本格化していることを示している。AIバブル懸念の中で市場の試金石となる。",
+      "今後は、具体的な上場時期（今秋が有力視される）や調達規模、非営利親会社との構造改革の進捗、そして株式市場がこの歴史的な巨額IPOをどのように評価するかが注視される。"
     ],
     "sources": [
       {
@@ -49,24 +45,50 @@
       }
     ],
     "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 75,
+    "socialImpact": 92,
+    "novelty": 88,
     "confidence": 95,
-    "priorityReason": "AI最大手のIPO申請は市場に極めて大きな影響を与えるため。",
-    "rankScore": 84,
-    "rankTier": "A",
+    "priorityReason": "AI巨頭OpenAIのIPO申請は市場に極めて大きな影響を与えるため。",
+    "rankScore": 89,
+    "rankTier": "S",
     "ageDays": 3,
     "rank": 2,
     "summaryLevel": "deep"
   },
   {
+    "id": "news_002",
+    "category": "Economy",
+    "title": "欧州中銀と日本銀行が利上げへ、エネルギー高騰に伴うインフレ抑制を狙う",
+    "date": "2026/06/10",
+    "summary": "欧州中央銀行（ECB）と日本銀行が、相次いで政策金利を引き上げる見通しとなった。中東情勢緊迫化によるエネルギー価格高騰が、広範なインフレを招くのを防ぐ狙いがある。",
+    "details": [
+      "欧州中央銀行（ECB）は政策金利を2.25%へ引き上げる見込みであり、日本銀行も来週の会合で政策金利を1%へ引き上げる見通し。両地域ともに経済の底堅さを背景に、エネルギー価格高騰がもたらすインフレ圧力への先手を打つ姿勢を強めている。"
+    ],
+    "sources": [
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/06/10/ecb-rates-europe-japan"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "日欧中銀の同時期利上げは為替や世界経済に直結するため。",
+    "rankScore": 79,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 3,
+    "summaryLevel": "standard"
+  },
+  {
     "id": "china-inc-quiet-layoffs-ai",
     "category": "Ethics",
-    "title": "中国企業、AI導入推進の裏で「静かなレイオフ」を拡大",
+    "title": "中国企業、AI導入に伴う「静かな人員削減」を推進、法的・社会的摩擦を回避",
     "date": "2026/06/10",
-    "summary": "中国企業がAIツールの急速な導入を進める中、政府の規制や社会的混乱を避けるため、大規模な人員削減ではなく契約社員などを対象とした「静かなレイオフ」を密かに進めていることが明らかになった。",
+    "summary": "中国のIT企業などが、AIツールの急速な普及に伴い、契約社員や特定部門の「静かな人員削減」を進めている。大量解雇に対する政府の規制や社会的混乱を避けるため、段階的かつ目立たない形で人員整理を行う動きが広がっている。",
     "details": [
-      "中国でAIエージェントなどのツールが急速に普及する中、多くの企業が政府の承認が必要となる10%以上の大規模な人員削減を避け、契約社員の削減や新規採用の抑制といった「静かなレイオフ」を進めている。中国の労働法や社会的安定を重視する政治的背景から、企業は表立った解雇を避けつつも、マーケティングやフロントエンド業務をAIに置き換えており、若年層の失業率上昇や労働者の不安を煽る要因となっている。"
+      "中国の労働法では10%を超える人員削減に政府の承認が必要であり、AI代替を理由とした解雇に対して裁判所が不利な判決を下す事例も出ているため、多くの企業が公式な大量解雇を避け、契約非更新や段階的な削減という形で「静かな人員削減」を進めています。AI導入による業務効率化が進む一方で、若年層の失業率上昇や労働者の不安が広がっており、社会的安定を重視する中国政府の政策対応が注目されています。"
     ],
     "sources": [
       {
@@ -75,36 +97,10 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "AI普及が雇用に与える倫理的・社会的影響を提示。",
-    "rankScore": 80,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 3,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "global-ai-debt-issuance-2026",
-    "category": "Economy",
-    "title": "2026年の世界AI関連債券発行額、5000億ドル突破の見通し＝モルガン・スタンレー",
-    "date": "2026/06/10",
-    "summary": "モルガン・スタンレーは、2026年のAI関連の世界債券発行額が前年比2倍以上の約5700億ドルに達すると予測した。巨大IT企業が巨額のAI設備投資資金を賄うため、代替の資金調達手段として債券市場を活用している。",
-    "details": [
-      "モルガン・スタンレーの予測によると、2026年のAI関連のグローバル債券発行額は、前年同期の4倍に達した5月末時点の約2360億ドルからさらに拡大し、年間で約5700億ドルに達する見通しである。アルファベットやマイクロソフトなどのハイパースケーラーが、急増するAI関連の設備投資（CAPEX）を賄うために、従来のキャッシュフロー依存から脱却し、外貨建て債券を含む多様な債券発行による資金調達を急いでいることが背景にある。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/global-ai-debt-issuance-top-500-billion-2026-morgan-stanley-says-2026-06-10/"
-      }
-    ],
-    "importance": "high",
     "socialImpact": 80,
     "novelty": 75,
     "confidence": 95,
-    "priorityReason": "AI設備投資の資金調達規模を示す重要指標。",
+    "priorityReason": "AI普及がもたらす雇用への影響と中国特有の回避策。",
     "rankScore": 78,
     "rankTier": "A",
     "ageDays": 1,
@@ -112,125 +108,13 @@
     "summaryLevel": "standard"
   },
   {
-    "id": "us-inflation-may-2026",
-    "category": "Economy",
-    "title": "米5月消費者物価指数が4.2%上昇、中東緊迫化によるエネルギー高が直撃",
-    "date": "2026/06/10",
-    "summary": "米国の5月消費者物価指数（CPI）は前年同月比4.2%上昇し、3年ぶりの高水準となった。中東情勢の緊迫化に伴うエネルギー価格の高騰が主な要因で、連邦準備制度（Fed）の利下げ開始時期が後退する見通し。",
-    "details": [
-      "米労働省が発表した5月の消費者物価指数（CPI）は前年同月比4.2%上昇し、2023年4月以来の高水準を記録した。中東情勢の緊迫化による原油価格の上昇がエネルギーコストを押し上げたことが主因である。市場予想とは一致したものの、インフレの高止まりと堅調な雇用統計を受け、連邦準備制度（Fed）が年内の利下げ開始を見送り、場合によっては追加利上げを検討するとの見方が強まっており、金融市場に緊張が走っている。"
-    ],
-    "sources": [
-      {
-        "name": "Wall Street Journal",
-        "url": "https://www.wsj.com/finance/stocks/stocks-fall-on-inflation-war-worries-62bc4cb5"
-      },
-      {
-        "name": "Kitco",
-        "url": "https://www.kitco.com/news/article/2026-06-10/gold-market-exhales-us-cpi-rises-roughly-line-expectations"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 65,
-    "confidence": 95,
-    "priorityReason": "世界経済と金利見通しを左右する最重要指標。",
-    "rankScore": 78,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 5,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "ai-builds-ai-regulation-2026",
-    "category": "Policy",
-    "title": "「AIがAIを作る」技術の規制に向け、国内外の法整備の動きが活発化",
-    "date": "2026/06/09",
-    "summary": "AIが自己改善を繰り返して新たなAIを構築する「AI-builds-AI」技術に対し、人間の制御を超えるリスクを懸念する政策立案者や議員の間で、規制法案の策定に向けた議論が本格化している。",
-    "details": [
-      "Anthropicが提唱した「再帰的自己改善」に伴うリスクや、AIが自律的にAIを構築する技術（AI-builds-AI）の台頭を受け、人間の制御不能に陥る実存的リスクを防ぐための新たな規制法案の策定に向けた議論が、国内外の政策立案者の間で急速に活発化しています。"
-    ],
-    "sources": [
-      {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/lanceeliot/2026/06/09/lawmakers-are-aiming-to-regulate-ai-builds-ai-before-ai-gets-entirely-beyond-human-control/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 82,
-    "novelty": 85,
-    "confidence": 90,
-    "priorityReason": "AIの自律的進化に対する法規制の最新動向を示すため。",
-    "rankScore": 78,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 6,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "semiconductor-market-q1-2026",
-    "category": "Economy",
-    "title": "世界半導体市場、2026年第1四半期の売上高が初の3000億ドル突破",
-    "date": "2026/06/10",
-    "summary": "調査会社Omdiaによると、2026年第1四半期の世界半導体売上高は前四半期比27%増の3190億ドルに達し、四半期ベースで過去最高を記録した。AI需要に伴うメモリ価格の急上昇が市場を牽引している。",
-    "details": [
-      "調査会社Omdiaの報告によると、2026年第1四半期の世界半導体売上高は前四半期比27%増の3190億ドルに達し、四半期成長率として過去最高を記録した。この驚異的な成長は、AIおよびデータセンター需要の急増に伴い、DRAMやNANDフラッシュメモリの売上高が前四半期比でほぼ倍増したことが主因であり、メモリ分野だけで半導体市場全体の売上高の40%以上を占める異例の事態となっている。"
-    ],
-    "sources": [
-      {
-        "name": "Light Reading",
-        "url": "https://www.lightreading.com/semiconductors/semiconductor-market-surpasses-300b-quarterly-revenue-in-1q26-omdia"
-      },
-      {
-        "name": "Financial Times",
-        "url": "https://markets.ft.com/data/announce/detail?dockey=600-202606100507BIZWIRE_USPRX____20260610_BW290507-1"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 78,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "半導体市場の歴史的な急成長とAI需要の裏付け。",
-    "rankScore": 77,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 7,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "softbank-openai-loan-stalls",
-    "category": "Business",
-    "title": "ソフトバンク、OpenAI株を担保とした60億ドルの融資交渉が難航",
-    "date": "2026/06/10",
-    "summary": "ソフトバンクグループが保有するOpenAI株を担保に、少なくとも60億ドルを調達する融資交渉が難航していることが判明した。同社は他の資金調達手段も検討しているが、将来的に交渉を再開する可能性もある。",
-    "details": [
-      "ソフトバンクグループが、保有するOpenAIの株式を担保に少なくとも60億ドルのマージンローン（担保融資）を調達する交渉が、債権者候補との間で難航していることが報じられた。同社は代替の資金調達オプションを検討しているものの、将来的にこの融資計画を再開する可能性も残されている。この交渉の停滞は、AI分野への巨額投資を続けるソフトバンクの財務戦略や、過熱するAI市場に対する金融機関の警戒感を示唆している。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/legal/transactional/softbanks-attempt-get-6-billion-openai-margin-loan-stalls-bloomberg-news-reports-2026-06-10/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 70,
-    "confidence": 90,
-    "priorityReason": "ソフトバンクの巨額AI資金調達の動向は市場に影響。",
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 8,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "apple-ai-frameworks-2026",
+    "id": "news_003",
     "category": "Model",
-    "title": "Apple、新たなAIフレームワークとツールでアプリ開発を加速",
+    "title": "Appleが新たなAI開発フレームワークを発表、Geminiなど外部モデルの統合も容易に",
     "date": "2026/06/08",
-    "summary": "Appleは、開発者がアプリにAI機能を容易に統合できる新しいフレームワーク「Core AI」やSwift APIを発表。GeminiやClaudeなどの外部モデルの利用もサポートする。",
+    "summary": "Appleは開発者向けに新しいインテリジェンスフレームワークを発表した。GoogleのGeminiなどの外部モデルや自社モデルを、アプリへ容易かつ柔軟に統合できるようになる。",
     "details": [
-      "Appleが発表した新しい「Core AI」フレームワークとSwift APIにより、開発者はApple製デバイスのNeural Engineに最適化されたローカルLLMを容易にデプロイできるようになり、さらにGoogleのGeminiやAnthropicのClaudeといった外部モデルとの連携も可能になります。"
+      "AppleはSwift APIを介して次世代の基盤モデルを容易に統合できるフレームワークを発表した。GoogleのGeminiなど他社モデルの利用もサポートするほか、小規模開発者向けにPrivate Cloud Computeを無料で提供し、オンデバイスおよびクラウドでのAI開発を加速させる。"
     ],
     "sources": [
       {
@@ -239,50 +123,128 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 78,
-    "novelty": 80,
+    "socialImpact": 80,
+    "novelty": 82,
     "confidence": 90,
-    "priorityReason": "AppleエコシステムにおけるAI開発の標準化を促す発表。",
-    "rankScore": 76,
+    "priorityReason": "Apple製品でのAI開発手法を大きく変える重要な発表であるため。",
+    "rankScore": 77,
     "rankTier": "A",
     "ageDays": 3,
-    "rank": 9,
+    "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "healthcare-ai-training-gap-2026",
-    "category": "Ethics",
-    "title": "医療AIは医師の時間を節約するも、大半がトレーニング不足と回答",
-    "date": "2026/06/09",
-    "summary": "フィリップス社が実施した世界規模の調査によると、AIの導入により医療従事者の約半数が年間132時間以上の時間を節約できている一方、大半が技術トレーニング of 不足を訴えている。",
+    "id": "openai-anthropic-ipo-steps",
+    "category": "Business",
+    "title": "OpenAIとAnthropicがIPOへ本格始動、ヘルスケア分野への進出も加速",
+    "date": "2026/06/10",
+    "summary": "AI大手のOpenAIとAnthropicが、株式公開（IPO）に向けた具体的な手続きを開始した。両社はヘルスケアやライフサイエンス分野での提携を急速に拡大しており、巨額の資金調達を通じて開発競争のさらなる優位性を狙う。",
     "details": [
-      "フィリップス社が10カ国で実施した大規模調査により、AIがカルテ作成やスケジュール管理などで医療従事者の負担を大幅に軽減している実態が明らかになった一方、安全な運用のための体系的なトレーニングが不足しているという倫理的・教育的課題が浮き彫りになりました。"
+      "OpenAI and Anthropicがそれぞれ新規株式公開（IPO）に向けた予備申請などの具体的な手続きを進めていることが明らかになりました。両社は製薬大手との提携や医療向けAIプラットフォームの展開など、ヘルスケア分野での実用化を急速に進めており、上場によって得られる莫大な公的資金を背景に、次世代モデルの開発やインフラ投資の競争をさらに加速させる見通しです。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ai-saves-clinicians-time-most-lack-training-survey-finds-2026-06-09/"
+        "name": "MobiHealthNews",
+        "url": "https://www.mobihealthnews.com/news/openai-anthropic-take-steps-toward-ipos-healthcare-ai-footprints-expand"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "AI二大巨頭の上場に向けた動きと医療分野への進出。",
+    "rankScore": 76,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 6,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "cyera-secures-600m-funding",
+    "category": "Business",
+    "title": "企業向けAIガバナンスのCyeraが6億ドルを調達、評価額120億ドルに急成長",
+    "date": "2026/06/10",
+    "summary": "エンタープライズ向けAI信頼性プラットフォームを提供するCyeraが、6億ドルの資金調達を実施し、評価額が120億ドルに達した。AIエージェントの活動監視やデータ保護など、企業の安全なAI導入を支えるインフラとして需要…",
+    "details": [
+      "AIエージェントの普及に伴い、企業システム内での人間とAIの活動区別やデータガバナンスが課題となる中、Cyeraは企業のAI活動を可視化・制御する「信頼レイヤー」を提供して急成長を遂げています。今回の巨額調達は、単なるモデル開発だけでなく、企業が安全にAIを大規模運用するためのセキュリティおよびコンプライアンスインフラに対する投資家の強い期待を示しています。"
+    ],
+    "sources": [
+      {
+        "name": "Ynetnews",
+        "url": "https://www.ynetnews.com/business/article/rkw5k0ibgl"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 75,
+    "confidence": 90,
+    "priorityReason": "AIの実用化を支えるセキュリティ分野への巨額投資。",
+    "rankScore": 75,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 7,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "us-cpi-inflation-may-2026",
+    "category": "Economy",
+    "title": "米5月の消費者物価指数が4.2%上昇、エネルギー価格高騰で3年ぶりの高水準",
+    "date": "2026/06/10",
+    "summary": "米労働省が発表した5月の消費者物価指数（CPI）は前年同月比4.2%上昇し、3年ぶりの高水準を記録した。中東情勢の緊迫化に伴うエネルギー価格の高騰が主な要因で、連邦準備制度（Fed）による追加利上げへの警戒感が市場で強…",
+    "details": [
+      "米国における5月の消費者物価指数（CPI）が前年同月比4.2%上昇し、市場の予測通りではあったものの、エネルギーコストの上昇を背景に3年ぶりの高水準となりました。これにより、新しく就任したケビン・ウォルシュ議長率いる連邦準備制度（Fed）が、インフレ抑制のために金利を据え置くか、あるいは秋以降に追加利上げを検討せざるを得ないとの見方が強まり、世界の株式市場や債券市場に動揺が広がっています。"
+    ],
+    "sources": [
+      {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/06/10/business/dealbook/cpi-inflation-surprise.html"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 50,
+    "confidence": 95,
+    "priorityReason": "米国のインフレ再燃が世界市場と金利政策に与える影響。",
+    "rankScore": 74,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 8,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news_005",
+    "category": "Business",
+    "title": "ロボティクスAIのStandard Bots、2億ドル調達で評価額10億ドルに到達",
+    "date": "2026/06/09",
+    "summary": "物理AIとロボットアーム技術を開発するStandard Botsが、シリーズCで2億ドルを調達し、評価額が10億ドルに達した。製造業や自動化分野でのAI活用が期待されている。",
+    "details": [
+      "Standard Botsは、高度な物理AIを搭載したロボットアームの制御技術を強みとするスタートアップ。今回の2億ドルの資金調達により、評価額が10億ドルを突破してユニコーン企業となり、産業用ロボットの自律化をさらに加速させる計画だ。"
+    ],
+    "sources": [
+      {
+        "name": "Robotics & Automation News",
+        "url": "https://roboticsandautomationnews.com/2026/06/09/standard-bots-reaches-1-billion-valuation-after-raising-200-million-series-c/102393/"
       }
     ],
     "importance": "medium",
     "socialImpact": 70,
-    "novelty": 65,
-    "confidence": 95,
-    "priorityReason": "医療現場におけるAI導入の実態と課題を示す重要な調査。",
-    "rankScore": 63,
+    "novelty": 78,
+    "confidence": 85,
+    "priorityReason": "物理AIとロボティクス分野での大型調達とユニコーン誕生のため。",
+    "rankScore": 65,
     "rankTier": "B",
     "ageDays": 2,
-    "rank": 10,
+    "rank": 9,
     "summaryLevel": "brief"
   },
   {
-    "id": "masayoshi-son-richest-2026",
+    "id": "news_004",
     "category": "Business",
-    "title": "ソフトバンクの孫正義氏、AIブームを背景に日本の富豪首位へ返り咲き",
+    "title": "ソフトバンクの孫正義氏が日本の富豪首位に返り咲き、AIブームが追い風に",
     "date": "2026/06/08",
-    "summary": "フォーブス誌が発表した2026年版の日本の富豪ランキングで、ソフトバンクグループの孫正義氏が資産額800億ドルで4年ぶりに首位を奪還した。OpenAIへの投資や株価上昇が寄与した。",
+    "summary": "フォーブス誌の2026年版「日本の富豪50人」で、ソフトバンクグループの孫正義氏が4年ぶりに首位を獲得した。OpenAIへの投資やAIブームに伴う株価急騰が背景にある。",
     "details": [
-      "フォーブス誌の2026年版「日本の富豪50人」において、ソフトバンクグループの孫正義氏がOpenAIへの巨額投資やAI関連株の高騰を背景に、資産を前年から大幅に増やして4年ぶりに首位に返り咲きました。"
+      "孫正義氏の総資産は前年比184%増の800億ドルに達し、ファーストリテイリングの柳井正氏を抜いて首位となった。ソフトバンクグループがOpenAIへの巨額投資などを背景に過去最高水準の純利益を記録したことが、資産急増の主な要因となっている。"
     ],
     "sources": [
       {
@@ -291,14 +253,14 @@
       }
     ],
     "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 60,
+    "socialImpact": 75,
+    "novelty": 65,
     "confidence": 95,
-    "priorityReason": "日本のビジネス界におけるAI投資の影響力を象徴するニュース。",
-    "rankScore": 61,
+    "priorityReason": "国内ビジネス界におけるAI投資の成果と富の移動を象徴するため。",
+    "rankScore": 65,
     "rankTier": "B",
     "ageDays": 3,
-    "rank": 11,
+    "rank": 10,
     "summaryLevel": "brief"
   }
 ]
