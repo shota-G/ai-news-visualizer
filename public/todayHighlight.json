@@ -1,370 +1,268 @@
 [
   {
-    "id": "spacex-ipo-pricing-20260612",
-    "category": "Economy",
-    "title": "SpaceXが1株135ドルで史上最大のIPOへ、評価額は1.77兆ドルに",
+    "id": "news-001",
+    "category": "Policy",
+    "title": "トランプ米大統領、イランへの軍事攻撃を中止　和平交渉の進展を主張",
     "date": "2026/06/12",
-    "summary": "イーロン・マスク氏率いるSpaceXが、新規株式公開（IPO）の価格を1株135ドルに設定した。これにより同社の評価額は1兆7700億ドルに達し、株式市場において史上最大のデビューを飾ることになる。",
+    "summary": "トランプ米大統領は、イランとの和平交渉が進展しているとして、予定していた軍事攻撃を中止したと発表した。これを受け、原油価格は4%以上急落し、世界的なインフレ懸念が一時的に和らいだことで、アジアなどの株式市場は急反発している。",
     "details": [
-      "イーロン・マスク氏率いる宇宙開発企業SpaceXが、新規株式公開（IPO）の売り出し価格を1株135ドルに正式決定した。",
-      "これにより同社の評価額は1兆7700億ドル（約270兆円）に達し、史上最大のIPOとなる。この上場は、宇宙産業のみならず、マスク氏のAI企業「xAI」との連携や、世界の金融市場全体に極めて大きな影響を与える。",
-      "今後は、個人投資家からの需要が1000億ドルを超える中で、上場後の株価推移や、調達資金がStarlinkや火星探査、AI開発にどう配分されるかが注視される。"
+      "トランプ米大統領は、イランとの和平交渉が合意に近づいていることを理由に、予定していたイランへの軍事攻撃を中止したと発表しました。一方で、イラン側は合意に達したとの見方を否定しており、両者の主張には食い違いが見られます。",
+      "この発表を受けて原油価格は4%以上急落し、ホルムズ海峡の閉鎖に伴うエネルギー危機やインフレ懸念が一時的に緩和されました。世界的な市場の不確実性が和らいだことで、アジア市場をはじめとする世界の株式相場は大幅に上昇しています。",
+      "今後は、カタールなどの仲介国を通じた米国とイランの交渉が実際に合意文書の署名に至るか、また原油市場のボラティリティがどのように推移するかが注視されます。"
+    ],
+    "sources": [
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/live/trump-administration-updates-06-12-2026"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 80,
+    "confidence": 95,
+    "priorityReason": "中東情勢の急展開と世界市場への多大な影響を把握するため。",
+    "rankScore": 90,
+    "rankTier": "S",
+    "ageDays": 1,
+    "rank": 1,
+    "summaryLevel": "deep"
+  },
+  {
+    "id": "news-002",
+    "category": "Business",
+    "title": "SpaceXが1株135ドルでIPO価格を設定、評価額1.77兆ドルの史上最大規模で上場へ",
+    "date": "2026/06/12",
+    "summary": "イーロン・マスク氏率いるSpaceXが、新規株式公開（IPO）の価格を1株135ドルに設定した。これにより同社の評価額は1.77兆ドルに達し、株式市場において史上最大規模のデビューを飾ることになり、投資家の間で大きな話題を呼んでいる。",
+    "details": [
+      "イーロン・マスク氏率いるSpaceXが、新規株式公開（IPO）において1株あたり135ドルの固定価格を設定し、上場手続きを開始しました。これにより同社の評価額は1.77兆ドルに達し、世界の株式市場における史上最大のIPOデビューとなります。",
+      "この上場は、従来のオークション方式ではなく固定価格方式を採用しており、今後の巨大テック企業やAIスタートアップ（AnthropicやOpenAIなど）の上場モデルケースになると見られています。また、市場の資金循環や投資家心理に極めて大きな影響を与えています。",
+      "今後は、上場後の株価推移や、この巨大な資金調達がマスク氏のAI企業「xAI」や宇宙開発事業にどのような相乗効果をもたらすかが注目されます。"
     ],
     "sources": [
       {
         "name": "NBC News",
         "url": "https://www.nbcnews.com/video/spacex-sets-ipo-price-at-135-264971845656"
-      },
-      {
-        "name": "Startup Ecosystem Canada",
-        "url": "https://www.startupecosystem.ca/news/spacex-sets-record-with-largest-ipo-at-135-per-share/"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 95,
-    "novelty": 80,
-    "confidence": 100,
-    "priorityReason": "史上最大規模のIPOであり、宇宙・金融市場への影響が絶大。",
-    "rankScore": 93,
-    "rankTier": "S",
-    "ageDays": 0,
-    "rank": 1,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "prometheus-funding-20260611",
-    "category": "Business",
-    "title": "ベゾス氏創業の物理AI企業Prometheus、120億ドルを調達し評価額410億ドルに",
-    "date": "2026/06/11",
-    "summary": "ジェフ・ベゾス氏らが共同創業した物理AIスタートアップ「Prometheus」が、120億ドルを調達し、評価額が410億ドルに達した。ジェットエンジンや医薬品などの複雑な物理設計を自動化するAI開発を目指す。",
-    "details": [
-      "ジェフ・ベゾス氏と元Google幹部のヴィック・バジャジ氏が共同創業した物理AIスタートアップ「Prometheus」が、120億ドルの資金調達を実施し、評価額が410億ドルに達したことが明らかになった。",
-      "本調達は物理AI分野への過去最大級の投資であり、ソフトウェアに留まらず、ジェットエンジンや医薬品などの複雑な物理システムの設計・製造プロセスを自動化する「人工汎用エンジニア」の実現を加速させる。",
-      "今後は、調達した巨額資金を基に、計算資源の確保やデータ収集、さらには関連企業の買収を進め、物理産業におけるAIの実用化をどのように進めるかが注目される。"
-    ],
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
-      },
-      {
-        "name": "New York Post",
-        "url": "https://nypost.com/2026/06/11/business/jeff-bezos-led-ai-startup-prometheus-valued-at-41b-in-blockbuster-fundraising/"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
-    "novelty": 90,
-    "confidence": 100,
-    "priorityReason": "ベゾス氏が主導する物理AIの巨額調達は産業界に激震を与えるため。",
-    "rankScore": 90,
+    "novelty": 85,
+    "confidence": 95,
+    "priorityReason": "史上最大のIPOであり、今後のテック市場の指標となるため。",
+    "rankScore": 89,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "deep"
   },
   {
-    "id": "20260609-openai-ipo",
-    "category": "Business",
-    "title": "OpenAIが米IPOを非公開申請、Anthropicに続きAI巨頭が株式公開へ",
-    "date": "2026/06/09",
-    "summary": "OpenAIが米証券取引委員会（SEC）に対し、新規株式公開（IPO）に向けた登録届出書草案を非公開で提出した。先行して申請した競合のAnthropicに続く動きで、AI業界の巨大企業による市場資金調達の競争が本格化する。",
+    "id": "newsweek-20260612-iran-tensions",
+    "category": "Policy",
+    "title": "トランプ大統領、対イラン攻撃を一時停止　合意間近との見方示す",
+    "date": "2026/06/12",
+    "summary": "トランプ米大統領は、イランとの交渉が合意に近づいているとして、予定していた軍事攻撃を一時停止したと発表。一方でイラン側はこの見解を否定し、緊張が続いている。",
     "details": [
-      "OpenAIは、競合のAnthropicに続き、米証券取引委員会（SEC）に対して新規株式公開（IPO）に向けた登録届出書草案（S-1）を非公開で提出した。",
-      "開発コストが急増する中、両社は巨額の資金調達を狙って株式公開を急いでいる。この動きはAI業界全体の市場価値を再定義し、投資マネーの勢力図を大きく塗り替える可能性がある。",
-      "今秋と噂される具体的な上場時期や、監査済みの粗利益率など詳細な財務データが公開された際の市場の反応、そして先行するSpaceXの上場動向が注目される。"
+      "トランプ米大統領は、イランとの間で新たな合意形成が間近に迫っているとの判断から、計画されていたイランへの軍事攻撃を一時的に停止したことを明らかにしました。しかし、イラン政府高官はこのトランプ氏の主張を否定しており、両国間の緊張緩和に向けた交渉の行方は依然として不透明な状況です。",
+      "この地政学的リスクの変動は、原油価格の乱高下や世界的なインフレ懸念を再燃させており、金融市場に大きな影響を与えています。特に米国による追加制裁や軍事行動の可能性が残る中、中東地域の安定化が世界経済の回復にとって極めて重要な課題となっています。",
+      "今後は、イラン側が実際に交渉のテーブルに戻るのか、あるいはトランプ政権が攻撃の一時停止を解除して軍事行動に踏み切るのか、双方の外交的シグナルと中東現地での軍実に伴う動向を注視する必要があります。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/technology/openai-files-us-ipo-after-anthropic-ai-giants-head-public-markets-2026-06-08/"
-      },
-      {
-        "name": "Business Insider",
-        "url": "https://www.businessinsider.com/openai-ipo-reactions-2026-6"
+        "name": "Newsweek",
+        "url": "https://www.newsweek.com/videos/the-bulletin-june-12s-news-in-60-seconds"
       }
     ],
     "importance": "critical",
-    "socialImpact": 95,
-    "novelty": 85,
-    "confidence": 95,
-    "priorityReason": "AI業界の勢力図を塗り替える歴史的なIPO申請の動き。",
-    "rankScore": 89,
+    "socialImpact": 85,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "米国とイランの軍事緊張と交渉の行方は世界経済に直結するため。",
+    "rankScore": 86,
     "rankTier": "S",
-    "ageDays": 3,
+    "ageDays": 1,
     "rank": 3,
     "summaryLevel": "deep"
   },
   {
-    "id": "20260611-claude-fable-5",
-    "category": "Model",
-    "title": "Anthropicが新AIモデル「Claude Fable 5」を発表、ライフサイエンス分野に特化",
-    "date": "2026/06/11",
-    "summary": "Anthropicは、創薬や科学研究に特化した新しい大規模言語モデル「Claude Fable 5」を発表した。最上位モデル「Mythos 5」をベースに構築され、分子生物学などで高い能力を示す一方、安全性への懸念から…",
+    "id": "news-003",
+    "category": "Service",
+    "title": "AbridgeがNVIDIAと提携、臨床会話に特化したAI基盤モデルを共同開発へ",
+    "date": "2026/06/12",
+    "summary": "医療AIスタートアップのAbridgeは、NVIDIAと提携し、臨床会話に特化したAI基盤モデルを共同開発すると発表した。NVIDIAのBlackwellアーキテクチャを活用し、医療現場の会話をリアルタイムで正確に文書…",
     "details": [
-      "Anthropicが発表した「Claude Fable 5」は、同社の最上位モデル「Mythos 5」をベースにした初の公開モデルであり、大腸菌の抗菌療法ターゲットとなるタンパク質の仮説をラボテストで実証するなど、バイオテクノロジーやゲノミクス分野で顕著な成果を上げている。一方で、危険なウイルスの設計やサイバーセキュリティへの悪用を防ぐため、特定の危険な質問に対しては旧世代のOpusクラスのモデルへ自動でルーティングする安全策が導入され、研究者の間で議論…"
+      "医療AIプラットフォームを提供するAbridgeは、NVIDIAと提携して臨床会話に特化した独自のAI基盤モデルを開発することを発表しました。このモデルはNVIDIAのBlackwellアーキテクチャとNemotronオープンモデルファミリーをベースに構築され、匿名化された臨床データを用いて事前トレーニングからファインチューニングまで行われます。これにより、一般的なLLMに依存せず、医療現場の会話を高いセキュリティと精度でリアルタイムに文書化・構造化し、…"
     ],
     "sources": [
       {
-        "name": "pharmaphorum",
-        "url": "https://pharmaphorum.com/news/anthropic-puts-life-sciences-heart-new-ai-model"
-      },
-      {
-        "name": "Startup Ecosystem Canada",
-        "url": "https://www.startupecosystem.ca/news/anthropic-unveils-claude-fable-5-a-breakthrough-in-ai-technology/"
+        "name": "MobiHealthNews",
+        "url": "https://www.mobihealthnews.com/news/abridge-partners-nvidia-expands-beyond-clinical-documentation"
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
-    "novelty": 90,
+    "socialImpact": 75,
+    "novelty": 80,
     "confidence": 90,
-    "priorityReason": "科学研究を加速する新モデルの登場と安全性の議論。",
-    "rankScore": 83,
+    "priorityReason": "医療現場のDXを加速するNVIDIAとの強力な提携であるため。",
+    "rankScore": 77,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 4,
     "summaryLevel": "standard"
   },
   {
-    "id": "apple-afm3-wwdc-20260611",
-    "category": "Model",
-    "title": "Appleが第3世代基盤モデル「AFM 3」を発表、オンデバイスとクラウドを統合",
-    "date": "2026/06/11",
-    "summary": "AppleはWWDC26にて、オンデバイスおよびクラウド向けを含む5つのモデルからなる第3世代の基盤モデル「Apple Foundation Models (AFM 3)」を発表した。音声や画像生成などのマルチモーダル…",
+    "id": "news-004",
+    "category": "Economy",
+    "title": "日本銀行、来週の会合で31年ぶりの高水準へ利上げを決定か　中東情勢によるインフレ懸念で",
+    "date": "2026/06/12",
+    "summary": "日本銀行は、中東情勢の緊迫化に伴うインフレリスクに対応するため、来週の金融政策決定会合で政策金利を31年ぶりの高水準に引き上げる見通しとなった。植田総裁は入院中のため会合を欠席するが、残る政策委員で決定される模様だ。",
     "details": [
-      "AppleはWWDC26にて、オンデバイスおよびクラウド向けを含む5つのモデルからなる第3世代の基盤モデル「Apple Foundation Models (AFM 3)」を発表した。音声や画像生成などのマルチモーダル機能が強化されている。"
+      "日本銀行は、中東の紛煙に起因するエネルギー価格の高騰とインフレリスクに対処するため、来週開催される金融政策決定会合において、政策金利を31年ぶりの高水準に引き上げる方針を固めつつあります。植田和男総裁は肝嚢胞の治療のため入院中で会合を欠席する見込みですが、残る8人の政策委員が主導し、欧州中央銀行（ECB）などの世界的な金融引き締め方針と同調する形で、利上げとタカ派姿勢の維持を決定する可能性が高まっています。"
     ],
     "sources": [
       {
-        "name": "9to5Mac",
-        "url": "https://9to5mac.com/2026/06/11/apples-new-foundation-models-explained-on-device-ai-cloud-ai-and-everything-in-between/"
+        "name": "Forex Factory",
+        "url": "https://www.forexfactory.com/news/1403238-bank-of-japan-set-to-hike-rates-to"
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "Appleの最新AI戦略と新モデルの技術的詳細が明らかになったため。",
-    "rankScore": 81,
+    "socialImpact": 80,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "日本の金融政策の歴史的転換点であり、円相場に直結するため。",
+    "rankScore": 77,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "trump-iran-talks-oil-drop-20260611",
-    "category": "Policy",
-    "title": "トランプ氏がイラン交渉の進展を主張、原油価格は4%超急落",
-    "date": "2026/06/11",
-    "summary": "トランプ米大統領がイランとの戦争終結に向けた交渉で「画期的な進展」があったと主張し、予定していた軍事攻撃を中止した。これを受けて原油価格は4%以上急落し、世界的な株高を招いた。",
+    "id": "news-005",
+    "category": "Ethics",
+    "title": "Anthropicが開発者の反発を受け方針転換、AIモデル「Fable 5」の制限開示へ",
+    "date": "2026/06/12",
+    "summary": "Anthropicは、最先端AIモデル「Fable 5」において、競合によるモデル蒸留を防ぐための制限を秘密裏に設けていたことで開発者から猛反発を受け、謝罪した。今後は制限時にユーザーへ明示し、代替モデルへルーティング…",
     "details": [
-      "トランプ米大統領がイランとの戦争終結に向けた交渉で「画期的な進展」があったと主張し、予定していた軍事攻撃を中止した。これを受けて原油価格は4%以上急落し、世界的な株高を招いた。"
+      "Anthropicは、最先端AIモデル「Fable 5」において、競合他社による技術の「蒸留（ディスティレーション）」を防ぐ目的で、特定の開発者向けプロンプトに対して意図的に回答精度を低下させていたことが発覚し、開発者コミュニティから強い反発を受けました。同社は「安全対策」と主張しつつも、不透明な制限について謝罪し、今後は制限をかける際にはユーザーに明示した上で、旧世代モデルの「Opus 4.8」に自動ルーティングする仕様へと方針を転換しました。"
     ],
     "sources": [
       {
-        "name": "NBC News",
-        "url": "https://www.nbcnews.com/nightly-news/video/trump-says-deal-with-iran-could-be-signed-in-days-264967749919"
-      },
-      {
-        "name": "The Sun Chronicle",
-        "url": "https://www.thesunchronicle.com/business/world-shares-surge-and-oil-prices-slip-after-trump-claims-a-breakthrough-in-iran-war/article_32fcba29-d10c-5b86-820f-f3f987de10a7.html"
+        "name": "Business Insider Africa",
+        "url": "https://africa.businessinsider.com/news/this-weeks-anthropic-inspired-ai-freakout-explained/f7wkxp6"
       }
     ],
     "importance": "high",
-    "socialImpact": 90,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "地政学リスクの緩和が世界市場と原油価格に与えた影響が大きいため。",
-    "rankScore": 81,
+    "socialImpact": 70,
+    "novelty": 75,
+    "confidence": 90,
+    "priorityReason": "AI開発の透明性と商業的制限の倫理的境界を示す事例。",
+    "rankScore": 75,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 6,
     "summaryLevel": "standard"
   },
   {
-    "id": "20260609-ai-builds-ai-regulation",
-    "category": "Policy",
-    "title": "「AIがAIを作る」自己改善技術に対し、国内外の規制当局が法整備を模索",
-    "date": "2026/06/09",
-    "summary": "Anthropicが提唱したAIの再帰的自己改善（AI-builds-AI）への懸念やグローバルな開発一時停止の提案を受け、政策立案者や議員らが、人間の制御を超えるAIの誕生を防ぐための新たな規制法の策定に動き出してい…",
-    "details": [
-      "AIが自ら次の世代のAIを設計・訓練する「自己改善AI（AI-builds-AI）」の技術が急速に進展する中、人間の制御を完全に離れたAIの誕生に伴う実存的リスクへの懸念が高まっている。Anthropicがこの技術に関する懸念を表明し、世界的な開発の一時停止を視野に入れた議論を促したことを受け、米国の州レベルや連邦政府の議員らは、AI開発プロセスそのものを規制対象とする新たな法案の設計に着手し始めている。"
-    ],
-    "sources": [
-      {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/lanceeliot/2026/06/09/lawmakers-are-aiming-to-regulate-ai-builds-ai-before-ai-gets-entirely-beyond-human-control/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 88,
-    "confidence": 90,
-    "priorityReason": "AIの自己進化という新たなリスクに対する規制の動き。",
-    "rankScore": 80,
-    "rankTier": "A",
-    "ageDays": 3,
-    "rank": 7,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "china-inp-export-restrictions-20260611",
-    "category": "Economy",
-    "title": "中国のインジウムリン輸出規制、AIデータセンターの光通信整備に打撃",
-    "date": "2026/06/11",
-    "summary": "中国政府によるインジウムリン（InP）の輸出規制が、AIデータセンターに不可欠な光通信（フォトニクス）技術のサプライチェーンを脅かしている。ウエハー価格は250%急騰し、米国企業に影響が出ている。",
-    "details": [
-      "中国政府によるインジウムリン（InP）の輸出規制が、AIデータセンターに不可欠な光通信（フォトニクス）技術のサプライチェーンを脅かしている。ウエハー価格は250%急騰し、米国企業に影響が出ている。"
-    ],
-    "sources": [
-      {
-        "name": "KITCO",
-        "url": "https://www.kitco.com/news/off-the-wire/2026-06-11/chinas-control-over-indium-phosphide-exports-threatens-ai-data-centre"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 85,
-    "confidence": 95,
-    "priorityReason": "AIインフラに不可欠な希少金属の地政学的リスクを浮き彫りにした。",
-    "rankScore": 79,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 8,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "20260609-apple-wwdc-ai",
-    "category": "Service",
-    "title": "AppleがWWDCで新たなAIフレームワークを発表、GeminiやClaudeとの連携も可能に",
-    "date": "2026/06/09",
-    "summary": "Appleは開発者向け会議WWDCにて、アプリへのAI機能統合を容易にする新しい「Foundation Models」フレームワークや、ローカル実行に最適化された「Core AI」を発表した。GoogleのGemini…",
-    "details": [
-      "Appleが発表した新しい「Foundation Models」フレームワークは、単一のネイティブSwift APIを通じて、デバイス上およびプライベートクラウド上の高度なAIモデルへのアクセスを提供する。これにより、開発者はApple独自のモデルだけでなく、GoogleのGeminiやAnthropicのClaudeといった外部の主要モデルをアプリ内に容易に統合できるようになり、さらに小規模事業者向けにはPrivate Cloud ComputeのAP…"
-    ],
-    "sources": [
-      {
-        "name": "Financial Times",
-        "url": "https://markets.ft.com/data/announce/detail?dockey=600-202606081700BIZWIRE_USPRX____20260608_BW093428-1"
-      },
-      {
-        "name": "Let's Data Science",
-        "url": "https://letsdatascience.com/news/apple-debuts-integrated-ai-features-at-wwdc-f3115011"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 88,
-    "novelty": 85,
-    "confidence": 90,
-    "priorityReason": "AppleエコシステムにおけるAI開発の民主化と外部連携。",
-    "rankScore": 79,
-    "rankTier": "A",
-    "ageDays": 3,
-    "rank": 9,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "ai-price-war-openai-anthropic-20260611",
+    "id": "reuters-20260611-anthropic-openai-ipo",
     "category": "Business",
-    "title": "AI価格戦争が勃発か、OpenAIがAnthropicに対抗し大幅値下げを検討",
+    "title": "AnthropicとOpenAI、IPOを巡る対立と会計手法での非難合戦が激化",
     "date": "2026/06/11",
-    "summary": "OpenAIが競合のAnthropicに対抗するため、開発者や企業向けの大幅な値下げを検討している。両社ともIPOを控える中、高騰するデータセンターコストと収益性の確保というジレンマに直面している。",
+    "summary": "AnthropicとOpenAIが相次いでIPOを申請する中、両社間の競争が激化。OpenAIがAnthropicの売上計上方法を「誇張されている」と批判するなど、主導権争いが表面化している。",
     "details": [
-      "OpenAIが競合のAnthropicに対抗するため、開発者や企業向けの大幅な値下げを検討している。両社ともIPOを控える中、高騰するデータセンターコストと収益性の確保というジレンマに直面している。"
-    ],
-    "sources": [
-      {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/openai-wants-price-war-anthropic-223103426.html"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "主要AI企業による価格競争が開発者や市場に与える影響を解説。",
-    "rankScore": 78,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 10,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "20260610-ajinomoto-abf",
-    "category": "Business",
-    "title": "AIチップに不可欠な味の素の絶縁フィルム、CEOは「便乗値上げはしない」と明言",
-    "date": "2026/06/10",
-    "summary": "世界的なAIチップ需要の爆発により、半導体パッケージ用層間絶縁材料「味の素ビルドアップフィルム（ABF）」の供給圧力が強まる中、味の素のCEOは需要急増を理由にした安易な値上げを行わない方針を示した。",
-    "details": [
-      "味の素が独占的に供給する「味の素ビルドアップフィルム（ABF）」は、高性能なAI半導体の製造に不可欠な絶縁材料であり、現在のAIブームを支える重要なボトルネックの一つとなっている。需要が極めて逼迫しているものの、同社のCEOは顧客との長期的な信頼関係を重視し、需給の逼迫に乗じた安易な価格引き上げを行わない姿勢を明確にしており、半導体サプライチェーンの安定化に寄与する姿勢を示している。"
-    ],
-    "sources": [
-      {
-        "name": "The Wall Street Journal",
-        "url": "https://www.wsj.com/business/ai-needs-ajinomotos-film-but-its-ceo-won-t-raise-prices-just-because-90d4782b"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 78,
-    "novelty": 75,
-    "confidence": 90,
-    "priorityReason": "AI半導体サプライチェーンの鍵を握る日本企業の動向。",
-    "rankScore": 75,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 11,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "20260609-philips-healthcare-ai",
-    "category": "Ethics",
-    "title": "医療AIは医師の時間を削減するも、大半が「トレーニング不足」と回答",
-    "date": "2026/06/09",
-    "summary": "フィリップスが実施したグローバル調査によると、医療従事者の約半数がAI導入により年間132時間以上の時間を節約できたと回答した一方、大半が技術に関するトレーニングが不十分または一貫していないと感じていることが判明した。",
-    "details": [
-      "フィリップスが10カ国の医療従事者と患者を対象に実施した「Future Health Index」調査により、AIが臨床ノートの文字起こしや予約管理、危険な薬の組み合わせの警告などを通じて医師や看護師の業務効率を大幅に向上させている実態が明らかになった。しかし、回答した医療従事者の多くがAIを安全かつ効果的に活用するための教育やトレーニングが不足していると訴えており、医療現場におけるAIの普及に伴うガバナンスと教育体制の整備が急務となっている。"
+      "「ChatGPT」を開発するOpenAIと、そのライバルであるAnthropicが相次いで米国で秘密裏にIPO（新規公開株）を申請したことを受け、両社間の市場主導権を巡る対立が激化しています。OpenAI側は、Anthropicがパートナー企業（AmazonやGoogle）に支払う前の総売上高を計上しているため、実際の財務状況が誇張されていると非難しており、投資家へのアピールを巡る泥沼の非難合戦に発展しています。"
     ],
     "sources": [
       {
         "name": "Reuters",
-        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ai-saves-clinicians-time-most-lack-training-survey-finds-2026-06-09/"
+        "url": "https://www.reuters.com/legal/transactional/anthropic-v-openai-behind-bitter-battle-future-ai-2026-06-11/"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70,
+    "socialImpact": 75,
+    "novelty": 80,
     "confidence": 95,
-    "priorityReason": "医療現場でのAI活用における教育と安全性の課題を提示。",
+    "priorityReason": "生成AIの二大巨頭によるIPO競争と対立の構図を理解するため。",
     "rankScore": 75,
     "rankTier": "A",
-    "ageDays": 3,
-    "rank": 12,
+    "ageDays": 2,
+    "rank": 7,
     "summaryLevel": "standard"
   },
   {
-    "id": "20260612-microsoft-mai",
-    "category": "Model",
-    "title": "Microsoftの独自AI「MAI」シリーズ4モデルを検証、Copilotとの違いと実力",
-    "date": "2026/06/12",
-    "summary": "Microsoftが「Build 2026」で発表した、自社開発のLLMに基づく新しいAIモデル群「MAI」シリーズ（推論、画像生成、文字起こし、音声合成）の実機検証が行われ、OpenAI…",
+    "id": "mobihealthnews-20260611-healthcare-ai-risk",
+    "category": "Ethics",
+    "title": "医療AI規制緩和でイノベーション加速も、法的責任リスク増大に懸念",
+    "date": "2026/06/11",
+    "summary": "医療分野でのAI規制緩和が進む中、専門家は医療機関に対し、AIの出力を盲信せず検証するガバナンス体制の構築と、それに伴う法的責任リスクへの備えを呼びかけている。",
     "details": [
-      "Microsoftが自社開発した大規模言語モデル（LLM）群「MAI」シリーズ（推論モデルのMAI-Thinking-1、画像生成のMAI-Image-2.5、文字起こしのMAI-Transcribe-1.5、音声合成のMAI-Voice-2）は、OpenAIの技術をベースとする従来のCopilotとは異なり、完全にインハウスで構築され…"
+      "医療分野におけるAI規制の緩和は技術革新を加速させる一方で、誤診やシステムエラーが発生した際の法的責任リスクを増大させています。専門家は、医療従事者がAIの診断や推奨出力を盲信すること（AIコンプレセンシー）を防ぐため、医療機関が主体的にAIの利用を管理・検証する厳格なガバナンス体制を構築することが不可欠であると警告しています。"
     ],
     "sources": [
       {
-        "name": "PCMag",
-        "url": "https://www.pcmag.com/news/i-tested-all-4-of-microsofts-new-ai-models-heres-the-brutal-truth"
+        "name": "MobiHealthNews",
+        "url": "https://www.mobihealthnews.com/video/deregulation-enables-ai-innovation-adds-liability-risk"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 75,
+    "confidence": 90,
+    "priorityReason": "医療AIの普及に伴う法的リスクとガバナンスの重要性を示すため。",
+    "rankScore": 73,
+    "rankTier": "A",
+    "ageDays": 2,
+    "rank": 8,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "techcrunch-20260610-vivatech-enterprise-ai",
+    "category": "Service",
+    "title": "欧州のエンタープライズAI台頭、VivaTech 2026の主要テーマに",
+    "date": "2026/06/10",
+    "summary": "欧州最大級のテックイベント「VivaTech 2026」では、従来の基盤モデルやチャットボットから、製造や物流などの産業向け「エンタープライズAI」の実装とガバナンスが主役に躍り出ている。",
+    "details": [
+      "欧州最大級のスタートアップイベント「VivaTech 2026」において、産業用インフラや製造、物流、医療などの複雑なシステムにAIを統合する「エンタープライズAI」が最大の焦点となっています。シリコンバレーが消費者向けの大型言語モデルに注力する一方で、欧州企業はセキュリティ、コンプライアンス、運用の信頼性を重視した実用的なAI実装で優…"
+    ],
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/"
       }
     ],
     "importance": "medium",
-    "socialImpact": 75,
-    "novelty": 80,
+    "socialImpact": 60,
+    "novelty": 65,
+    "confidence": 85,
+    "priorityReason": "欧州が強みを持つ産業向けAIの最新トレンドを把握するため。",
+    "rankScore": 60,
+    "rankTier": "B",
+    "ageDays": 3,
+    "rank": 9,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "yahoofinance-20260612-adobe-cfo",
+    "category": "Business",
+    "title": "アドビ、好決算もCFO退任発表で時間外株価が下落",
+    "date": "2026/06/12",
+    "summary": "アドビが発表した2026年度第2四半期決算は市場予想を上回る好調な結果となったが、同時に発表された最高財務責任者（CFO）の退任が嫌気され、時間外取引で株価が下落した。",
+    "details": [
+      "アドビが発表した2026年度第2四半期決算は、堅調な業績と通期見通しを示したものの、最高財務責任者（CFO）の退任発表が影を落とし、株価は時間外取引で下落しました。市場は決算自体の好調さよりも、長年財務を支えたCFOの離脱による今後の経営体制への不確実性を懸念した形となっています。"
+    ],
+    "sources": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-stock-drops-hours-cfo-211838480.html"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 50,
+    "novelty": 50,
     "confidence": 90,
-    "priorityReason": "MicrosoftのOpenAI依存脱却に向けた独自モデルの評価。",
-    "rankScore": 72,
-    "rankTier": "A",
-    "ageDays": 0,
-    "rank": 13,
+    "priorityReason": "大手テック企業の決算と経営陣交代による市場への影響を解説。",
+    "rankScore": 57,
+    "rankTier": "C",
+    "ageDays": 1,
+    "rank": 10,
     "summaryLevel": "brief"
   }
 ]
