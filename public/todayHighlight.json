@@ -1,186 +1,72 @@
 [
   {
-    "id": "bezos-prometheus-funding-20260611",
-    "category": "Business",
-    "title": "ジェフ・ベゾス氏率いるAIスタートアップ「Prometheus」、評価額410億ドルで120億ドルを調達",
-    "date": "2026/06/11",
-    "summary": "アマゾン創業者のジェフ・ベゾス氏が共同CEOを務めるAIスタートアップ「Prometheus」が、120億ドルの資金調達を実施し、評価額が410億ドルに達した。ジェットエンジンや医療機器など複雑な物理製品の設計・製造プロセスを劇的に効率化するAIツールを開発…",
+    "id": "spacex-ipo-pricing-20260612",
+    "category": "Economy",
+    "title": "SpaceX、IPO価格を135ドルに設定し評価額1.77兆ドルで新規上場へ",
+    "date": "2026/06/12",
+    "summary": "イーロン・マスク氏率いるSpaceXが、新規株式公開（IPO）の売出価格を1株あたり135ドルに設定した。これにより同社の評価額は1.77兆ドル（約270兆円）に達し、株式市場において史上最大規模のデビューを果たすことになる。",
     "details": [
-      "アマゾン創業者のジェフ・ベゾス氏が元Google幹部のヴィク・バジャジ氏と共に率いるAIスタートアップ「Prometheus」が、ゴールドマン・サックスやブラックロックなどから120億ドルを調達し、評価額が410億ドルに達したことが明らかになった。同社はジェットエンジンや医療機器といった複雑な物理的製品の設計・製造プロセスを10倍以上高速化するAIツールの開発を進めている。",
-      "ベゾス氏が2021年にアマゾンCEOを退任して以来、AI分野への関与を急速に強めている象徴的な動きであり、物理的なものづくりに特化した「人工汎用エンジニア（AGE）」という新たなAIフロンティアの開拓を意味する。製造業やヘルスケア産業における設計サイクルの劇的な短縮は、世界の産業競争力やサプライチェーンに破壊的な変革をもたらす可能性がある。",
-      "今後は、同社が開発するAIツールが実際の航空宇宙や医療機器メーカーの現場にどのように導入され、実用的な成果を上げるかが焦点となる。また、アマゾンやブルーオリジンといったベゾス氏が関わる他の巨大企業との直接的な提携や技術統合の有無、そして物理AI市場における競合他社とのシェア争いが注目される。"
+      "イーロン・マスク氏率いる宇宙開発企業SpaceXが、新規株式公開（IPO）の売出価格を1株あたり135ドルに設定したことが明らかになった。これにより同社の評価額は1.77兆ドルに達し、これまでの株式市場の歴史において最大規模の新規上場となる見通しである。",
+      "この超大型IPOは、民間宇宙開発分野への投資熱をさらに刺激するだけでなく、創設者であるイーロン・マスク氏の資産を大きく押し上げ、世界初の「テラ万長者」誕生への道を開くものとして市場の注目を集めている。また、宇宙インフラや衛星通信事業の成長性が株式市場でどのように評価されるか、今後のハイテク株全体の指標となる。",
+      "今後は、上場後の初値形成や取引開始後の株価推移、そして調達した巨額の資金が火星探査計画やStarlink事業の拡大にどのように投入されるかが注視される。"
     ],
     "sources": [
       {
-        "name": "New York Post",
-        "url": "https://nypost.com/2026/06/11/business/jeff-bezos-led-ai-startup-prometheus-valued-at-41b-in-blockbuster-fundraising/"
-      },
-      {
-        "name": "The Wall Street Journal",
-        "url": "https://www.wsj.com/tech/ai/bezos-bats-down-ai-job-loss-fears-while-launching-new-venture-d1e6fb09"
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/video/spacex-sets-ipo-price-at-135-264971845656"
       }
     ],
     "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 90,
+    "socialImpact": 90,
+    "novelty": 85,
     "confidence": 95,
-    "priorityReason": "ベゾス氏が率いる超大型物理AI企業の誕生と巨額調達の衝撃。",
-    "rankScore": 90,
+    "priorityReason": "史上最大規模のIPOであり、市場への影響が極めて大きいため。",
+    "rankScore": 92,
     "rankTier": "S",
-    "ageDays": 1,
+    "ageDays": 0,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "worldbank-growth-downgrade-20260611",
-    "category": "Economy",
-    "title": "世界銀行、世界経済成長率予測を2.5%に下方修正、中東紛争によるインフレ再燃を警告",
-    "date": "2026/06/11",
-    "summary": "世界銀行は半期経済見通しで、中東での戦争（イラン戦争）に伴うエネルギー価格高騰や借入コスト上昇の影響により、今年の世界経済成長率予測を2.5%に下方修正した。これはパンデミック以降で最低水準であり、インフレ率は4%に達すると警告している。",
+    "id": "openai-ipo-filing-2026",
+    "category": "Business",
+    "title": "OpenAIが米IPOを機密申請、Anthropicに続き株式公開へ",
+    "date": "2026/06/09",
+    "summary": "OpenAIが米証券取引委員会（SEC）に対し、新規株式公開（IPO）に向けた機密申請を行ったことが明らかになった。競合のAnthropicに続く動きであり、AI分野の巨頭たちが相次いでパブリック市場への参入を果たすことになる。",
     "details": [
-      "世界銀行は半年に一度の「世界経済見通し」を発表し、今年の世界経済成長率予測を2.5%に下方修正した。これは新型コロナウイルスのパンデミック以降で最も低い成長水準であり、中東での戦争（イラン戦争）によるホルムズ海峡の物流混乱やエネルギー価格の高騰、それに伴う金利高止まりが主な要因とされている。",
-      "この報告は、地政学的リスクが直接的に世界規模のスタグフレーション懸念を誘発していることを示している。特にホルムズ海峡の混乱による肥料価格の38%急騰予測など、農業や食料供給への打撃も懸念されており、新興国や途上国にとっては「失われた10年」となるリスクが現実味を帯びている。",
-      "今後は、ホルムズ海峡の通航制限がいつ緩和されるか、また主要国の中央銀行がこの戦争主導のインフレに対してさらなる利上げで対抗するのか、あるいは景気後退を避けるために緩和へ舵を切るのか、その政策判断が注視される。"
+      "OpenAIが米証券取引委員会（SEC）に対し、新規株式公開（IPO）に向けたドラフト登録申請書を機密裏に提出した。同社は直近の資金調達で840億ドルの評価額を記録しており、ChatGPTの週次アクティブユーザー数が9億人を超えるなど急成長を遂げている。",
+      "先行してIPO申請を行ったAnthropicや、今週上場を控えるSpaceXに続く動きであり、AI業界の「3大巨頭」がパブリック市場に揃うことになる。莫大な開発・計算コストを賄うための資金調達手段として、株式公開が不可欠なフェーズに入ったことを示している。",
+      "今秋にも想定される上場タイミングや、非営利団体による支配構造からパブリック・ベネフィット・コーポレーション（公共利益企業）への移行プロセスの進捗、そして市場がこれら巨大AI企業のバリュエーションをどのように評価するかが注視される。"
     ],
     "sources": [
       {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/business/2026/jun/11/global-growth-slow-lowest-level-pandemic-world-bank"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/technology/openai-files-us-ipo-after-anthropic-ai-giants-head-public-markets-2026-06-08/"
+      },
+      {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/06/09/business/dealbook/openai-ipo-spacex-anthropic.html"
       }
     ],
     "importance": "critical",
-    "socialImpact": 95,
-    "novelty": 75,
+    "socialImpact": 85,
+    "novelty": 80,
     "confidence": 95,
-    "priorityReason": "イラン戦争が世界経済に与える深刻な打撃と成長率下方修正。",
-    "rankScore": 90,
+    "priorityReason": "AI業界最大の巨頭がIPOへ動き出したため。",
+    "rankScore": 85,
     "rankTier": "S",
-    "ageDays": 1,
+    "ageDays": 3,
     "rank": 2,
     "summaryLevel": "deep"
   },
   {
-    "id": "openai-ipo-filing-20260609",
-    "category": "Business",
-    "title": "OpenAIが米IPOを非公開申請、Anthropicに続き株式公開へ",
-    "date": "2026/06/09",
-    "summary": "OpenAIが米証券取引委員会（SEC）に対し、新規株式公開（IPO）に向けた申請を非公開で行ったことが明らかになった。競合のAnthropicやSpaceXに続く動きであり、AIスタートアップの巨大な資金調達競争が公の市場へと移行する。",
-    "details": [
-      "OpenAIが米証券取引委員会（SEC）に対し、新規株式公開（IPO）に向けたS-1申請書を非公開で提出した。同社は直近で1100億ドルを調達し、評価額は8400億ドルに達している。今回の申請は、競合のAnthropicやイーロン・マスク氏率いるSpaceXのIPO計画に続くものであり、AI業界の巨頭たちが一斉に株式公開へと舵を切っている。",
-      "AIモデルの開発やデータセンターの維持には天文学的な資金が必要であり、プライベート市場だけでは賄いきれなくなっている。今回のIPOラッシュは、AIバブルの評価額が公の市場で維持できるかどうかの最大の試金石となる。また、Microsoftとの独占的提携の再交渉を経て、AmazonやGoogleなど他のテック大手との新たな提携を模索する動きも加速するだろう。",
-      "今秋（9月〜12月）と噂される具体的な上場時期や、公開される財務諸表による収益性の証明に注目が集まる。また、非営利団体による支配構造からパブリック・ベネフィット・コーポレーション（公共利益企業）への移行プロセスの詳細も注視すべきである。"
-    ],
-    "sources": [
-      {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/09/business/dealbook/openai-ipo-spacex-anthropic.html"
-      },
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/technology/openai-files-us-ipo-after-anthropic-ai-giants-head-public-markets-2026-06-08/"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 85,
-    "confidence": 95,
-    "priorityReason": "AI業界最大の巨頭によるIPO申請であり、市場への影響が極めて大きいため。",
-    "rankScore": 88,
-    "rankTier": "S",
-    "ageDays": 3,
-    "rank": 3,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "boj-rate-hike-ueda-absent-20260612",
-    "category": "Economy",
-    "title": "日銀、植田総裁不在のなか来週にも31年ぶり高水準への利上げに踏み切る見通し",
-    "date": "2026/06/12",
-    "summary": "日本銀行は、植田和男総裁が肝嚢胞の治療で入院し来週の金融政策決定会合を欠席するものの、中東戦争に伴うインフレリスクに対処するため、政策金利を31年ぶりの高水準に引き上げる見通しだ。欧州中銀の利上げに続く動きとなる。",
-    "details": [
-      "日本銀行は、植田和男総裁が肝嚢胞の治療のため入院し、6月16日に終了する金融政策決定会合を欠席する異例の事態に見舞われているが、中東での戦争に起因するエネルギー価格高騰とインフレリスクに対処するため、政策金利を31年ぶりの高水準に引き上げる方針を崩さない見通しである。この決定は、前日に利上げを実施した欧州中央銀行（ECB）など、世界的な金融引き締めへのシフトと同調するものであり、為替市場や日本の国債市場に大きな影響を与える可能性があるため、総裁不在のなか…"
-    ],
-    "sources": [
-      {
-        "name": "Forex Factory",
-        "url": "https://www.forexfactory.com/news/1403238-bank-of-japan-set-to-hike-rates-to"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 90,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "総裁不在という異例の事態下で決定される歴史的な利上げ。",
-    "rankScore": 84,
-    "rankTier": "A",
-    "ageDays": 0,
-    "rank": 4,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "anthropic-openai-ipo-battle-20260611",
-    "category": "Business",
-    "title": "AnthropicとOpenAIが秘密裏にIPO申請、売上計上方法を巡る泥仕合も激化",
-    "date": "2026/06/11",
-    "summary": "AI大手のAnthropicとOpenAIが相次いで秘密裏にIPOを申請した。両社は上場時期を競うだけでなく、OpenAIが「Anthropicはパートナー企業に分配する前の総売上を計上しており、財務を誇張している」と…",
-    "details": [
-      "生成AI分野で覇権を争うAnthropicとOpenAIが、それぞれ米国証券取引委員会（SEC）に対して秘密裏に新規株式公開（IPO）の申請を行ったことが明らかになり、ウォール街を巻き込んだ歴史的な上場競争が幕を開けた。両社は市場での評価額や「AIの主導者」としての地位を確立するために上場時期を競い合っているが、その裏ではOpenAIが「AnthropicはAmazonやGoogleに分配する前の総売上を計上しており、実質的な売上を数十億ドル規模で過大に…"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/legal/transactional/anthropic-v-openai-behind-bitter-battle-future-ai-2026-06-11/"
-      },
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 88,
-    "novelty": 85,
-    "confidence": 95,
-    "priorityReason": "AI二大巨頭による歴史的IPO申請と財務を巡る泥仕合の裏側。",
-    "rankScore": 82,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 5,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "china-inp-export-restriction-20260611",
-    "category": "Economy",
-    "title": "中国のインジウムリン輸出規制が深刻化、AIデータセンターの光通信移行に打撃",
-    "date": "2026/06/11",
-    "summary": "中国政府によるインジウムリン（InP）の輸出規制により、同素材のウエハー価格が250%急騰している。InPはAIデータセンターの高速化に不可欠な光通信（フォトニクス）技術の基幹素材であり、Nvidiaなどのサプライチェ…",
-    "details": [
-      "中国商務省が導入したインジウムリン（InP）の輸出規制により、6インチInPウエハーの平均価格が5,000ドルへと250%も急騰しており、AIデータセンターの処理能力を飛躍的に高める次世代技術「フォトニクス（光通信）」の導入計画に深刻な影を落としている。InPは電気信号を光信号に変換するモジュールに不可欠な代替不可能な素材であり、Nvidiaが関連企業に巨額投資を行うなど市場が急拡大する中で、中国が原材料のチョークポイントを握ることで米国のハイテクインフ…"
-    ],
-    "sources": [
-      {
-        "name": "KITCO",
-        "url": "https://www.kitco.com/news/off-the-wire/2026-06-11/chinas-control-over-indium-phosphide-exports-threatens-ai-data-centre"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "中国の輸出規制がAIインフラの心臓部を直撃する地政学的リスク。",
-    "rankScore": 80,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 6,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "anthropic-claude-fable-5-20260610",
+    "id": "anthropic-claude-fable-5",
     "category": "Model",
-    "title": "Anthropicが新AIモデル「Claude Fable 5」発表、創薬と科学研究に特化",
-    "date": "2026/06/10",
-    "summary": "Anthropicは、創薬や分子生物学などの科学研究に特化した新しい大規模言語モデル「Claude Fable 5」をリリースした。最高峰モデル「Mythos 5」をベースにしつつ、生物・化学兵器やサイバー攻撃への悪用…",
+    "title": "Anthropic、創薬や科学研究に特化した新AIモデル「Claude Fable 5」をリリース",
+    "date": "2026/06/12",
+    "summary": "Anthropicは、創薬や分子生物学などの科学研究に特化した新AIモデル「Claude Fable 5」を発表した。最上位モデルをベースに高い仮説生成能力を持つ一方、危険な領域への質問を制限する安全策も導入されている。",
     "details": [
-      "Claude Fable 5は、これまでリスクが高すぎるとして非公開だった「Mythos 5」モデルをベースに開発された。大腸菌の新しい抗菌療法の標的となるタンパク質の仮説を生成し実験で検証されるなど、科学研究において高い成果を示している。一方で、危険なウイルスの設計やハッキングへの悪用を防ぐため、機微な質問に対しては機能を制限した旧モデルへ自動でルーティングする安全ガードレールが実装されている。"
+      "Anthropicが発表した「Claude Fable 5」は、大腸菌の抗菌治療標的となるタンパク質の発見や、遺伝子治療用ベクターの設計支援など、バイオテクノロジー分野で顕著な成果を示している。一方で、生物兵器やサイバーセキュリティなどの危険なタスクへの悪用を防ぐため、特定の質問に対しては旧世代モデルへ自動でルーティングする制限機能が設けられており、研究者の間ではその制限を巡る議論も起きている。"
     ],
     "sources": [
       {
@@ -193,24 +79,106 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 88,
+    "socialImpact": 75,
+    "novelty": 85,
     "confidence": 90,
-    "priorityReason": "科学研究に特化した強力なAIモデルの登場と、その安全対策が注目されるため。",
-    "rankScore": 78,
+    "priorityReason": "科学研究に特化した強力なAIモデルの登場。",
+    "rankScore": 81,
     "rankTier": "A",
-    "ageDays": 2,
-    "rank": 7,
+    "ageDays": 0,
+    "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "ecb-boj-rate-hikes-20260610",
-    "category": "Economy",
-    "title": "欧州中央銀行と日本銀行が利上げへ、エネルギー価格高騰によるインフレ抑制狙う",
-    "date": "2026/06/10",
-    "summary": "欧州中央銀行（ECB）と日本銀行（日銀）が、数日中にも利上げに踏み切る見通しとなった。中東情勢の緊迫化に伴うエネルギー価格の上昇が広範なインフレを引き起こすリスクに対処するため、金融引き締めを急ぐ。",
+    "id": "prometheus-funding-41b-20260611",
+    "category": "Business",
+    "title": "ジェフ・ベゾス氏ら設立の物理AI企業Prometheus、120億ドル調達で評価額410億ドルに",
+    "date": "2026/06/11",
+    "summary": "ジェフ・ベゾス氏と元Google幹部が共同設立した物理AIスタートアップ「Prometheus」が、120億ドルを調達し評価額が410億ドルに達した。ジェットエンジンや医薬品などの複雑な物理設計を自動化するAIの開発を…",
     "details": [
-      "欧州中央銀行（ECB）は理事会で預金金利を2.0%から2.25%へ引き上げる見込みであり、これは3年ぶりの利上げとなる。また、日本銀行も来週の会合で政策金利を1995年以来の高水準となる1%に引き上げる見通し。両地域ともに経済活動は堅調を維持しているものの、エネルギー価格のショックが物価全体に波及するのを防ぐための予防的な措置となる。"
+      "アマゾン創業者のジェフ・ベゾス氏と元Googleライフサイエンス部門共同創業者のヴィク・バジャジ氏が率いる物理AIスタートアップ「Prometheus」が、ゴールドマン・サックスやブラックロックなどから120億ドルを調達し、評価額が410億ドルに達した。同社は、ジェットエンジンや複雑な医療機器などの設計・製造プロセスを自動化する「人工汎用エンジニア（AGE）」ソフトウェアの開発を進めており、物理世界におけるAI活用を加速させる巨大な一手として注目されてい…"
+    ],
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
+      },
+      {
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/06/11/business/jeff-bezos-led-ai-startup-prometheus-valued-at-41b-in-blockbuster-fundraising/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 90,
+    "confidence": 95,
+    "priorityReason": "ベゾス氏が主導する物理AIの巨額調達ニュース。",
+    "rankScore": 81,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 4,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "apple-afm3-foundation-models-20260611",
+    "category": "Model",
+    "title": "Apple、オンデバイスとクラウドを統合した第3世代「Apple Foundation Models」を発表",
+    "date": "2026/06/11",
+    "summary": "AppleはWWDC26にて、第3世代となる「Apple Foundation Models (AFM 3)」の5つのモデルを発表した。オンデバイス向けの軽量モデルから、プライベートクラウドで動作する高度なモデルまでを…",
+    "details": [
+      "AppleはWWDC26の基調講演において、第3世代の基盤モデル「Apple Foundation Models (AFM 3)」を発表した。ラインナップには、30億パラメータのオンデバイス向け「AFM 3 Core」、200億パラメータのスパース構成モデル「AFM 3 Core Advanced」、サーバー側で動作する「AFM 3 Cloud」などが含まれ、音声や画像理解、長期コンテキスト推論などのマルチモーダル機能が大幅に強化されている。"
+    ],
+    "sources": [
+      {
+        "name": "9to5Mac",
+        "url": "https://9to5mac.com/2026/06/11/apples-new-foundation-models-explained-on-device-ai-cloud-ai-and-everything-in-between/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 80,
+    "confidence": 95,
+    "priorityReason": "Appleの最新AI戦略とモデル詳細が判明。",
+    "rankScore": 80,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 5,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "world-bank-global-growth-slowdown-20260611",
+    "category": "Economy",
+    "title": "世界銀行、世界経済成長率が2.5%に減速と予測、中東情勢緊迫化によるインフレを警告",
+    "date": "2026/06/11",
+    "summary": "世界銀行は最新の報告書で、中東での紛争によるエネルギー価格の高騰やインフレを背景に、2026年の世界経済成長率予測を2.5%に引き下げた。これはコロナ禍以降で最低の水準となる。",
+    "details": [
+      "世界銀行が発表した世界経済見通し報告書によると、中東での紛争に伴うホルムズ海峡の混乱やエネルギー価格の高騰を背景に、2026年の世界経済成長率は2.5%に減速する見通しとなった。世銀は、インフレ率が4%に上昇し、新興国や途上国にとって2020年代が「失われた10年」となるリスクがあると警告している。"
+    ],
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/jun/11/global-growth-slow-lowest-level-pandemic-world-bank"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "世界経済の減速とインフレリスクを警告する重要報告。",
+    "rankScore": 79,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 6,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "ecb-boj-rate-hikes-2026",
+    "category": "Economy",
+    "title": "欧州中央銀行と日本銀行が利上げへ、エネルギー価格高騰によるインフレ抑制を狙う",
+    "date": "2026/06/10",
+    "summary": "欧州中央銀行（ECB）と日本銀行（BOJ）が、相次いで利上げに踏み切る見通しとなった。イラン情勢緊迫化に伴うエネルギー価格の上昇が広範なインフレに波及するのを防ぐため、両中銀ともに金融引き締めを急ぐ。",
+    "details": [
+      "欧州中央銀行（ECB）は主要預金金利を2.0%から2.25%へ引き上げる見込みであり、これは3年ぶりの利上げとなる。また、日本銀行も政策金利を1995年以来の高水準となる1.0%へ引き上げ、量的引き締めを加速させる方針。両地域ともに経済の底堅さが見られるものの、原油価格ショックによる二次的なインフレ圧力を警戒した予防的な措置とみられる。"
     ],
     "sources": [
       {
@@ -219,44 +187,66 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
+    "socialImpact": 80,
     "novelty": 70,
-    "confidence": 90,
-    "priorityReason": "日欧の主要中央銀行による同時利上げは、世界金融市場に直結するため。",
-    "rankScore": 76,
+    "confidence": 95,
+    "priorityReason": "世界的な金融政策の転換と市場への影響。",
+    "rankScore": 75,
     "rankTier": "A",
     "ageDays": 2,
-    "rank": 8,
+    "rank": 7,
     "summaryLevel": "standard"
   },
   {
-    "id": "apple-wwdc-ai-frameworks-20260609",
-    "category": "Service",
-    "title": "AppleがWWDCで新AIフレームワーク発表、外部モデルの統合を容易に",
-    "date": "2026/06/09",
-    "summary": "AppleはWWDCにて、アプリ開発者がAI機能を容易に統合できる新しいインテリジェンスフレームワークを発表した。GoogleのGeminiやAnthropicのClaudeなど、外部の主要なAIモデルをデバイス上やク…",
+    "id": "microsoft-mai-models-2026",
+    "category": "Model",
+    "title": "Microsoft、推論や音声など4つの新しい独自AIモデル「MAI」シリーズを発表",
+    "date": "2026/06/11",
+    "summary": "Microsoftは、OpenAIの技術に依存しない完全内製の新しいAIモデル「MAI」シリーズ4種を発表した。推論に特化した「MAI-Thinking-1」や、画像生成、音声合成、文字起…",
     "details": [
-      "新たに導入された「Core AI」フレームワークは、Apple SiliconのNeural Engineに最適化されており、デバイス上で大規模言語モデル（LLM）をローカル実行できる。また、小規模開発者向けには、プライベート・クラウド・コンピューティング（PCC）上で動作する次世代のApple Foundation ModelをAPI利用料無料で提供し、エコシステム内でのAIアプリ開発を強力に支援する。"
+      "Microsoftが発表した「MAI」シリーズは、推論モデルの「MAI-Thinking-1」、画像生成の「MAI-Image-2.5」、音声合成の「MAI-Voice-2」、文字起こしの「MAI-Transcribe-1.5」から構成される。OpenAIとの提携関係を維持しつつも、自社開発のLLM（大規模言語モデル）ポートフォリオを拡…"
     ],
     "sources": [
       {
-        "name": "Financial Times",
-        "url": "https://markets.ft.com/data/announce/detail?dockey=600-202606081700BIZWIRE_USPRX____20260608_BW093428-1"
-      },
-      {
-        "name": "Let's Data Science",
-        "url": "https://letsdatascience.com/news/apple-debuts-integrated-ai-features-at-wwdc-f3115011"
+        "name": "PCMag",
+        "url": "https://www.pcmag.com/news/i-tested-all-4-of-microsofts-new-ai-models-heres-the-brutal-truth"
       }
     ],
-    "importance": "high",
-    "socialImpact": 82,
+    "importance": "medium",
+    "socialImpact": 70,
     "novelty": 80,
     "confidence": 90,
-    "priorityReason": "AppleエコシステムにおけるAIアプリ開発の敷居を劇的に下げる発表のため。",
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 3,
+    "priorityReason": "Microsoftの独自AI戦略の進展を示すため。",
+    "rankScore": 69,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 8,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "vivatech-enterprise-ai-2026",
+    "category": "Service",
+    "title": "欧州で「エンタープライズAI」が急台頭、VivaTech 2026の主役に",
+    "date": "2026/06/10",
+    "summary": "コンシューマー向けAIの競争が激化する中、欧州では製造や物流, 医療などの既存インフラにAIを組み込む「エンタープライズAI」が急速に進化している。技術見本市「VivaTech 2026」…",
+    "details": [
+      "シリコンバレーが大規模言語モデルやチャットボットなどの消費者向けサービスに注力する一方、欧州企業はガバナンスやコンプライアンス、セキュリティを重視した産業用AIの社会実装で強みを発揮している。VivaTech 2026では、実験段階から本格的な生産・運用フェーズへと移行する企業向けAIの課題と解決策が提示される。"
+    ],
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "AIの社会実装における欧州の独自アプローチ。",
+    "rankScore": 62,
+    "rankTier": "B",
+    "ageDays": 2,
     "rank": 9,
-    "summaryLevel": "standard"
+    "summaryLevel": "brief"
   }
 ]
