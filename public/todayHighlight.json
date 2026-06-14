@@ -1,34 +1,26 @@
 [
   {
-    "id": "us-iran-peace-deal-20260613",
+    "id": "news-001",
     "category": "Policy",
-    "title": "米国とイラン、3ヶ月に及ぶ戦争終結に向けた和平合意の署名が間近に",
-    "date": "2026/06/13",
-    "summary": "米国とイランが3ヶ月以上続いた戦争を終結させる和平合意の枠組みに合意した。仲介国パキスタンは24時間以内の初期合意署名を予測しており、トランプ大統領も署名とホルムズ海峡の即時開放に言及している。",
+    "title": "米政府の輸出管理命令を受け、Anthropicが最新AIモデル「Mythos 5」「Fable 5」へのアクセスを遮断",
+    "date": "2026/06/14",
+    "summary": "米トランプ政権が国家安全保障を理由に、AIスタートアップのAnthropicに対し最新モデル「Fable 5」と「Mythos 5」への外国人アクセス制限を命令。同社はこれを受け、国内外の全ユーザーに対し両モデルの提供を停止した。",
     "details": [
-      "3ヶ月以上にわたり続いていた米国とイランの戦争について、両国が和平合意の枠組みに合意したことが、仲介役を務めるパキスタン政府などから発表された。トランプ米大統領はSNSで「明日署名予定」と投稿し、ホルムズ海峡の即時開放を表明したが、イラン側は数日以内の署名の可能性を示唆しつつ慎重な姿勢を崩していない。",
-      "この和平合意は、緊迫していた中東情勢の緩和だけでなく、原油価格の急落や、それに伴う世界的なインフレ圧力の軽減など、グローバル経済に極めて大きな好影響を与える。特にホルムズ海峡の封鎖解除は、世界のエネルギーサプライチェーンの正常化に直結する。",
-      "今後は、数日以内に正式な合意文書への署名が行われるか、またイラン国内のウラン貯蔵庫の取り扱いや制裁解除の具体的なスケジュールがどのように設定されるかが焦点となる。"
+      "米トランプ政権が国家安全保障上の懸念を理由に、AIスタートアップのAnthropicに対し、最新AIモデル「Fable 5」および「Mythos 5」への外国人（国内外の同社外国人従業員を含む）のアクセスを制限するよう命じ、同社は両モデルへのアクセスを全面的に遮断した。",
+      "この措置は、米国製先端技術の海外流出を防ぐ輸出管理政策の一環であり、AI開発における地政学的緊張の高まりを象徴している。特に、インドなどの主要市場やグローバルな共同研究開発体制に深刻な影響を与える可能性がある。",
+      "今後は、Anthropicが指摘された脆弱性を修正して規制が解除されるか、また他社（OpenAIやGoogleなど）の最先端モデルに対しても同様の政府介入が拡大するかどうかが注視される。"
     ],
     "sources": [
       {
-        "name": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/06/13/iran-us-leader-funeral-khamenei-war-deal/68858fa2-6721-11f1-bdd4-805ebb99a693_story.html"
-      },
-      {
-        "name": "Haaretz",
-        "url": "https://www.haaretz.com/middle-east-news/iran/2026-06-13/ty-article/u-s-official-says-strong-iran-deal-achieved-as-tehran-remains-cautious/0000019e-c177-dd0a-a19f-d37f77050000"
-      },
-      {
-        "name": "NBC News",
-        "url": "https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-june-13-265060933514"
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/14/us-asks-anthropic-to-block-global-access-to-top-ai-models-why-it-matters"
       }
     ],
     "importance": "critical",
-    "socialImpact": 95,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "世界経済と中東情勢を揺るがす戦争の終結合意。",
+    "socialImpact": 90,
+    "novelty": 85,
+    "confidence": 95,
+    "priorityReason": "米政府によるAI輸出規制の強化と、業界への甚大な影響を伝えるため。",
     "rankScore": 91,
     "rankTier": "S",
     "ageDays": 1,
@@ -36,51 +28,143 @@
     "summaryLevel": "deep"
   },
   {
-    "id": "anthropic-us-export-control-20260613",
+    "id": "news-004",
     "category": "Policy",
-    "title": "米政府、安全性懸念からAnthropicの最新AIモデルへの外国人アクセス遮断を命令",
-    "date": "2026/06/13",
-    "summary": "米トランプ政権は、安全保障上の懸念を理由に、Anthropicの最新AIモデル「Fable 5」と「Mythos 5」への外国人のアクセスを遮断するよう命じた。これを受け、同社は世界中で両モデルへのアクセスを急遽無効化した。",
+    "title": "米国とパキスタンがイランとの和平合意署名を予告も、テヘラン側は日程に疑問符",
+    "date": "2026/06/14",
+    "summary": "米国とパキスタンがイランとの戦闘終結に向けた合意文書への署名を予告した。一方、イラン外務省は日程合意を否定し、国内強硬派の反対デモも発生するなど、Strait of Hormuz再開を含む和平合意の行方に不透明感が漂う。",
     "details": [
-      "米商務省は安全保障上の懸念から、AIスタートアップのAnthropicに対し、最新のフロンティアモデル「Fable 5」および「Mythos 5」への外国籍の人物によるアクセスを遮断する輸出管理指令を出した。これを受け、Anthropicは全顧客に対して両モデルの提供を急遽停止した。",
-      "本件は、従来の半導体や製造装置といったハードウェア規制から、AIモデルそのものの利用権（ソフトウェア・サービス）を直接制限する形への、米国の輸出管理政策の重大な転換を示している。グローバルなAI開発体制や、多国籍な技術者の雇用、さらには各国の「ソブリンAI」推進の動きに決定的な影響を与える可能性がある。",
-      "今後は、Anthropicによる国防総省への訴訟の行方や、他社のフロンティアモデル（OpenAIやGoogleなど）に対しても同様のアクセス制限措置が適用されるかどうかが注視される。"
+      "米国とパキスタンの指導者が、長年対立が続いていた米国とイランの戦闘を終結させる合意文書への署名が日曜日に予定されていると発表した一方、イラン外務省の報道官は日程の合意を否定し、国内の強硬派デモ隊も反対の声を上げるなど、署名のタイミングを巡り不透明感が漂っている。"
+    ],
+    "sources": [
+      {
+        "name": "Haaretz",
+        "url": "https://www.haaretz.com/middle-east-news/iran/2026-06-14/ty-article/.premium/u-s-pakistan-tout-sunday-signing-of-iran-deal-tehran-casts-doubt-on-timing/0000019e-c49c-dd0a-a19f-d7fcbf060000"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 95,
+    "novelty": 80,
+    "confidence": 90,
+    "priorityReason": "中東情勢の劇的な変化と、原油市場への影響を左右する重要局面。",
+    "rankScore": 84,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 2,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news-006",
+    "category": "Policy",
+    "title": "英日首脳、国家安全保障と雇用創出に向けた技術パートナーシップに合意",
+    "date": "2026/06/14",
+    "summary": "英日両国の首相がロンドンで会談し、AIや量子、宇宙などの先端技術分野における協力強化と、次世代戦闘機（GCAP）開発の加速で合意した。安全保障と雇用創出を目的とした、240億ドル規模の技術提携となる。",
+    "details": [
+      "英国のスターマー首相と日本の高市早苗首相がロンドンで会談し、AI、宇宙、量子コンピューティング、サイバーセキュリティなどの先端技術分野での協力を深めるとともに、次世代戦闘機（GCAP）の開発プロセスを加速させることで合意し、両国の国家安全保障と雇用創出を目指す技術パートナーシップを発表した。"
     ],
     "sources": [
       {
         "name": "Reuters",
-        "url": "https://www.reuters.com/business/retail-consumer/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-2026-06-13/"
-      },
-      {
-        "name": "Global Banking & Finance Review",
-        "url": "https://www.globalbankingandfinance.com/anthropic-disables-advanced-ai-models-us-order-limiting/"
-      },
-      {
-        "name": "BBC",
-        "url": "https://www.bbc.com/news/articles/c932g3v3e13o"
+        "url": "https://www.reuters.com/world/asia-pacific/uk-japan-set-agree-24-billion-investment-tech-partnerships-2026-06-13/"
       }
     ],
-    "importance": "critical",
+    "importance": "high",
     "socialImpact": 85,
-    "novelty": 90,
+    "novelty": 75,
     "confidence": 95,
-    "priorityReason": "AIモデル自体の輸出規制という初の重大な政策転換。",
-    "rankScore": 90,
-    "rankTier": "S",
+    "priorityReason": "安全保障と先端技術における日英同盟の深化を伝える重要合意。",
+    "rankScore": 80,
+    "rankTier": "A",
     "ageDays": 1,
-    "rank": 2,
-    "summaryLevel": "deep"
+    "rank": 3,
+    "summaryLevel": "standard"
   },
   {
-    "id": "news-20260612-us-iran-tariff",
-    "category": "Policy",
-    "title": "トランプ米大統領、イランへの攻撃を一時停止と発表　関税維持の司法判断も",
-    "date": "2026/06/12",
-    "summary": "トランプ米大統領は、交渉が合意に近づいたとして計画していたイランへの攻撃を一時停止したと発表した。また、米連邦控訴裁は主要関税の維持を認める判断を下し、トランプ政権は一時的な法廷闘争の勝利を収めた。",
+    "id": "news-003",
+    "category": "Ethics",
+    "title": "米複数州の司法長官、ChatGPTの若年層への影響やデータ管理を巡りOpenAIを調査",
+    "date": "2026/06/14",
+    "summary": "米ニューヨーク州やコロラド州などの司法長官共同体が、OpenAIに対する広範な調査を開始した。ChatGPTが若年層や脆弱な成人に与える影響、ユーザーデータの取り扱い、未成年者の安全性に関する内部文書の提出を求めている。",
     "details": [
-      "トランプ米大統領は、交渉が合意に近づいたとして計画していたイランへの攻撃を一時停止したと発表した。また、米連邦控訴裁は主要関税の維持を認める判断を下し、トランプ政権は一時的な法廷闘争の勝利を収めた。",
-      "中東における軍事衝突の回避は、原油価格の安定や世界的なインフレ懸念の和らげにつながる。一方で、関税維持の司法判断は、米国の保護主義的な通商政策が継続し、グローバルサプライチェーンに影響を与え続けることを意味する。",
-      "イラン側は交渉の進捗に関する米国の説明を否定しており、今後の外交交渉の行方と、関税政策に対する他国の対抗措置の有無が注視される。"
+      "ニューヨーク州やコロラド州などの複数州の司法長官による共同体が、OpenAIに対し、ユーザーデータの取り扱い、未成年者の安全性、広告活動、およびChatGPTが若年層や脆弱な成人に与える影響に関する内部文書の提出を求める召喚状を送付し、広範な調査を開始したことが判明した。"
+    ],
+    "sources": [
+      {
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "生成AIの安全性とプライバシーを巡る法的規制の動きを報じるため。",
+    "rankScore": 79,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 4,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news-002",
+    "category": "Business",
+    "title": "Meta、中国政府の要求を受け20億ドル規模のAIスタートアップ「Manus」買収を撤回へ",
+    "date": "2026/06/14",
+    "summary": "Metaが中国発のAIスタートアップ「Manus」の買収手続きを解消することが判明。中国政府による技術輸出管理や外資規制違反の調査を受けた措置で、社内システムからの切り離しやデータ共有停止などの分離作業が進められている。",
+    "details": [
+      "Metaが、中国の技術輸出管理や外資規制違反の疑いで中国政府から調査を受けたことを受け、20億ドル規模で進めていた中国発のAIエージェントスタートアップ「Manus」の買収手続きを解消し、社内システムからの切り離しやデータ共有の停止など完全な分離に向けた作業を開始したことが明らかになった。"
+    ],
+    "sources": [
+      {
+        "name": "GIGAZINE",
+        "url": "https://gigazine.net/gsc_news/en/20260614-meta-unwind-manus-deal-beijing-demand/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 75,
+    "confidence": 95,
+    "priorityReason": "米中対立がAI企業のM&Aに与える直接的な影響を示す重要ニュース。",
+    "rankScore": 78,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 5,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news-biglaw-ai-junior-associates",
+    "category": "Business",
+    "title": "生成AIの台頭で揺らぐ大手法律事務所のビジネスモデル、若手弁護士の存在意義に疑問",
+    "date": "2026/06/14",
+    "summary": "生成AIが若手弁護士の従来の業務を代替可能にする中、大手法律事務所のビジネスモデルが揺らいでいる。若手の育成や存在意義を巡る議論が業界内で活発化している。",
+    "details": [
+      "生成AIの導入が進む大手法律事務所において、これまで若手アソシエイトが担ってきた判例調査や契約書の下書きなどの定型業務が急速に自動化されています。これにより、時間単位で請求する従来の請求モデルが崩壊しつつある一方、実務経験を通じて若手を育成する仕組みそのものが失われる懸念が生じており、法曹界の将来を揺るがす深刻な課題となっています。"
+    ],
+    "sources": [
+      {
+        "name": "LawFuel",
+        "url": "https://www.lawfuel.com/the-ai-question-biglaw-doesnt-want-junior-lawyers-asking/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "AIによるホワイトカラーのキャリア破壊と育成の課題を浮き彫りにするため。",
+    "rankScore": 76,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 6,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news-bulletin-20260612",
+    "category": "Policy",
+    "title": "トランプ大統領が対イラン攻撃の一時停止を表明、移民児童の捜索状況も報告",
+    "date": "2026/06/12",
+    "summary": "トランプ米大統領は、イランとの交渉進展を理由に計画していた軍事攻撃を一時停止したと発表した。また、行方不明とされていた移民の子供14万人以上の所在が確認された。",
+    "details": [
+      "ドナルド・トランプ米大統領は、イランとの交渉が合意に近づいているとして、予定していた対イラン軍事攻撃を一時停止したことを明らかにしました。一方でイラン側はこの見解を否定しており、緊張状態が続いています。また、米政府は以前に行方不明と報告されていた14万6,000人以上の移民の子供たちの所在を確認したと発表しました。"
     ],
     "sources": [
       {
@@ -88,235 +172,41 @@
         "url": "https://www.newsweek.com/videos/the-bulletin-june-12s-news-in-60-seconds"
       }
     ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 60,
-    "confidence": 90,
-    "priorityReason": "中東情勢の緊迫化回避と米国の関税政策の行方を伝えるため。",
-    "rankScore": 82,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 3,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "openai-states-investigation-20260613",
-    "category": "Ethics",
-    "title": "米複数州の司法長官、若年層への影響やデータ処理を巡りOpenAIへの大規模調査を開始",
-    "date": "2026/06/13",
-    "summary": "ニューヨーク州やコロラド州などの米複数州の司法長官共同体が、OpenAIに対する広範な調査を開始した。ChatGPTが未成年者や脆弱な成人に与える影響、ユーザーデータの取り扱い、広告活動などに関する内部文書の提出を求め…",
-    "details": [
-      "ニューヨーク州やコロラド州をはじめとする米国の複数州の司法長官による共同体が、AIスタートアップのOpenAIに対する大規模な調査を開始し、ユーザーデータの取り扱い、未成年者の安全性、広告活動などに関する内部文書の提出を求める召喚状を送付した。ChatGPTなどの生成AIが若年層に与える精神的影響や、個人情報の保護体制に対する懸念が背景にあり、同社が非公開でIPO（新規公開株）を申請したとされる時期と重なることから、今後の上場プロセスやAI業界全体の規制…"
-    ],
-    "sources": [
-      {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html"
-      },
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/"
-      },
-      {
-        "name": "AP News",
-        "url": "https://apnews.com/article/openai-chatgpt-subpoena-attorneys-general-probe-a95894407773307fae8ae3ce9742b586"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "OpenAIの上場計画やAI規制に影響する大規模調査。",
-    "rankScore": 77,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 4,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "us-inflation-may-20260613",
-    "category": "Economy",
-    "title": "米5月インフレ率が3年ぶり高水準の4.2%に上昇、イラン戦争に伴うエネルギー高騰が影響",
-    "date": "2026/06/13",
-    "summary": "米労働省が発表した5月の消費者物価指数（CPI）は前年同月比4.2%上昇し、3年ぶりの高水準となった。イラン戦争の勃発に伴うエネルギー価格の急騰が主な要因で、連邦準備制度やトランプ政権にとって大きな課題となっている。",
-    "details": [
-      "米労働省が発表した5月の消費者物価指数（CPI）は前年同月比4.2%上昇し、4月の3.8%から加速して約3年ぶりの高水準を記録した。この物価上昇は主にイラン戦争の開始に伴うエネルギー価格の急騰が牽引しており、利下げを模索する連邦準備制度（Fed）の政策運営を困難にするとともに、中間選挙を控えるトランプ政権にとって重大な政治的・経済的課題を突きつけている。"
-    ],
-    "sources": [
-      {
-        "name": "Greenwich Time",
-        "url": "https://www.greenwichtime.com/business/article/america-in-focus-inflation-hits-3-year-high-22303894.php"
-      },
-      {
-        "name": "The Washington Post",
-        "url": "https://www.washingtonpost.com/business/2026/06/13/inflation-economy-trump-iran-unemployment-social-security/b9190b0a-6731-11f1-bdd4-805ebb99a693_story.html"
-      }
-    ],
     "importance": "high",
     "socialImpact": 85,
-    "novelty": 60,
-    "confidence": 95,
-    "priorityReason": "世界経済を揺るがす米インフレ加速と金利政策への影響。",
-    "rankScore": 77,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 5,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "korea-nvidia-ai-infrastructure-20260614",
-    "category": "Business",
-    "title": "韓国主要企業、NvidiaとのAIインフラおよび次世代半導体協力を大幅拡大",
-    "date": "2026/06/14",
-    "summary": "NaverやSK Telecom、SK hynixなどの韓国主要企業が、Nvidiaとの提携を拡大し、AIデータセンターの増強や次世代メモリ開発、産業用ロボットへのAI統合を推進する。アジア市場でのAI展開を加速させる…",
-    "details": [
-      "韓国のNaver、SK Telecom、SK hynix、およびDoosanグループは、Nvidiaとの協力を大幅に拡大し、Naverのデータセンター拡張やSK Telecomによる大規模AIクラウドプラットフォーム構築、SK hynixとの次世代AIメモリ共同開発、Doosanの産業用ロボットへのNvidia技術統合などを一斉に発表した。この広範な提携は、韓国が国家規模でAIインフラと半導体サプライチェーンの主導権を確保し、アジア全域へのサービス展開を…"
-    ],
-    "sources": [
-      {
-        "name": "The Manila Times",
-        "url": "https://www.manilatimes.net/2026/06/14/business/sunday-business-it/nvidia-korean-firms-expand-ai-infrastructure/2364827"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 70,
+    "novelty": 65,
     "confidence": 90,
-    "priorityReason": "韓国がNvidiaと組みAIインフラの覇権を狙う動き。",
+    "priorityReason": "米国の対イラン外交と移民政策の最新動向を伝える重要ニュース。",
     "rankScore": 76,
     "rankTier": "A",
-    "ageDays": 0,
-    "rank": 6,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "meta-manus-divestiture-20260613",
-    "category": "Business",
-    "title": "Meta、中国政府の要求によりAIスタートアップManusとの20億ドル買収を解消へ",
-    "date": "2026/06/13",
-    "summary": "Metaは、中国政府が国家安全保障を理由に発令した売却命令に従い、中国系AIスタートアップ「Manus」との20億ドル規模の買収契約の解消に着手した。システム遮断やデータ共有の停止など、完全な事業分離を進めている。",
-    "details": [
-      "Metaは、中国政府が国家安全保障上の懸念を理由に約2ヶ月前に下した売却命令に従うため、20億ドルで買収した中国系のAIスタートアップ「Manus」との事業分離プロセスを開始し、社内システムからのManusツール遮断やデータ共有の停止など具体的な解体作業を進めている。米中間の地政学的緊張が、米国テック大手による中国系技術企業の買収や協業に対して、双方の政府から厳しい介入を招く実例となり、今後のグローバルなAI投資戦略に冷や水を浴びせる形となっている。"
-    ],
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 75,
-    "confidence": 90,
-    "priorityReason": "米中対立がテック企業の買収解消に直結した象徴的事例。",
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 1,
+    "ageDays": 3,
     "rank": 7,
     "summaryLevel": "standard"
   },
   {
-    "id": "news-20260611-healthcare-ai-liability",
-    "category": "Service",
-    "title": "医療AIの規制緩和がもたらすイノベーションと法的責任リスクの増大",
-    "date": "2026/06/11",
-    "summary": "医療AIの規制緩和が進む中、専門家は医療機関に対し、AIの出力を過信せず検証する体制を整え、法的責任リスクに備えるよう警鐘を鳴らしている。主体的なガバナンス体制の構築が求められる。",
+    "id": "news-005",
+    "category": "Economy",
+    "title": "日本政府、レアアース開発評価のため今夏グリーンランドへ調査団派遣へ",
+    "date": "2026/06/14",
+    "summary": "日本政府は今夏、経済産業省や商社、JOGMECからなる調査団をグリーンランドに派遣する。戦略的要衝であり豊富な埋蔵量が期待される現地で、レアアース抽出の可能性について現地政府と協議を行う予…",
     "details": [
-      "医療AIの規制緩和はイノベーションを促進する一方で、誤診などの法的責任リスクを増大させるため、医療機関は主体的なガバナンス体制を構築し、臨床現場での検証を徹底する必要がある。"
+      "日本政府（経済産業省）や商社、エネルギー・金属鉱物資源機構（JOGMEC）などで構成される調査団が、戦略的要衝であり豊富なレアアース埋蔵量が期待されるグリーンランドへ今夏派遣され、現地政府と共同でレアアース抽出の可能性について協議を行う予定であることが報じられた。"
     ],
     "sources": [
       {
-        "name": "MobiHealthNews",
-        "url": "https://www.mobihealthnews.com/video/deregulation-enables-ai-innovation-adds-liability-risk"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 70,
-    "confidence": 85,
-    "priorityReason": "医療AI導入に伴う法的リスクとガバナンスの重要性を指摘。",
-    "rankScore": 72,
-    "rankTier": "A",
-    "ageDays": 3,
-    "rank": 8,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news-20260613-korea-ai-startup",
-    "category": "Business",
-    "title": "韓国AIスタートアップ、消費者向けから産業応用・ディープテックへシフト",
-    "date": "2026/06/13",
-    "summary": "韓国のAIスタートアップエコシステムが、従来の消費者向けアプリから、医療、貿易、原子力廃棄物処理などのミッションクリティカルな産業応用へとシフトし、成熟期を迎えている。",
-    "details": [
-      "韓国のAIスタートアップは、手術動画解析や放射性廃棄物処理など、実産業の課題解決に特化したディープテック領域で資金調達を成功させており、実用化フェーズへの移行が鮮明になっている。"
-    ],
-    "sources": [
-      {
-        "name": "Wowtale",
-        "url": "https://en.wowtale.net/2026/06/13/234244/"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/japan-send-delegation-greenland-evaluate-rare-earth-extraction-nikkei-says-2026-06-14/"
       }
     ],
     "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 75,
-    "confidence": 80,
-    "priorityReason": "韓国におけるAIの産業応用とエコシステムの成熟を解説。",
+    "socialImpact": 70,
+    "novelty": 65,
+    "confidence": 95,
+    "priorityReason": "日本の半導体・AI産業に不可欠な資源確保の戦略的動きを示す。",
     "rankScore": 66,
     "rankTier": "B",
     "ageDays": 1,
-    "rank": 9,
-    "summaryLevel": "brief"
-  },
-  {
-    "id": "news-20260612-ltimindtree-ai-training",
-    "category": "Service",
-    "title": "インドIT大手LTIMindtree、1000人規模のAI人材育成プログラムを開始",
-    "date": "2026/06/12",
-    "summary": "インドのITサービス大手LTIMindtreeは、1,000人以上のエンジニアを対象に、LLMや特定領域の小規模言語モデルを活用してビジネス成果を創出するAI認定プログラムを開始した。",
-    "details": [
-      "企業向けAI導入の需要が高まる中、ITサービス企業が大規模なリスキリングプログラムを通じて、技術とビジネスドメインの双方を理解するAI人材の供給体制を強化している。"
-    ],
-    "sources": [
-      {
-        "name": "Let's Data Science",
-        "url": "https://letsdatascience.com/news/ltm-launches-ai-1000-workforce-training-programme-6c91c841"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 65,
-    "confidence": 85,
-    "priorityReason": "IT業界におけるAI人材のリスキリングの具体例を示す。",
-    "rankScore": 60,
-    "rankTier": "B",
-    "ageDays": 2,
-    "rank": 10,
-    "summaryLevel": "brief"
-  },
-  {
-    "id": "news-20260611-neojapan-q1",
-    "category": "Business",
-    "title": "ネオジャパン、2026年第1四半期決算を発表",
-    "date": "2026/06/11",
-    "summary": "グループウェア大手のネオジャパンが2026年第1四半期（Q1）の連結決算を発表した。クラウドサービス事業の進捗や企業向けIT投資の動向を反映する指標として注目される。",
-    "details": [
-      "ネオジャパンが発表した第1四半期決算は、同社のクラウドサービス事業の進捗や企業向けIT投資の動向を反映する指標として注目される。"
-    ],
-    "sources": [
-      {
-        "name": "TradingView",
-        "url": "https://www.tradingview.com/news/reuters.com,2026-06-11:newsml_XB0YSHOJW:0-table-neojapan-q1-group-results/"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 45,
-    "novelty": 40,
-    "confidence": 95,
-    "priorityReason": "国内IT企業の決算動向を把握するため。",
-    "rankScore": 52,
-    "rankTier": "C",
-    "ageDays": 3,
-    "rank": 11,
+    "rank": 8,
     "summaryLevel": "brief"
   }
 ]
