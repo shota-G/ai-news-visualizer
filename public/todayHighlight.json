@@ -1,70 +1,42 @@
 [
   {
-    "id": "us-iran-deal-20260616",
+    "id": "anthropic-trump-ban-2026",
     "category": "Policy",
-    "title": "米国とイランが歴史的合意に達しホルムズ海峡再開へ、世界株高と原油急落",
-    "date": "2026/06/16",
-    "summary": "米国とイランが歴史的な合意に達し、数ヶ月にわたり混乱していたホルムズ海峡の再開が期待されている。これを受けて原油先物価格は5%近く急落し、米国株式市場ではダウ平均が史上最高値を更新した。",
+    "title": "トランプ政権がAnthropicに最新AIモデルの提供禁止を命令、企業利用は急拡大",
+    "date": "2026/06/18",
+    "summary": "米トランプ政権は輸出管理指令に基づき、Anthropicの最新AIモデル「Fable 5」および「Mythos 5」への外国人アクセス禁止を命令した。同社はモデルの提供を完全停止したが、企業向け市場でのシェアは急拡大している。",
     "details": [
-      "トランプ米政権とイラン政府が歴史的な合意に達し、ホルムズ海峡の通航再開に向けた覚書に署名した。これにより、数ヶ月にわたりエネルギー供給網を脅かしていた地政学的緊張が緩和に向かう見通しとなった。",
-      "この合意は、世界のエネルギー供給の安定化に直結し、原油価格を1バレル83ドル付近まで急落させた。インフレ懸念の緩和から世界的な株高を誘発し、金融市場に極めて大きな安心感をもたらしている。",
-      "今後は、金曜日に予定される正式な署名が滞りなく行われるか、またイスラエルなどの周辺国がこの合意に対してどのような行動をとるかが注視される。"
+      "米トランプ政権が輸出管理指令を適用し、AIスタートアップのAnthropicに対し、同社の最新モデル「Fable 5」および「Mythos 5」への外国人（同社従業員を含む）のアクセスを禁止するよう命じた。これを受け、同社は対象モデルの提供を完全に停止した。",
+      "この措置は、最先端AI技術の安全保障上のリスクを懸念した政府による異例の介入であり、グローバルな開発体制を持つAI企業にとって大きな打撃となる。一方で、同社のビジネス向け支出シェアはOpenAIを上回るなど、企業需要は依然として極めて強い。",
+      "今後、米政府によるAI輸出規制や安全保障を理由とした介入が他社にも拡大するか、またAnthropicの新規株式公開（IPO）計画にどのような影響を与えるかが注視される。"
     ],
     "sources": [
       {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/6/16/us-stock-market-climbs-as-us-iran-deal-stirs-hopes-for-end-to-energy-chaos"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
       }
     ],
     "importance": "critical",
-    "socialImpact": 95,
-    "novelty": 90,
+    "socialImpact": 85,
+    "novelty": 80,
     "confidence": 95,
-    "priorityReason": "原油価格と世界市場を揺るがす歴史的な地政学的合意。",
-    "rankScore": 93,
+    "priorityReason": "政府による最先端AIモデルの強制停止という極めて重大な規制動向。",
+    "rankScore": 90,
     "rankTier": "S",
-    "ageDays": 1,
+    "ageDays": 0,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "boj-rate-hike-20260616",
+    "id": "japan-exports-boj-rate-hike-2026",
     "category": "Economy",
-    "title": "日本銀行、政策金利を31年ぶりの高水準となる1%に引き上げ",
-    "date": "2026/06/16",
-    "summary": "日本銀行は、エネルギー価格の高騰に伴うインフレ懸念を背景に、政策金利を25ベーシスポイント引き上げ、31年ぶりの高水準となる1%にすることを決定した。歴史的な円安や米国の圧力も影響したとみられる。",
-    "details": [
-      "日本銀行は、エネルギー価格高騰によるインフレ圧力に対処するため、政策金利を1%へと引き上げた。これは1995年以来、約31年ぶりの高水準となる。高市早苗首相の低金利・円安志向に反する形での決定となった。",
-      "この利上げは、歴史的な円安の進行と、それに伴う輸入インフレへの懸念、さらに米国の利上げ圧力に抗しきれなくなった結果である。日本の金融政策の歴史的な転換点であり、住宅ローンや企業の借入コスト、為替市場に甚大な影響を及ぼす。",
-      "今後は、金利上昇が日本国内の消費や企業の設備投資に与える影響、および為替相場が円高方向へ修正されるかどうかが注目の焦点となる。"
-    ],
-    "sources": [
-      {
-        "name": "AP News",
-        "url": "https://apnews.com/article/rates-inflation-boj-iran-oil-policy-7646f3c0e0d30ef6c75925b5eecc9014"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 85,
-    "confidence": 95,
-    "priorityReason": "31年ぶりの1%利上げという歴史的金融政策の転換点。",
-    "rankScore": 91,
-    "rankTier": "S",
-    "ageDays": 1,
-    "rank": 2,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "news_japan_exports_20260617",
-    "category": "Economy",
-    "title": "日本の5月輸出額が3年ぶりの高水準を記録、市場予想を上回る",
+    "title": "日本の5月輸出が3年ぶりの大幅増、日銀の30年ぶり利上げ直後に発表",
     "date": "2026/06/17",
-    "summary": "日本の5月の輸出額が過去3年超で最も速いペースで増加し、市場予想を上回った。日銀が政策金利を1%に引き上げた直後のデータであり、円安による輸出押し上げ効果と輸入インフレの懸念が交錯している。",
+    "summary": "日本の5月の輸出額が市場予想を上回り、過去3年超で最速の伸びを記録した。この発表は、日銀が政策金利を30年ぶりの高水準である1%に引き上げた直後に行われ、円安による輸出の恩恵と輸入インフレへの懸念が交錯している。",
     "details": [
-      "日本の5月の輸出額が前年比で過去3年超で最も高い伸びを記録し、市場予想を上回った。また輸入も前年比12.5%増加し、堅調な貿易動向を示している。",
-      "このデータは、日銀が政策金利を30年ぶりの高水準である1%に引き上げた直後に発表された。円安が輸出を強力に後押しする一方で、輸入インフレを招き国内の購買力を低下させる懸念も浮き彫りにしている。",
-      "今後は、金利引き上げと輸出主導の成長が持続するか、また円安に伴う国内消費への悪影響を日銀がどのようにコントロールしていくかが注視される。"
+      "日本の5月の輸出額が市場予想を上回り、過去3年超で最も速いペースで増加したことが明らかになりました。このデータは、日本銀行が政策金利を30年ぶりの高水準である1%へと引き上げた直後に発表されました。",
+      "歴史的な円安が輸出企業の業績を強力に後押しする一方で、輸入インフレの長期化や国内の購買力低下といった副作用も懸念されています。日銀の金融正常化プロセスと日本経済の底堅さを示す重要な指標となります。",
+      "今後は、利上げ後の為替相場の推移と、それが輸出の勢いおよび国内消費に与える影響、そして日銀がさらなる追加利上げに踏み切るかどうかが注視されます。"
     ],
     "sources": [
       {
@@ -73,248 +45,170 @@
       }
     ],
     "importance": "critical",
-    "socialImpact": 80,
-    "novelty": 65,
+    "socialImpact": 85,
+    "novelty": 75,
     "confidence": 95,
-    "priorityReason": "日銀利上げ後の日本経済の動向を示す極めて重要な指標であるため。",
-    "rankScore": 86,
+    "priorityReason": "日銀利上げ直後の日本経済の底堅さを示す重要指標のため。",
+    "rankScore": 87,
     "rankTier": "S",
-    "ageDays": 0,
-    "rank": 3,
+    "ageDays": 1,
+    "rank": 2,
     "summaryLevel": "deep"
   },
   {
-    "id": "anthropic-trump-ban-20260616",
-    "category": "Policy",
-    "title": "トランプ政権、安全保障を理由にAnthropicの最新AIモデルへの外国人アクセスを禁止",
+    "id": "china-ai-deepseek-open-source-2026",
+    "category": "Model",
+    "title": "中国AI企業が低コストなオープンソースで躍進、世界シェア3分の1へ",
     "date": "2026/06/16",
-    "summary": "トランプ政権は輸出管理指令に基づき、Anthropicの最新AIモデル「Mythos 5」および「Fable 5」に対し、同社の外国人従業員を含む非米国人のアクセスを禁止する命令を下した。同社はこれを受けてモデルの公開…",
+    "summary": "中国のDeepSeekなどのAI企業が、低コストかつ高効率なオープンソースLLMで世界シェアの3分の1を占めるまでに急成長している。米国の巨大な計算資源に対抗し、独自の効率化路線でグローバル展開を進める。",
     "details": [
-      "トランプ政権が安全保障上の懸念から、Anthropicの最先端AIモデル「Mythos 5」および「Fable 5」への非米国人（同社の外国人従業員を含む）のアクセスを禁止する異例の命令を下し、同社はモデルの市場撤退を余意なくされたが、この対立が皮肉にも企業の関心を引き、同社のビジネス向け売上やIPOに向けた評価を高める要因になっている。"
+      "米国の対中半導体輸出規制が強化される中、中国のAI企業は膨大な計算資源に頼るのではなく、モデルの軽量化やエネルギー効率の極限化といった「効率的フロンティア」戦略で対抗しています。DeepSeekなどのオープンソースモデルは、ChatGPTの数十分の一のコストで同等の推論能力を提供し、世界のLLM利用シェアの3分の1を獲得するなど、米中AI覇権争いの構図を塗り替えつつあります。"
     ],
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/06/16/china-ai-deepseek-open-source-efficiency-global-expansion-strategy/"
       }
     ],
     "importance": "high",
     "socialImpact": 80,
     "novelty": 85,
     "confidence": 90,
-    "priorityReason": "AI開発における国家安全保障と人材規制の深刻な摩擦。",
-    "rankScore": 80,
+    "priorityReason": "米中AI覇権争いにおける中国の新たな戦略を解説。",
+    "rankScore": 78,
+    "rankTier": "A",
+    "ageDays": 2,
+    "rank": 3,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "europe-g7-vivatech-ai-sovereignty",
+    "category": "Policy",
+    "title": "欧州が米国製AIへの依存に危機感、G7サミットとVivaTechで技術主権を議論",
+    "date": "2026/06/17",
+    "summary": "フランスで開催されたG7サミットとVivaTechにて、欧州の政策立案者らが米国製AI技術への過度な依存に対する懸念を表明した。米国によるAnthropicへの輸出規制を受け、欧州独自のAIインフラ構築を求める声が強ま…",
+    "details": [
+      "フランスのエビアンで開催されたG7サミットおよびパリのVivaTechにおいて、欧州の指導者や政策立案者らは、米国政府によるAnthropicへの輸出規制などを背景に、米国製AI技術への依存がもたらす地政学的リスクを議論し、欧州独自のAI「ギガファクトリー」や計算インフラの整備を通じた技術主権の確保を強く訴えた。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/europe-frets-about-us-ai-tech-world-flocks-france-g7-vivatech-2026-06-17/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "米国のAI規制が引き起こした欧州の技術主権を巡る国際的な議論。",
+    "rankScore": 76,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 4,
     "summaryLevel": "standard"
   },
   {
-    "id": "openai-financial-leak-20260616",
+    "id": "nvidia-bond-sale-ai-debt-2026",
     "category": "Business",
-    "title": "OpenAIの財務データがリーク、売上130億ドルに対し210億ドルの巨額損失",
+    "title": "Nvidiaが200億ドルの社債発行へ、AIインフラ投資の資金需要が急増",
     "date": "2026/06/16",
-    "summary": "リークされたOpenAIの監査済み財務諸表により、同社が130億ドルの売上を計上した一方で、研究開発費やMicrosoftへの支払いが嵩み、210億ドルの営業損失（GAAP基準では385億ドルの損失）を抱えていることが…",
+    "summary": "半導体大手のNvidiaが社債市場で約200億ドルの資金調達に乗り出した。AIインフラ構築への巨額投資を背景に、資金力のある大手テック企業でも、投資家からの資金調達や債務発行に頼る動きが加速している実態を示している。",
     "details": [
-      "リークされたOpenAI of 財務データにより、同社が急速な売上成長を遂げる一方で、191億ドルに達する研究開発費やMicrosoftへの巨額の支払いによって年間210億ドルもの営業損失を計上している実態が明らかになり、生成AIビジネスの極めて高い計算コストと収益性の課題が浮き彫りになった。"
+      "AI関連のインフラ投資が世界的に急拡大する中、半導体大手のNvidiaが約200億ドルの社債発行を計画していることが明らかになりました。同社は巨額の現金を保有しているものの、急増するAI需要に対応するための設備投資資金を確保するため、債券市場を活用する動きを見せています。これは、テック大手が自社資金だけでなく外部債務も活用してAI競争を勝ち抜こうとする、市場全体の新たな資金調達トレンドを象徴しています。"
     ],
     "sources": [
       {
-        "name": "Let's Data Science",
-        "url": "https://letsdatascience.com/news/openai-reports-rapid-revenue-growth-larger-losses-3db37681"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "急成長の裏にある生成AIビジネスの過酷な収益構造を露呈。",
-    "rankScore": 80,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 5,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news_texas_bar_ai_warning_20260616",
-    "category": "Ethics",
-    "title": "テキサス州弁護士会への警告：AIの知能は1年以内に全人類を凌駕する",
-    "date": "2026/06/16",
-    "summary": "テキサス州弁護士会にて、AIが人類の上位1%の知能を超え、1年以内に個々の弁護士の能力を上回る可能性が指摘され、道徳的・法的価値観の早期組み込みが急務と警告された。",
-    "details": [
-      "テキサス州弁護士会の会合において、法務技術の専門家が人工知能（AI）の急速な進化について警告を行った。専門家によると、AIはすでに人類の上位1%の知能レベルを超えており、1年以内には個々の弁護士の能力を上回る見込みであるという。AIが制御不能になる前に、人間の道徳的および法的価値観をシステムに組み込むことが極めて重要であり、法曹界全体で早急な対応が必要であると訴えた。"
-    ],
-    "sources": [
-      {
-        "name": "Law.com",
-        "url": "https://www.law.com/texaslawyer/2026/06/16/are-you-smarter-than-ai-legal-expert-warns-texas-bar-about-rising-iq/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 75,
-    "confidence": 90,
-    "priorityReason": "AIの知能爆発が法曹界に与える倫理的・実務的影響を警告している。",
-    "rankScore": 79,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 6,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "nvidia-bond-sale-20260616",
-    "category": "Business",
-    "title": "Nvidia、AIインフラ需要を背景に250億ドルの巨額社債を発行へ",
-    "date": "2026/06/16",
-    "summary": "Nvidiaは、AIデータセンターやハードウェアサプライヤーによる大規模なインフラ投資資金の調達ブームに乗る形で、250億ドル規模の社債発行に踏み切った。同社が債券市場で資金調達を行うのは2021年以来となる。",
-    "details": [
-      "Nvidiaが250億ドル規模の社債発行を決定したことは、AIインフラ構築の資金調達が従来の営業キャッシュフローから債券市場などの資本市場の本格的な活用へと移行しているトレンドを象徴しており、ハイパースケーラーによる巨額の設備投資を支える新たな金融の動きとして注目される。"
-    ],
-    "sources": [
-      {
-        "name": "Investor's Business Daily",
-        "url": "https://www.investors.com/news/technology/ai-data-centers-suppliers-nvidia-debt/"
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/06/16/ai-nvidia-bonds-debt"
       }
     ],
     "importance": "high",
     "socialImpact": 75,
     "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "AIブームの資金調達が資本市場の本格活用へシフト。",
-    "rankScore": 76,
+    "confidence": 90,
+    "priorityReason": "AIバブルを支える資金調達構造の変化を示すため。",
+    "rankScore": 73,
     "rankTier": "A",
-    "ageDays": 1,
-    "rank": 7,
+    "ageDays": 2,
+    "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_sarvam_unicorn_20260615",
+    "id": "pramaana-labs-seed-funding",
     "category": "Business",
-    "title": "インドのAIスタートアップ「Sarvam」が2億3400万ドル調達しユニコーン企業に",
-    "date": "2026/06/15",
-    "summary": "インド・バンガロール拠点のSarvamがHCLTech主導のラウンドで2億3400万ドルを調達し、評価額15億ドルでユニコーン企業となった。インド独自のAI開発を推進する。",
+    "title": "AIのハルシネーションを防ぐ「形式検証」技術、Pramaana Labsが2700万ドルを調達",
+    "date": "2026/06/17",
+    "summary": "スタートアップのPramaana Labsは、数学的な形式検証を用いてAIの信頼性を保証する技術開発に向け、Khosla Venturesなどから2700万ドルのシード資金を調達した。企業…",
     "details": [
-      "インド・バンガロールを拠点とするAIスタートアップ「Sarvam」は、IT大手HCLTechが主導する資金調達ラウンドで2億3400万ドルを調達し、評価額15億ドルのユニコーン企業となった。同社はインドの多言語に対応したフルスタックAIモデルの開発を進めており、今回の調達資金はエージェント型AIやサイバーセキュリティの研究、計算インフラの拡充に充てられる。地政学的リスクから独自のソブリンAIを求める動きが世界的に強まる中、インド国内での自立した技術基盤構…"
+      "AIのハルシネーションや不確実性を排除するため、数学的な「形式検証（Formal Verification）」をLLMの出力に適用するスタートアップPramaana Labsが、Khosla VenturesやAccelなどから2700万ドルのシード資金を調達し、企業向け高精度AIシステムの開発を加速させる。"
     ],
     "sources": [
       {
         "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/"
+        "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/"
       }
     ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 80,
+    "importance": "medium",
+    "socialImpact": 60,
+    "novelty": 75,
     "confidence": 95,
-    "priorityReason": "インド発のソブリンAI台頭と巨大資金調達の動きを伝えるため。",
-    "rankScore": 75,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 8,
-    "summaryLevel": "standard"
+    "priorityReason": "AI of信頼性問題を数学的に解決する新アプローチへの巨額投資。",
+    "rankScore": 65,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 6,
+    "summaryLevel": "brief"
   },
   {
-    "id": "hpe-self-driving-networks-20260617",
+    "id": "abridge-nvidia-partnership-2026",
     "category": "Service",
-    "title": "HPE、AIファクトリーや自律型エージェントに対応する自己駆動型ネットワークを拡張",
+    "title": "医療AIのAbridge、Nvidiaと提携し「臨床インテリジェンスプラットフォーム」を発表",
     "date": "2026/06/17",
-    "summary": "HPEは「HPE Discover 2026」にて、AIファクトリーやエンタープライズデータセンター向けに、AI主導の自動化やセキュリティを強化した「自己駆動型ネットワーク」戦略の拡張を発…",
+    "summary": "医療AIスタートアップのAbridgeは、Nvidiaとの提携を通じて「臨床インテリジェンスプラットフォーム」を立ち上げた。医師と患者の会話をリアルタイムで計算可能なワークフローに変換し、…",
     "details": [
-      "HPEがAIファクトリーやエッジ環境向けに「自己駆動型ネットワーク」の拡張を発表したことは、企業がAIモデルの性能向上だけでなく、大量 of AIエージェントが自律的に稼働する時代を見据えて、インフラやネットワーク、ガバナンスの自動化に注力し始めている新たなフェーズへの移行を示している。"
+      "医療AI分野で急成長するAbridgeは、Nvidiaとの新たな提携のもと、医師と患者の会話を構造化データやワークフローに自動変換する「臨床インテリジェンスプラットフォーム」を発表し、規制の厳しい医療現場におけるAIの実用化をさらに一歩進めた。"
     ],
     "sources": [
       {
-        "name": "IT Brief Australia",
-        "url": "https://itbrief.com.au/story/hpe-expands-self-driving-networking-across-ai-environments"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/video/2026/06/17/dr-shiv-rao-abridge-ceo-a-fortt-knox-update.html"
       }
     ],
     "importance": "medium",
     "socialImpact": 65,
     "novelty": 70,
     "confidence": 90,
-    "priorityReason": "AIエージェント時代を支える自律型インフラの最新動向。",
-    "rankScore": 67,
-    "rankTier": "B",
-    "ageDays": 0,
-    "rank": 9,
-    "summaryLevel": "brief"
-  },
-  {
-    "id": "epic-games-fortnite-ai-20260616",
-    "category": "Entertainment",
-    "title": "Epic Games、Fortniteのスキンやコンセプトアート制作における生成AI活用を公表",
-    "date": "2026/06/16",
-    "summary": "Epic Gamesは、人気ゲーム「Fortnite」の新スキンやロケーションのコンセプトアート制作において、手描きのスケッチを3Dモデル風に変換するなどの工程に生成AIツールを導入してい…",
-    "details": [
-      "Epic Gamesが「Fortnite」の制作プロセスにおいて、手描きスケッチのバリエーション探索や3D化の迅速化に生成AIツール（Nano BananaやGPT Imageなど）を導入していることを公表したことは、大手ゲーム開発会社におけるAIワークフローの標準化と、それに伴う人間のアーティストによる修正作業の重要性を示している。"
-    ],
-    "sources": [
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/fortnite-maker-confirms-how-it-uses-generative-ai-to-help-create-concept-art-and-designs-for-new-skins"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "大手ゲーム開発における生成AIの具体的な活用現場を公開。",
-    "rankScore": 67,
-    "rankTier": "B",
-    "ageDays": 1,
-    "rank": 10,
-    "summaryLevel": "brief"
-  },
-  {
-    "id": "news_ai_crystal_symmetry_20260614",
-    "category": "Model",
-    "title": "AIが結晶の対称性を利用しスピントロニクス向け新型反強磁性体を特定",
-    "date": "2026/06/14",
-    "summary": "対称性を考慮した新しいAIモデル「SG-CDVAE」により、11万個 of 結晶候補から4つの安定した反強磁性体を特定。次世代メモリ技術開発の高速化が期待される。",
-    "details": [
-      "学術誌「npj Computational Materials」に掲載された研究によると、結晶の対称性情報を直接組み込んだ新しい深層学習フレームワーク「SG-CDVAE」が開発された。このモデルは、従来の生成モデルで課題となっていた対称性の崩壊を防ぎ、11万個の生成された結晶から4つの安定した反強磁性体候補を絞り込むことに成功した。これ…"
-    ],
-    "sources": [
-      {
-        "name": "AZoM",
-        "url": "https://www.azom.com/news.aspx?newsID=65528"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 85,
-    "confidence": 90,
-    "priorityReason": "AIを用いた新材料探索のブレイクスルーを示す好例であるため。",
+    "priorityReason": "医療現場の負担軽減に直結する、大手半導体企業との強力な提携。",
     "rankScore": 65,
     "rankTier": "B",
-    "ageDays": 3,
-    "rank": 11,
+    "ageDays": 1,
+    "rank": 7,
     "summaryLevel": "brief"
   },
   {
-    "id": "news_biglaw_junior_lawyers_ai_20260614",
-    "category": "Business",
-    "title": "大手法律事務所が直面する「若手弁護士の存在意義」というAIの問い",
-    "date": "2026/06/14",
-    "summary": "生成AIの導入が進む大手法律事務所において、若手弁護士が担ってきたリサーチや契約書作成などの業務が自動化され、彼らの存在意義や育成方法が問われている。",
+    "id": "india-economy-uncertainty-2026",
+    "category": "Economy",
+    "title": "インド財務相、原油価格や降雨不足による経済の不確実性を警告",
+    "date": "2026/06/15",
+    "summary": "インドのシタラマン財務相は、外国為替、原油や肥料の価格、および今年の降雨量不足による経済の不確実性に直面していると述べた。一方で、国債投資家への税制変更などにより資本流入の増加が期待される。",
     "details": [
-      "大手法律事務所（BigLaw）において、Harvey AIやOpenAIなどの生成AIプラットフォームの導入が急速に進んでいる。これにより、従来は若手弁護士が膨大な時間を費やしてきた判例リサーチや契約書の起案、デューデリジェンスといった定型業務が大幅に効率化された。しかし、これらの業務は事務所の収益源であると同時に、若手弁護士が実務の基…"
+      "インドのシタラマン財務相は、原油や肥料などの輸入価格の変動や、モンスーン期の降雨量不足が国内農業およびインフレに与える不確実性を指摘しました。一方で、政府は外国人投資家向けの国債税制変更などの市場活性化策を導入しており、これらが資本流入を促して経済を支える要因になると期待を示しています。"
     ],
     "sources": [
       {
-        "name": "LawFuel",
-        "url": "https://www.lawfuel.com/the-ai-question-biglaw-doesnt-want-junior-lawyers-asking/"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/india/india-facing-uncertainty-over-forex-oil-prices-rain-shortfall-says-finance-2026-06-15/"
       }
     ],
     "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 70,
-    "confidence": 90,
-    "priorityReason": "AIによるホワイトカラーの雇用と育成モデルの崩壊を象徴する。",
-    "rankScore": 64,
+    "socialImpact": 65,
+    "novelty": 60,
+    "confidence": 95,
+    "priorityReason": "新興国大国インドの経済リスクと対策を把握するため。",
+    "rankScore": 61,
     "rankTier": "B",
     "ageDays": 3,
-    "rank": 12,
+    "rank": 8,
     "summaryLevel": "brief"
   }
 ]
