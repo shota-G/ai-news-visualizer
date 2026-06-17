@@ -1,31 +1,27 @@
 [
   {
-    "id": "anthropic-export-ban-20260616",
+    "id": "us-iran-deal-20260616",
     "category": "Policy",
-    "title": "トランプ政権、AnthropicのAIモデル「Mythos」「Fable」への外国人アクセスを禁止",
+    "title": "米国とイランが歴史的合意に達しホルムズ海峡再開へ、世界株高と原油急落",
     "date": "2026/06/16",
-    "summary": "トランプ政権は、安全保障上の懸念から、Anthropicの最先端AIモデル「Mythos 5」および「Fable 5」への外国人のアクセスを全面的に禁止する命令を出した。これには同社の外国人従業員も含まれ、業界に波紋を広げている。",
+    "summary": "米国とイランが歴史的な合意に達し、数ヶ月にわたり混乱していたホルムズ海峡の再開が期待されている。これを受けて原油先物価格は5%近く急落し、米国株式市場ではダウ平均が史上最高値を更新した。",
     "details": [
-      "トランプ政権は、安全保障上のリスクを理由に、Anthropicが開発した最先端AIモデル「Mythos 5」および「Fable 5」への外国人（同社の外国人従業員を含む）のアクセスを禁止する行政命令を下した。",
-      "この措置は、高度なAI技術の海外流出を防ぐための地政学的な規制強化の一環であり、グローバルな人材獲得や frontier AI ラボの開発プロセスに深刻な打撃を与える可能性がある。",
-      "今後は、この輸出規制が他のAI開発企業（OpenAIやGoogleなど）にも拡大されるか、またAnthropicが米国政府との交渉を通じて例外措置を勝ち取れるかが焦点となる。"
+      "トランプ米政権とイラン政府が歴史的な合意に達し、ホルムズ海峡の通航再開に向けた覚書に署名した。これにより、数ヶ月にわたりエネルギー供給網を脅かしていた地政学的緊張が緩和に向かう見通しとなった。",
+      "この合意は、世界のエネルギー供給の安定化に直結し、原油価格を1バレル83ドル付近まで急落させた。インフレ懸念の緩和から世界的な株高を誘発し、金融市場に極めて大きな安心感をもたらしている。",
+      "今後は、金曜日に予定される正式な署名が滞りなく行われるか、またイスラエルなどの周辺国がこの合意に対してどのような行動をとるかが注視される。"
     ],
     "sources": [
       {
-        "name": "The Wall Street Journal",
-        "url": "https://www.wsj.com/tech/ai/anthropics-dire-marketing-worked-too-well-edb5928d"
-      },
-      {
-        "name": "Business Insider",
-        "url": "https://www.businessinsider.com/anthropic-ai-safety-protocols-white-house-mythos-fable-2026-6"
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/6/16/us-stock-market-climbs-as-us-iran-deal-stirs-hopes-for-end-to-energy-chaos"
       }
     ],
     "importance": "critical",
-    "socialImpact": 88,
-    "novelty": 85,
+    "socialImpact": 95,
+    "novelty": 90,
     "confidence": 95,
-    "priorityReason": "最先端AIを巡る米国の強力な安全保障規制。",
-    "rankScore": 90,
+    "priorityReason": "原油価格と世界市場を揺るがす歴史的な地政学的合意。",
+    "rankScore": 93,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
@@ -34,151 +30,171 @@
   {
     "id": "boj-rate-hike-20260616",
     "category": "Economy",
-    "title": "日本銀行が政策金利を1%に利上げ、約30年ぶりの高水準に",
+    "title": "日本銀行、政策金利を31年ぶりの高水準となる1%に引き上げ",
     "date": "2026/06/16",
-    "summary": "日本銀行は、インフレ圧力を背景に政策金利を1%に引き上げることを決定した。これは1995年以来、約30年ぶりの高水準となる。歴史的な円安や消費者物価の上昇に対応するための措置であり、市場に大きな衝撃を与えている。",
+    "summary": "日本銀行は、エネルギー価格の高騰に伴うインフレ懸念を背景に、政策金利を25ベーシスポイント引き上げ、31年ぶりの高水準となる1%にすることを決定した。歴史的な円安や米国の圧力も影響したとみられる。",
     "details": [
-      "日本銀行はインフレの継続と歴史的な円安を背景に、政策金利を1995年以来の高水準となる1%に引き上げることを決定した。",
-      "この決定は、長年にわたる超低金利政策からの完全な脱却を意味し、国内の住宅ローン金利の上昇や企業の資金調達コスト増加、さらには為替市場における円の急反発など、日本経済全体に広範な影響を及ぼす。",
-      "今後は、この利上げが個人消費や企業の設備投資に与える影響、および日銀がさらなる追加利上げに踏み切るかどうかの判断基準となる経済指標の推移が注目される。"
+      "日本銀行は、エネルギー価格高騰によるインフレ圧力に対処するため、政策金利を1%へと引き上げた。これは1995年以来、約31年ぶりの高水準となる。高市早苗首相の低金利・円安志向に反する形での決定となった。",
+      "この利上げは、歴史的な円安の進行と、それに伴う輸入インフレへの懸念、さらに米国の利上げ圧力に抗しきれなくなった結果である。日本の金融政策の歴史的な転換点であり、住宅ローンや企業の借入コスト、為替市場に甚大な影響を及ぼす。",
+      "今後は、金利上昇が日本国内の消費や企業の設備投資に与える影響、および為替相場が円高方向へ修正されるかどうかが注目の焦点となる。"
     ],
     "sources": [
       {
         "name": "AP News",
         "url": "https://apnews.com/article/rates-inflation-boj-iran-oil-policy-7646f3c0e0d30ef6c75925b5eecc9014"
-      },
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html"
       }
     ],
     "importance": "critical",
     "socialImpact": 90,
-    "novelty": 75,
+    "novelty": 85,
     "confidence": 95,
-    "priorityReason": "日本の金融政策の歴史的転換点となる利上げ決定。",
-    "rankScore": 89,
+    "priorityReason": "31年ぶりの1%利上げという歴史的金融政策の転換点。",
+    "rankScore": 91,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "deep"
   },
   {
-    "id": "openai-financial-leak-20260616",
-    "category": "Business",
-    "title": "OpenAIの財務情報がリーク、210億ドルの巨額損失が明らかに",
-    "date": "2026/06/16",
-    "summary": "リークされたOpenAIの財務データによると、同社は130億ドルの売上高に対し、210億ドルの損失を計上していることが判明した。AIモデルのトレーニングやインフラにかかる莫大な計算コストが、収益を大幅に上回っている実態が浮き彫りになった。",
+    "id": "news_japan_exports_20260617",
+    "category": "Economy",
+    "title": "日本の5月輸出額が3年ぶりの高水準を記録、市場予想を上回る",
+    "date": "2026/06/17",
+    "summary": "日本の5月の輸出額が過去3年超で最も速いペースで増加し、市場予想を上回った。日銀が政策金利を1%に引き上げた直後のデータであり、円安による輸出押し上げ効果と輸入インフレの懸念が交錯している。",
     "details": [
-      "OpenAIの内部財務データがリークされ、売上高130億ドルに対して210億ドルという巨額の赤字を抱えていることが明らかになった。",
-      "このデータは、最先端AIモデルの開発と運用にどれほど莫大なコストがかかるかを示しており、AIビジネスの持続可能性や、投資家へのリターンに対する市場の懸念を急速に高める要因となっている。",
-      "今後は、同社が計画しているとされるIPOへの影響や、コスト削減策、さらには追加の資金調達ラウンドの動向が注視される。"
+      "日本の5月の輸出額が前年比で過去3年超で最も高い伸びを記録し、市場予想を上回った。また輸入も前年比12.5%増加し、堅調な貿易動向を示している。",
+      "このデータは、日銀が政策金利を30年ぶりの高水準である1%に引き上げた直後に発表された。円安が輸出を強力に後押しする一方で、輸入インフレを招き国内の購買力を低下させる懸念も浮き彫りにしている。",
+      "今後は、金利引き上げと輸出主導の成長が持続するか、また円安に伴う国内消費への悪影響を日銀がどのようにコントロールしていくかが注視される。"
     ],
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/06/16/openai-financials-leaked-losses-revenue-profit/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/17/japan-trade-data-may-exports-imports.html"
       }
     ],
     "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 80,
+    "socialImpact": 80,
+    "novelty": 65,
     "confidence": 95,
-    "priorityReason": "AIビジネスの持続可能性を揺るがす巨額赤字の実態。",
-    "rankScore": 88,
+    "priorityReason": "日銀利上げ後の日本経済の動向を示す極めて重要な指標であるため。",
+    "rankScore": 86,
     "rankTier": "S",
-    "ageDays": 1,
+    "ageDays": 0,
     "rank": 3,
     "summaryLevel": "deep"
   },
   {
-    "id": "news_20260616_reuters_economy",
-    "category": "Economy",
-    "title": "米イラン暫定合意で世界株高、SpaceX急騰とNvidiaの250億ドル社債発行が市場を牽引",
+    "id": "anthropic-trump-ban-20260616",
+    "category": "Policy",
+    "title": "トランプ政権、安全保障を理由にAnthropicの最新AIモデルへの外国人アクセスを禁止",
     "date": "2026/06/16",
-    "summary": "米イラン間の暫定合意による世界的な株高の中、IPO後のSpaceXが急騰し、Nvidiaが250億ドルの社債発行を発表。市場の関心は主要中央銀行の金利判断へ移行している。",
+    "summary": "トランプ政権は輸出管理指令に基づき、Anthropicの最新AIモデル「Mythos 5」および「Fable 5」に対し、同社の外国人従業員を含む非米国人のアクセスを禁止する命令を下した。同社はこれを受けてモデルの公開…",
     "details": [
-      "米国とイランの暫定合意報道を受けて世界的に株高の動きが広がる中、先週新規上場したSpaceXの株価が急騰し、Nvidiaが250億ドル規模の社債発行を発表するなど、市場を揺るがす大きな金融・地政学的動きが重なった。",
-      "地政学的緊張の緩和が原油価格や物流の安定化期待を呼ぶ一方で、AIブームを背景とした巨大テック企業や宇宙スタートアップへの資金集中が加速しており、市場全体の流動性や金利見通しに多大な影響を与えている。",
-      "今後、FRBやイングランド銀行などの主要中央銀行が開催する金融政策決定会合において、地政学的リスクの緩和が利下げ・利上げ判断にどう織り込まれるか、またNvidiaの巨額債券発行が金利市場に与える影響が注視される。"
+      "トランプ政権が安全保障上の懸念から、Anthropicの最先端AIモデル「Mythos 5」および「Fable 5」への非米国人（同社の外国人従業員を含む）のアクセスを禁止する異例の命令を下し、同社はモデルの市場撤退を余意なくされたが、この対立が皮肉にも企業の関心を引き、同社のビジネス向け売上やIPOに向けた評価を高める要因になっている。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-06-16/"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "地政学リスク緩和と巨大テックの資金調達が市場に与える影響を解説。",
-    "rankScore": 88,
-    "rankTier": "S",
-    "ageDays": 1,
-    "rank": 4,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "china-retail-sales-drop-20260616",
-    "category": "Economy",
-    "title": "中国の5月小売売上高がコロナ後初の減少、景気減速懸念が強まる",
-    "date": "2026/06/16",
-    "summary": "中国国家統計局が発表した5月の小売売上高は前年比0.6%減となり、2022年末のゼロコロナ政策解除以来、初のマイナスを記録した。深刻な不動産不況と消費者の買い控えが、中国経済の成長に強いブレーキをかけている。",
-    "details": [
-      "中国の5月の小売売上高が前年比0.6%減とコロナ禍以降で初の減少を記録し、不動産価格の下落加速や投資の縮小と相まって、中国経済の深刻な内需不足と成長鈍化のリスクを改めて浮き彫りにした。"
-    ],
-    "sources": [
-      {
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-16/china-s-first-consumer-spending-drop-since-covid-imperils-growth"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
       }
     ],
     "importance": "high",
     "socialImpact": 80,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "中国経済の深刻な消費低迷を示す初のマイナス指標。",
-    "rankScore": 78,
+    "novelty": 85,
+    "confidence": 90,
+    "priorityReason": "AI開発における国家安全保障と人材規制の深刻な摩擦。",
+    "rankScore": 80,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 4,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "openai-financial-leak-20260616",
+    "category": "Business",
+    "title": "OpenAIの財務データがリーク、売上130億ドルに対し210億ドルの巨額損失",
+    "date": "2026/06/16",
+    "summary": "リークされたOpenAIの監査済み財務諸表により、同社が130億ドルの売上を計上した一方で、研究開発費やMicrosoftへの支払いが嵩み、210億ドルの営業損失（GAAP基準では385億ドルの損失）を抱えていることが…",
+    "details": [
+      "リークされたOpenAI of 財務データにより、同社が急速な売上成長を遂げる一方で、191億ドルに達する研究開発費やMicrosoftへの巨額の支払いによって年間210億ドルもの営業損失を計上している実態が明らかになり、生成AIビジネスの極めて高い計算コストと収益性の課題が浮き彫りになった。"
+    ],
+    "sources": [
+      {
+        "name": "Let's Data Science",
+        "url": "https://letsdatascience.com/news/openai-reports-rapid-revenue-growth-larger-losses-3db37681"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 80,
+    "confidence": 90,
+    "priorityReason": "急成長の裏にある生成AIビジネスの過酷な収益構造を露呈。",
+    "rankScore": 80,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "softbank-openai-security-20260616",
-    "category": "Service",
-    "title": "ソフトバンク、OpenAIのモデルを基盤としたAIセキュリティ製品を発売",
+    "id": "news_texas_bar_ai_warning_20260616",
+    "category": "Ethics",
+    "title": "テキサス州弁護士会への警告：AIの知能は1年以内に全人類を凌駕する",
     "date": "2026/06/16",
-    "summary": "ソフトバンクは、OpenAIとの共同事業を通じて、AIによるサイバー攻撃に対抗するための新製品「Patching as a Service」を日本国内で提供開始した。日本の重要インフラを防御するための新たな武器として活…",
+    "summary": "テキサス州弁護士会にて、AIが人類の上位1%の知能を超え、1年以内に個々の弁護士の能力を上回る可能性が指摘され、道徳的・法的価値観の早期組み込みが急務と警告された。",
     "details": [
-      "ソフトバンクはOpenAIとの合弁会社を通じて、AI技術を悪用したサイバー攻撃を自動で防御・修復する「Patching as a Service」の提供を開始し、日本の重要インフラのセキュリティ強化を目指す。"
+      "テキサス州弁護士会の会合において、法務技術の専門家が人工知能（AI）の急速な進化について警告を行った。専門家によると、AIはすでに人類の上位1%の知能レベルを超えており、1年以内には個々の弁護士の能力を上回る見込みであるという。AIが制御不能になる前に、人間の道徳的および法的価値観をシステムに組み込むことが極めて重要であり、法曹界全体で早急な対応が必要であると訴えた。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/media-telecom/softbank-launches-cybersecurity-product-based-openai-models-2026-06-16/"
+        "name": "Law.com",
+        "url": "https://www.law.com/texaslawyer/2026/06/16/are-you-smarter-than-ai-legal-expert-warns-texas-bar-about-rising-iq/"
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "ソフトバンクとOpenAIが放つ初の共同防衛製品。",
-    "rankScore": 77,
+    "socialImpact": 85,
+    "novelty": 75,
+    "confidence": 90,
+    "priorityReason": "AIの知能爆発が法曹界に与える倫理的・実務的影響を警告している。",
+    "rankScore": 79,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 6,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_20260615_techcrunch_sarvam",
+    "id": "nvidia-bond-sale-20260616",
     "category": "Business",
-    "title": "インドのAIスタートアップ「Sarvam」が2億3400万ドルを調達しユニコーン企業へ",
-    "date": "2026/06/15",
-    "summary": "インドのAIスタートアップSarvamが、HCLTech主導の資金調達ラウンドで2億3400万ドルを調達し、評価額15億ドルでユニコーン企業となった。インド独自のAI開発を加速させる。",
+    "title": "Nvidia、AIインフラ需要を背景に250億ドルの巨額社債を発行へ",
+    "date": "2026/06/16",
+    "summary": "Nvidiaは、AIデータセンターやハードウェアサプライヤーによる大規模なインフラ投資資金の調達ブームに乗る形で、250億ドル規模の社債発行に踏み切った。同社が債券市場で資金調達を行うのは2021年以来となる。",
     "details": [
-      "インド・バンガロールを拠点とするAIスタートアップ「Sarvam」が、大手ITサービス企業HCLTechが主導する資金調達ラウンドで2億3400万ドルを調達し、評価額15億ドルに達してインド最新のAIユニコーン企業となった。同社はインドの多言語に対応したフルスタックAIモデルやインフラの開発を進めており、今回の資金調達により、エージェントAIやサイバーセキュリティ分野の研究開発、および主権AI（ソブリンAI）の構築をさらに加速させる。"
+      "Nvidiaが250億ドル規模の社債発行を決定したことは、AIインフラ構築の資金調達が従来の営業キャッシュフローから債券市場などの資本市場の本格的な活用へと移行しているトレンドを象徴しており、ハイパースケーラーによる巨額の設備投資を支える新たな金融の動きとして注目される。"
+    ],
+    "sources": [
+      {
+        "name": "Investor's Business Daily",
+        "url": "https://www.investors.com/news/technology/ai-data-centers-suppliers-nvidia-debt/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "AIブームの資金調達が資本市場の本格活用へシフト。",
+    "rankScore": 76,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 7,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news_sarvam_unicorn_20260615",
+    "category": "Business",
+    "title": "インドのAIスタートアップ「Sarvam」が2億3400万ドル調達しユニコーン企業に",
+    "date": "2026/06/15",
+    "summary": "インド・バンガロール拠点のSarvamがHCLTech主導のラウンドで2億3400万ドルを調達し、評価額15億ドルでユニコーン企業となった。インド独自のAI開発を推進する。",
+    "details": [
+      "インド・バンガロールを拠点とするAIスタートアップ「Sarvam」は、IT大手HCLTechが主導する資金調達ラウンドで2億3400万ドルを調達し、評価額15億ドルのユニコーン企業となった。同社はインドの多言語に対応したフルスタックAIモデルの開発を進めており、今回の調達資金はエージェント型AIやサイバーセキュリティの研究、計算インフラの拡充に充てられる。地政学的リスクから独自のソブリンAIを求める動きが世界的に強まる中、インド国内での自立した技術基盤構…"
     ],
     "sources": [
       {
@@ -188,23 +204,75 @@
     ],
     "importance": "high",
     "socialImpact": 75,
-    "novelty": 82,
+    "novelty": 80,
     "confidence": 95,
-    "priorityReason": "インドにおける主権AI開発の加速と新たなユニコーン誕生の重要性。",
+    "priorityReason": "インド発のソブリンAI台頭と巨大資金調達の動きを伝えるため。",
     "rankScore": 75,
     "rankTier": "A",
     "ageDays": 2,
-    "rank": 7,
+    "rank": 8,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_20260614_azom_spintronics",
-    "category": "Model",
-    "title": "AIが結晶の対称性を活用し、次世代メモリ技術向け反強磁性体を高速に発見",
-    "date": "2026/06/14",
-    "summary": "新たなAIモデル「SG-CDVAE」が、結晶の対称性情報を直接学習に取り入れることで、11万個の候補から次世代スピントロニクスメモリに適した4つの安定な反強磁性体を特定した。",
+    "id": "hpe-self-driving-networks-20260617",
+    "category": "Service",
+    "title": "HPE、AIファクトリーや自律型エージェントに対応する自己駆動型ネットワークを拡張",
+    "date": "2026/06/17",
+    "summary": "HPEは「HPE Discover 2026」にて、AIファクトリーやエンタープライズデータセンター向けに、AI主導の自動化やセキュリティを強化した「自己駆動型ネットワーク」戦略の拡張を発…",
     "details": [
-      "学術誌「npj Computational Materials」に掲載された研究によると、結晶の対称性情報を直接潜在表現に組み込む新しい生成ディープラーニングフレームワーク「SG-CDVAE」が開発された。このAIモデルを用いることで、11万個の生成された結晶構造から、次世代の高速・大容量スピントロニクスメモリ技術に不可欠な、安定した4つの反強磁性体候補を絞り込むことに成功し、新材料の探索プロセスを大幅に高速化した。"
+      "HPEがAIファクトリーやエッジ環境向けに「自己駆動型ネットワーク」の拡張を発表したことは、企業がAIモデルの性能向上だけでなく、大量 of AIエージェントが自律的に稼働する時代を見据えて、インフラやネットワーク、ガバナンスの自動化に注力し始めている新たなフェーズへの移行を示している。"
+    ],
+    "sources": [
+      {
+        "name": "IT Brief Australia",
+        "url": "https://itbrief.com.au/story/hpe-expands-self-driving-networking-across-ai-environments"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "AIエージェント時代を支える自律型インフラの最新動向。",
+    "rankScore": 67,
+    "rankTier": "B",
+    "ageDays": 0,
+    "rank": 9,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "epic-games-fortnite-ai-20260616",
+    "category": "Entertainment",
+    "title": "Epic Games、Fortniteのスキンやコンセプトアート制作における生成AI活用を公表",
+    "date": "2026/06/16",
+    "summary": "Epic Gamesは、人気ゲーム「Fortnite」の新スキンやロケーションのコンセプトアート制作において、手描きのスケッチを3Dモデル風に変換するなどの工程に生成AIツールを導入してい…",
+    "details": [
+      "Epic Gamesが「Fortnite」の制作プロセスにおいて、手描きスケッチのバリエーション探索や3D化の迅速化に生成AIツール（Nano BananaやGPT Imageなど）を導入していることを公表したことは、大手ゲーム開発会社におけるAIワークフローの標準化と、それに伴う人間のアーティストによる修正作業の重要性を示している。"
+    ],
+    "sources": [
+      {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/fortnite-maker-confirms-how-it-uses-generative-ai-to-help-create-concept-art-and-designs-for-new-skins"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 75,
+    "confidence": 95,
+    "priorityReason": "大手ゲーム開発における生成AIの具体的な活用現場を公開。",
+    "rankScore": 67,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 10,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "news_ai_crystal_symmetry_20260614",
+    "category": "Model",
+    "title": "AIが結晶の対称性を利用しスピントロニクス向け新型反強磁性体を特定",
+    "date": "2026/06/14",
+    "summary": "対称性を考慮した新しいAIモデル「SG-CDVAE」により、11万個 of 結晶候補から4つの安定した反強磁性体を特定。次世代メモリ技術開発の高速化が期待される。",
+    "details": [
+      "学術誌「npj Computational Materials」に掲載された研究によると、結晶の対称性情報を直接組み込んだ新しい深層学習フレームワーク「SG-CDVAE」が開発された。このモデルは、従来の生成モデルで課題となっていた対称性の崩壊を防ぎ、11万個の生成された結晶から4つの安定した反強磁性体候補を絞り込むことに成功した。これ…"
     ],
     "sources": [
       {
@@ -212,25 +280,25 @@
         "url": "https://www.azom.com/news.aspx?newsID=65528"
       }
     ],
-    "importance": "high",
-    "socialImpact": 65,
-    "novelty": 88,
+    "importance": "medium",
+    "socialImpact": 60,
+    "novelty": 85,
     "confidence": 90,
-    "priorityReason": "AIを用いた材料科学の進展と次世代メモリ開発への貢献。",
-    "rankScore": 74,
-    "rankTier": "A",
+    "priorityReason": "AIを用いた新材料探索のブレイクスルーを示す好例であるため。",
+    "rankScore": 65,
+    "rankTier": "B",
     "ageDays": 3,
-    "rank": 8,
-    "summaryLevel": "standard"
+    "rank": 11,
+    "summaryLevel": "brief"
   },
   {
-    "id": "news_20260614_lawfuel_biglaw",
+    "id": "news_biglaw_junior_lawyers_ai_20260614",
     "category": "Business",
-    "title": "生成AIの普及が揺るがす大手法律事務所のビジネスモデルと若手弁護士の存在意義",
+    "title": "大手法律事務所が直面する「若手弁護士の存在意義」というAIの問い",
     "date": "2026/06/14",
-    "summary": "生成AIの急速な導入により、これまで若手弁護士が担ってきた契約書作成や調査業務が自動化され、大手法律事務所の収益モデルと若手育成のあり方が根本から問い直されている。",
+    "summary": "生成AIの導入が進む大手法律事務所において、若手弁護士が担ってきたリサーチや契約書作成などの業務が自動化され、彼らの存在意義や育成方法が問われている。",
     "details": [
-      "大手法律事務所（BigLaw）において、Harvey AIやOpenAIなどの生成AIツールの導入が急速に進んでおり、これまで若手弁護士が長時間かけて行ってきた契約書の下書きや判例調査などの定型業務が大幅に効率化されている。これにより、クライアントへの迅速なサービス提供とコスト削減が実現する一方で、若手弁護士の存在意義や、次世代の法曹人材をどのように育成すべきかという業界の根本的な課題が浮き彫りになっている。"
+      "大手法律事務所（BigLaw）において、Harvey AIやOpenAIなどの生成AIプラットフォームの導入が急速に進んでいる。これにより、従来は若手弁護士が膨大な時間を費やしてきた判例リサーチや契約書の起案、デューデリジェンスといった定型業務が大幅に効率化された。しかし、これらの業務は事務所の収益源であると同時に、若手弁護士が実務の基…"
     ],
     "sources": [
       {
@@ -238,45 +306,15 @@
         "url": "https://www.lawfuel.com/the-ai-question-biglaw-doesnt-want-junior-lawyers-asking/"
       }
     ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 78,
-    "confidence": 90,
-    "priorityReason": "生成AIが専門職のキャリア形成とビジネスモデルに与える影響を指摘。",
-    "rankScore": 73,
-    "rankTier": "A",
-    "ageDays": 3,
-    "rank": 9,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "epic-games-fortnite-ai-20260616",
-    "category": "Entertainment",
-    "title": "Epic Games、「Fortnite」のスキン制作における生成AIの活用を公表",
-    "date": "2026/06/16",
-    "summary": "Epic Gamesは、人気ゲーム「Fortnite」のキャラクタースキンや背景デザインの制作において、コンセプトアートの段階で生成AIツール（Nano Bananaなど）をワークフローに…",
-    "details": [
-      "Epic Gamesは、手描きのスケッチを3Dモデル風に変換したり、背景の時間帯バリエーションを迅速に検討したりするプロセスに生成AIを活用していることを明かし、人間のアーティストによる最終調整を前提とした効率的なワークフローの実態を示した。"
-    ],
-    "sources": [
-      {
-        "name": "IGN Nordic",
-        "url": "https://nordic.ign.com/fortnite/108869/fortnite-maker-confirms-how-it-uses-generative-ai-to-help-create-concept-art-and-designs-for-new-ski"
-      },
-      {
-        "name": "IGN",
-        "url": "https://www.ign.com/articles/fortnite-maker-confirms-how-it-uses-generative-ai-to-help-create-concept-art-and-designs-for-new-skins"
-      }
-    ],
     "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "大手ゲーム会社が明かす生成AIのリアルな活用法。",
-    "rankScore": 66,
+    "socialImpact": 70,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "AIによるホワイトカラーの雇用と育成モデルの崩壊を象徴する。",
+    "rankScore": 64,
     "rankTier": "B",
-    "ageDays": 1,
-    "rank": 10,
+    "ageDays": 3,
+    "rank": 12,
     "summaryLevel": "brief"
   }
 ]
