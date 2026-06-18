@@ -1,232 +1,172 @@
 [
   {
-    "id": "g7-ai-trusted-partners-20260618",
-    "category": "Policy",
-    "title": "G7首脳、AI分野での連携強化を表明：米国製最先端モデルへのアクセス確保に向け「信頼できるパートナー」制度を議論",
+    "id": "news_global_economy_central_banks_20260618",
+    "category": "Economy",
+    "title": "米イラン和平合意の署名後も、世界の中央銀行はインフレ警戒で利上げ姿勢を維持",
     "date": "2026/06/18",
-    "summary": "G7首脳は、先進AIのリスクと機会に関する調整を緊密化することで合意した。米国政府がAnthropicの最先端モデルに輸出規制を課したことを受け、非米国国が最先端モデルへアクセスできるようにする「信頼できるパートナー」制度の創設が議論された。",
+    "summary": "米国とイランの間で戦争終結に向けた和平合意が署名され原油価格は下落したものの、世界の中央銀行はインフレ圧力の定着を警戒している。FRBやイングランド銀行は、エネルギー市場の正常化に時間がかかるとみて利上げや引き締め姿勢を崩していない。",
     "details": [
-      "フランスのエビアンで開催されたG7サミットにおいて、首脳陣は先進AIに関する連携強化を表明し、非米国国が米国の最先端AIモデルにアクセスできるようにする「信頼できるパートナー」制度の創設について議論しました。これは、米国政府が安全保障上の懸念からAnthropicの最新モデル「Fable 5」および「Mythos 5」の海外アクセスを禁止したことを受けた動きです。",
-      "米国の輸出規制により、欧州などの同盟国が最先端AI技術から排除される懸念が高まっており、技術的主権を巡る地政学的な緊張が生じています。AI開発を主導する米国と、規制や主権確保を急ぐ欧州との間で、安全保障と技術アクセスのバランスをどう取るかが今後の世界的なAIエコシステムに決定的な影響を与えます。",
-      "今後は、米国政府とAnthropicとの交渉の行方や、「信頼できるパートナー」制度の具体的な要件および対象国、さらには欧州独自のAIインフラ（ギガファクトリー計画など）の進展が注目されます。"
+      "米国とイランの間で戦争を終結させ核交渉を再開するための和平合意が署名され、原油価格は一時的に下落したものの、連邦準備制度理事会（FRB）やイングランド銀行（BoE）などの主要中央銀行は、インフレ抑制に向けた利上げや引き締め姿勢を維持・示唆しています。",
+      "中東紛争によるエネルギーインフラの損害や備蓄の減少は深刻であり、市場の正常化には来年までかかる見通しです。中央銀行は一時的な原油安に惑わされず、過去数年間にわたり目標を上回り続けたインフレに対する信頼性を守るため、タカ派的な姿勢を維持せざるを得ない状況にあります。",
+      "今後は、原油価格の推移が実際に各国の物価指標にどう反映されるか、そして新FRB議長ケビン・ウォーシュ氏のもとで米国の金融政策が具体的にどう舵を切るかが焦点となります。"
     ],
     "sources": [
       {
-        "name": "iTnews",
-        "url": "https://www.itnews.com.au/news/g7-leaders-vow-closer-ties-on-ai-626718"
-      },
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/iran-peace-not-stopping-central-banks-raising-borrowing-costs-2026-06-18/"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 75,
+    "confidence": 95,
+    "priorityReason": "地政学的和解と金融政策の乖離が世界経済に与える影響。",
+    "rankScore": 89,
+    "rankTier": "S",
+    "ageDays": 1,
+    "rank": 1,
+    "summaryLevel": "deep"
+  },
+  {
+    "id": "news_japan_bank_ai_cyberattack_20260618",
+    "category": "Service",
+    "title": "全銀協会長、AIを用いた高度なサイバー攻撃に備えATMなどのサービスを予防的に停止する可能性を警告",
+    "date": "2026/06/18",
+    "summary": "全国銀行協会の加藤勝彦会長（みずほ銀行頭取）は、Anthropicの「Mythos」など高度なAIモデルを悪用したサイバー攻撃の脅威に対し、顧客資産を守るためATMやオンラインバンキングなどのサービスを予防的に一時停止する可能性があると言及した。",
+    "details": [
+      "全国銀行協会の加藤勝彦会長（みずほ銀行頭取）は記者会見で、AI技術の進化に伴い想定を超える高度なサイバー攻撃が増加する懸念を示し、顧客の資産を保護するためにATMやオンラインバンキングなどのサービスを予防的に一時停止する可能性があると言及しました。",
+      "Anthropicの「Mythos」などの最先端AIモデルがソフトウェアの脆弱性を瞬時に特定できる能力を持つことから、金融インフラへの攻撃リスクが現実味を帯びています。この発言は、AIの脅威が単なる情報漏洩に留まらず、社会的な決済インフラの物理的な稼働停止にまで波及する可能性を示しており、金融業界におけるAIセキュリティ対策の重要性を浮き彫りにしています。",
+      "今後は、実際にAIを悪用した攻撃が発生した際の各銀行の具体的な対応マニュアルの策定や、政府による最先端AIモデルの利用規制とセキュリティ基準の調和がどのように進むかが注目されます。"
+    ],
+    "sources": [
       {
-        "name": "The Wall Street Journal",
-        "url": "https://www.wsj.com/tech/ai/trump-says-anthropic-negotiations-going-fine-as-ai-model-shutdown-drags-on-90b0a46b"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/legal/government/japan-bank-lobby-warns-potential-service-disruptions-due-ai-enabled-cyberattacks-2026-06-18/"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
     "novelty": 80,
     "confidence": 95,
-    "priorityReason": "米国によるAI輸出規制とG7での同盟国間の摩擦は、国際AI政策を左右するため。",
-    "rankScore": 90,
-    "rankTier": "S",
-    "ageDays": 0,
-    "rank": 1,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "europe-tech-sovereignty-g7-20260617",
-    "category": "Policy",
-    "title": "G7サミットとVivaTechで欧州の「技術主権」議論が白熱、米国のAI輸出規制受け",
-    "date": "2026/06/17",
-    "summary": "フランスでのG7サミットやVivaTechにて、欧州の「技術主権」を巡る議論が活発化した。米国によるAnthropic製AIモデルの輸出制限を受け、欧州は米国製AIへの依存脱却と独自インフラ構築の必要性に直面している。",
-    "details": [
-      "フランスで開催されたG7サミット（6月15〜17日）およびテクノロジーカンファレンス「VivaTech 2026」（6月17〜20日）において、欧州の政策立案者やAI企業の指導者らが集まり、AI分野における欧州の「技術主権」の確保について集中的な議論が行われた。米国政府によるAnthropic社の最新AIモデルに対する輸出制限措置が引き金となり、欧州内での危機感が高まっている。",
-      "米国製AI技術への過度な依存は、安全保障や経済競争力の観点から欧州にとって重大なリスクと捉えられている。欧州委員会は独自のAI「ギガファクトリー」や大規模計算インフラの整備を提案しているが、米国の巨大テック企業との技術的・資金的な格差は依然として大きく、地政学的な緊張が技術のブロック化を加速させる懸念がある。",
-      "今後は、欧州連合（EU）が提案する国内クラウドや半導体産業の育成策が、米国の輸出管理規則に対してどのように機能するか、また欧州発のAIスタートアップ（Mistralなど）が独自の主権型AIモデルをどこまで実用化できるかが注視される。"
-    ],
-    "sources": [
-      {
-        "name": "Global Banking & Finance Review",
-        "url": "https://www.globalbankingandfinance.com/europe-frets-about-u-ai-tech-world-flocks-france-g7-vivatech/"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 85,
-    "confidence": 90,
-    "priorityReason": "米国のAI輸出規制が引き起こした欧州の技術主権を巡る地政学的対立。",
-    "rankScore": 89,
+    "priorityReason": "金融インフラがAI脅威で停止する可能性に言及したため。",
+    "rankScore": 88,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "deep"
   },
   {
-    "id": "fed-outlook-extremes-20260617",
-    "category": "Economy",
-    "title": "米FRB、ウォルシュ新議長のもとで初の金融政策決定会合：エコノミストの予測は利下げと利上げで二極化",
-    "date": "2026/06/17",
-    "summary": "ケビン・ウォルシュ氏が新議長に就任して初となる米連邦公開市場委員会が開催された。原油価格の急落や堅調な消費、AIブームを背景に、エコノミストの間では追加利下げと利上げの予測が極端に分かれている。",
+    "id": "news_anthropic_us_ban_proposal_20260618",
+    "category": "Policy",
+    "title": "Anthropic、最新AIモデルの輸出規制解除に向け米商務長官に協調案を提示",
+    "date": "2026/06/18",
+    "summary": "米政府が安全上の懸念からAnthropicの最新AIモデル「Mythos」と「Fable」に輸出規制を課したことを受け、同社幹部はハワード・ラトニック商務長官に対し、ホワイトハウスとの連携強化や迅速なセキュリティ懸念の…",
     "details": [
-      "米国とイランの和平合意によるホルムズ海峡再開で原油価格が1バレル80ドル以下に急落する一方、5月の小売売上高が前月比0.9%増と予想を上回り、労働市場も堅調を維持しています。この複雑な経済環境下で、シティのエコノミストが年内3回の連続利下げを予想する一方、PGIMのエコノミストは3回の利上げを予測するなど、FRBの今後の金利見通しに対する市場の見方は極端に二極化しています。"
+      "トランプ政権が安全上の懸念を理由にAnthropicの最新AIモデル「Mythos」および「Fable」に対して輸出規制を課したことを受け、同社共同創業者のトム・ブラウン氏らはハワード・ラトニック商務長官に対し、政府とのコミュニケーションを改善しセキュリティ懸念を迅速に解決することを約束する提案を行いました。この規制は、AIモデルの提供能力が企業の競争力だけでなく、国家安全保障や地政学的リスクとして政府に直接管理される前例となる可能性を示しています。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/oil-roundtrips-ai-booms-us-consumers-spend-economists-fed-outlooks-hit-extremes-2026-06-17/"
-      },
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/video/2026/06/17/retail-sales-up-0-point-9-percent-in-may-more-than-expected.html"
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/06/18/business/anthropic-floats-proposal-to-lutnick-to-end-us-ban-of-powerful-mythos-fable-ai-models-sources/"
       }
     ],
     "importance": "high",
     "socialImpact": 80,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "新FRB議長就任後の初会合と、極端に分かれる市場の金利予測を解説。",
-    "rankScore": 78,
+    "novelty": 85,
+    "confidence": 90,
+    "priorityReason": "政府による先端AI規制の最新動向と企業側の対応。",
+    "rankScore": 80,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "pramaana-labs-funding-20260617",
-    "category": "Business",
-    "title": "Pramaana Labs、AIの厳密な検証に向けてKhosla Venturesなどから2,700万ドルのシード資金を調達",
-    "date": "2026/06/17",
-    "summary": "AIスタートアップのPramaana Labsは、LLMの出力に決定論的な検証レイヤーを重ねる「形式検証」技術の開発に向け、Khosla Venturesなどから2,700万ドルのシード資金を調達した。",
+    "id": "south-korea-election-probe",
+    "category": "Policy",
+    "title": "韓国国会、地方選挙での投票用紙不足問題を巡り45日間の国政調査を開始",
+    "date": "2026/06/18",
+    "summary": "韓国国会は、6月3日に実施された地方選挙において投票用紙の不足により投票が混乱した問題について、中央選挙管理委員会を対象とする45日間の国政調査計画を承認した。この問題は選管トップの辞任や抗議活動に発展している。",
     "details": [
-      "Pramaana Labsは、従来のLLMが持つ自然言語処理の柔軟性を維持しつつ、オープンソースのプログラミング言語「LEAN」を用いた形式検証の手法を導入することで、AIの出力結果が数学的・論理的に正しいかを厳密にチェックするシステムを開発しています。これにより、ハルシネーション（事実誤認）を排除し、高い信頼性が求められるエンタープライズ業務でのAI活用を可能にすることを目指しています。"
+      "韓国国会は2026年6月18日、今月実施された地方選挙で投票用紙が不足し投票所が混乱した事態を受け、中央選挙管理委員会に対する45日間の国政調査を行う計画を本会議で承認した。"
     ],
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/south-korea-parliament-launches-probe-into-election-ballot-shortages-2026-06-18/"
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
-    "novelty": 85,
+    "socialImpact": 80,
+    "novelty": 55,
     "confidence": 95,
-    "priorityReason": "AIの信頼性を数学的に担保する形式検証技術への巨額投資が注目されるため。",
-    "rankScore": 77,
+    "priorityReason": "韓国の地方選挙で発生した投票用紙不足を巡る政治的混乱を伝えるため。",
+    "rankScore": 75,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 4,
     "summaryLevel": "standard"
   },
   {
-    "id": "anthropic-frontier-carbon-20260617",
-    "category": "Ethics",
-    "title": "Anthropic、AIスタートアップとして初めて炭素除去共同体「Frontier」に加盟",
+    "id": "anthropic-frontier-carbon-removal",
+    "category": "Business",
+    "title": "Anthropic、AI企業として初めて炭素除去連合「Frontier」に加盟",
     "date": "2026/06/17",
-    "summary": "AIスタートアップのAnthropicは、二酸化炭素除去を推進する共同体「Frontier」に加盟し、新規の資金拠出を行うことを発表した。純粋なAI企業としての加盟は同社が初となり、AIのエネルギー消費問題への対応とし…",
+    "summary": "Anthropicは、二酸化炭素除去の促進を目指す企業連合「Frontier」に加盟し、新規資金調達ラウンドに参加した。純粋なAIスタートアップとしての加盟は同社が初であり、AI急拡大に伴う電力消費と環境負荷への懸念に…",
     "details": [
-      "AIモデルのトレーニングや運用に伴う電力消費と炭素排出が急増する中、AnthropicはFrontierへの加盟を通じて炭素除去技術の社会実装を支援し、自社の環境負荷を相殺する姿勢を示しました。Frontierは総額18億ドルの誓約資金を抱える組織であり、今回の決定はAI業界全体に対して持続可能性への配慮を促す象徴的な動きとなります。"
+      "Anthropicが二酸化炭素除去を支援する企業連合「Frontier」に加盟し、総額9億1500万ドルの新たな資金拠出枠組みに参加したことが2026年6月17日に明らかになった。"
     ],
     "sources": [
       {
         "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join"
+        "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/"
       }
     ],
     "importance": "high",
     "socialImpact": 75,
-    "novelty": 75,
+    "novelty": 80,
     "confidence": 95,
-    "priorityReason": "AIの環境負荷問題に対し、主要スタートアップが炭素除去で先手を打ったため。",
-    "rankScore": 77,
+    "priorityReason": "AI企業の環境負荷対策としての初の炭素除去連合への加盟を伝えるため。",
+    "rankScore": 75,
     "rankTier": "A",
-    "ageDays": 1,
+    "ageDays": 2,
     "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "sarvam-ai-unicorn-india-20260615",
+    "id": "tokyo-electron-china-competition",
     "category": "Business",
-    "title": "インドのAIスタートアップ「Sarvam」、2億3400万ドル調達でユニコーン企業に",
-    "date": "2026/06/15",
-    "summary": "インドのAIスタートアップ「Sarvam」が、IT大手HCLTech主導のラウンドで2億3400万ドルを調達し、評価額15億ドルでユニコーン企業となった。インド独自の言語やユースケースに特化したフルスタックAIの開発を…",
+    "title": "東京エレクトロン社長、中国の半導体製造装置の内製化に対抗する技術力に自信",
+    "date": "2026/06/18",
+    "summary": "東京エレクトロンの河合利樹社長は、中国が進める半導体製造装置の自給自足化が新たな競争相手を生み出しているものの、同社が持つ最先端の技術的優位性を維持できると強い自信を示した。半導体産業は日本経済の柱になると期待されてい…",
     "details": [
-      "インド・ベンガルールを拠点とするAIスタートアップ「Sarvam」は、ITサービス大手HCLTechが主導する資金調達ラウンドで2億3400万ドル（約370億円）を調達し、評価額15億ドルのユニコーン企業となった。同社はインド国内の多様な言語や特有のユースケースに最適化されたフルスタックAIモデルの開発を進めており、今回の資金調達は、先進的なAI技術や計算インフラへのアクセス制限に対する懸念から、各国が「ソブリンAI（主権AI）」の構築を急ぐ世界的な潮流…"
+      "東京エレクトロンの河合利樹社長は、中国による半導体製造装置の国産化推進が競合を生み出している現状においても、同社が技術的な優位性を維持し続けられるとの確信を2026年6月18日のインタビューで語った。"
     ],
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "インド独自のAI主権確立に向けた巨大資金調達と市場の急成長。",
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 3,
-    "rank": 6,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "japan-exports-surge-20260617",
-    "category": "Economy",
-    "title": "日本の5月輸出、3年ぶりの高成長を記録し市場予想を上回る",
-    "date": "2026/06/17",
-    "summary": "日本の5月の輸出額が、半導体関連などの需要に支えられ、過去3年超で最も速いペースで増加した。日銀が政策金利を30年ぶりの高水準である1%に引き上げた直後の発表であり、円安による輸出押し上げ効果と輸入インフレへの懸念が交…",
-    "details": [
-      "財務省が発表した貿易統計によると、日本の5月の輸出額は前年同月比で急増し、過去3年超で最も高い伸び率を記録した。この背景には、世界的な人工知能（AI）ブームに伴う半導体製造装置や電子部品の旺盛な需要がある。日本銀行が政策金利を1%に引き上げた直後のデータとして注目されており、円安が輸出企業の業績を強力に後押しする一方で、輸入物価の上昇が国内の購買力を圧迫する懸念も依然として根強い。"
-    ],
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/17/japan-trade-data-may-exports-imports.html"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 60,
-    "confidence": 95,
-    "priorityReason": "日銀利上げ後の日本経済の底堅さと輸出主導の成長力を示す重要指標。",
-    "rankScore": 74,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 7,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "wall-street-mangos-stocks-20260616",
-    "category": "Economy",
-    "title": "ウォール街で新トレンド「MANGOS」株が台頭、未上場企業含むETF申請も相次ぐ",
-    "date": "2026/06/16",
-    "summary": "米国株式市場で「マグニフィセント・セブン」に代わり、MetaやNvidia、OpenAI、SpaceXなど6社を指す「MANGOS」という新呼称が注目を集めている。未上場企業を含むこれら銘柄を対象としたETFの申請も始…",
-    "details": [
-      "米国株式市場において、これまで市場を牽引してきた「マグニフィセント・セブン」に代わり、Meta、Anthropic、Nvidia、Google、OpenAI、SpaceXの6社を指す「MANGOS」という新しい造語が急速に浸透している。SpaceXの新規株式公開（IPO）の成功や、OpenAIおよびAnthropicの年内上場計画への期待が背景にある。すでにETF運用会社がこれら6社に投資するファンドの申請を行うなど、未上場企業への投資機会を求める投資家…"
-    ],
-    "sources": [
-      {
-        "name": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/wall-street-cant-stop-talking-about-mangos-stocks-as-the-magnificent-seven-becomes-passe-61b5a453"
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/tokyo-electron-chief-sees-edge-despite-china-s-self-sufficiency-drive"
       }
     ],
     "importance": "high",
     "socialImpact": 70,
-    "novelty": 80,
+    "novelty": 65,
     "confidence": 95,
-    "priorityReason": "ウォール街の新たな投資トレンドと未上場AI企業への投資手法。",
+    "priorityReason": "中国の半導体国産化に対する日本の主要装置メーカーの戦略を示すため。",
     "rankScore": 74,
     "rankTier": "A",
-    "ageDays": 2,
-    "rank": 8,
+    "ageDays": 1,
+    "rank": 6,
     "summaryLevel": "standard"
   },
   {
-    "id": "ai-boom-convertible-bonds-20260616",
+    "id": "ai-boom-convertible-bonds",
     "category": "Business",
-    "title": "AIブームの資金調達が転換社債市場へ波及、CoreWeaveが40億ドル発行",
+    "title": "AIブームによる資金需要が転換社債市場へ波及、発行額がパンデミック以来の最高水準に",
     "date": "2026/06/16",
-    "summary": "AIインフラ需要の急増に伴い、AIスタートアップによる資金調達が転換社債市場に急拡大している。AIクラウドプロバイダーのCoreWeaveが40億ドルの転換社債を発行するなど、同市場の取引規模はパンデミック初期以来の最…",
+    "summary": "AIインフラ企業などの旺盛な資金需要を背景に、米国の転換社債市場の発行規模が新型コロナ流行初期以来の最高水準に達した。AIクラウドのCoreWeaveが40億ドルの転換社債を発行するなど、巨額のインフラ投資を賄う新たな…",
     "details": [
-      "AI向けデータセンターやインフラの構築を急ぐテクノロジー企業の間で、転換社債を用いた資金調達が急増している。AIクラウドプロバイダーのCoreWeaveが40億ドルの転換社債を発行したことを筆頭に、同市場の取引規模は新型コロナウイルス流行初期以来の最高水準に達した。従来の株式や普通社債に比べ、将来の株式転換権を付与することで低金利での迅速な資金確保が可能となるため、莫大な設備投資を必要とするAIスタートアップにとって新たな主要な財務戦略となっている。"
+      "AIインフラの急速な拡大に伴う巨額の資金需要を背景に、転換社債市場の取引規模がパンデミック開始以来の最高水準に急増しており、CoreWeaveが40億ドルの転換社債を発行したことが2026年6月16日に報じられた。"
     ],
     "sources": [
       {
@@ -235,66 +175,92 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
-    "novelty": 80,
+    "socialImpact": 65,
+    "novelty": 75,
     "confidence": 90,
-    "priorityReason": "AI企業の莫大な資金需要が金融市場に与える新たな地殻変動。",
-    "rankScore": 73,
-    "rankTier": "A",
+    "priorityReason": "AIインフラ投資の巨額化が金融市場に与える影響を解説するため。",
+    "rankScore": 71,
+    "rankTier": "B",
+    "ageDays": 3,
+    "rank": 7,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "hpe-agentic-ai-infrastructure",
+    "category": "Service",
+    "title": "HPE、自律型AIエージェントの本格運用に向けたインフラ・セキュリティ戦略を拡張",
+    "date": "2026/06/16",
+    "summary": "ヒューレット・パッカード・エンタープライズ（HPE）は、企業が自律型AIエージェントを安全かつ確実に運用できるよう、ネットワーク、セキュリティ、データ管理、データ保護ソフト「Zerto」のAI環境への拡張を含む包括的な…",
+    "details": [
+      "HPEは、企業がAIエージェントを実業務に導入する「実用化フェーズ」を見据え、データ管理ソフト「Data Fabric」の連携強化や、AIの誤動作時にシステムを復旧する「Zerto」の拡張などを2026年6月16日に発表した。"
+    ],
+    "sources": [
+      {
+        "name": "SiliconANGLE",
+        "url": "https://siliconangle.com/2026/06/16/hpe-expands-self-driving-networking-strategy-ai-moves-production/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 65,
+    "novelty": 75,
+    "confidence": 90,
+    "priorityReason": "AIエージェントの実用化に向けたインフラ企業の最新動向を伝えるため。",
+    "rankScore": 71,
+    "rankTier": "B",
+    "ageDays": 3,
+    "rank": 8,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "japan-exports-may-2026",
+    "category": "Economy",
+    "title": "日本の5月輸出額、過去3年超で最大の伸び率を記録",
+    "date": "2026/06/17",
+    "summary": "日本の5月の輸出額が市場予想を上回り、過去3年超で最も速いペースで増加した。円安を背景に輸出が好調を維持する一方、輸入も12.5%増加しており、日銀が政策金利を1%に引き上げた直後の日本経済の底堅さを示している。",
+    "details": [
+      "財務省が発表した貿易統計などに基づき、日本の5月の輸出額が過去3年超で最も高い伸びを記録し、輸入も前年同月比12.5%増と高い水準を維持していることが2026年6月17日に報じられた。"
+    ],
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/17/japan-trade-data-may-exports-imports.html"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 60,
+    "confidence": 95,
+    "priorityReason": "円安を背景とした日本の輸出急増と日銀利上げ後の経済動向を示すため。",
+    "rankScore": 70,
+    "rankTier": "B",
     "ageDays": 2,
     "rank": 9,
     "summaryLevel": "standard"
   },
   {
-    "id": "ant-group-sustainability-20260617",
-    "category": "Model",
-    "title": "Ant Group、AI研究開発への投資を過去最高に拡大：1兆パラメータモデル「Ling-2.6-1T」などを公開",
-    "date": "2026/06/17",
-    "summary": "Ant Groupはサステナビリティ報告書を公開し、AI研究開発への投資が過去最高に達したことを明らかにした。1兆パラメータの基盤モデル「Ling-2.6-1T」や、物理世界向けのAIモデ…",
+    "id": "news_vampire_survivors_fortnite_ai_20260618",
+    "category": "Entertainment",
+    "title": "『ヴァンパイア・サバイバーズ』開発元、Epic Gamesの生成AI利用方針を巡り『フォートナイト』コラボ計画を再検討",
+    "date": "2026/06/18",
+    "summary": "人気ゲーム『ヴァンパイア・サバイバーズ』の開発元Poncleが、Epic Gamesとの『フォートナイト』コラボ計画の再検討に入った。EpicがUnreal Engine 6やキャラクター…",
     "details": [
-      "Ant Groupは、コーディングや複数ステップのワークフローなどの複雑な実務に対応する1兆パラメータの言語モデル「Ling-2.6-1T」のほか、動画品質や長期一貫性に優れた世界モデル「LingBot-World」をオープンソースとして公開しました。さらに、同社のAI決済インフラ「Alipay AI Pay」の累計取引件数が3億件を突…"
+      "Epic Gamesが「State of Unreal」にて、Unreal Engine 6における生成AIツールの統合や『フォートナイト』のスキン制作プロセスでのAI活用を公表したことを受け、人気インディーゲーム『ヴァンパイア・サバイバーズ』の開発元Poncleがコラボレーション計画の再検討を行っていることが明らかになりました。ゲーム…"
     ],
     "sources": [
       {
-        "name": "Financial Times",
-        "url": "https://markets.ft.com/data/announce/detail?dockey=600-202606170512BIZWIRE_USPRX____20260617_BW847068-1"
+        "name": "IGN Africa",
+        "url": "https://za.ign.com/fortnite/235152/vampire-survivors-developer-reviewing-fortnite-crossover-plans-after-epic-details-unreal-engine-6-ai"
       }
     ],
     "importance": "medium",
     "socialImpact": 70,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "中国大手の1兆パラメータモデル公開とAI決済の商業的成功を示すため。",
-    "rankScore": 69,
+    "novelty": 75,
+    "confidence": 95,
+    "priorityReason": "ゲーム業界における生成AI利用への反発とコラボへの影響。",
+    "rankScore": 67,
     "rankTier": "B",
     "ageDays": 1,
     "rank": 10,
-    "summaryLevel": "brief"
-  },
-  {
-    "id": "aembit-copilot-studio-20260617",
-    "category": "Service",
-    "title": "Aembit、Microsoft Copilot Studio向けに自律型AIエージェントのアクセス管理機能を拡張",
-    "date": "2026/06/17",
-    "summary": "アイデンティティ・アクセス管理プロバイダーのAembitは、Microsoft Copilot Studioで構築された自律型AIエージェントのアクセス権限を安全に制御・監査できる統合機能…",
-    "details": [
-      "企業内での自律型AIエージェントの導入が加速する中、エージェントが機密データや社内システムに過剰なアクセス権を持つセキュリティリスクが課題となっています。Aembitの新しい統合機能により、セキュリティチームはエージェントに対して検証済みのアイデンティティを付与し、永続的な資格情報を持たせることなく、中央からアクセス権限を動的に管理・監…"
-    ],
-    "sources": [
-      {
-        "name": "Business Insider",
-        "url": "https://markets.businessinsider.com/news/stocks/aembit-extends-iam-for-agentic-ai-to-microsoft-copilot-studio-1036255640"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "自律型AIエージェントのセキュリティと権限管理の標準化を推進するため。",
-    "rankScore": 66,
-    "rankTier": "B",
-    "ageDays": 1,
-    "rank": 11,
     "summaryLevel": "brief"
   }
 ]
