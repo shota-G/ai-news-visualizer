@@ -1,318 +1,214 @@
 [
   {
-    "id": "us-iran-peace-deal-20260618",
+    "id": "news-001",
     "category": "Policy",
-    "title": "米国とイランが戦争終結に向けた暫定合意に署名、ホルムズ海峡再開へ",
-    "date": "2026/06/18",
-    "summary": "米国とイランは、110日間に及ぶ紛争を停止し、核交渉を再開するための14項目の暫定合意（MOU）に署名した。ホルムズ海峡の再開により、世界的な経済危機が回避される見通し。",
+    "title": "米国政府、Anthropicの最先端AIモデル「Fable」と「Mythos」の輸出規制を解除",
+    "date": "2026/07/01",
+    "summary": "米国政府は、安全保障上の懸念から一時的に制限していたAnthropicの最先端AIモデル「Claude Fable 5」および「Claude Mythos 5」に対する輸出規制を解除した。",
     "details": [
-      "米国とイランは、110日間にわたる軍事衝突を停止し、核交渉を再開するための14項目からなる暫定合意（MOU）に署名した。この合意には、イランに対する政治的・財政的な譲歩と引き換えに、世界経済の生命線であるホルムズ海峡を再開することが含まれている。",
-      "この合意は、原油価格の急落を招き、世界的な大恐慌の危機を回避した地政学的・経済的な大転換点である。一方で、米国内の共和党強硬派からは「過去数十年間で最悪の外交的失策」との批判も噴出しており、今後の履行プロセスには不透明感が残る。",
-      "今後は、この暫定合意が正式な和平条約へと発展するか、またイランの核開発制限に関する具体的な検証プロセスがどのように進められるかが注視される。"
+      "米国商務省は、国家安全保障上の懸念から一時的に制限していたAnthropicの最先端AIモデル「Claude Fable 5」および「Claude Mythos 5」に対する輸出規制を解除し、国際的なアクセスを再開した。",
+      "この決定は、アジア地域における競合モデルの台頭に対抗し、米国の技術的優位性を維持するために下された。政府とAI企業の新たな協調体制を示す象徴的な事例となる。",
+      "今後は、Anthropicが合意した具体的な安全対策の内容や、他のフロンティアモデルに対しても同様の基準が適用されるかどうかが注視される。"
     ],
     "sources": [
       {
-        "name": "Newsweek",
-        "url": "https://www.newsweek.com/videos/the-bulletin-june-18s-news-in-60-seconds"
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/smart-voices-tech-react-anthropic-fable-mythos-5-return-dispute-2026-7"
       }
     ],
     "importance": "critical",
-    "socialImpact": 95,
-    "novelty": 90,
+    "socialImpact": 85,
+    "novelty": 80,
     "confidence": 95,
-    "priorityReason": "世界経済の破綻を回避した歴史的な和平合意であるため。",
-    "rankScore": 93,
+    "priorityReason": "米国のAI規制方針と国際競争力に直結する極めて重要な決定。",
+    "rankScore": 89,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "japan-exports-may-2026",
+    "id": "japan-growth-blueprint-2026",
     "category": "Economy",
-    "title": "日本の5月輸出額、3年超ぶりの高水準を記録し市場予想を上回る",
-    "date": "2026/06/17",
-    "summary": "日本の5月の輸出額が前年同月比で3年超ぶりの高水準となる伸びを記録し、市場予想を上回った。円安が輸出を後押しする一方、輸入インフレによる国内購買力の低下も懸念される中、日銀は政策金利を1%に引き上げている。",
+    "title": "日本政府、経済財政方針案で実質成長率1%超への倍増目標を掲げる",
+    "date": "2026/06/29",
+    "summary": "日本政府の経済財政運営の基本方針（骨太の方針）原案が判明し、実質経済成長率を現状の2倍以上となる「1%超」に早期に引き上げる目標を掲げた。高市首相の成長重視の姿勢を反映し、日銀との政策調整の重要性も強調している。",
     "details": [
-      "日本の財務省が発表した貿易統計によると、5月の輸出額は前年同月比で大幅に増加し、過去3年超で最も速いペースでの成長を記録して市場予想を上回りました。これに先立ち、日本銀行は政策金利を30年ぶりの高水準となる1%へと引き上げています。",
-      "輸出の好調は日本経済の主要な原動力であり続けていますが、背景にある歴史的な円安は輸出企業の業績を押し上げる一方で、輸入物価の上昇を招き、国内の購買力や消費を圧迫するという二面性を持っています。金利引き上げと円安のバランスが、今後の日本経済の持続的な成長において極めて重要な局面を迎えています。",
-      "今後は、日銀の利上げが円相場に与える影響と、それによる輸出入のバランスの変化、さらには国内消費が回復基調に乗るかどうかが注視されます。"
-    ],
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/17/japan-trade-data-may-exports-imports.html"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 60,
-    "confidence": 95,
-    "priorityReason": "日本の輸出急増と日銀の利上げ局面における経済動向。",
-    "rankScore": 82,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 2,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "japan-bank-lobby-ai-cyberattack-warning-20260618",
-    "category": "Ethics",
-    "title": "全国銀行協会、高度なAIを用いたサイバー攻撃の脅威によるATMなどのサービス一時停止の可能性を警告",
-    "date": "2026/06/18",
-    "summary": "全国銀行協会の加藤勝彦会長（みずほ銀行頭取）は、高度なAIモデルを悪用したサイバー攻撃の脅威に対し、顧客資産を守るためにATMやオンラインバンキングなどのサービスを予防的に一時停止する可能性があると警告した。",
-    "details": [
-      "全国銀行協会の加藤勝彦会長（みずほ銀行頭取）は記者会見で、Anthropicの「Mythos」などの最先端AIモデルがソフトウェアの脆弱性を瞬時に特定できる能力を持つことから、想定を超える高度なサイバー攻撃が発生する懸念があると指摘した。銀行業界は対策を強化しており、最悪のシナリオにおいては、顧客の資産を保護するためにATMやオンラインバンキングなどのシステムを予防的に一時停止する措置を講じる可能性があると言及した。米国政府が安全保障上の懸念から最先端A…"
+      "日本政府の経済財政運営の基本方針（骨太の方針）の原案が明らかになり、実質経済成長率を現状の2倍以上となる「1%超」に早期に引き上げる目標が掲げられた。",
+      "高市早苗首相の成長重視の姿勢を反映したものであり、日銀に対して低金利の維持を求めるなど、政府と中央銀行の間の政策的な緊張を高める可能性がある。",
+      "政府による基本方針の最終決定と、それに対する日本銀行の金融政策決定会合での反応や金利政策への影響が注目される。"
     ],
     "sources": [
       {
         "name": "Reuters",
-        "url": "https://www.reuters.com/legal/government/japan-bank-lobby-warns-potential-service-disruptions-due-ai-enabled-cyberattacks-2026-06-18/"
+        "url": "https://www.reuters.com/world/asia-pacific/japan-targets-more-than-doubling-real-growth-over-1-economic-blueprint-2026-06-29/"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 85,
+    "novelty": 75,
+    "confidence": 95,
+    "priorityReason": "日本の経済政策の大きな転換点を示す重要なニュースのため。",
+    "rankScore": 85,
+    "rankTier": "S",
+    "ageDays": 3,
+    "rank": 2,
+    "summaryLevel": "deep"
+  },
+  {
+    "id": "news-002",
+    "category": "Economy",
+    "title": "アブダビの政府系ファンドMGX、490億ドル規模の巨大AIファンドを設立",
+    "date": "2026/07/01",
+    "summary": "アブダビの政府系ファンド「MGX」が、当初目標の450億ドルを上回る490億ドルのAI特化型ファンドを設立した。半導体やインフラ、AI技術への投資を加速させる。",
+    "details": [
+      "アブダビの政府系投資ファンドMGXは、当初の目標額450億ドルを上回る490億ドル（約7.9兆円）規模のAI特化型ファンドの募集を完了した。このファンドは、半導体、AIインフラ、およびAI対応技術プラットフォームなど、AI技術スタック全体への投資を目的としており、すでにOpenAIやAnthropic、xAIなどの主要なAI企業を支援している。世界的なAI投資競争が激化する中、中東の豊富な資金力が市場の主導権を握る動きとして注目されている。"
+    ],
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/01/mgx-ai-fund-uae-49-billion.html"
       }
     ],
     "importance": "high",
-    "socialImpact": 88,
-    "novelty": 80,
+    "socialImpact": 80,
+    "novelty": 75,
     "confidence": 95,
-    "priorityReason": "金融インフラがAI悪用攻撃で停止するリスクに言及したため。",
-    "rankScore": 81,
+    "priorityReason": "世界最大級のAIファンド誕生による市場への影響。",
+    "rankScore": 78,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "apple-intel-domestic-chip-partnership-20260618",
-    "category": "Business",
-    "title": "トランプ大統領がAppleとIntelの国内チップ製造提携を発表、米半導体株が急上昇",
-    "date": "2026/06/18",
-    "summary": "トランプ大統領は、AppleがIntelと提携し、米国内で半導体の設計および製造を行うことに合意したと発表した。これを受けてIntel株が一時10%近く急騰するなど、米半導体株が全面高となった。",
+    "id": "news-004",
+    "category": "Policy",
+    "title": "日本政府、楽天モバイルとASTの衛星共同事業に1500億円を投資へ",
+    "date": "2026/07/01",
+    "summary": "日本政府は、楽天モバイルとAST SpaceMobileによる低軌道（LEO）衛星共同事業に対し、3年間で1500億円（約9億2200万ドル）を投資することを決定した。",
     "details": [
-      "トランプ大統領がソーシャルメディア「Truth Social」への投稿で、AppleがIntelと提携して米国内でチップの設計および製造を行うことに合意したと発表した。この発表は、半導体製造の国内回帰を促す現政権の強力な方針を反映したものであり、発表直後にIntelの株価は一時10.8%急騰し、NvidiaやAMDなどの主要半導体銘柄も軒並み上昇した。詳細な契約内容やスケジュールは未公表であるものの、TSMCなどアジアのファウンドリへの依存度を下げ、米国…"
+      "日本政府は、楽天モバイルと米AST SpaceMobileによる低軌道（LEO）衛星共同事業に対し、今後3年間で1500億円（約9億2200万ドル）を投資することを決定した。この投資は、Starlinkなどの海外サービスへの過度な依存を減らし、日本独自の衛星通信網を強化することを目的としている。災害時の通信確保や地方のカバー率向上に向けた、国家的な宇宙インフラ整備の一環となる。"
     ],
     "sources": [
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/us-chip-stocks-gain-apple-103032930.html"
+        "name": "Light Reading",
+        "url": "https://www.lightreading.com/satellite/japan-govt-commits-922m-to-rakuten-ast-satellite-venture"
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
-    "novelty": 85,
-    "confidence": 90,
-    "priorityReason": "米国の半導体自給率向上に向けた、AppleとIntelの巨大提携。",
-    "rankScore": 81,
+    "socialImpact": 75,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "日本の宇宙通信インフラ自立に向けた巨額投資。",
+    "rankScore": 76,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 4,
     "summaryLevel": "standard"
   },
   {
-    "id": "fed-warsh-hawkish-stance-20260618",
-    "category": "Economy",
-    "title": "FRBのWarsh新議長によるタカ派姿勢の示唆で市場に緊張、来週のインフレ指標の重要性が急上昇",
-    "date": "2026/06/18",
-    "summary": "連邦準備制度理事会（FRB）のケビン・ウォルシュ新議長が「インフレは選択だ」と述べ、市場の予想を超えるタカ派的な姿勢を示したことで、追加利上げへの警戒感から株式市場や債券市場が動揺している。",
+    "id": "together-ai-series-c-2026",
+    "category": "Business",
+    "title": "Together AIがシリーズCで8億ドルを調達、評価額は83億ドルに急上昇",
+    "date": "2026/07/01",
+    "summary": "AIインフラを提供するTogether AIが、Aramco Ventures主導のシリーズCラウンドで8億ドルの資金調達を実施し、評価額が83億ドルに達した。NvidiaやGeneral Catalystなどもこのラ…",
     "details": [
-      "トランプ大統領に指名された連邦準備制度理事会（FRB）のケビン・ウォルシュ新議長が、初の連邦公開市場委員会（FOMC）後にタカ派的なシグナルを発した。同氏が「インフレは選択である」と強調し、早期の利下げ期待を打ち消したことで、2年債利回りが4.21%を超えて急上昇し、株式市場は下落に転じた。市場関係者は、来週発表される個人消費支出（PCE）デフレーターを注視しており、インフレ高止まりが確認されれば10月にも追加利上げが行われるとの見方が強まっている。"
+      "AI向けのGPUクラウドやインフラを提供する「ネオクラウド」への投資熱が続いており、Together AIはAramco VenturesやNvidiaなどから8億ドルを調達して評価額を83億ドルに引き上げた。これは、AIモデルのトレーニング需要が依然として旺盛であることを示している。"
     ],
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/18/next-weeks-inflation-data-is-vitally-important-whats-ahead-for-the-market.html"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/"
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
-    "novelty": 75,
+    "socialImpact": 70,
+    "novelty": 80,
     "confidence": 95,
-    "priorityReason": "新FRB議長の就任後初の姿勢表明が市場を揺るがしているため。",
-    "rankScore": 80,
+    "priorityReason": "AIインフラ市場の急成長と巨額投資の実態を示すため。",
+    "rankScore": 76,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "openai-hires-shazeer-ball-20260618",
-    "category": "Business",
-    "title": "OpenAI、IPOを控えてGoogleの伝説的エンジニアNoam Shazeer氏と元ホワイトハウス顧問を起用",
-    "date": "2026/06/18",
-    "summary": "OpenAIは、新規株式公開（IPO）に向けて体制を強化するため、トランスフォーマー論文の共同執筆者であるノーム・シャジール氏と、元ホワイトハウス顧問のディーン・ボール氏を採用した。",
+    "id": "asian-manufacturing-pmi-ai-2026",
+    "category": "Economy",
+    "title": "AI投資が地政学的リスクを相殺、アジア主要国の製造業PMIが上昇",
+    "date": "2026/07/01",
+    "summary": "中東での地政学的リスクや原材料価格の上昇懸念があるものの、AI向け半導体やコンピュータハードウェアの旺盛な需要がアジア主要国の製造業を牽引しており、日本や中国のPMIは堅調な拡大を示している。",
     "details": [
-      "OpenAIが新規株式公開（IPO）を控える中、競合他社との人材争奪戦を制する形で強力な布陣を整えた。Googleから移籍したノーム・シャジール氏は、現代の生成AIの基礎となったトランスフォーマー技術の共同開発者であり、その技術的知見は計り知れない。また、元ホワイトハウス顧問のディーン・ボール氏の起用は、競合のAnthropicが政府の輸出規制により最新モデルの提供停止に追い込まれる中、OpenAIが政権とのパイプを強固にし、規制リスクを回避するための戦…"
+      "中国、日本、韓国の6月の製造業PMIは、AI関連技術製品やチップへの強い需要に支えられて上昇を記録した。中東紛争による供給網の混乱や価格上昇に備えた企業の在庫積み増しも、生産活動の活発化に寄与している。"
     ],
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "IPOを控えたOpenAIの政界・技術界からの超大物採用の動き。",
-    "rankScore": 79,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 6,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "harvey-legal-ai-models-2026",
-    "category": "Model",
-    "title": "法律特化型AIのHarvey、独自の法務専用カスタムAIモデル開発を発表",
-    "date": "2026/06/18",
-    "summary": "法律分野向けAIスタートアップのHarveyが、法務に特化した独自のカスタムAI基盤モデルシリーズの開発を発表。複雑な案件に対応するエージェント型システムとして機能し、GPT-5などの最先端モデルとも連携する。",
-    "details": [
-      "法律分野に特化したAIスタートアップのHarveyは、法務実務の複雑なニーズに対応するため、独自のカスタム法務専用AI基盤モデルシリーズの開発に着手したことを明らかにしました。このモデルは、多数のアソシエイト弁護士を必要とするような高度な案件を処理するエージェント型システムとして設計されており、法務ツールを自律的に制御しながら、OpenAIの次世代モデル「GPT-5」などの最先端フロンティアモデルとも連携して動作します。これにより、法曹界における定型業務…"
-    ],
-    "sources": [
-      {
-        "name": "Law.com",
-        "url": "https://www.law.com/legaltechnews/2026/06/18/harvey-announces-development-of-custom-legal-specific-ai-models-/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "法律実務に特化した独自AIモデル開発の最新動向。",
-    "rankScore": 77,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 7,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "opmed-mayo-clinic-ai-scheduling-2026",
-    "category": "Service",
-    "title": "Opmedとメイヨークリニック、手術室の効率を最適化するマルチモーダルAIプラットフォームを発表",
-    "date": "2026/06/18",
-    "summary": "医療運用AIのOpmedとメイヨークリニックは、共同研究により手術室のスケジュールエラーを約50%削減するマルチモーダルAIプラットフォームを発表。医師のメモなどの非構造化データを活用し、従来の人手による予測精度を大幅…",
-    "details": [
-      "医療オペレーションAIの先駆者であるOpmedは、メイヨークリニックとの複数年にわたる共同研究の成果として、手術室の稼働効率を最適化するマルチモーダル深層学習プラットフォームを発表しました。このシステムは、従来の人手による過去の平均値に基づいたスケジュール管理とは異なり、電子カルテなどの構造化データに加え、医師の臨床メモなどの非構造化データを統合して解析します。検証の結果、心血管手術におけるスケジュール予測エラーを約50%削減することに成功し、医療現場の…"
-    ],
-    "sources": [
-      {
-        "name": "HIT Consultant",
-        "url": "https://hitconsultant.net/2026/06/18/opmed-mayo-clinic-cardiovascular-ai-scheduling/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "医療現場でのAI活用による劇的な効率化の実証事例。",
-    "rankScore": 77,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 8,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "ai-boom-convertible-bonds-2026",
-    "category": "Business",
-    "title": "AIブームの資金調達、転換社債市場という新たな領域へ拡大",
-    "date": "2026/06/16",
-    "summary": "AIブームに伴う巨額の資金需要が転換社債市場に押し寄せており、発行規模はパンデミック初期以来の最高水準に達している。AIクラウドのCoreWeaveが40億ドルの転換社債を発行するなど、インフラ投資への資金調達が活発化…",
-    "details": [
-      "人工知能（AI）技術の急速な普及に伴い、データセンターや半導体などのインフラ構築に必要な巨額の資金を確保するため、AI関連企業が転換社債市場へ殺到しています。市場全体の転換社債発行額は新型コロナウイルス感染症のパンデミック初期以来の最高水準に達しており、直近ではAI特化型クラウドプロバイダーのCoreWeaveが40億ドル規模の転換社債を発行したことが象徴的な事例となっています。株式の希薄化を抑えつつ低コストで迅速に資金を調達する手段として、転換社債がA…"
-    ],
-    "sources": [
-      {
-        "name": "The Wall Street Journal",
-        "url": "https://www.wsj.com/finance/investing/the-ai-booms-hunt-for-cash-hits-new-corner-of-the-bond-market-0ea6f36b"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "AIインフラ投資を支える新たな資金調達トレンド。",
-    "rankScore": 73,
-    "rankTier": "A",
-    "ageDays": 3,
-    "rank": 9,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "deepseek-funding-no-poaching-20260618",
-    "category": "Business",
-    "title": "中国のAI新星DeepSeek、評価額500億ドル超で初の外部調達、投資家に「引き抜き禁止」を要求",
-    "date": "2026/06/18",
-    "summary": "中国のAIスタートアップDeepSeekが、評価額500億ドルを超える初の外部資金調達を完了した。創業者である梁文鋒氏は、投資家に対し同社からの人材引き抜きを禁止する異例の条件を課した。",
-    "details": [
-      "低コストで高性能な推論モデルを開発し世界を驚かせた中国・杭州発のAIスタートアップDeepSeekが、初の外部資金調達を行い、評価額が500億ドル（約8兆円）を突破して中国で最も価値のあるAI企業となった。同社はこれまで商業化よりも研究を優先して外部資金を拒んできたが、競合他社への優秀な研究者の流出に直面したことから方針を転換。創業者の…"
-    ],
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/18/no-poaching-our-people-chinas-deepseek-reportedly-tells-investors.html"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 75,
-    "novelty": 85,
-    "confidence": 95,
-    "priorityReason": "急成長する中国AI大手の異例の資金調達条件が判明したため。",
-    "rankScore": 71,
-    "rankTier": "B",
-    "ageDays": 1,
-    "rank": 10,
-    "summaryLevel": "brief"
-  },
-  {
-    "id": "india-japan-talent-corridor-2026",
-    "category": "Policy",
-    "title": "日印人材回廊：次世代のグローバルな労働力連携を加速",
-    "date": "2026/06/17",
-    "summary": "日本とインドは、インドの若く優秀な人材と日本の技術的専門知識を組み合わせる強力な人材パートナーシップを構築している。少子高齢化による日本の深刻な人手不足を背景に、政府間での議論や連携が活発化している。",
-    "details": [
-      "日本とインドの両国政府および産業界は、インドの若く優秀なIT・技術人材と、日本の製造業や精密工学における高度な技術力を結びつける「日印人材回廊」の構築を加速させています。深刻な少子高齢化と労働力不足に直面する日本にとって、インドの豊富な労働力は極めて魅力的な補完関係にあり、技術移転や共同開発を通じた新たなグローバル連携のモデルとして期待されています。政府間での具体的な制度設計や教育プログラムの整備が進められており、両国の経済成長を支える重要な柱となりつつ…"
-    ],
-    "sources": [
-      {
-        "name": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/education/study-abroad/indiajapan-talent-corridor-fuelling-next-age-of-global-workforce-collaboration-101781687674614.html"
+        "name": "Mezha.Media",
+        "url": "https://mezha.net/eng/bukvy/70c7d89f_ai_investments_buoy/"
       }
     ],
     "importance": "high",
     "socialImpact": 70,
     "novelty": 65,
     "confidence": 90,
-    "priorityReason": "日本の人手不足解消に向けたインドとの人材連携。",
-    "rankScore": 71,
-    "rankTier": "B",
-    "ageDays": 2,
-    "rank": 11,
+    "priorityReason": "地政学リスク下でのAI需要の強さを示す指標となるため。",
+    "rankScore": 74,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 6,
     "summaryLevel": "standard"
   },
   {
-    "id": "texas-bar-ai-iq-warning-2026",
-    "category": "Ethics",
-    "title": "「AIより賢いか？」テキサス州弁護士会で専門家がAIの急速な知能向上を警告",
-    "date": "2026/06/16",
-    "summary": "テキサス州弁護士会にて、AI技術の専門家が「AIの知能はすでに人類の上位1%を超えており、1年以内に個々の弁護士の能力を追い抜く」と警告。手遅れになる前に法的・道徳的価値観をAIに組み込む…",
+    "id": "ecb-nagel-inflation-warning-2026",
+    "category": "Economy",
+    "title": "ECBのナーゲル氏、インフレは目標を「大幅に上回る」水準で推移と警告",
+    "date": "2026/06/30",
+    "summary": "ドイツ連邦銀行総裁のヨアヒム・ナーゲル氏は、欧州中央銀行（ECB）の会合で、インフレ率が目標を大幅に上回る状態が続くと警告した。これにより、追加の利上げや引き締め政策の維持が議論される見通しだ。",
     "details": [
-      "テキサス州弁護士会の会合において、法務テクノロジーの専門家が、人工知能（AI）の進化スピードが人類の予測を遥かに超えていると警告しました。専門家は、AIの知能指数がすでに人類の上位1%のレベルを突破しており、今後1年以内に個々の弁護士の能力を凌駕する可能性が高いと指摘。AIが自律的に判断を下す時代が到来する前に、人間の倫理的・道徳的価値…"
+      "ポルトガルのシントラで開催されたECBフォーラムにおいて、ドイツ連邦銀行総裁のヨアヒム・ナーゲル氏は、インフレ圧力が依然として強く、目標値を大幅に上回る水準が維持されるとの見通しを示し、金融引き締め継続の必要性を示唆した。"
     ],
     "sources": [
       {
-        "name": "Law.com",
-        "url": "https://www.law.com/texaslawyer/2026/06/16/are-you-smarter-than-ai-legal-expert-warns-texas-bar-about-rising-iq/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/video/2026/06/30/ecb-nagel-bundesbank-inflation-significantly-above-target.html"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 60,
+    "confidence": 90,
+    "priorityReason": "欧州の金融政策と世界経済への影響を把握するため。",
+    "rankScore": 72,
+    "rankTier": "A",
+    "ageDays": 2,
+    "rank": 7,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "us-fulbright-hays-reform-2026",
+    "category": "Policy",
+    "title": "米国政府、国際教育プログラムの規則撤廃で外交方針への柔軟な対応図る",
+    "date": "2026/07/01",
+    "summary": "トランプ政権は、フルブライト・ヘイズなどの国際教育プログラムの規則を廃止し、外交方針に合わせた柔軟な選考を可能にする方針を示した。教育省は、国際情勢の変化に迅速に対応するための改革案を提示…",
+    "details": [
+      "米国教育省は、国際情勢の変化に迅速に対応するため、既存の厳格な規則を緩和し、政権の優先事項や安全保障上の要請に沿った形でプログラムを運用できるようにする改革案を提示した。これにより、選考プロセスの柔軟性が高まる見込みだ。"
+    ],
+    "sources": [
+      {
+        "name": "The Chronicle of Higher Education",
+        "url": "https://www.chronicle.com/newsletter/latitudes/2026-07-01"
       }
     ],
     "importance": "medium",
-    "socialImpact": 65,
+    "socialImpact": 60,
     "novelty": 70,
     "confidence": 90,
-    "priorityReason": "AIの知能爆発に伴う倫理的・法的枠組みの必要性。",
-    "rankScore": 63,
+    "priorityReason": "米国の教育・外交政策における柔軟性重視の姿勢を示すため。",
+    "rankScore": 64,
     "rankTier": "B",
-    "ageDays": 3,
-    "rank": 12,
+    "ageDays": 1,
+    "rank": 8,
     "summaryLevel": "brief"
   }
 ]
