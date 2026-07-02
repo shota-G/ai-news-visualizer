@@ -1,68 +1,14 @@
 [
   {
-    "id": "news-001",
-    "category": "Policy",
-    "title": "米国政府、Anthropicの最先端AIモデル「Fable」と「Mythos」の輸出規制を解除",
+    "id": "mgx-ai-fund-20260701",
+    "category": "Business",
+    "title": "アブダビ政府系ファンドMGX、490億ドル規模の巨大AIファンドを設立",
     "date": "2026/07/01",
-    "summary": "米国政府は、安全保障上の懸念から一時的に制限していたAnthropicの最先端AIモデル「Claude Fable 5」および「Claude Mythos 5」に対する輸出規制を解除した。",
+    "summary": "アブダビの政府系ファンドMGXが、AI企業への投資を目的とした490億ドル規模のファンドを設立した。OpenAIやAnthropicなどの主要AI企業を支援し、半導体やインフラなどAI技術スタック全体への投資を狙う。",
     "details": [
-      "米国商務省は、国家安全保障上の懸念から一時的に制限していたAnthropicの最先端AIモデル「Claude Fable 5」および「Claude Mythos 5」に対する輸出規制を解除し、国際的なアクセスを再開した。",
-      "この決定は、アジア地域における競合モデルの台頭に対抗し、米国の技術的優位性を維持するために下された。政府とAI企業の新たな協調体制を示す象徴的な事例となる。",
-      "今後は、Anthropicが合意した具体的な安全対策の内容や、他のフロンティアモデルに対しても同様の基準が適用されるかどうかが注視される。"
-    ],
-    "sources": [
-      {
-        "name": "Business Insider",
-        "url": "https://www.businessinsider.com/smart-voices-tech-react-anthropic-fable-mythos-5-return-dispute-2026-7"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "米国のAI規制方針と国際競争力に直結する極めて重要な決定。",
-    "rankScore": 89,
-    "rankTier": "S",
-    "ageDays": 1,
-    "rank": 1,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "japan-growth-blueprint-2026",
-    "category": "Economy",
-    "title": "日本政府、経済財政方針案で実質成長率1%超への倍増目標を掲げる",
-    "date": "2026/06/29",
-    "summary": "日本政府の経済財政運営の基本方針（骨太の方針）原案が判明し、実質経済成長率を現状の2倍以上となる「1%超」に早期に引き上げる目標を掲げた。高市首相の成長重視の姿勢を反映し、日銀との政策調整の重要性も強調している。",
-    "details": [
-      "日本政府の経済財政運営の基本方針（骨太の方針）の原案が明らかになり、実質経済成長率を現状の2倍以上となる「1%超」に早期に引き上げる目標が掲げられた。",
-      "高市早苗首相の成長重視の姿勢を反映したものであり、日銀に対して低金利の維持を求めるなど、政府と中央銀行の間の政策的な緊張を高める可能性がある。",
-      "政府による基本方針の最終決定と、それに対する日本銀行の金融政策決定会合での反応や金利政策への影響が注目される。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/japan-targets-more-than-doubling-real-growth-over-1-economic-blueprint-2026-06-29/"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "日本の経済政策の大きな転換点を示す重要なニュースのため。",
-    "rankScore": 85,
-    "rankTier": "S",
-    "ageDays": 3,
-    "rank": 2,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "news-002",
-    "category": "Economy",
-    "title": "アブダビの政府系ファンドMGX、490億ドル規模の巨大AIファンドを設立",
-    "date": "2026/07/01",
-    "summary": "アブダビの政府系ファンド「MGX」が、当初目標の450億ドルを上回る490億ドルのAI特化型ファンドを設立した。半導体やインフラ、AI技術への投資を加速させる。",
-    "details": [
-      "アブダビの政府系投資ファンドMGXは、当初の目標額450億ドルを上回る490億ドル（約7.9兆円）規模のAI特化型ファンドの募集を完了した。このファンドは、半導体、AIインフラ、およびAI対応技術プラットフォームなど、AI技術スタック全体への投資を目的としており、すでにOpenAIやAnthropic、xAIなどの主要なAI企業を支援している。世界的なAI投資競争が激化する中、中東の豊富な資金力が市場の主導権を握る動きとして注目されている。"
+      "アブダビの政府系ファンドMGXが、当初の目標である450億ドルを上回る490億ドル（約7.8兆円）規模のAI特化型ファンドを設立した。",
+      "このファンドは史上最大級のAI投資ファンドであり、OpenAIやAnthropic、xAIといった主要なAIスタートアップのほか、半導体やインフラ、AI関連プラットフォームへの広範な投資を通じて、世界のAI覇権争いにおける中東の存在感を決定づけるものとなる。",
+      "今後は、フランスのMistral AIとの提携によるAIキャンパス拡張など、インフラ分野への具体的な資金投入と、米国や欧州の規制当局との連携が注目される。"
     ],
     "sources": [
       {
@@ -70,25 +16,103 @@
         "url": "https://www.cnbc.com/2026/07/01/mgx-ai-fund-uae-49-billion.html"
       }
     ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 75,
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 85,
     "confidence": 95,
-    "priorityReason": "世界最大級のAIファンド誕生による市場への影響。",
-    "rankScore": 78,
-    "rankTier": "A",
+    "priorityReason": "史上最大規模のAIファンド設立の動き。",
+    "rankScore": 90,
+    "rankTier": "S",
     "ageDays": 1,
+    "rank": 1,
+    "summaryLevel": "deep"
+  },
+  {
+    "id": "china-japan-tensions-20260702",
+    "category": "Policy",
+    "title": "中国、日本の「軍国主義」を非難し企業40社に輸出規制を導入",
+    "date": "2026/07/02",
+    "summary": "中国政府は、日本の「新たな軍国主義の追求」を非難し、軍民両用技術に関連する日本の企業40社に対して新たな輸出規制を課した。これに対し日本側は、中国とロシアによる領空付近での共同演習や排他的経済水域への侵入に抗議している。",
+    "details": [
+      "中国が日本の「軍国主義」を理由に日本企業40社に対してデュアルユース（軍民両用）物品の輸出規制を課し、日本側も中ロの共同演習や領海侵入に抗議するなど、東アジアにおける地政学的緊張とサプライチェーンの分断リスクが急速に高まっています。"
+    ],
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jul/02/china-japan-relations-tokyo-beijing-tensions"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 60,
+    "confidence": 95,
+    "priorityReason": "日中間の地政学的対立が輸出規制に発展した重要ニュース。",
+    "rankScore": 79,
+    "rankTier": "A",
+    "ageDays": 0,
+    "rank": 2,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "mirendil-self-improving-ai-20260629",
+    "category": "Business",
+    "title": "自己改善型AI開発のMirendil、評価額10億ドルでユニコーン企業に",
+    "date": "2026/06/29",
+    "summary": "Andreessen HorowitzやNvidiaなどの支援を受けるスタートアップMirendilが、シード資金調達を経て評価額10億ドルに達した。同社は「再帰的自己改善」が可能なAIの構築を目指している。",
+    "details": [
+      "元Anthropicの研究者らが設立したMirendilは、AIが自らより優れたAIを構築する「再帰的自己改善」技術の開発を進めており、安全性への懸念が議論される一方で、企業の生産性を飛躍的に高める次世代エージェントとしての期待を集めている。"
+    ],
+    "sources": [
+      {
+        "name": "Gizmodo",
+        "url": "https://gizmodo.com/dont-be-afraid-of-self-improving-ai-says-a16z-backed-startup-mirendil-2000778973"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 90,
+    "confidence": 85,
+    "priorityReason": "自己改善型AIの技術と投資動向。",
+    "rankScore": 79,
+    "rankTier": "A",
+    "ageDays": 3,
     "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "news-004",
+    "id": "anthropic-fable-return-20260701",
     "category": "Policy",
-    "title": "日本政府、楽天モバイルとASTの衛星共同事業に1500億円を投資へ",
+    "title": "米政府、Anthropicの最先端AIモデル「Fable 5」の輸出規制を解除",
     "date": "2026/07/01",
-    "summary": "日本政府は、楽天モバイルとAST SpaceMobileによる低軌道（LEO）衛星共同事業に対し、3年間で1500億円（約9億2200万ドル）を投資することを決定した。",
+    "summary": "トランプ政権による安全保障上の懸念から一時制限されていた、Anthropicの最先端AIモデル「Fable 5」の一般アクセスおよび「Mythos 5」の限定アクセスが、米商務省との交渉を経て再開された。",
     "details": [
-      "日本政府は、楽天モバイルと米AST SpaceMobileによる低軌道（LEO）衛星共同事業に対し、今後3年間で1500億円（約9億2200万ドル）を投資することを決定した。この投資は、Starlinkなどの海外サービスへの過度な依存を減らし、日本独自の衛星通信網を強化することを目的としている。災害時の通信確保や地方のカバー率向上に向けた、国家的な宇宙インフラ整備の一環となる。"
+      "米商務省が安全保障上の懸念から一時的に課していた輸出規制を解除したことで、Anthropicは最先端AIモデル「Fable 5」の一般アクセスを再開し、さらに高度な「Mythos 5」へのアクセスも承認された組織向けに復旧させました。"
+    ],
+    "sources": [
+      {
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/smart-voices-tech-react-anthropic-fable-mythos-5-return-dispute-2026-7"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "米政府とAI企業の規制を巡る攻防の節目となる動き。",
+    "rankScore": 78,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 4,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "japan-satellite-investment-20260701",
+    "category": "Policy",
+    "title": "日本政府、楽天とASTの衛星通信事業に1,500億円を投資へ",
+    "date": "2026/07/01",
+    "summary": "日本政府は、楽天モバイルとAST SpaceMobileによる低軌道衛星共同事業に対し、3年間で1,500億円を投資することを決定した。Starlinkへの過度な依存を減らし、国産の衛星通信網を強化する狙いがある。",
+    "details": [
+      "日本政府が楽天とAST SpaceMobileの低軌道衛星共同事業に1,500億円を投じる決定を下した背景には、災害対策や安全保障の観点から、米スペースXのStarlinkなど海外インフラへの依存を低減し、独自の通信主権を確保する強い意図があります。"
     ],
     "sources": [
       {
@@ -97,24 +121,24 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
+    "socialImpact": 80,
     "novelty": 70,
     "confidence": 95,
-    "priorityReason": "日本の宇宙通信インフラ自立に向けた巨額投資。",
-    "rankScore": 76,
+    "priorityReason": "宇宙通信インフラの国産化に向けた政府の巨額投資計画。",
+    "rankScore": 78,
     "rankTier": "A",
     "ageDays": 1,
-    "rank": 4,
+    "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "together-ai-series-c-2026",
+    "id": "together-ai-valuation-20260701",
     "category": "Business",
-    "title": "Together AIがシリーズCで8億ドルを調達、評価額は83億ドルに急上昇",
+    "title": "Together AIが8億ドルを調達、評価額は83億ドルに急上昇",
     "date": "2026/07/01",
-    "summary": "AIインフラを提供するTogether AIが、Aramco Ventures主導のシリーズCラウンドで8億ドルの資金調達を実施し、評価額が83億ドルに達した。NvidiaやGeneral Catalystなどもこのラ…",
+    "summary": "AI向けクラウドインフラを提供するTogether AIが、Aramco Ventures主導のラウンドで8億ドルを調達し、評価額が83億ドルに達した。NvidiaやGeneral Catalystなども参加している。",
     "details": [
-      "AI向けのGPUクラウドやインフラを提供する「ネオクラウド」への投資熱が続いており、Together AIはAramco VenturesやNvidiaなどから8億ドルを調達して評価額を83億ドルに引き上げた。これは、AIモデルのトレーニング需要が依然として旺盛であることを示している。"
+      "Together AIは、NvidiaのGPUクラスターなどのAI特化型ハードウェアを提供する「ネオクラウド」企業として急速に成長しており、今回の資金調達により、急増するAI開発向けのインフラ需要に対応するための設備投資をさらに加速させる。"
     ],
     "sources": [
       {
@@ -123,92 +147,144 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "AIインフラ市場の急成長と巨額投資の実態を示すため。",
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 5,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "asian-manufacturing-pmi-ai-2026",
-    "category": "Economy",
-    "title": "AI投資が地政学的リスクを相殺、アジア主要国の製造業PMIが上昇",
-    "date": "2026/07/01",
-    "summary": "中東での地政学的リスクや原材料価格の上昇懸念があるものの、AI向け半導体やコンピュータハードウェアの旺盛な需要がアジア主要国の製造業を牽引しており、日本や中国のPMIは堅調な拡大を示している。",
-    "details": [
-      "中国、日本、韓国の6月の製造業PMIは、AI関連技術製品やチップへの強い需要に支えられて上昇を記録した。中東紛争による供給網の混乱や価格上昇に備えた企業の在庫積み増しも、生産活動の活発化に寄与している。"
-    ],
-    "sources": [
-      {
-        "name": "Mezha.Media",
-        "url": "https://mezha.net/eng/bukvy/70c7d89f_ai_investments_buoy/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 65,
+    "socialImpact": 80,
+    "novelty": 75,
     "confidence": 90,
-    "priorityReason": "地政学リスク下でのAI需要の強さを示す指標となるため。",
-    "rankScore": 74,
+    "priorityReason": "AIインフラ企業の評価額急騰を示す。",
+    "rankScore": 78,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 6,
     "summaryLevel": "standard"
   },
   {
-    "id": "ecb-nagel-inflation-warning-2026",
-    "category": "Economy",
-    "title": "ECBのナーゲル氏、インフレは目標を「大幅に上回る」水準で推移と警告",
-    "date": "2026/06/30",
-    "summary": "ドイツ連邦銀行総裁のヨアヒム・ナーゲル氏は、欧州中央銀行（ECB）の会合で、インフレ率が目標を大幅に上回る状態が続くと警告した。これにより、追加の利上げや引き締め政策の維持が議論される見通しだ。",
+    "id": "japan-politics-takaichi-20260629",
+    "category": "Policy",
+    "title": "高市首相、経済成長と安全保障・対中政策の連携を表明",
+    "date": "2026/06/29",
+    "summary": "高市早苗首相は、日本の経済成長、国家安全保障、および中国に対する政策を緊密に連携させる方針を示した。技術革新と経済的自立を安全保障の柱に据え、戦略的17分野への投資ロードマップを推進する。",
     "details": [
-      "ポルトガルのシントラで開催されたECBフォーラムにおいて、ドイツ連邦銀行総裁のヨアヒム・ナーゲル氏は、インフレ圧力が依然として強く、目標値を大幅に上回る水準が維持されるとの見通しを示し、金融引き締め継続の必要性を示唆した。"
+      "高市首相は、戦略的技術分野への投資を通じて経済成長を促すとともに、地政学的リスクに対応するための経済安全保障体制の強化と、中国に対する毅然とした外交方針の重要性を訴えた。"
+    ],
+    "sources": [
+      {
+        "name": "News on Japan",
+        "url": "https://newsonjapan.com/article/149821.php"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "日本の新たな経済安全保障方針。",
+    "rankScore": 75,
+    "rankTier": "A",
+    "ageDays": 3,
+    "rank": 7,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "fed-warsh-ecb-forum-20260701",
+    "category": "Economy",
+    "title": "米FRBのウォルシュ議長、利下げ示唆を拒否しインフレ高止まりを警告",
+    "date": "2026/07/01",
+    "summary": "ECBフォーラムに登壇したFRBのケビン・ウォルシュ議長は、7月の金融政策決定会合での利下げ方針についての言及を避けた。AIによる生産性向上への期待を示しつつも、現在の物価水準は依然として高すぎると指摘し、警戒感を示し…",
+    "details": [
+      "FRBのケビン・ウォルシュ議長がECBフォーラムでインフレの高止まりを強調し、早期の利下げ観測を牽制したことは、AIによる中長期的なデフレ効果を認めつつも、足元の金融引き締めスタンスを維持する姿勢を明確に示しています。"
     ],
     "sources": [
       {
         "name": "CNBC",
-        "url": "https://www.cnbc.com/video/2026/06/30/ecb-nagel-bundesbank-inflation-significantly-above-target.html"
+        "url": "https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 50,
+    "confidence": 95,
+    "priorityReason": "利下げ見通しとAIのインフレ抑制効果に関するFRBの見解。",
+    "rankScore": 73,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 8,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "japan-bond-demand-20260630",
+    "category": "Economy",
+    "title": "日本の2年物国債入札、日銀の利上げ懸念を反映し需要が平均を上回る",
+    "date": "2026/06/30",
+    "summary": "日本で実施された2年物国債の入札において、需要を示す指標が過去12ヶ月の平均を上回る強い結果となった。日銀の金融政策の先行きに対する市場の警戒感が反映されている。",
+    "details": [
+      "日銀の追加利上げや国債買い入れ減額の行方に注目が集まる中、短期債への需要が強まったことは、投資家が金利上昇リスクを避けて期間の短い債券に資金をシフトさせている現状を浮き彫りにしている。"
+    ],
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-30/japan-s-two-year-bond-sale-demand-stronger-than-12-month-average"
       }
     ],
     "importance": "high",
     "socialImpact": 75,
     "novelty": 60,
-    "confidence": 90,
-    "priorityReason": "欧州の金融政策と世界経済への影響を把握するため。",
+    "confidence": 95,
+    "priorityReason": "日銀の政策変更に対する市場の警戒。",
     "rankScore": 72,
     "rankTier": "A",
     "ageDays": 2,
-    "rank": 7,
+    "rank": 9,
     "summaryLevel": "standard"
   },
   {
-    "id": "us-fulbright-hays-reform-2026",
-    "category": "Policy",
-    "title": "米国政府、国際教育プログラムの規則撤廃で外交方針への柔軟な対応図る",
+    "id": "phantom-squatting-threat-20260701",
+    "category": "Ethics",
+    "title": "AIのハルシネーションを悪用する新たな脅威「ファントム・スクワッティング」",
     "date": "2026/07/01",
-    "summary": "トランプ政権は、フルブライト・ヘイズなどの国際教育プログラムの規則を廃止し、外交方針に合わせた柔軟な選考を可能にする方針を示した。教育省は、国際情勢の変化に迅速に対応するための改革案を提示…",
+    "summary": "Palo Alto Networksの研究により、大規模言語モデルが実在しないドメインをハルシネーションで生成する隙を突き、攻撃者がそのドメインを先回りして登録してトラフィックを奪う「ファ…",
     "details": [
-      "米国教育省は、国際情勢の変化に迅速に対応するため、既存の厳格な規則を緩和し、政権の優先事項や安全保障上の要請に沿った形でプログラムを運用できるようにする改革案を提示した。これにより、選考プロセスの柔軟性が高まる見込みだ。"
+      "AIが実在しないWebドメインを「ハルシネーション（幻覚）」として出力するバグを突き、サイバー犯罪者がそのドメインを登録して機密トラフィックを傍受する「ファントム・スクワッティング」と呼ばれる新たなサプライチェーン攻撃の手法が確認され、対策が急がれています。"
     ],
     "sources": [
       {
-        "name": "The Chronicle of Higher Education",
-        "url": "https://www.chronicle.com/newsletter/latitudes/2026-07-01"
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/endpoint-security/phantom-squatting-ai-driven-supply-chain-threat"
       }
     ],
     "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 70,
+    "socialImpact": 70,
+    "novelty": 85,
     "confidence": 90,
-    "priorityReason": "米国の教育・外交政策における柔軟性重視の姿勢を示すため。",
-    "rankScore": 64,
+    "priorityReason": "AIの幻覚を悪用した新たなサイバー脅威の手口を解説。",
+    "rankScore": 69,
     "rankTier": "B",
     "ageDays": 1,
-    "rank": 8,
+    "rank": 10,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "spain-healthcare-ai-20260630",
+    "category": "Service",
+    "title": "スペインの医療AI普及に向け、データの共通標準化が不可欠と専門家が指摘",
+    "date": "2026/06/30",
+    "summary": "スペイン国民保健サービスの専門家は、医療データの二次利用やAIツールの効率的な全国展開において、共通のデータ標準化が極めて重要であると提唱した。相互運用性の確保が医療AIの未来を左右する。",
+    "details": [
+      "医療分野でのAI活用をスケールさせるためには、各医療機関が保有するデータの互換性を確保する標準化が不可欠であり、これが実現することで、国規模での効率的な診断支援や患者ケアの向上が期待される。"
+    ],
+    "sources": [
+      {
+        "name": "MobiHealthNews",
+        "url": "https://www.mobihealthnews.com/video/emea/data-standardization-vital-spains-healthcare-ai-future"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 65,
+    "confidence": 85,
+    "priorityReason": "医療AIの実用化におけるデータ課題。",
+    "rankScore": 63,
+    "rankTier": "B",
+    "ageDays": 2,
+    "rank": 11,
     "summaryLevel": "brief"
   }
 ]
