@@ -1,42 +1,70 @@
 [
   {
-    "id": "microsoft-frontier-company-20260702",
-    "category": "Business",
-    "title": "マイクロソフト、企業のAI導入を支援する新会社「Frontier Company」を25億ドルで設立",
-    "date": "2026/07/02",
-    "summary": "マイクロソフトは、企業のAI技術選定と投資回収を支援する新会社「Microsoft Frontier Company」を25億ドルの資金で設立した。特定のAIモデルに依存せず、顧客企業のニーズに合わせて最適なモデルを柔軟に切り替えられる体制を整える。",
+    "id": "iran-khamenei-slain-farewell",
+    "category": "Policy",
+    "title": "イラン大統領ら、殺害された最高指導者ハメネイ師に最後の別れ",
+    "date": "2026/07/03",
+    "summary": "イランの大統領と外相が、殺害された同国の最高指導者アヤトラ・アリ・ハメネイ師の告別式に参列した。最高指導者の急死により、中東地域における地政学的緊張が極限に達している。",
     "details": [
-      "マイクロソフトは、25億ドルの資金を投じて新会社「Microsoft Frontier Company」を設立した。同社はユニリーバやノボノルディスクなどの大企業に対し、最適なAIモデルの選定や導入支援を行い、投資に対する確実なリターンを生み出すことを目的としている。",
-      "これまで同社はOpenAIのモデルに依存していたが、競合モデルの台頭を受け、顧客が複数のモデルを柔軟に切り替えられる「スワップ機能」の重要性を認識した。PalantirやAmazonなどの競合に対抗し、実用的なエンタープライズAIの普及を加速させる狙いがある。",
-      "今後は、新会社に配備される6,000人のエンジニアがどのように顧客企業の業務プロセスへAIを統合していくか、またOpenAIとの独占的関係からマルチモデル戦略へのシフトが市場シェアにどう影響するかが注目される。"
+      "イランの最高指導者アヤトラ・アリ・ハメネイ師が殺害され、同国の大統領および外相が遺体に最後の別れを告げた。この事件は、米国とイランの間で緊張緩和に向けた合意が模索される中で発生した極めて重大な事態である。",
+      "イランの絶対的権力者である最高指導者の喪失は、国内の権力闘争を誘発するだけでなく、中東全域における親イラン武装勢力の動向や、進行中だった米国との和平交渉に壊滅的な影響を与える可能性がある。",
+      "後継指導者の選定プロセスと、この暗殺事件に対するイラン政府および軍部による報復措置の有無、そして原油輸送の要衝であるホルムズ海峡の安全確保状況が次の注視点となる。"
     ],
     "sources": [
       {
         "name": "Reuters",
-        "url": "https://www.reuters.com/business/retail-consumer/microsoft-launches-firm-help-companies-adopt-ai-with-25-billion-2026-07-02/"
+        "url": "https://www.reuters.com/video/watch/idRCV00GR76/"
       }
     ],
     "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 100,
-    "priorityReason": "MSのマルチモデル戦略への大転換を示す重要ニュース。",
-    "rankScore": 88,
+    "socialImpact": 98,
+    "novelty": 90,
+    "confidence": 95,
+    "priorityReason": "中東の権力構造を揺るがす極めて重大な地政学的事件であるため。",
+    "rankScore": 94,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "mgx-closes-49b-ai-fund",
-    "category": "Business",
-    "title": "アブダビの政府系ファンドMGX、過去最大級の490億ドル規模AIファンドを設立",
-    "date": "2026/07/01",
-    "summary": "アブダビの政府系投資機関MGXが、490億ドル（約7.9兆円）のAI特化型ファンドの調達を完了。OpenAIやAnthropicへの出資に加え、半導体やインフラへの投資を加速させる。",
+    "id": "openai-us-equity-stake-talks",
+    "category": "Policy",
+    "title": "OpenAI、トランプ政権と米国政府系ファンドへの5%株式譲渡を交渉か",
+    "date": "2026/07/03",
+    "summary": "OpenAIがトランプ政権に対し、米国政府系ファンドに5%の株式を譲渡する案を提案し、初期段階の交渉を行っていることが報じられた。実現すれば、規制圧力の緩和や資金面での強力な後押しとなる可能性がある。",
     "details": [
-      "アブダビの政府系ファンドであるMGXが、当初目標の450億ドルを上回る490億ドルのAIファンドを閉鎖（調達完了）したと発表しました。このファンドは、中東、北米、アジア、欧州の機関投資家や個人投資家から資金を集めて設立されました。",
-      "本ファンドはAI分野で過去最大級の投資ビークルであり、OpenAIやAnthropic、xAIといった主要AIスタートアップへの継続的な支援だけでなく、半導体やAIインフラ、AI活用プラットフォームなど、技術スタック全体への投資を可能にします。これにより、世界のAI開発における中東資本の影響力がさらに強まることになります。",
-      "今後は、フランスでのAIキャンパス拡張計画など、具体的なインフラ整備への投資実行プロセスや、それに伴う地政学的な主導権争いが次の注目点となります。"
+      "ChatGPTを開発するOpenAIが、トランプ政権に対し、同社の株式の5%を米国の政府系ファンドに譲渡する案を提案し、初期段階の交渉を行っていることがフィナンシャル・タイムズによって報じられた。現在の評価額に基づくと、5%の株式は約420億ドルに相当する。",
+      "この動きは、AI技術の急速な発展に伴う政治的・規制的な圧力を和らげ、新規株式公開（IPO）を控える同社に強力な信用と資金力を与える可能性がある。また、国家が主要なAI企業の株式を直接保有するという、前例のない政府支援型AIモデルの先駆けとなるか注目される。",
+      "今後は、トランプ政権がこの提案を受け入れるか、またGoogleやMeta、Anthropicといった他のAI大手企業が同様の政府出資スキームに追随するかどうかが焦点となる。"
+    ],
+    "sources": [
+      {
+        "name": "CNET",
+        "url": "https://www.cnet.com/tech/services-and-software/government-backed-ai-openai-us-equity-stake/"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 90,
+    "novelty": 95,
+    "confidence": 90,
+    "priorityReason": "国家によるAI企業への直接出資という前例のない動きを示すため。",
+    "rankScore": 92,
+    "rankTier": "S",
+    "ageDays": 1,
+    "rank": 2,
+    "summaryLevel": "deep"
+  },
+  {
+    "id": "mgx-ai-fund-49b",
+    "category": "Business",
+    "title": "アブダビ政府系ファンドMGX、490億ドル規模の巨大AIファンドを設立",
+    "date": "2026/07/01",
+    "summary": "アブダビの政府系ファンドMGXが、目標を上回る490億ドルのAIファンドをクローズした。OpenAIやAnthropicなどの主要AI企業やインフラへの投資を加速する。",
+    "details": [
+      "アブダビの政府系投資会社MGXは、当初目標の450億ドルを上回る490億ドル（約7.9兆円）のAI特化型ファンドをクローズしたと発表した。このファンドは、半導体、AIインフラ、プラットフォームなど、AI技術スタック全体への投資を目的としている。",
+      "このファンドは史上最大級のAI投資ビークルであり、中東の資本が世界のAI覇権争いにおいて決定的な影響力を持つことを示している。すでにOpenAIやAnthropic、xAIなどの主要スタートアップの巨額調達を支援しており、インフラ整備の資金源として市場を牽引する。",
+      "今後は、フランスでのAIキャンパス拡張など、欧米やアジアにおけるAIインフラおよびデータセンターへの直接投資の進捗と、それに伴う地政学的な影響力が注目される。"
     ],
     "sources": [
       {
@@ -45,116 +73,88 @@
       }
     ],
     "importance": "critical",
-    "socialImpact": 92,
-    "novelty": 85,
-    "confidence": 95,
-    "priorityReason": "過去最大級のAIファンド設立の動き",
-    "rankScore": 88,
-    "rankTier": "S",
-    "ageDays": 2,
-    "rank": 2,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "us-jobs-report-june-20260702",
-    "category": "Economy",
-    "title": "米6月雇用者数は5.7万人増と大幅減速、失業率は4.2%に低下",
-    "date": "2026/07/02",
-    "summary": "米労働省が発表した6月の非農業部門雇用者数は前月比5万7000人増にとどまり、市場予想を大幅に下回った。一方で失業率は4.2%に低下。労働市場の減速が示されたことで、連邦準備制度（FRB）による追加利上げの圧力は和らぐ見通し。",
-    "details": [
-      "米労働省が発表した6月の雇用統計で、非農業部門の雇用者数は5万7000人増と、市場予想の11万人増を大きく下回った。また、5月分の数値も12万9000人増へと下方修正された。一方で、失業率は4.2%へとわずかに低下し、労働市場の一定の安定性も示されている。",
-      "この雇用急減速により、金融市場ではFRBが今月の政策会合で利上げを見送るとの観測が強まった。賃金上昇率が3ヶ月連続でインフレ率を下回るなど、労働者の購買力低下が懸念される一方、金利上昇懸念の緩和から株式市場は一時的に好感する動きを見せている。",
-      "今後は、FRBのパウエル前議長の後を継いだケビン・ウォルシュ議長率いるFOMCが、この減速を一時的なものと見るか、あるいは本格的な景気後退の兆候と捉えて利下げ議論を開始するかが焦点となる。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/us/us-job-growth-misses-expectations-june-unemployment-rate-falls-42-2026-07-02/"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 60,
+    "socialImpact": 85,
+    "novelty": 80,
     "confidence": 100,
-    "priorityReason": "米国の金融政策と世界市場に直結する最重要マクロ指標。",
+    "priorityReason": "史上最大規模のAIファンドが誕生し、市場への影響が極めて大きいため。",
     "rankScore": 86,
     "rankTier": "S",
-    "ageDays": 1,
+    "ageDays": 3,
     "rank": 3,
     "summaryLevel": "deep"
   },
   {
-    "id": "chinese-ai-model-glm-5-2-reuters-20260702",
+    "id": "chinese-llms-vulnerability-discovery",
     "category": "Model",
-    "title": "中国Z.aiの安価な新型AIモデル「GLM-5.2」が米国市場でOpenAIらに肉薄",
-    "date": "2026/07/02",
-    "summary": "中国のAIスタートアップZ.aiが開発した新型モデル「GLM-5.2」が、米国の主要モデルに匹敵する性能を示しながら、約6分の1のコストで動作している。米国製チップを使わず、ファーウェイ製半導体のみで訓練された点も注目…",
+    "title": "中国製AIモデルが脆弱性発見で米国製を凌駕、サイバー防衛に新たな懸念",
+    "date": "2026/07/03",
+    "summary": "中国のZhipu AIがリリースした「GLM 5.2」などの新型AIモデルが、脆弱性発見ベンチマークで米国の主要モデルを上回る性能を示し、サイバーセキュリティ上の懸念が高まっている。",
     "details": [
-      "中国のZ.aiが開発した「GLM-5.2」は、7440億パラメータのMoEアーキテクチャを採用し、米国製チップを一切使わずファーウェイ製半導体のみで訓練された。性能面ではOpenAIのGPT-5.5やAnthropicのモデルに肉薄しつつ、コストは米国製フロンティアモデルの約6分の1に抑えられており、欧米のスタートアップや開発者の間で関心が高まっている。"
+      "中国のZhipu AIが公開したオープンウェイトモデル「GLM 5.2」が、脆弱性発見テストにおいてAnthropicのOpusやOpenAIのGPT-5.5を上回るスコアを記録し、1脆弱性あたりわずか0.17ドルという低コストでバグを検出できることが判明した。さらに360 Security Technologyもセキュリティ特化型モデル「Tulongfeng」をリリースしており、中国製AIの急速な進化がサイバー攻撃者と防御者のパワーバランスを揺るがすリ…"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/"
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders"
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
-    "novelty": 88,
-    "confidence": 100,
-    "priorityReason": "中国製AIの低コスト・高性能化と地政学的影響。",
-    "rankScore": 83,
+    "socialImpact": 80,
+    "novelty": 90,
+    "confidence": 95,
+    "priorityReason": "中国製AIの技術的躍進と、それがもたらすセキュリティ脅威を解説。",
+    "rankScore": 81,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 4,
     "summaryLevel": "standard"
   },
   {
-    "id": "openai-sovereign-wealth-fund-proposal-20260702",
-    "category": "Business",
-    "title": "OpenAI、米政府系ファンドに5%の株式譲渡を提案か",
-    "date": "2026/07/02",
-    "summary": "OpenAIがトランプ政権に対し、同社株式の5%（約426億ドル相当）を米国の政府系ファンドに譲渡する提案を行ったことが報じられた。AIの利益を国民に還元するとともに、ワシントンからの政治的圧力を和らげる狙いがあるとみ…",
+    "id": "meta-watermelon-matches-gpt55",
+    "category": "Model",
+    "title": "Metaの次期AIモデル「Watermelon」がGPT-5.5に匹敵、社内発表で判明",
+    "date": "2026/07/03",
+    "summary": "Metaの超知能ラボを率いるアレクサンダー・ワン氏が、現在開発中の次期AIモデル「Watermelon」が主要ベンチマークでOpenAIの「GPT-5.5」に追いついたと社内タウンホールで明らかにした。",
     "details": [
-      "OpenAIがトランプ政権に対し、同社株式の5%を新設予定の政府系ファンドに譲渡する提案を行った。この提案は、AIによる経済的利益を国民に直接還元する仕組みを目指すものであるが、規制当局との関係を緊密にすることで、安全基準や中国向け半導体規制などの政治的圧力を回避する政治的思惑もあると指摘されている。"
+      "Meta의 AI部門トップであるアレクサンダー・ワン氏が社内タウンホールにて、現在トレーニング中の次期AIモデル「Watermelon」が、OpenAIのフラッグシップモデル「GPT-5.5」と同等の性能に達したと発表した。Watermelonは前世代モデル「Avocado」に比べて1桁多い計算資源を投入して開発されており、Metaが巨額のインフラ投資と人材獲得攻勢を通じてOpenAIやGoogleとの技術格差を急速に縮めていることを示している。"
     ],
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/"
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/meta-ai-model-catches-up-openai-gpt-5-says-2026-7"
       }
     ],
     "importance": "high",
-    "socialImpact": 88,
+    "socialImpact": 80,
     "novelty": 85,
-    "confidence": 95,
-    "priorityReason": "政府とAI企業の新たな関係性を示す異例の提案。",
-    "rankScore": 82,
+    "confidence": 90,
+    "priorityReason": "Metaの巨額投資が実を結び、AI競争が激化していることを示す。",
+    "rankScore": 80,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "japan-india-summit-takaichi-modi-20260702",
-    "category": "Policy",
-    "title": "日印首脳会談、高市首相とモディ首相が経済安全保障ロードマップを採択",
-    "date": "2026/07/02",
-    "summary": "日本の高市早苗首相とインドのモディ首相がニューデリーで会談し、防衛や経済安全保障における協力を深化させる一連の合意を発表した。両国は経済安保の共同ロードマップを採択し、AIや半導体、通信分野での連携を強化する。",
+    "id": "ai-token-prices-collapsing",
+    "category": "Economy",
+    "title": "AIトークン価格指数が20%下落、巨額インフラ投資の収益性に懸念",
+    "date": "2026/07/03",
+    "summary": "AIの利用料金を示す「Silicon Data LLM Token Expenditure Index」が、5月のピークから約20%下落した。市場では、AI分野への巨額の設備投資が十分な利益を生まないのではないかとの懸…",
     "details": [
-      "日本の高市早苗首相とインドのモディ首相が首脳会談を行い、経済安全保障を共通の安全保障利益と位置づける共同ロードマップを採択した。両国は海軍の無線アンテナシステムでの共同開発に合意したほか、人工知能（AI）、半導体、造船、バイオガスなどの先端技術分野で包括的な協力を進める方針を確認した。"
+      "AIトークンの支出動向を追跡する指数が5月の高値から約20%下落し、7000億ドル規模とされるAI設備投資ブームの先行きに不透明感が漂っている。利用料金の低下や安価なモデルへの需要シフトが背景にあり、OpenAIのIPO延期説や、企業がコスト削減のためにAIの無制限利用を抑制し始めているとの指摘も出ている。"
     ],
     "sources": [
       {
-        "name": "AP News",
-        "url": "https://apnews.com/article/india-japan-china-modi-takaichi-97cc7de864e3183d5bcdfa43e616c1d7"
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock"
       }
     ],
     "importance": "high",
-    "socialImpact": 82,
+    "socialImpact": 85,
     "novelty": 75,
-    "confidence": 100,
-    "priorityReason": "高市首相とインドの防衛・経済安保の新たな枠組み。",
+    "confidence": 90,
+    "priorityReason": "AIバブルの懸念と市場の価格決定力の変化を捉えた重要指標。",
     "rankScore": 80,
     "rankTier": "A",
     "ageDays": 1,
@@ -162,13 +162,117 @@
     "summaryLevel": "standard"
   },
   {
+    "id": "argentina-ai-run-companies-bill",
+    "category": "Policy",
+    "title": "アルゼンチン、AIが運営する企業に「人間の管理者」設置を義務付ける法案",
+    "date": "2026/07/03",
+    "summary": "アルゼンチンで、AIエージェントによって自律運営される企業に対し、人間の管理者の配置を義務付ける法案が提出された。AIの暴走や損害賠償責任の所在を明確にする狙いがある。",
+    "details": [
+      "アルゼンチンで提出された新たな法案は、AIシステムやアルゴリズムによって自律的に運営される企業に対し、監視役として人間の管理者を置くことを義務付けている。AIが引き起こした損害に対する企業の法的責任を維持しつつ、AI企業の明確な運営ルールを確立することで、技術革新と社会的安全のバランスを図る狙いがある。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 85,
+    "confidence": 90,
+    "priorityReason": "AI自律企業という未来の組織形態に対する先駆的な法規制の動き。",
+    "rankScore": 79,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 7,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "alibaba-bans-claude-code",
+    "category": "Business",
+    "title": "アリババ、バックドア懸念からAnthropicの「Claude Code」を社内禁止に",
+    "date": "2026/07/03",
+    "summary": "中国のアリババが、従業員に対しAnthropicの開発者向けツール「Claude Code」の使用を禁止した。中国関連ユーザーを特定する機能やバックドアのリスクを懸念したためとされる。",
+    "details": [
+      "中国のテック大手アリババが、Anthropicのコーディング支援ツール「Claude Code」の社内利用を禁止したことが明らかになった。このツールには中国関連のユーザーを特定する機能が含まれているとされ、バックドアなどのセキュリティリスクが懸念されたためである。米中間のAI覇権争いが激化する中、中国企業は自国製やオープンソースのAIモデルへの移行を加速させている。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 80,
+    "confidence": 95,
+    "priorityReason": "米中AIデカップリングの実態とセキュリティ懸念を浮き彫りにする。",
+    "rankScore": 78,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 8,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "us-jobs-slowdown-june-2026",
+    "category": "Economy",
+    "title": "米国6月の雇用者数は5.7万人増に急減速、FRBの利上げ見送り観測が台頭",
+    "date": "2026/07/03",
+    "summary": "米国の6月の非農業部門雇用者数は予測を大幅に下回る5万7000人増にとどまった。労働市場の急減速を受け、市場ではFRBが年内の利上げを見送るとの観測が強まっている。",
+    "details": [
+      "米国の6月雇用統計で新規雇用者数がわずか5万7000人増と、これまでの強いトレンドから一転して大幅に減速した。この結果を受けて市場関係者からは、インフレの動向を見極める時間がFRBに与えられたとし、年内の追加利上げは行われないとの見方が強まっており、金利見通しや株式市場のセンチメントに大きな影響を与えている。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/video/watch/idRW479103072026RP1"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 60,
+    "confidence": 95,
+    "priorityReason": "米国経済の減速を示す重要指標であり、金融政策への影響が大きいため。",
+    "rankScore": 77,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 9,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "japan-yen-intervention-warning",
+    "category": "Economy",
+    "title": "日本の財務相、円安への対応準備を表明し米当局と緊密に連携",
+    "date": "2026/07/03",
+    "summary": "日本の財務相は、外国為替市場における円安の進行に対し、いつでも適切な対応をとる準備があると表明した。また、米国当局と緊密に連絡を取り合っていることを明らかにした。",
+    "details": [
+      "日本の財務相は、歴史的な円安水準が続く為替市場に対し、介入を含めたあらゆる対抗措置を講じる準備があると言及した。同時に、日本の国債（JGB）利回りが約30年ぶりの高水準に急騰したことを受け、政府債務の持続可能性と市場の信頼維持に努める姿勢を強調した。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/japan-finance-minister-says-ready-respond-yen-contact-with-us-authorities-2026-07-03/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 60,
+    "confidence": 95,
+    "priorityReason": "日本の為替・債券市場の急激な変動に対する政府の警戒姿勢を示す。",
+    "rankScore": 76,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 10,
+    "summaryLevel": "standard"
+  },
+  {
     "id": "anthropic-samsung-custom-chip",
     "category": "Business",
-    "title": "Anthropic、Nvidia依存からの脱却に向けSamsungとカスタムAIチップ開発を協議",
+    "title": "Anthropic、カスタムAIチップ製造に向けてSamsungと初期協議を開始",
     "date": "2026/07/02",
-    "summary": "AIスタートアップのAnthropicが、独自のカスタムチップ開発に向けてSamsungと協議中。競合のOpenAIによるBroadcom提携に対抗し、ハードウェアの自立を目指す。",
+    "summary": "AIスタートアップのAnthropicが、独自のカスタムAIチップの製造についてSamsung Electronicsと初期段階の協議を行っていることが明らかになった。Nvidia依存からの脱却を目指す。",
     "details": [
-      "Anthropicが、特定の計算タスクに最適化した独自のハードウェアを構築し、市場を支配するNvidiaへの依存を減らすため、SamsungとカスタムAIチップの共同開発に向けた協議を進めていることが明らかになりました。"
+      "AnthropicがSamsungとカスタムAIチップの共同開発・製造に向けた協議を進めていることが報じられた。OpenAIがBroadcomと提携して「Jalapeño」と呼ばれるカスタム推論プロセッサを発表した動きに対抗するものであり、AI企業各社がNvidiaの独占状態から脱却し、独自のハードウェアスタックを構築してコスト削減と効率化を図るトレンドが鮮明になっている。"
     ],
     "sources": [
       {
@@ -177,50 +281,24 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 82,
-    "novelty": 80,
+    "socialImpact": 75,
+    "novelty": 85,
     "confidence": 95,
-    "priorityReason": "脱Nvidiaを目指す半導体共同開発の動き",
-    "rankScore": 80,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 7,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "un-panel-warns-catastrophic-ai-risks",
-    "category": "Policy",
-    "title": "国連の独立科学パネルが警告、急速なAI進化に政策が追いつかず壊滅的リスクも",
-    "date": "2026/07/01",
-    "summary": "国連の独立科学パネルは、AI技術の進化スピードが政府の規制や科学的理解を上回っており、自律的なAIの制御喪失や誤情報の拡散など、壊滅的な被害を防ぐ保証がないと警告した。",
-    "details": [
-      "国連の独立科学パネルが公表した予備報告書において、AIの急速な自律化や悪用によるサイバー攻撃、生物学的脅威などのリスクに対し、現在の断片的なガバナンス体制では十分に対応できていない現状が指摘されました。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-2026-07-01/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 88,
-    "novelty": 72,
-    "confidence": 90,
-    "priorityReason": "国連が警告するAIの制御不能リスク",
-    "rankScore": 78,
+    "priorityReason": "主要AI企業による半導体内製化とNvidia対抗の動きを示すため。",
+    "rankScore": 76,
     "rankTier": "A",
     "ageDays": 2,
-    "rank": 8,
+    "rank": 11,
     "summaryLevel": "standard"
   },
   {
     "id": "together-ai-raises-800m",
     "category": "Business",
-    "title": "AIインフラのTogether AIが8億ドルを調達、評価額は83億ドルへ急上昇",
+    "title": "AIインフラのTogether AI、8億ドルを調達し評価額83億ドルに急騰",
     "date": "2026/07/01",
-    "summary": "GPUクラウドなどのAIインフラを提供するTogether AIが、Aramco Ventures主導のラウンドで8億ドルを調達。前回の評価額33億ドルから大幅な成長を遂げた。",
+    "summary": "AI向けクラウドインフラを提供するTogether AIが、Aramco Ventures主導のラウンドで8億ドルを調達した。評価額は83億ドルに達し、GPUクラウド需要の強さを示した。",
     "details": [
-      "AI特化型のハードウェアやインフラを提供する「ネオクラウド」企業のTogether AIが、Aramco Venturesが主導し、NvidiaやVista Equity Partnersなどが参加した資金調達ラウンドで8億ドルを調達し、評価額が83億ドルに達しました。"
+      "NvidiaのGPUクラスターなどを提供する「ネオクラウド」スタートアップのTogether AIが、サウジアラムコ傘下のAramco Venturesなどから8億ドルを調達し、評価額が83億ドルに達した。AIモデルのトレーニングや運用に必要な計算資源への需要が依然として極めて旺盛であることを裏付けており、VC資金がAIインフラ分野へ集…"
     ],
     "sources": [
       {
@@ -228,90 +306,12 @@
         "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/"
       }
     ],
-    "importance": "high",
-    "socialImpact": 78,
-    "novelty": 70,
-    "confidence": 90,
-    "priorityReason": "AIインフラ企業の巨額調達と評価額上昇",
-    "rankScore": 74,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 9,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "yen-weakness-prolonged-economist",
-    "category": "Economy",
-    "title": "エコノミストが指摘、日本円の早期回復は困難か。省庁間の緊密な連携が必要",
-    "date": "2026/07/01",
-    "summary": "富士通のチーフエコノミストであるマーティン・シュルツ氏は、政府のエネルギー補助金が国内景気を支えているものの、円安の進行を阻止するにはより統合された政策アプローチが必要だと述べた。",
-    "details": [
-      "富士通のチーフエコノミストは、政府の補助金政策が企業の信頼感を高めている点に驚きを示しつつも、現在の円安基調を反転させるには単発の介入ではなく、省庁間が連携した抜本的なアプローチが必要であると分析しています。"
-    ],
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/video/2026/07/01/unlikely-that-the-japanese-yen-will-strengthen-anytime-soon-economist.html"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 60,
-    "confidence": 85,
-    "priorityReason": "専門家が指摘する円安の長期化見通し",
-    "rankScore": 73,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 10,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "ai-investments-buoy-asian-manufacturing",
-    "category": "Economy",
-    "title": "地政学リスクの中でもAI需要がアジアの製造業を牽引、6月も生産拡大が継続",
-    "date": "2026/07/01",
-    "summary": "中東での緊張や原材料費高騰といった逆風にもかかわらず、AI向け半導体やコンピュータ機器の旺盛な需要により、日本、中国、韓国などの製造業の生産活動が下支えされている。",
-    "details": [
-      "中東の地政学的リスクやそれに伴う供給遅延、原材料コストの上昇に直面しながらも、AI関連の半導体やハードウェアに対する世界的な需要が牽引し、6月のアジア主要国の製造業PMIは堅調な推移を維持しました。"
-    ],
-    "sources": [
-      {
-        "name": "mezha.net",
-        "url": "https://mezha.net/eng/bukvy/70c7d89f_ai_investments_buoy/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 65,
-    "confidence": 85,
-    "priorityReason": "地政学リスクを相殺するAI需要の強さ",
-    "rankScore": 72,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 11,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "reed-smith-ai-leadership-program",
-    "category": "Business",
-    "title": "大手法律事務所Reed Smith、コーネル大学と提携しパートナー向けAI教育を開始",
-    "date": "2026/06/30",
-    "summary": "国際法律事務所のReed Smithがコーネル大学と提携し「AIリーダーシッププログラム」を開設。AI時代におけるクライアント支援や、法律業務の生産プロセスの変革に対応する。",
-    "details": [
-      "大手法律事務所のReed Smithは、AI技術の普及が法律業界の生産手段や課金モデル、若手育成に根本的な変革をもたらすことを見据え、幹部パートナーがクライアントを適切に導くための教育プログラムを始動しました。"
-    ],
-    "sources": [
-      {
-        "name": "Artificial Lawyer",
-        "url": "https://www.artificiallawyer.com/2026/06/30/reed-smith-to-school-partners-on-ai-is-this-useful/"
-      }
-    ],
     "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 70,
-    "confidence": 90,
-    "priorityReason": "大手法律事務所によるAI人材育成の試み",
-    "rankScore": 63,
+    "socialImpact": 70,
+    "novelty": 75,
+    "confidence": 100,
+    "priorityReason": "AIインフラ需要の爆発的成長と巨額の資金流入を示すため。",
+    "rankScore": 66,
     "rankTier": "B",
     "ageDays": 3,
     "rank": 12,
