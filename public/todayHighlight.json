@@ -1,68 +1,42 @@
 [
   {
-    "id": "news-20260701-mgx-fund",
+    "id": "micron-japan-expansion-20260704",
     "category": "Economy",
-    "title": "アラブ首長国連邦のMGX、490億ドル規模の巨大AIファンドを設立",
-    "date": "2026/07/01",
-    "summary": "アラブ首長国連邦の政府系投資ファンドMGXが、目標を上回る490億ドル規模のAI特化型ファンドを設立した。OpenAIやAnthropicなどの主要AI企業や、半導体、インフラ分野への投資を加速させる。",
+    "title": "米マイクロン、広島で1.5兆円規模の半導体工場拡張を起工―AI向け次世代メモリHBMを生産へ",
+    "date": "2026/07/04",
+    "summary": "米半導体大手マイクロンが広島で1.5兆円規模の工場拡張を起工。NVIDIA等のAIプロセッサに不可欠な次世代高帯域幅メモリ（HBM）を生産し、2028年夏の出荷を目指す。日本政府も最大5000億円を支援する。",
     "details": [
-      "アラブ首長国連邦（UAE）のアブダビ政府系投資ファンドMGXが、当初目標の450億ドルを上回る490億ドル（約7.9兆円）のAI特化型ファンドをクローズした。このファンドは中東、北米、アジア、欧州の機関投資家や個人投資家から資金を集めており、AI分野における史上最大規模の投資ファンドの一つとなる。",
-      "この巨大ファンドの誕生は、AI業界における資金調達競争をさらに過熱させる。MGXはすでにOpenAIやAnthropic、xAIなどの主要なフロントランナー企業を支援しており、今後は半導体やAIインフラ、プラットフォーム技術など、AIスタック全体への投資を強化することで、中東が世界のAI地政学における主要なハブとしての地位を確立することを目指している。",
-      "今後は、MGXが主導する具体的なインフラプロジェクト（フランスでのAIキャンパス拡張など）の進捗や、NVIDIA依存からの脱却を目指すカスタムチップ開発企業への追加投資、さらには出資先企業のIPOに向けた動きが注目される。"
+      "米半導体大手のマイクロン・テクノロジーは、広島県にある同社工場において、1.5兆円（約93億ドル）を投じる拡張工事の起工式を執り行った。この新施設では、NVIDIAなどのAI向けプロセッサに不可欠な次世代の高帯域幅メモリ（HBM）を生産し、2028年夏頃の出荷開始を目指す。",
+      "本プロジェクトは、日本の経済産業省が最大5000億円の補助金を交付するなど、国策としての半導体サプライチェーン強靭化を象徴する動きである。AIブームに伴う世界的なHBM需要の急増に対応するとともに、日本が最先端半導体製造の重要拠点としての地位を再確立する上で極めて重要な意義を持つ。",
+      "今後は、2028年の稼働に向けた建設プロセスの進捗や、競合である韓国のサムスン電子やSKハイニックスとのシェア争い、さらには日本国内での技術人材の確保や周辺サプライチェーンの整備状況が注視される。"
     ],
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/01/mgx-ai-fund-uae-49-billion.html"
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
     "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "AI業界の勢力図を塗り替える史上最大級のファンド誕生のため。",
-    "rankScore": 86,
+    "confidence": 100,
+    "priorityReason": "日米半導体協力とAIメモリ供給網における極めて重要な投資。",
+    "rankScore": 88,
     "rankTier": "S",
-    "ageDays": 3,
+    "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "news_20260703_jobs_data",
-    "category": "Economy",
-    "title": "米雇用統計の減速で利上げ懸念後退、世界的に株価上昇",
-    "date": "2026/07/03",
-    "summary": "6月の米非農業部門雇用者数が5万7000人増と市場予想を大幅に下回ったことで、FRBによる追加利上げへの懸念が和らぎ、世界の株式市場が上昇した。一方で、ホルムズ海峡閉鎖に伴う物流混乱によるインフレ懸念も依然として残る。",
-    "details": [
-      "2026年6月の米非農業部門雇用者数が前月比5万7000人増にとどまり、市場予想の11万人を大幅に下回った。これを受けてFRBの早期利上げ観測が後退し、世界の株式市場が軒並み上昇したほか、金相場も急反発した。",
-      "この雇用減速は、過熱する米国経済の沈静化を示す一方で、スタグフレーション懸念も呼び起こしている。さらに、中東情勢緊迫化に伴うホルムズ海峡の閉鎖と航路変更が世界的な輸送コスト上昇を招いており、インフレ圧力が完全に払拭されたわけではないため、市場の不確実性は高い。",
-      "今後は、FRBが労働市場の急激な悪化を防ぐために利下げへ舵を切るのか、あるいは根強いインフレ懸念から現状維持を貫くのか、次回の連邦公開市場委員会（FOMC）での議論と、原油・物流価格の動向が注視される。"
-    ],
-    "sources": [
-      {
-        "name": "KITCO",
-        "url": "https://www.kitco.com/news/off-the-wire/2026-07-03/global-stocks-climb-us-jobs-data-cools-fed-hike-fears"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 60,
-    "confidence": 95,
-    "priorityReason": "世界経済と市場トレンドを左右する最重要マクロ指標のため。",
-    "rankScore": 85,
-    "rankTier": "S",
-    "ageDays": 1,
-    "rank": 2,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "news-20260703-devin-japan",
+    "id": "news_002",
     "category": "Service",
-    "title": "自律型AIエンジニア「Devin」が日本進出、レガシーコード刷新と労働力不足解消へ",
+    "title": "「デビン君」日本上陸、労働力不足とレガシーコード刷新でAIエンジニアの需要急増",
     "date": "2026/07/03",
-    "summary": "Cognition AIは日本市場への本格進出を発表し、東京オフィスを開設した。人口減少とレガシーシステムに悩む日本を、自律型AIソフトウェアエンジニア「Devin」の最適な実証の場と位置づける。",
+    "summary": "Cognition AIは、AIソフトウェアエンジニア「Devin」の本格的なアジア展開の第一歩として日本市場に参入した。人口減少と老朽化したITインフラを抱える日本は、AIエージェントの理想的な実証の場となっている。",
     "details": [
-      "世界初の自律型AIソフトウェアエンジニア「Devin」を開発するCognition AIが、アジア展開の第一歩として東京オフィスを開設した。同社は、少子高齢化によるIT人材不足と、古いレガシーコードを抱える日本のインフラや自治体を格好の市場と捉えており、実際に札幌市での100万行を超えるコードの近代化作業を従来の4分の1の期間で完了させるなど、劇的な効率化実績を上げている。"
+      "米Cognition AIは、世界初の自律型AIソフトウェアエンジニア「Devin」のアジア展開において、日本を最初の拠点に選定し、東京オフィスを開設しました。札幌市が100万行を超えるレガシーコードの近代化にDevinを導入し、通常の4分の1の期間で作業を完了させるなど、すでに国内での実用化と効率化の実績が出始めています。",
+      "この動きは、深刻な労働力不足と老朽化したITインフラ（レガシーシステム）という課題を抱える日本市場において、AIエージェントが極めて有効な解決策となることを示しています。従来のIT人材不足を補うだけでなく、企業のDX推進や政府・自治体のシステム刷新を劇的に加速させる可能性を秘めています。",
+      "今後は、日本国内の企業や官公庁におけるAIエージェントの導入規模の拡大と、それに伴う既存のITアウトソーシング市場やエンジニアの雇用形態への影響、さらにはシンガポールを拠点とするアジア太平洋地域全体への展開スピードが注目されます。"
     ],
     "sources": [
       {
@@ -70,25 +44,77 @@
         "url": "https://fortune.com/2026/07/03/devin-kun-cognition-ai-japan-russell-kaplan/"
       }
     ],
-    "importance": "high",
-    "socialImpact": 82,
-    "novelty": 88,
+    "importance": "critical",
+    "socialImpact": 85,
+    "novelty": 85,
     "confidence": 95,
-    "priorityReason": "日本のIT人材不足とシステム刷新にAIが与える影響が大きいため。",
-    "rankScore": 81,
+    "priorityReason": "日本の深刻なIT人材不足を救うAIエージェントの最前線。",
+    "rankScore": 86,
+    "rankTier": "S",
+    "ageDays": 2,
+    "rank": 2,
+    "summaryLevel": "deep"
+  },
+  {
+    "id": "venezuela-earthquake-crisis-20260704",
+    "category": "Policy",
+    "title": "ベネズエラ連続大地震で死者2000人超、3万8000人が依然行方不明―政府対応に批判噴出",
+    "date": "2026/07/04",
+    "summary": "ベネズエラで発生した連続大地震により、2千人以上の死亡が確認され、依然として約3万8千人が行方不明となっている。政府の救助活動の遅れに対する批判に対し、ロドリゲス暫定大統領は反論している。",
+    "details": [
+      "ベネズエラを襲った二度の激しい地震により甚大な被害が発生しており、死者は2,000人を超え、行方不明者は3万8,000人に上っている。米国が支持するデルシー・ロドリゲス暫定大統領は、当局の対応が遅すぎるという国内外からの批判を拒絶し、被害規模の過少申告疑惑を否定しているが、国連が5000万ドルの緊急援助を求めるなど人道危機が深刻化している。"
+    ],
+    "sources": [
+      {
+        "name": "Sky News Australia",
+        "url": "https://www.skynews.com.au/world-news/global-affairs/venezuela-government-under-fire-as-38000-still-missing-after-earthquakes/video/111f6dee93df1b7e9222f8f7f6046914"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 90,
+    "novelty": 60,
+    "confidence": 90,
+    "priorityReason": "甚大な自然災害とそれに対する政府対応の混乱。",
+    "rankScore": 79,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "news-20260703-glm-vulnerability",
-    "category": "Model",
-    "title": "中国製AIモデルが脆弱性検出で米国製に匹敵、サイバー防衛への脅威懸念",
-    "date": "2026/07/03",
-    "summary": "中国のZhipu AIがリリースしたオープンウェイトモデル「GLM 5.2」が、バグ検出ベンチマークで米国の主要モデルを凌駕した。安価に脆弱性を発見できるため、サイバー攻撃への悪用が懸念されている。",
+    "id": "openai-stargate-uk-investigation-20260704",
+    "category": "Ethics",
+    "title": "OpenAIの英国巨額投資計画「Stargate UK」に誇大広告の疑い、主要候補地への訪問なし",
+    "date": "2026/07/04",
+    "summary": "英政府がアピールしていたOpenAIによる最大300億ポンド規模の投資計画について、そのうち200億ポンドが全くの仮定に過ぎず、OpenAI側が主要候補地を一度も訪問していないことが調査で判明した。",
     "details": [
-      "中国のZhipu AIが公開したオープンウェイトモデル「GLM 5.2」が、脆弱性発見ベンチマークにおいて米国の「Claude 3 Opus」や「GPT-5.5」を上回る性能を示した。MITライセンスで提供され、ローカル環境で実行可能なため、従来のAPI経由のガバナンスが機能せず、サイバー攻撃者による脆弱性の悪用と防衛側の格差が広がるリスクが専門家から指摘されている。"
+      "ガーディアン紙の調査報道により、英政府が華々しく発表した「Stargate UK」プロジェクトの実態が、単なるプレスリリース先行の「幻の投資」であった可能性が浮上した。発表された投資額300億ポンドのうち200億ポンドはデータセンター建設に必要な想定額を政府が逆算しただけの仮定であり、OpenAIの担当者が現地を訪れた形跡もないことから、地域社会や専門家から政府の姿勢に対する批判と不信感が高まっている。"
+    ],
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 75,
+    "confidence": 95,
+    "priorityReason": "巨額AI投資の実態を暴く重要な調査報道。",
+    "rankScore": 78,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 4,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news_003",
+    "category": "Model",
+    "title": "中国製AIモデルが脆弱性発見能力で台頭、サイバー防衛への影響に懸念",
+    "date": "2026/07/03",
+    "summary": "中国企業が脆弱性発見に特化した新しいAIモデル「GLM 5.2」やセキュリティツール「Tulongfeng」を相次ぎ発表した。安価かつ高精度にバグを検出できる能力が、サイバー攻撃者と防御者の格差を広げる懸念が生じている。",
+    "details": [
+      "中国のZhipu AIがリリースしたオープンウェイトモデル「GLM 5.2」が、バグ発見のベンチマークにおいて米国の主要モデルを上回る性能を示し、1脆弱性あたりわずか0.17ドルという低コストを実現しました。また、360 Security Technologyも「Tulongfeng（ドラゴンセイバー）」と呼ばれるセキュリティツールを発表し、すでに3,400件以上の脆弱性を発見したと主張しています。これらの高度なAIモデルの登場は、既知および未知の脆弱性…"
     ],
     "sources": [
       {
@@ -97,102 +123,50 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
-    "novelty": 85,
+    "socialImpact": 80,
+    "novelty": 82,
     "confidence": 90,
-    "priorityReason": "オープンソースAIがもたらすサイバーセキュリティ上の新脅威。",
-    "rankScore": 79,
+    "priorityReason": "中国製AIの脆弱性発見能力がもたらす安全保障上のリスク。",
+    "rankScore": 77,
     "rankTier": "A",
-    "ageDays": 1,
-    "rank": 4,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news_20260703_sierra_leone_health_ai",
-    "category": "Service",
-    "title": "シエラレオネ、低コストAIの導入で医療物資の偏りを解消し消費量が32%増加",
-    "date": "2026/07/03",
-    "summary": "シエラレオネ政府に完全移管された低コストのAI配分ツールが、データが不完全な環境下で医薬品の需要を予測し効率的な分配を実現した。これにより、慢性的な在庫切れに悩まされていた貧困・遠隔地の医療機関で医薬品消費が32%増加…",
-    "details": [
-      "高価なインフラや完璧なデータがなくても、適切なアルゴリズム設計によって途上国の深刻な医療格差や物流の非効率を劇的に改善できることを証明しており、他の途上国への応用展開も期待される極めて実用的な人道支援AI of 成功例である。"
-    ],
-    "sources": [
-      {
-        "name": "ETV Bharat",
-        "url": "https://www.etvbharat.com/en/health/low-cost-ai-healthcare-logistics-sierra-leone-enn26070301227"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 75,
-    "confidence": 90,
-    "priorityReason": "途上国の医療格差を解消する低コストAIの優れた実用例。",
-    "rankScore": 79,
-    "rankTier": "A",
-    "ageDays": 1,
+    "ageDays": 2,
     "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_20260703_argentina_ai_company",
-    "category": "Policy",
-    "title": "アルゼンチン、AI運営企業を認める法案を計画も「人間の管理者」を義務付け",
-    "date": "2026/07/03",
-    "summary": "アルゼンチン政府はAIエージェントが自律的に運営する企業の法的枠組みを検討しているが、提出された法案では人間の管理者の設置と、AIが引き起こした損害に対する企業の法的責任の維持が義務付けられる見通しであることが明らかに…",
+    "id": "mistral-ai-sovereign-tech-20260704",
+    "category": "Business",
+    "title": "フランスのAI新星「Mistral AI」が目指す、米国依存を脱する欧州の主権AI戦略",
+    "date": "2026/07/04",
+    "summary": "米国製AIへの依存を減らす「主権AI」への関心が高まる中、フランスのMistral AIが注目を集めている。同社は独自のオープンウェイトモデル開発や、欧州の公共・産業向けに特化したクラウド展開を進めている。",
     "details": [
-      "AIによる完全自律的な意思決定は技術的にまだ困難であるものの、シリコンバレーを中心に人件費からAI計算力への予算シフトが進む中、AI企業の法的地位を明確に定義しようとする国家レベルの先駆的な規制アプローチとして注目される。"
+      "米トランプ政権の動向や米国の輸出規制を背景に、欧州独自の「主権AI」を担う存在としてフランスのMistral AIへの注目が集まっている。同社はOpenAIの直接的な競合というよりも、各国の政府や大企業向けにAIをカスタマイズする「フォワード・デプロイ・エンジニア」モデルを採用しており、2026年夏の新しいオープンウェイトモデルのリリースや、NVIDIAプロセッサを搭載した欧州独自のAIプラットフォーム「Mistral Compute」の展開を控えている。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
-    "novelty": 90,
-    "confidence": 90,
-    "priorityReason": "AI自律企業の法的責任に関する世界初の法制化の動き。",
-    "rankScore": 78,
+    "socialImpact": 75,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "欧州の技術的自立を象徴するAI企業の最新戦略。",
+    "rankScore": 76,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 6,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_20260703_alibaba_ban",
-    "category": "Ethics",
-    "title": "アリババ、社内でのAnthropic製AIツール「Claude Code」の使用を禁止",
-    "date": "2026/07/03",
-    "summary": "中国のアリババが、米Anthropicのコーディング支援ツール「Claude Code」の社内使用を禁止した。同ツールに中国関連ユーザーを特定する機能が含まれており、情報漏洩やバックドアのリスクが懸念されたためと報じら…",
-    "details": [
-      "米中間のAI覇権争いが激化する中、Anthropicが中国からの不正アクセスやモデルの蒸留（模倣）を防ぐセキュリティ機能を強化したのに対し、中国企業側は情報安全保障の観点から米国製ツールの排除に動いており、技術のデカップリング（分断）がさらに進行している。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "米中AI分断の新たな局面を示す象徴的な動きであるため。",
-    "rankScore": 77,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 7,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news-20260702-anthropic-samsung",
+    "id": "news_001",
     "category": "Business",
-    "title": "Anthropic、NVIDIA依存脱却に向けサムスンとカスタムAIチップ開発を協議",
+    "title": "Anthropic、サムスンと独自のカスタムAIチップ開発に向けて協議中",
     "date": "2026/07/02",
-    "summary": "AIスタートアップのAnthropicが、韓国サムスン電子と次世代カスタムAIチップの共同開発に向けた初期段階の協議を行っていることが判明した。NVIDIAへの依存度を下げ、ハードウェアの自立を目指す。",
+    "summary": "AIスタートアップのAnthropicが、韓国サムスン電子と次世代のカスタムAIチップの共同開発に向けた初期段階の協議を行っていることが判明した。NVIDIAへの依存度を下げ、半導体不足に対応する戦略的な動きとみられる。",
     "details": [
-      "AI大手のAnthropicが、業界のチップ不足への対処とNVIDIAへの依存低減を目的に、サムスン電子とカスタムAIチップの共同製造に向けた協議を進めている。OpenAIがBroadcomと提携して独自の推論プロセッサ「Jalapeño」を発表した動きに対抗するものであり、サムスンの2ナノメートルプロセス技術やHBMメモリー製造能力の活用が期待されている。"
+      "AIスタートアップ大手のAnthropicが、サムスン電子とカスタムAIチップの共同開発に向けた初期協議を進めていることが明らかになりました。この動きは、業界を支配するNVIDIAへの依存度を下げ、独自のハードウェアスタックを構築することで、半導体不足のリスクを回避し、特定の計算タスクにおける効率性を高めることを目的としています。すでにOpenAIもBroadcomと提携して独自の推論プロセッサを開発しており、主要なAI企業による独自チップ開発競争が激化…"
     ],
     "sources": [
       {
@@ -201,66 +175,14 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 78,
-    "novelty": 82,
-    "confidence": 90,
-    "priorityReason": "主要AI企業の脱NVIDIAと独自チップ開発の動きを示すため。",
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 8,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news-20260701-un-ai-warning",
-    "category": "Policy",
-    "title": "国連専門家パネルが警告、制御不能なAIの進歩が壊滅的リスクをもたらす懸念",
-    "date": "2026/07/01",
-    "summary": "国連の独立専門家パネルは、AIの急速な進化が政府の政策や科学的理解を追い越しており、壊滅的な被害を防ぐ保証がないと警告した。これを受け、リスク対処のための新たな委員会が設立された。",
-    "details": [
-      "国連の「人工知能に関する独立国際科学パネル」が発表した予備報告書において、AIの自律性向上に伴う制御喪失や、誤情報の拡散、サイバー攻撃、生物学的脅威への悪用リスクが指摘された。アントニオ・グテーレス国連事務総長は迅速な行動を呼びかけ、世界の政治・技術リーダーらはAIリスクに対処するための新たな委員会の創設を発表した。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-2026-07-01/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70,
+    "socialImpact": 75,
+    "novelty": 80,
     "confidence": 95,
-    "priorityReason": "国際社会によるAI規制と安全基準の策定に向けた重要な動き。",
+    "priorityReason": "NVIDIA依存脱却を狙うAI大手の半導体戦略が判明。",
     "rankScore": 75,
     "rankTier": "A",
     "ageDays": 3,
-    "rank": 9,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news-20260703-us-jobs-slow",
-    "category": "Economy",
-    "title": "米国6月の雇用者数が5.7万人増と大幅減速、FRBの利上げ見送り観測が強まる",
-    "date": "2026/07/03",
-    "summary": "米国の6月の非農業部門雇用者数は前月比5.7万人増にとどまり、市場予想を大幅に下回った。労働市場の急減速を受け、市場ではFRBによる年内の追加利上げが見送られるとの見方が強まっている。",
-    "details": [
-      "米国の6月雇用統計で、非農業部門の新規雇用者数がわずか5.7万人増と、これまでの強い基調から一転して大幅に減速した。この結果を受けて市場関係者からは、連邦準備制度理事会（FRB）がインフレの動向を見極める時間的猶予を得たとし、年内の利上げは行われないとの観測が急速に高まっている。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/video/watch/idRW479103072026RP1"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 60,
-    "confidence": 95,
-    "priorityReason": "世界経済と金融市場に直結する米雇用統計の急減速を伝えるため。",
-    "rankScore": 73,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 10,
+    "rank": 7,
     "summaryLevel": "standard"
   }
 ]
