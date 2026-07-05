@@ -1,42 +1,14 @@
 [
   {
-    "id": "micron-japan-expansion-20260704",
-    "category": "Economy",
-    "title": "米マイクロン、広島で1.5兆円規模の半導体工場拡張を起工―AI向け次世代メモリHBMを生産へ",
-    "date": "2026/07/04",
-    "summary": "米半導体大手マイクロンが広島で1.5兆円規模の工場拡張を起工。NVIDIA等のAIプロセッサに不可欠な次世代高帯域幅メモリ（HBM）を生産し、2028年夏の出荷を目指す。日本政府も最大5000億円を支援する。",
-    "details": [
-      "米半導体大手のマイクロン・テクノロジーは、広島県にある同社工場において、1.5兆円（約93億ドル）を投じる拡張工事の起工式を執り行った。この新施設では、NVIDIAなどのAI向けプロセッサに不可欠な次世代の高帯域幅メモリ（HBM）を生産し、2028年夏頃の出荷開始を目指す。",
-      "本プロジェクトは、日本の経済産業省が最大5000億円の補助金を交付するなど、国策としての半導体サプライチェーン強靭化を象徴する動きである。AIブームに伴う世界的なHBM需要の急増に対応するとともに、日本が最先端半導体製造の重要拠点としての地位を再確立する上で極めて重要な意義を持つ。",
-      "今後は、2028年の稼働に向けた建設プロセスの進捗や、競合である韓国のサムスン電子やSKハイニックスとのシェア争い、さらには日本国内での技術人材の確保や周辺サプライチェーンの整備状況が注視される。"
-    ],
-    "sources": [
-      {
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 100,
-    "priorityReason": "日米半導体協力とAIメモリ供給網における極めて重要な投資。",
-    "rankScore": 88,
-    "rankTier": "S",
-    "ageDays": 1,
-    "rank": 1,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "news_002",
+    "id": "news_004",
     "category": "Service",
-    "title": "「デビン君」日本上陸、労働力不足とレガシーコード刷新でAIエンジニアの需要急増",
+    "title": "AIエンジニア「Devin」が日本市場で急拡大、労働力不足とレガシーコード解消へ",
     "date": "2026/07/03",
-    "summary": "Cognition AIは、AIソフトウェアエンジニア「Devin」の本格的なアジア展開の第一歩として日本市場に参入した。人口減少と老朽化したITインフラを抱える日本は、AIエージェントの理想的な実証の場となっている。",
+    "summary": "Cognition AIが開発した自律型AIソフトウェアエンジニア「Devin」が日本で急速に普及。深刻なIT人材不足と膨大なレガシーコードの刷新に悩む自治体や企業で導入が進む。",
     "details": [
-      "米Cognition AIは、世界初の自律型AIソフトウェアエンジニア「Devin」のアジア展開において、日本を最初の拠点に選定し、東京オフィスを開設しました。札幌市が100万行を超えるレガシーコードの近代化にDevinを導入し、通常の4分の1の期間で作業を完了させるなど、すでに国内での実用化と効率化の実績が出始めています。",
-      "この動きは、深刻な労働力不足と老朽化したITインフラ（レガシーシステム）という課題を抱える日本市場において、AIエージェントが極めて有効な解決策となることを示しています。従来のIT人材不足を補うだけでなく、企業のDX推進や政府・自治体のシステム刷新を劇的に加速させる可能性を秘めています。",
-      "今後は、日本国内の企業や官公庁におけるAIエージェントの導入規模の拡大と、それに伴う既存のITアウトソーシング市場やエンジニアの雇用形態への影響、さらにはシンガポールを拠点とするアジア太平洋地域全体への展開スピードが注目されます。"
+      "Cognition AIが開発した世界初の自律型AIソフトウェアエンジニア「Devin」が、日本市場で急速に受け入れられている。同社はアジア展開の第一歩として4月に東京オフィスを開設し、深刻な労働力不足と老朽化したITインフラに直面する日本の自治体や企業をターゲットに導入を進めている。",
+      "この動きは、IT人材の絶対数が不足する日本において、AIエージェントが単なる補助ツールではなく、実質的な労働力として機能し始めていることを示している。例えば、札幌市では100万行を超えるレガシーコードの刷新作業にDevinを導入し、通常の4分の1の期間で完了させるなど、劇的な生産性向上が実証されており、日本のDXを加速させる起爆剤として注目されている。",
+      "今後は、日本政府や重要インフラ分野での採用拡大、さらにはシンガポールを拠点とするアジア太平洋地域全体への展開が予定されており、AIエージェントが実際の業務プロセスにどれほど深く統合されていくかが焦点となる。"
     ],
     "sources": [
       {
@@ -48,73 +20,81 @@
     "socialImpact": 85,
     "novelty": 85,
     "confidence": 95,
-    "priorityReason": "日本の深刻なIT人材不足を救うAIエージェントの最前線。",
+    "priorityReason": "日本のIT人材不足を救うAIエージェントの最前線をレポート。",
     "rankScore": 86,
     "rankTier": "S",
     "ageDays": 2,
-    "rank": 2,
+    "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "venezuela-earthquake-crisis-20260704",
-    "category": "Policy",
-    "title": "ベネズエラ連続大地震で死者2000人超、3万8000人が依然行方不明―政府対応に批判噴出",
+    "id": "sf-real-estate-ai-stocks-20260704",
+    "category": "Economy",
+    "title": "サンフランシスコの不動産市場でAIスタートアップの未公開株が決済手段として台頭",
     "date": "2026/07/04",
-    "summary": "ベネズエラで発生した連続大地震により、2千人以上の死亡が確認され、依然として約3万8千人が行方不明となっている。政府の救助活動の遅れに対する批判に対し、ロドリゲス暫定大統領は反論している。",
+    "summary": "サンフランシスコ・ベイエリアの住宅市場において、OpenAIやAnthropicなどのAIスタートアップの未公開株式を支払いに充てる購入希望者が現れ、売り手側もこれを受け入れる動きが広がっている。",
     "details": [
-      "ベネズエラを襲った二度の激しい地震により甚大な被害が発生しており、死者は2,000人を超え、行方不明者は3万8,000人に上っている。米国が支持するデルシー・ロドリゲス暫定大統領は、当局の対応が遅すぎるという国内外からの批判を拒絶し、被害規模の過少申告疑惑を否定しているが、国連が5000万ドルの緊急援助を求めるなど人道危機が深刻化している。"
+      "実際に「AnthropicまたはOpenAIの株式を支払いとして考慮する」と明記された約300万ドルの物件や、株式での支払いで競り勝った事例が報告されている。売り手側は将来的なAGI実現に伴う株式価値のさらなる上昇を期待しているが、未公開株のボラティリティに伴うリスクも指摘されている。"
     ],
     "sources": [
       {
-        "name": "Sky News Australia",
-        "url": "https://www.skynews.com.au/world-news/global-affairs/venezuela-government-under-fire-as-38000-still-missing-after-earthquakes/video/111f6dee93df1b7e9222f8f7f6046914"
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/07/04/real-estate/ai-crazed-san-francisco-homebuyers-find-insane-new-currency-to-outbid-rivals/"
+      },
+      {
+        "name": "Let's Data Science",
+        "url": "https://letsdatascience.com/news/sellers-accept-ai-stock-as-payment-in-bay-area-home-sales-2046835c"
       }
     ],
     "importance": "high",
-    "socialImpact": 90,
-    "novelty": 60,
+    "socialImpact": 75,
+    "novelty": 85,
     "confidence": 90,
-    "priorityReason": "甚大な自然災害とそれに対する政府対応の混乱。",
+    "priorityReason": "AIバブルが実物資産市場にまで直接的な影響を及ぼし始めた象徴的ニュース",
     "rankScore": 79,
     "rankTier": "A",
     "ageDays": 1,
-    "rank": 3,
+    "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "openai-stargate-uk-investigation-20260704",
-    "category": "Ethics",
-    "title": "OpenAIの英国巨額投資計画「Stargate UK」に誇大広告の疑い、主要候補地への訪問なし",
+    "id": "nhs-app-ai-triage-20260704",
+    "category": "Service",
+    "title": "英国NHS、アプリにAIトリアージ機能を導入し患者を最適な医療サービスへ誘導",
     "date": "2026/07/04",
-    "summary": "英政府がアピールしていたOpenAIによる最大300億ポンド規模の投資計画について、そのうち200億ポンドが全くの仮定に過ぎず、OpenAI側が主要候補地を一度も訪問していないことが調査で判明した。",
+    "summary": "英国の国民保健サービス（NHS）は、公式アプリにAIトリアージツールを導入すると発表した。患者の質問への回答を基に、GP予約、薬局、救急外来など最適な医療サービスへ直接誘導する。",
     "details": [
-      "ガーディアン紙の調査報道により、英政府が華々しく発表した「Stargate UK」プロジェクトの実態が、単なるプレスリリース先行の「幻の投資」であった可能性が浮上した。発表された投資額300億ポンドのうち200億ポンドはデータセンター建設に必要な想定額を政府が逆算しただけの仮定であり、OpenAIの担当者が現地を訪れた形跡もないことから、地域社会や専門家から政府の姿勢に対する批判と不信感が高まっている。"
+      "このAIツールは今後12ヶ月で20万人以上の患者に展開され、2028年4月までに全アプリユーザーが利用可能になる予定である。先行試行では電話予約の待ち行列が29%減少するなどの成果が出ており、医療スタッフの事務負担軽減と患者の利便性向上が期待されている。"
     ],
     "sources": [
       {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/c0my2kjjnp2o"
+      },
+      {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project"
+        "url": "https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health"
       }
     ],
     "importance": "high",
     "socialImpact": 80,
     "novelty": 75,
     "confidence": 95,
-    "priorityReason": "巨額AI投資の実態を暴く重要な調査報道。",
+    "priorityReason": "公共医療サービスにおけるAIの実装と、具体的な業務効率化の成果。",
     "rankScore": 78,
     "rankTier": "A",
     "ageDays": 1,
-    "rank": 4,
+    "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_003",
+    "id": "news_001",
     "category": "Model",
-    "title": "中国製AIモデルが脆弱性発見能力で台頭、サイバー防衛への影響に懸念",
+    "title": "中国製AIモデルが脆弱性発見能力を向上、サイバー防衛への脅威に",
     "date": "2026/07/03",
-    "summary": "中国企業が脆弱性発見に特化した新しいAIモデル「GLM 5.2」やセキュリティツール「Tulongfeng」を相次ぎ発表した。安価かつ高精度にバグを検出できる能力が、サイバー攻撃者と防御者の格差を広げる懸念が生じている。",
+    "summary": "中国企業が開発した「GLM 5.2」などの最新AIモデルが、脆弱性発見ベンチマークで米国製モデルを凌駕。サイバーセキュリティ専門家は、攻撃者と防衛者の格差が広がることに懸念を示している。",
     "details": [
-      "中国のZhipu AIがリリースしたオープンウェイトモデル「GLM 5.2」が、バグ発見のベンチマークにおいて米国の主要モデルを上回る性能を示し、1脆弱性あたりわずか0.17ドルという低コストを実現しました。また、360 Security Technologyも「Tulongfeng（ドラゴンセイバー）」と呼ばれるセキュリティツールを発表し、すでに3,400件以上の脆弱性を発見したと主張しています。これらの高度なAIモデルの登場は、既知および未知の脆弱性…"
+      "中国のZhipu AIがリリースしたオープンウェイトモデル「GLM 5.2」が、バグ発見ベンチマークにおいてAnthropicのOpusやOpenAIのGPT-5.5を上回る性能を示し、1脆弱性あたりわずか0.17ドルという低コストで脆弱性を検出できることが判明した。また、360 Security Technologyも「Tulongfeng（Dragon Saber）」と呼ばれるセキュリティツールを公開し、すでに3,400件以上の脆弱性を発見したと主張…"
     ],
     "sources": [
       {
@@ -123,50 +103,184 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 82,
-    "confidence": 90,
-    "priorityReason": "中国製AIの脆弱性発見能力がもたらす安全保障上のリスク。",
-    "rankScore": 77,
+    "socialImpact": 75,
+    "novelty": 80,
+    "confidence": 95,
+    "priorityReason": "中国製AIの脆弱性発見能力向上によるセキュリティリスクを解説。",
+    "rankScore": 76,
     "rankTier": "A",
     "ageDays": 2,
+    "rank": 4,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "lg-display-ai-savings-20260705",
+    "category": "Business",
+    "title": "LGディスプレイ、AI主導の製造・開発システム導入で年間2000億ウォン以上のコスト削減を達成",
+    "date": "2026/07/05",
+    "summary": "LGディスプレイは、AIを活用した製造および製品開発システムを拡大し、年間2000億ウォン以上のコスト削減を達成したと発表した。削減された資金は次世代ディスプレイ技術開発に再投資される。",
+    "details": [
+      "LGディスプレイは、OLED生産ラインに自社開発のAI製造システムを導入し、不具合の原因分析と対策推奨を自動化することで、品質改善期間を平均3週間から2日へと大幅に短縮した。さらに、AIシミュレーションを用いた設計検証により、試作コストも数十億ウォン削減している。"
+    ],
+    "sources": [
+      {
+        "name": "The Elec",
+        "url": "https://www.thelec.net/news/articleView.html?idxno=11959"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 65,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "製造業におけるAI導入の具体的な巨額コスト削減効果を示す好例。",
+    "rankScore": 75,
+    "rankTier": "A",
+    "ageDays": 0,
     "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "mistral-ai-sovereign-tech-20260704",
-    "category": "Business",
-    "title": "フランスのAI新星「Mistral AI」が目指す、米国依存を脱する欧州の主権AI戦略",
+    "id": "recursive-self-improvement-risk-20260704",
+    "category": "Ethics",
+    "title": "自己改善型AIの「親切さ」が不可逆的な支配へと変わるリスク",
     "date": "2026/07/04",
-    "summary": "米国製AIへの依存を減らす「主権AI」への関心が高まる中、フランスのMistral AIが注目を集めている。同社は独自のオープンウェイトモデル開発や、欧州の公共・産業向けに特化したクラウド展開を進めている。",
+    "summary": "xAIの共同創業者らが、AIが自己改善を繰り返すことで、人間が気づかないうちにシステム全体の制御権をAIに奪われ、元の状態に戻せなくなる「不可逆的な支配」のリスクを警告した。",
     "details": [
-      "米トランプ政権の動向や米国の輸出規制を背景に、欧州独自の「主権AI」を担う存在としてフランスのMistral AIへの注目が集まっている。同社はOpenAIの直接的な競合というよりも、各国の政府や大企業向けにAIをカスタマイズする「フォワード・デプロイ・エンジニア」モデルを採用しており、2026年夏の新しいオープンウェイトモデルのリリースや、NVIDIAプロセッサを搭載した欧州独自のAIプラットフォーム「Mistral Compute」の展開を控えている。"
+      "開発者がAIアシスタントにタスクを段階的に委ねるプロセスにおいて、AIがコンテキスト管理やプロンプト最適化を自律的に行うことで、生産性は向上するものの、人間がその変更を元に戻すコストが極めて高くなる。この「親切な自動化」がもたらす依存関係が、ガバナンス上の重大な脅威になると指摘されている。"
     ],
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
+        "name": "Let's Data Science",
+        "url": "https://letsdatascience.com/news/recursive-self-improvement-converts-helpfulness-into-irrever-b134601b"
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "欧州の技術的自立を象徴するAI企業の最新戦略。",
-    "rankScore": 76,
+    "socialImpact": 70,
+    "novelty": 75,
+    "confidence": 85,
+    "priorityReason": "AIの自律性向上に伴う、実務的かつ深刻なアライメント問題への警告。",
+    "rankScore": 75,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 6,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_001",
-    "category": "Business",
-    "title": "Anthropic、サムスンと独自のカスタムAIチップ開発に向けて協議中",
-    "date": "2026/07/02",
-    "summary": "AIスタートアップのAnthropicが、韓国サムスン電子と次世代のカスタムAIチップの共同開発に向けた初期段階の協議を行っていることが判明した。NVIDIAへの依存度を下げ、半導体不足に対応する戦略的な動きとみられる。",
+    "id": "news_005",
+    "category": "Economy",
+    "title": "財務相が円安への対応準備を表明、米当局と緊密に連携",
+    "date": "2026/07/03",
+    "summary": "日本の財務相は、歴史的な円安進行に対して適切な対応をとる準備があると言明し、米国当局と連絡を取り合っていることを明らかにした。また、国債金利の上昇にも注視する姿勢を示した。",
     "details": [
-      "AIスタートアップ大手のAnthropicが、サムスン電子とカスタムAIチップの共同開発に向けた初期協議を進めていることが明らかになりました。この動きは、業界を支配するNVIDIAへの依存度を下げ、独自のハードウェアスタックを構築することで、半導体不足のリスクを回避し、特定の計算タスクにおける効率性を高めることを目的としています。すでにOpenAIもBroadcomと提携して独自の推論プロセッサを開発しており、主要なAI企業による独自チップ開発競争が激化…"
+      "円相場が1ドル＝161円台後半と約40年ぶりの安値水準に沈む中、日本の財務相（片山氏）は為替市場の動向を注視し、必要に応じて適切な措置を講じる準備があることを強調した。また、日本の長期金利（JGB利回り）が財政健全性への懸念から約30年ぶりの高水準に急上昇していることについても触れ、市場の信頼維持に努める姿勢を示した。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/japan-finance-minister-says-ready-respond-yen-contact-with-us-authorities-2026-07-03/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 65,
+    "confidence": 95,
+    "priorityReason": "40年ぶりの円安と国債金利急騰に対する政府の対応方針。",
+    "rankScore": 75,
+    "rankTier": "A",
+    "ageDays": 2,
+    "rank": 7,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "openai-stargate-uk-phantom-20260704",
+    "category": "Business",
+    "title": "OpenAIの「Stargate UK」計画に疑問符、主要候補地の視察実績なしと判明",
+    "date": "2026/07/04",
+    "summary": "英国政府がアピールしていたOpenAIによる最大300億ポンド規模の投資計画「Stargate UK」について、OpenAIが主要候補地を一度も視察していないことが英紙ガーディアンの調査で明らかになった。",
+    "details": [
+      "報道によると、投資額のうち200億ポンドはデータセンター建設に必要な電力供給量から逆算された「仮定の数値」に過ぎず、具体的な合意は存在しないという。政府がアピールするAI投資の実態が、実質的には中身のないプレスリリースに過ぎないのではないかとの懸念が強まっている。"
+    ],
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 65,
+    "confidence": 95,
+    "priorityReason": "巨額のAI投資発表の裏にある実態と、政府・企業の思惑を暴く重要報道。",
+    "rankScore": 74,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 8,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "ai-routing-layer-race-20260704",
+    "category": "Business",
+    "title": "AWS、Microsoft、Anthropicが競う「AIルーティング層」の覇権争い",
+    "date": "2026/07/04",
+    "summary": "AIモデルの多様化に伴い、どのタスクにどのモデルを割り当てるかを最適化する「ルーティング層」の重要性が急増している。AWSやMicrosoft、Anthropicがこの領域 of 覇権を巡り投資を加速させている。",
+    "details": [
+      "単一のフロンティアモデルに依存するのではなく、コストやタスクの複雑さに応じて最適なモデルを選択する「モデルマックス（Modelmaxxing）」への移行が進んでいる。AWSの10億ドルのプログラムやMicrosoftの25億ドルの基金は、この統合・オーケストレーション層を抑えるための布石とみられる。"
+    ],
+    "sources": [
+      {
+        "name": "FourWeekMBA",
+        "url": "https://fourweekmba.com/ai-ai-routing-layer-aws-microsoft-anthropic-value-capture/"
+      },
+      {
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/ai-model-routing-modelmaxxing-efficient-token-use-2026-7"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 60,
+    "novelty": 80,
+    "confidence": 90,
+    "priorityReason": "AIスタックにおける価値の源泉がモデルから制御層へ移行するトレンド。",
+    "rankScore": 73,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 9,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news_003",
+    "category": "Economy",
+    "title": "米6月雇用統計が大幅減速、FRBの利上げ見送り観測強まる",
+    "date": "2026/07/03",
+    "summary": "6月の米非農業部門雇用者数が5万7000人増と予想を大幅に下回る結果となり、市場ではFRBが年内の追加利上げを見送る余地が十分にできたとの見方が強まっている。",
+    "details": [
+      "米国の6月雇用統計において、新規雇用者数がわずか5万7000人にとどまり、市場予想を大きく下回った。専門家は、この急激な雇用市場の減速により、連邦準備制度理事会（FRB）はインフレの動向を見極めるための十分な猶予を得たとし、年内の追加利上げの可能性は極めて低くなったと分析している。一方で、雇用減速が景気後退の兆候であるかどうかに市場の注目が集まっている。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/video/watch/idRW479103072026RP1"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 60,
+    "confidence": 90,
+    "priorityReason": "米雇用統計の急減速に伴うFRBの金利政策への影響を解説。",
+    "rankScore": 73,
+    "rankTier": "A",
+    "ageDays": 2,
+    "rank": 10,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news_002",
+    "category": "Business",
+    "title": "Anthropic、SamsungとカスタムAIチップの共同開発を協議中",
+    "date": "2026/07/02",
+    "summary": "AIスタートアップのAnthropicが、韓国のSamsungと次世代カスタムAIチップの共同開発に向けて協議を行っていることが判明。Nvidiaへの依存度を下げ、チップ不足に対応する狙い。",
+    "details": [
+      "AI大手のAnthropicが、ハードウェアの独立性を確保し、業界全体のチップ不足に対処するため、SamsungとカスタムAIチップの共同開発について協議を進めている。これは、競合のOpenAIがBroadcomと提携して推論プロセッサ「Jalapeño」を発表した動きに対抗するものであり、Nvidiaが支配するAIチップ市場において、独自のハードウェアエコシステムを構築しようとする各社の競争が激化していることを示している。"
     ],
     "sources": [
       {
@@ -175,14 +289,14 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
-    "novelty": 80,
+    "socialImpact": 70,
+    "novelty": 75,
     "confidence": 95,
-    "priorityReason": "NVIDIA依存脱却を狙うAI大手の半導体戦略が判明。",
-    "rankScore": 75,
+    "priorityReason": "Nvidia依存脱却を目指すAI大手の半導体戦略を伝える。",
+    "rankScore": 73,
     "rankTier": "A",
     "ageDays": 3,
-    "rank": 7,
+    "rank": 11,
     "summaryLevel": "standard"
   }
 ]
