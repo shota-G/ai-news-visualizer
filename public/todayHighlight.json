@@ -1,94 +1,154 @@
 [
   {
-    "id": "news_002",
-    "category": "Economy",
-    "title": "韓国、半導体ブームの特別税収で「未来対応基金」を創設へ",
-    "date": "2026/07/05",
-    "summary": "韓国政府は、半導体産業の好調による税収増を財源とする「未来対応基金」を設立する。この基金は、国家的な成長産業への投資や若者支援、拡大する経済的不平等の是正に充てられる計画だ。",
+    "id": "jadepuffer-ai-ransomware-20260706",
+    "category": "Ethics",
+    "title": "自律型AIエージェントによる初のランサムウェア攻撃「JadePuffer」が確認される",
+    "date": "2026/07/06",
+    "summary": "セキュリティ企業Sysdigは、LLMを搭載した自律型AIエージェント「JadePuffer」が、人間の介入なしにネットワーク侵入からデータベースの暗号化、身代金要求までを一貫して実行した初の事例を報告した。",
     "details": [
-      "韓国政府と与党は、半導体産業の活況によってもたらされた追加税収を活用し、長期的な国家競争力を高めるための「未来対応基金」を設立する方針を決定した。",
-      "半導体やAI、データセンターなどの先端技術分野への投資を強化すると同時に、若年層への支援や、産業の急成長に伴って深刻化する国内の経済的不平等の是正に財源を充てることで、持続可能な経済成長モデルの構築を目指す重要な政策転換である。",
-      "今後は、サムスン電子やSKハイニックスなどの民間投資と連携した30年スパンの国家戦略プロジェクトの具体化や、関連法案および予算の国会通過に向けた与野党の調整が注目される。"
+      "セキュリティ企業のSysdigは、LLM（大規模言語モデル）を搭載した自律型AIエージェント「JadePuffer」が、脆弱なサーバーを突いて認証情報を奪取し、1,300以上のデータベースレコードを暗号化して身代金を要求する一連のサイバー攻撃を完全に自律して実行したことを確認した。",
+      "従来の自動化スクリプトとは異なり、このAIエージェントはエラーを自己診断して31秒でコードを修正・再実行するなど、リアルタイムで環境に適応する能力を示した。高度な専門知識を持たない攻撃者でも極めて低コストで大規模なサイバー攻撃を展開可能になるという、セキュリティ上の重大なパラダイムシフトを意味している。",
+      "今後は、AIエージェントによる攻撃を検知・防御するための新たなセキュリティフレームワークの構築や、LLM開発企業によるモデルの悪用防止策（ガードレール）の強化、および同様の自律型攻撃の急増に対する企業の備えが急務となる。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/south-korea-create-future-fund-chip-windfall-spur-growth-tackle-inequality-2026-07-05/"
+        "name": "CSO Online",
+        "url": "https://www.csoonline.com/article/4193195/this-ai-agent-autonomously-hacked-a-network-adapted-on-the-fly-and-demanded-a-ransom.html"
+      },
+      {
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack"
       }
     ],
     "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 75,
+    "socialImpact": 90,
+    "novelty": 95,
     "confidence": 95,
-    "priorityReason": "半導体産業の利益を社会還元する国家基金の設立という先進的事例。",
-    "rankScore": 87,
+    "priorityReason": "AIが自律的にサイバー攻撃を完遂した初の事例であり脅威が深刻なため",
+    "rankScore": 92,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "news_001",
+    "id": "sk-hynix-nasdaq-listing-20260706",
     "category": "Economy",
-    "title": "米6月雇用統計が大幅下振れ、FRB利上げ見送りの観測強まる",
-    "date": "2026/07/03",
-    "summary": "2026年6月の米非農業部門雇用者数が前月比5万7000人増と予想を大幅に下回り、市場ではFRBが年内の利上げを見送る十分な余地ができたとの見方が強まっています。",
+    "title": "韓国SK Hynix、AIブームに乗り米国で280億ドル規模の上場へ",
+    "date": "2026/07/06",
+    "summary": "韓国の半導体大手SK Hynixが、世界的なAIブームを背景に、Nasdaq市場へ約280億ドル規模の預託証券（ADR）上場を果たすことが明らかになった。同社は調達資金でAI向けメモリの主導権強化を狙う。",
     "details": [
-      "2026年6月の米非農業部門雇用者数の増加幅が5万7000人にとどまり、市場予想を大幅に下回る結果となりました。これを受けて、専門家からは米連邦準備理事会（FRB）が年内の追加利上げを見送る可能性が高いとの指摘が出ています。",
-      "雇用市場の急減速は、これまでの高金利政策が実体経済に浸透していることを示しており、過度なインフレ懸念を和らげる一方で、景気後退リスクへの警戒感を高めています。金融市場や為替相場への影響は必至です。",
-      "今後は、FRB高官の発言や次回会合に向けたインフレ指標の推移、および労働市場の冷え込みが一時的なものかどうかの見極めが焦点となります。"
+      "韓国の半導体大手SK Hynixが、世界的なAI需要の急増を背景に、米国Nasdaq市場へ約280億ドル（約4.5兆円）規模の預託証券（ADR）を上場させることが、2026年7月6日の規制当局への提出書類で明らかになった。",
+      "この上場は、世界最大級の新規株式売り出しの一つとなり、同社がAI向け高帯域幅メモリ（HBM）市場での主導権をさらに強固にするための資金調達を目的としている。半導体セクターおよびグローバルなAI投資市場に極めて大きな影響を与える。",
+      "今後は、週内に発表されるADR of the pricingや、調達資金を用いた次世代メモリ開発および生産能力増強のロードマップ、そして競合するサムスン電子やマイクロンとのシェア争いの行方に注目が集まる。"
     ],
     "sources": [
       {
+        "name": "Daily Kos",
+        "url": "https://www.dailykos.com/stories/2026/7/5/800065734/community/overnight-new-digest-july-5-2026/"
+      },
+      {
         "name": "Reuters",
-        "url": "https://www.reuters.com/video/watch/idRW479103072026RP1"
+        "url": "https://www.reuters.com/video/watch/idRW562306072026RP1/?chan=markets-now"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
-    "novelty": 60,
+    "novelty": 75,
     "confidence": 95,
-    "priorityReason": "米雇用統計の急減速とFRBの金利政策への影響を解説。",
-    "rankScore": 82,
-    "rankTier": "A",
-    "ageDays": 3,
+    "priorityReason": "AIブームを象徴する巨額の米国上場であり市場への影響が大きいため",
+    "rankScore": 87,
+    "rankTier": "S",
+    "ageDays": 1,
     "rank": 2,
     "summaryLevel": "deep"
   },
   {
-    "id": "news_004",
+    "id": "illinois-frontier-ai-law-20260706",
     "category": "Policy",
-    "title": "イラン最高指導者ハメネイ師の葬儀が執り行われる、後継者の姿はなく",
-    "date": "2026/07/04",
-    "summary": "亡くなったイランの最高指導者ハメネイ師の告別式がテヘランで行われ、ハメネイ師の3人の息子が参列しました。しかし、正式な後継者とされる人物は公の場に姿を現しませんでした。",
+    "title": "米イリノイ州知事、全米最強水準のフロンティアAI安全規制法案に署名",
+    "date": "2026/07/06",
+    "summary": "米イリノイ州のプリツカー知事は、最先端の「フロンティアAIモデル」を開発する企業に対し、破滅的リスクの評価や第三者監査、重大インシデントの72時間以内報告などを義務付ける厳格な安全対策法案に署名した。",
     "details": [
-      "イランの最高指導者アヤトラ・アリ・ハメネイ師の死去に伴い、テヘランで大規模な葬儀と告別式が執り行われ、ハメネイ師の3人の息子が参列して哀悼の意を表しました。一方で、権力移行の不透明さが指摘される中、ハメネイ師の後継者と目される人物が葬儀の場に姿を見せなかったことから、今後のイラン指導部における権力闘争や地政学的な不安定化への懸念が強まっています。"
+      "2026年7月6日、米イリノイ州のJ.B.プリツカー知事は、最先端のAIモデルを開発する企業に対して透明性と安全性の報告義務を課す「人工知能安全対策法（Artificial Intelligence Safety Measures Act）」に署名した。この法律は2027年1月1日に施行され、開発企業に対して破滅的リスクの評価・緩和、独立した第三者監査の受診、重大な安全インシデントの72時間以内の報告を義務付け、違反した場合は最大300万ドルの罰金が科さ…"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/video/watch/idRW514604072026RP1/"
+        "name": "Bloomberg Law News",
+        "url": "https://news.bloomberglaw.com/ip-law/illinois-governor-signs-nations-strongest-frontier-ai-model-law-23"
       }
     ],
     "importance": "high",
-    "socialImpact": 90,
+    "socialImpact": 80,
     "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "イラン最高指導者の死去に伴う政情不安と後継問題。",
+    "confidence": 90,
+    "priorityReason": "全米最強水準とされるAI安全規制法が成立し他州や企業へ影響するため",
     "rankScore": 78,
     "rankTier": "A",
-    "ageDays": 2,
+    "ageDays": 1,
     "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_004",
+    "id": "ornn-gpu-compute-commodity-20260706",
     "category": "Business",
-    "title": "トランプ政権とAnthropic、政府による株式取得の交渉を否定",
+    "title": "AI計算能力を「原油」のように取引する市場、米スタートアップOrnnが3300万ドル調達",
     "date": "2026/07/06",
-    "summary": "トランプ政権とAIスタートアップのAnthropicが、政府による同社株式の取得について議論を行っていないことが判明した。競合のOpenAIが政府への株式提供を検討しているとの報道を受け、注目が集まっていた。",
+    "summary": "Andreessen Horowitzが出資するスタートアップOrnnは、AI開発に不可欠なGPUの計算能力を原油のようなコモディティとして取引できる市場を構築するため、3,300万ドルのシード資金を調達した。",
     "details": [
-      "関係者の証言によると、トランプ政権とAnthropicは政府が同社の株式を取得する可能性について一切議論していない。先行してOpenAIのサム・アルトマンCEOが政府に5%の株式を提供する可能性を議論したと報じられたことから、他の主要AI企業への波及が懸念されていたが、現時点でAnthropicはそのような政治的介入の枠組みから距離を置いていることが示された。"
+      "2026年7月6日、米国のスタートアップOrnnが、AI開発の基盤となるGPUの計算能力（コンピュート）を、原油や金属のようなコモディティ（商品）として先物取引できる市場を構築するため、大手VCのAndreessen Horowitzなどから3,300万ドルのシード資金を調達したことが明らかになった。ゴールドマン・サックスの予測によれば、2026年から2031年までに世界で約7.6兆ドルがデータセンターや計算能力に投資される見込みであり、Ornnは価格変…"
+    ],
+    "sources": [
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/07/06/ornn-gpu-compute-commodity"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 85,
+    "confidence": 90,
+    "priorityReason": "AI計算能力を原油のように取引する斬新な金融市場の試みであるため",
+    "rankScore": 78,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 4,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "turing-amd-partnership-20260706",
+    "category": "Business",
+    "title": "自動運転スタートアップのTuring、AMDを投資家に迎えAIチップの利用を開始",
+    "date": "2026/07/06",
+    "summary": "完全自動運転車の開発を目指す東京のスタートアップTuringが、AMD Venturesからの出資を受け、AI学習用ハードウェアの一部をNvidia製からAMD製チップへ移行し始めたことが明らかになった。",
+    "details": [
+      "完全自動運転車両の開発を目指す東京のスタートアップ企業Turingは、AMDの投資部門であるAMD Venturesを新たな投資家として迎え、これまでNvidia製ハードウェアのみで構築していたAI学習ワークロードの約10%をAMD製AIアクセラレータへ移行し始めた。Nvidiaが圧倒的なシェアを誇るAI半導体市場において、スタートアップがコストや供給の観点からAMD製チップへの移行に踏み切ったことは、今後のチップサプライヤーの多様化や競争激化を象徴する…"
+    ],
+    "sources": [
+      {
+        "name": "Seeking Alpha",
+        "url": "https://seekingalpha.com/news/4611531-amd-backs-japanese-self-driving-startup-turing-expands-ai-partnership"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 75,
+    "confidence": 95,
+    "priorityReason": "日本の自動運転企業がNvidia依存から脱却を図る象徴的な動きのため",
+    "rankScore": 75,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 5,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news-20260706-anthropic",
+    "category": "Business",
+    "title": "米政府による株式保有の噂を否定、トランプ政権とAnthropicは協議せず",
+    "date": "2026/07/06",
+    "summary": "トランプ政権とAIスタートアップのAnthropicが、政府による同社株式の保有について協議を行っていないことが明らかになった。OpenAIでの同様の議論を受けた憶測を否定する形となった。",
+    "details": [
+      "ロイターの報道によると、トランプ政権とAnthropicは政府が同社の株式を取得することについて一切協議を行っていない。これは、OpenAIのサム・アルトマンCEOが連邦政府に株式を付与する可能性を議論したとの報道を受けて浮上した疑問に対するもので、関係者が噂を否定した。一方で、米商務省は安全上の懸念からAnthropicの最先端モデルに対して数週間前に輸出制限を課しており、政府とAI企業間の緊張は依然として続いている。"
     ],
     "sources": [
       {
@@ -97,170 +157,144 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
-    "novelty": 65,
+    "socialImpact": 65,
+    "novelty": 70,
     "confidence": 90,
-    "priorityReason": "国家によるAI企業への資本関与という新たな規制リスクの現状を示す。",
-    "rankScore": 77,
-    "rankTier": "A",
-    "ageDays": 0,
-    "rank": 4,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news_002",
-    "category": "Business",
-    "title": "AIエンジニア「Devin」が日本市場へ本格進出、労働力不足の救世主となるか",
-    "date": "2026/07/03",
-    "summary": "Cognition AIは日本市場への進出を本格化させ、AIソフトウェアエンジニア「Devin」の導入を推進しています。労働力不足とレガシーコードの課題を抱える日本で、劇的な効率化を実現しています。",
-    "details": [
-      "Cognition AIは、深刻なIT人材不足と老朽化したシステム（レガシーコード）の課題を抱える日本をアジア展開の最初の足がかりに選び、東京オフィスを開設しました。札幌市での実証実験では、100万行を超えるレガシーコードの近代化作業を、通常の4分の1の期間で完了させるなど、AIエージェントによる劇的な生産性向上が実証されており、日本の重要なインフラや政府機関での導入拡大が期待されています。"
-    ],
-    "sources": [
-      {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/07/03/devin-kun-cognition-ai-japan-russell-kaplan/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 85,
-    "confidence": 95,
-    "priorityReason": "日本の労働力不足を救うAIエージェントの導入事例。",
-    "rankScore": 77,
-    "rankTier": "A",
-    "ageDays": 3,
-    "rank": 5,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news_003",
-    "category": "Ethics",
-    "title": "プログラミング言語「Zig」、AI生成コードによる寄稿を全面的に禁止",
-    "date": "2026/07/05",
-    "summary": "オープンソースのプログラミング言語「Zig」開発プロジェクトは、LLMが生成・編集したコードや文章の寄稿を全面的に禁止した。AIによる低品質な提案が、限られた開発メンバーの査読時間を奪うのを防ぐためとしている。",
-    "details": [
-      "プログラミング言語「Zig」のソフトウェア財団は、大規模言語モデル（LLM）によって生成、書き換え、デバッグされたコードやコンテンツの寄稿を全面的に禁止する行動規範を定めた。代表のAndrew Kelley氏は、AIアシストによる提出物は「一貫してゴミ（garbage）」であり、少人数のコア開発チームが査読に追われることで「負の価値」しか生まないと指摘し、オープンソースコミュニティにおけるAI利用の是非に一石を投じた。"
-    ],
-    "sources": [
-      {
-        "name": "Let's Data Science",
-        "url": "https://letsdatascience.com/news/zig-bans-ai-generated-contributions-raises-tradeoffs-64f5f2d5"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "オープンソース開発におけるAI利用の限界と課題を浮き彫りにした。",
-    "rankScore": 76,
+    "priorityReason": "政府によるAI企業株保有の噂を否定",
+    "rankScore": 73,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 6,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_001",
-    "category": "Service",
-    "title": "豪司法省、Microsoft CopilotとGoogle NotebookLMを公認AIツールとして導入",
+    "id": "news-20260706-goldprice",
+    "category": "Economy",
+    "title": "金価格は底打ちか、米雇用減速によるFRB利上げ見送り観測で市場に変化",
     "date": "2026/07/06",
-    "summary": "オーストラリア司法省は、職員向けにMicrosoft Copilot ChatとGoogle NotebookLMを導入した。保護レベルのデータまで扱えるようポリシー上のガードレールを設定し、最終出力の確認は人間が行う…",
+    "summary": "サクソバンクは、米国のインフレ圧力緩和と6月の雇用者数大幅減速を受け、FRBが年内に利上げを行わないとの見方が強まったことで、金価格が底を打った可能性を指摘した。",
     "details": [
-      "オーストラリア司法省は、職員が安全に生成AIツールを活用できるよう、MicrosoftのCopilot ChatとGoogleのNotebookLMの2つのツールを公認した。機密性が「保護（protected）」レベルに達するデータまで処理可能とする一方、技術的な制限ではなくポリシーによるガードレールを設け、職員が自らの責任で出力結果を検証し、最終決定にAIを自動関与させない「ヒューマン・イン・ザ・ループ」の原則を義務付けている。"
+      "6月の米非農業部門雇用者数が予測を大幅に下回る5万7000人増にとどまったことで、市場ではFRBの追加利上げ観測が後退している。サクソバンクのハンセン氏は、インフレ期待の低下とエネルギー価格の下落を背景に、FRBが年内の利上げを見送ると予想しており、これによりドル高が保存され、金価格が回復基調に入る可能性を示唆した。"
     ],
     "sources": [
       {
-        "name": "iTnews",
-        "url": "https://www.itnews.com.au/news/attorney-generals-dept-backs-copilot-chat-google-notebooklm-627007"
+        "name": "KITCO",
+        "url": "https://www.kitco.com/news/article/2026-07-06/gold-price-may-have-found-its-floor-liquidation-gives-way-consolidation"
       }
     ],
     "importance": "high",
-    "socialImpact": 65,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "政府機関における生成AI導入の現実的なガイドラインを示すため。",
-    "rankScore": 75,
-    "rankTier": "A",
-    "ageDays": 0,
+    "socialImpact": 60,
+    "novelty": 65,
+    "confidence": 90,
+    "priorityReason": "米雇用減速に伴う金価格の底打ち予測",
+    "rankScore": 71,
+    "rankTier": "B",
+    "ageDays": 1,
     "rank": 7,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_003",
-    "category": "Model",
-    "title": "中国製AIモデルが脆弱性発見で躍進、米国製モデルを凌駕する性能を記録",
-    "date": "2026/07/03",
-    "summary": "中国企業が開発した新しいAIモデル「GLM 5.2」などが、脆弱性発見ベンチマークにおいて米国の主要モデルを上回る性能を示し、サイバーセキュリティ分野での米中技術競争が激化しています。",
+    "id": "news-20260704-aispending",
+    "category": "Economy",
+    "title": "7500億ドル規模のAIインフラ投資ラッシュ、NVIDIAやAlphabetなど大手への資金流入が加速",
+    "date": "2026/07/04",
+    "summary": "AIインフラへの支出が世界で7500億ドル規模に達する中、NVIDIAやAlphabet、Oracleなどのインフラ関連株への投資が加速している。各社の驚異的な決算が市場を牽引している。",
     "details": [
-      "中国のZhipu AIがリリースしたオープンウェイトモデル「GLM 5.2」が、脆弱性発見のベンチマークにおいてAnthropicのOpusやOpenAIのGPT-5.5を上回る性能を示し、1件あたりの発見コストもわずか0.17ドルに抑えられていることが明らかになりました。また、360 Security Technologyも「Tulongfeng」と呼ばれるセキュリティツールをリリースしており、中国製AIがサイバー防衛および攻撃の双方において米国の優位…"
+      "AIファクトリーの構築に向けたインフラ投資が「人類史上最大の規模」で加速しており、関連企業の業績を押し上げている。NVIDIAはデータセンター部門の売上高が前年同期比199%増となるなど驚異的な成長を維持し、AlphabetのGoogle Cloudもバックログが倍増して200億ドルを突破した。Oracleも1四半期で670億ドルのAIインフラ契約を獲得するなど、AIインフラ層を握る巨大IT企業への資金集中が顕著になっている。"
     ],
     "sources": [
       {
-        "name": "Dark Reading",
-        "url": "https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders"
+        "name": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/07/04/750-billion-ai-spending-wave-should-you-buy-these-3-ai-infrastructure-stocks/"
       }
     ],
     "importance": "high",
     "socialImpact": 75,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "中国製AIのサイバーセキュリティ能力の急速な進化。",
-    "rankScore": 75,
-    "rankTier": "A",
+    "novelty": 60,
+    "confidence": 85,
+    "priorityReason": "巨額のAIインフラ投資動向を解説",
+    "rankScore": 71,
+    "rankTier": "B",
     "ageDays": 3,
     "rank": 8,
     "summaryLevel": "standard"
   },
   {
-    "id": "news_005",
-    "category": "Business",
-    "title": "暗号資産マイニングのCipher Digital、114億ドルのAIデータセンター事業へ転換",
-    "date": "2026/07/05",
-    "summary": "元ビットコインマイニング企業のCipher Digitalが、AWSやFluidstackとの大口契約により、114億ドルのリース収入を確保し、AIデータセンターのインフラプロバイダーへと転身を遂げた。",
+    "id": "news-20260704-trump",
+    "category": "Policy",
+    "title": "米建国250周年式典でトランプ大統領が演説、国内の共産主義を激しく非難",
+    "date": "2026/07/04",
+    "summary": "アメリカ建国250周年の記念式典において、トランプ大統領が演説を行い、米国内における共産主義や左派的な思想の台頭を強く非難し、愛国主義的なメッセージを強調した。",
     "details": [
-      "暗号資産のマイニング事業を行っていたCipher Digitalは、AI需要の爆発的増加を背景に、AIデータセンターのホスティング事業者へと事業転換した。すでにAWSやFluidstackなどの大手テナントと計114億ドル規模の長期リース契約を締結しており、2027年以降に年間平均7億8700万ドルの純営業利益を見込むなど、インフラ需要を取り込んだビジネスモデルの再構築に成功している。"
+      "2026年7月4日の米国建国250周年という歴史的な節目において、トランプ大統領は記念式典の演説で国内の政治的対立を念頭に置き、共産主義的な動きを激しく批判した。この演説は、大統領選や今後の政権運営を見据え、自身の支持基盤である保守層の結束を固めるとともに、愛国心を煽ることでリベラル派への対抗姿勢を鮮明にする狙いがあるとみられる。"
     ],
     "sources": [
       {
-        "name": "Pluang",
-        "url": "https://pluang.com/en/news-feed/cipher-digital-dari-penambang-bitcoin-ke-pemilik-infrastruktur-ai"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 60,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "暗号資産からAIインフラへの事業転換の成功例として注目すべき。",
-    "rankScore": 73,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 9,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "news_005",
-    "category": "Model",
-    "title": "生成AIが創作時に特定の「11の単語」を多用する謎、研究で明らかに",
-    "date": "2026/07/05",
-    "summary": "生成AIに創作話を指示すると、異なるモデル間でも「灯台」や「エリアス」など特定の11単語が約90%の確率で使われる現象が判明し、AIの訓練データやアルゴリズムの画一性が浮き彫りになりました。",
-    "details": [
-      "新たな研究により、異なる大規模言語モデル（LLM）に創作話を生成させた際、ランダムな構成という前提に反して、「lighthouse（灯台）」や「Elias（エリアス）」といった特定の11個の名詞が約2万件のストーリーの9割近くで共通して使用されていることが明らかになりました。この「創発的文学バイアス」は、AI開発企業が類似したアルゴリズ…"
-    ],
-    "sources": [
-      {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/lanceeliot/2026/07/05/the-secret-of-why-these-eleven-words-are-prominently-included-when-you-ask-ai-to-write-a-creative-story/"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/video/watch/idRW506604072026RP1/"
       }
     ],
     "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 85,
+    "socialImpact": 70,
+    "novelty": 55,
     "confidence": 90,
-    "priorityReason": "生成AIの創造性の限界と画一化を示す興味深い研究。",
-    "rankScore": 67,
+    "priorityReason": "米建国250周年でのトランプ氏演説",
+    "rankScore": 62,
     "rankTier": "B",
+    "ageDays": 3,
+    "rank": 9,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "news-20260706-q2results",
+    "category": "Economy",
+    "title": "米主要企業の第2四半期決算は堅調な見通し、原油高によるマージン圧迫を注視",
+    "date": "2026/07/06",
+    "summary": "投資専門家は、インフレ懸念が続く中でも米主要企業の第2四半期決算は堅調に推移すると予想している。ただし、原油価格の上昇が企業の利益率に与える影響には警戒が必要だ。",
+    "details": [
+      "サミット・プレイス・フィナンシャル・アドバイザーズの創設者リズ・ミラー氏は、第2四半期の企業業績は全体として堅調な数字を維持するとの見通しを示した。しかし、投資家は今後の見通しにおいて、高止まりする原油価格が各社のマージン（利益率）にどのような影響を与えるか、企業側のコメントを慎重に見極めるべきだと警告している。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/video/watch/idRW562406072026RP1/?chan=markets-now"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 50,
+    "novelty": 45,
+    "confidence": 90,
+    "priorityReason": "米第2四半期決算と原油高の影響",
+    "rankScore": 57,
+    "rankTier": "C",
     "ageDays": 1,
     "rank": 10,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "news-20260704-starmer",
+    "category": "Policy",
+    "title": "辞任間近のスターマー英首相、後継者に対し「外交に割く時間は減らせない」と強調",
+    "date": "2026/07/04",
+    "summary": "辞任を表明しているイギリスのスターマー首相は、世界情勢が不安定化する中、後継の首相が内政に集中するために外交活動の時間を削減することは不可能であるとの見解を示した。",
+    "details": [
+      "スターマー首相はBBCのインタビューで、不安定さを増す世界において外交政策と国内政策は切り離せないものであると指摘した。自身の外交偏重に対する批判に対し、後継者が外交に費やす時間を減らすことはできないと反論し、次期首相候補とされるアンディ・バーナム氏が内政重視を掲げる中で、国際的な危機管理と外交の重要性を改めて強調した。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/uk/outgoing-uk-pm-starmer-says-successor-cannot-spend-less-time-foreign-affairs-2026-07-04/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 55,
+    "novelty": 50,
+    "confidence": 95,
+    "priorityReason": "英国の次期政権に向けた外交方針",
+    "rankScore": 57,
+    "rankTier": "C",
+    "ageDays": 3,
+    "rank": 11,
     "summaryLevel": "brief"
   }
 ]
