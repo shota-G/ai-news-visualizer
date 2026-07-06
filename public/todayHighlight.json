@@ -1,42 +1,42 @@
 [
   {
-    "id": "anthropic-mythos-return-20260705",
-    "category": "Policy",
-    "title": "一時禁止されたAnthropicの強力なAI「Mythos 5」が安全対策を強化して提供再開へ",
+    "id": "news_002",
+    "category": "Economy",
+    "title": "韓国、半導体ブームの特別税収で「未来対応基金」を創設へ",
     "date": "2026/07/05",
-    "summary": "米政府から一時提供を禁止されていたAnthropicの脆弱性検出AI「Mythos 5」が、安全対策の強化を経て一部の信頼された機関向けに提供再開。ジェイルブレイク対策の共通基準策定でも政府と連携する。",
+    "summary": "韓国政府は、半導体産業の好調による税収増を財源とする「未来対応基金」を設立する。この基金は、国家的な成長産業への投資や若者支援、拡大する経済的不平等の是正に充てられる計画だ。",
     "details": [
-      "米政府から一時的に提供を禁止されていたAnthropicの高度なサイバーセキュリティ脆弱性検出AIモデル「Mythos 5」が、安全対策を強化した上で、一部の信頼された米国機関向けに限定的にリリースされた。",
-      "本件は、国家安全保障に関わるフロンティアAIモデルの規制と実用化のバランスを示す重要な事例である。AIの悪用やジェイルブレイク（安全対策の回避）のリスクを管理しつつ、技術競争力を維持するための政府と民間企業の協調体制が試されている。",
-      "今後は、一般向けに安全対策を強化した「Fable 5」のリリースや、政府および主要テック企業（Amazon、Microsoft、Google等）が共同で進めるジェイルブレイクの深刻度評価基準の策定プロセスに注目が集まる。"
+      "韓国政府と与党は、半導体産業の活況によってもたらされた追加税収を活用し、長期的な国家競争力を高めるための「未来対応基金」を設立する方針を決定した。",
+      "半導体やAI、データセンターなどの先端技術分野への投資を強化すると同時に、若年層への支援や、産業の急成長に伴って深刻化する国内の経済的不平等の是正に財源を充てることで、持続可能な経済成長モデルの構築を目指す重要な政策転換である。",
+      "今後は、サムスン電子やSKハイニックスなどの民間投資と連携した30年スパンの国家戦略プロジェクトの具体化や、関連法案および予算の国会通過に向けた与野党の調整が注目される。"
     ],
     "sources": [
       {
-        "name": "AOL.com",
-        "url": "https://www.aol.com/articles/anthropic-mythos-ai-system-dangerous-102343879.html"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/south-korea-create-future-fund-chip-windfall-spur-growth-tackle-inequality-2026-07-05/"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
-    "novelty": 80,
+    "novelty": 75,
     "confidence": 95,
-    "priorityReason": "国家安全保障とAI規制の最前線を示す重要ニュースのため。",
-    "rankScore": 89,
+    "priorityReason": "半導体産業の利益を社会還元する国家基金の設立という先進的事例。",
+    "rankScore": 87,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "news_002",
+    "id": "news_001",
     "category": "Economy",
-    "title": "米6月雇用統計が5.7万人増と大幅下振れ、年内利上げ見送り観測強まる",
+    "title": "米6月雇用統計が大幅下振れ、FRB利上げ見送りの観測強まる",
     "date": "2026/07/03",
-    "summary": "米国の6月非農業部門雇用者数は前月比5万7000人増にとどまり、市場予想を大幅に下回った。専門家は、労働市場の減速により連邦準備制度理事会（Fed）が年内の利上げを見送る十分な余地ができたと分析している。",
+    "summary": "2026年6月の米非農業部門雇用者数が前月比5万7000人増と予想を大幅に下回り、市場ではFRBが年内の利上げを見送る十分な余地ができたとの見方が強まっています。",
     "details": [
-      "米国の6月非農業部門雇用者数がわずか5万7000人増にとどまり、市場予想を大幅に下回る結果となった。これにより、これまでの堅調な雇用拡大ペースが急減速していることが浮き彫りとなった。",
-      "この雇用統計の急減速は、インフレ抑制と景気後退回避のバランスを取る連邦準備制度理事会（Fed）の政策運営に決定的な影響を与える。市場では年内の追加利上げ観測が急速に後退し、金利据え置きや早期利下げへの期待が再燃している。",
-      "今後は、この雇用減速が一時的なものか、あるいは本格的な景気後退のシグナルであるかを見極めるため、次回以降のインフレ指標やFRB高官の発言、市場の金利織り込み度合いを注視する必要がある。"
+      "2026年6月の米非農業部門雇用者数の増加幅が5万7000人にとどまり、市場予想を大幅に下回る結果となりました。これを受けて、専門家からは米連邦準備理事会（FRB）が年内の追加利上げを見送る可能性が高いとの指摘が出ています。",
+      "雇用市場の急減速は、これまでの高金利政策が実体経済に浸透していることを示しており、過度なインフレ懸念を和らげる一方で、景気後退リスクへの警戒感を高めています。金融市場や為替相場への影響は必至です。",
+      "今後は、FRB高官の発言や次回会合に向けたインフレ指標の推移、および労働市場の冷え込みが一時的なものかどうかの見極めが焦点となります。"
     ],
     "sources": [
       {
@@ -45,24 +45,102 @@
       }
     ],
     "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 70,
+    "socialImpact": 85,
+    "novelty": 60,
     "confidence": 95,
-    "priorityReason": "米雇用統計の大幅下振れによる金融政策への影響が極めて大きいため。",
-    "rankScore": 85,
-    "rankTier": "S",
+    "priorityReason": "米雇用統計の急減速とFRBの金利政策への影響を解説。",
+    "rankScore": 82,
+    "rankTier": "A",
     "ageDays": 3,
     "rank": 2,
     "summaryLevel": "deep"
   },
   {
-    "id": "zig-bans-ai-code-20260705",
-    "category": "Ethics",
-    "title": "プログラミング言語「Zig」、AI生成コードの寄稿を全面禁止へ",
-    "date": "2026/07/05",
-    "summary": "プログラミング言語「Zig」の開発プロジェクトが、LLMで生成・編集されたコードやコンテンツの寄稿を全面的に禁止。AIアシストによる低品質な提案が、限られた査読者の時間を奪う「負の価値」を懸念したため。",
+    "id": "news_004",
+    "category": "Policy",
+    "title": "イラン最高指導者ハメネイ師の葬儀が執り行われる、後継者の姿はなく",
+    "date": "2026/07/04",
+    "summary": "亡くなったイランの最高指導者ハメネイ師の告別式がテヘランで行われ、ハメネイ師の3人の息子が参列しました。しかし、正式な後継者とされる人物は公の場に姿を現しませんでした。",
     "details": [
-      "プログラミング言語「Zig」のソフトウェア財団は、LLM（大規模言語モデル）によって生成、編集、またはデバッグされたコードやコンテンツの寄稿を全面的に禁止する方針を決定した。財団代表のアンドリュー・ケリー氏は、AIアシストによる投稿は「例外なくゴミ」であり、少数のコア開発者による査読時間を浪費させるため「負の価値」しかないと厳しく批判している。この決定は、オープンソースコミュニティにおけるAI利用の是非と、開発者の負担軽減に関する議論を呼んでいる。"
+      "イランの最高指導者アヤトラ・アリ・ハメネイ師の死去に伴い、テヘランで大規模な葬儀と告別式が執り行われ、ハメネイ師の3人の息子が参列して哀悼の意を表しました。一方で、権力移行の不透明さが指摘される中、ハメネイ師の後継者と目される人物が葬儀の場に姿を見せなかったことから、今後のイラン指導部における権力闘争や地政学的な不安定化への懸念が強まっています。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/video/watch/idRW514604072026RP1/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 90,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "イラン最高指導者の死去に伴う政情不安と後継問題。",
+    "rankScore": 78,
+    "rankTier": "A",
+    "ageDays": 2,
+    "rank": 3,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news_004",
+    "category": "Business",
+    "title": "トランプ政権とAnthropic、政府による株式取得の交渉を否定",
+    "date": "2026/07/06",
+    "summary": "トランプ政権とAIスタートアップのAnthropicが、政府による同社株式の取得について議論を行っていないことが判明した。競合のOpenAIが政府への株式提供を検討しているとの報道を受け、注目が集まっていた。",
+    "details": [
+      "関係者の証言によると、トランプ政権とAnthropicは政府が同社の株式を取得する可能性について一切議論していない。先行してOpenAIのサム・アルトマンCEOが政府に5%の株式を提供する可能性を議論したと報じられたことから、他の主要AI企業への波及が懸念されていたが、現時点でAnthropicはそのような政治的介入の枠組みから距離を置いていることが示された。"
+    ],
+    "sources": [
+      {
+        "name": "Let's Data Science",
+        "url": "https://letsdatascience.com/news/anthropic-and-white-house-have-not-discussed-stake-9fae1bab"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 65,
+    "confidence": 90,
+    "priorityReason": "国家によるAI企業への資本関与という新たな規制リスクの現状を示す。",
+    "rankScore": 77,
+    "rankTier": "A",
+    "ageDays": 0,
+    "rank": 4,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news_002",
+    "category": "Business",
+    "title": "AIエンジニア「Devin」が日本市場へ本格進出、労働力不足の救世主となるか",
+    "date": "2026/07/03",
+    "summary": "Cognition AIは日本市場への進出を本格化させ、AIソフトウェアエンジニア「Devin」の導入を推進しています。労働力不足とレガシーコードの課題を抱える日本で、劇的な効率化を実現しています。",
+    "details": [
+      "Cognition AIは、深刻なIT人材不足と老朽化したシステム（レガシーコード）の課題を抱える日本をアジア展開の最初の足がかりに選び、東京オフィスを開設しました。札幌市での実証実験では、100万行を超えるレガシーコードの近代化作業を、通常の4分の1の期間で完了させるなど、AIエージェントによる劇的な生産性向上が実証されており、日本の重要なインフラや政府機関での導入拡大が期待されています。"
+    ],
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/07/03/devin-kun-cognition-ai-japan-russell-kaplan/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 85,
+    "confidence": 95,
+    "priorityReason": "日本の労働力不足を救うAIエージェントの導入事例。",
+    "rankScore": 77,
+    "rankTier": "A",
+    "ageDays": 3,
+    "rank": 5,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news_003",
+    "category": "Ethics",
+    "title": "プログラミング言語「Zig」、AI生成コードによる寄稿を全面的に禁止",
+    "date": "2026/07/05",
+    "summary": "オープンソースのプログラミング言語「Zig」開発プロジェクトは、LLMが生成・編集したコードや文章の寄稿を全面的に禁止した。AIによる低品質な提案が、限られた開発メンバーの査読時間を奪うのを防ぐためとしている。",
+    "details": [
+      "プログラミング言語「Zig」のソフトウェア財団は、大規模言語モデル（LLM）によって生成、書き換え、デバッグされたコードやコンテンツの寄稿を全面的に禁止する行動規範を定めた。代表のAndrew Kelley氏は、AIアシストによる提出物は「一貫してゴミ（garbage）」であり、少人数のコア開発チームが査読に追われることで「負の価値」しか生まないと指摘し、オープンソースコミュニティにおけるAI利用の是非に一石を投じた。"
     ],
     "sources": [
       {
@@ -71,50 +149,50 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
-    "novelty": 85,
+    "socialImpact": 70,
+    "novelty": 80,
     "confidence": 90,
-    "priorityReason": "オープンソース開発におけるAI利用の倫理的境界を示す事例。",
-    "rankScore": 78,
+    "priorityReason": "オープンソース開発におけるAI利用の限界と課題を浮き彫りにした。",
+    "rankScore": 76,
     "rankTier": "A",
     "ageDays": 1,
-    "rank": 3,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "ai-native-startups-leaner-20260705",
-    "category": "Business",
-    "title": "AIネイティブ企業は従業員数が25%少ない、ハーバード大などが調査",
-    "date": "2026/07/05",
-    "summary": "ハーバード大学とINSEADの共同研究により、AIネイティブなスタートアップは従来の企業に比べて従業員規模が25%小さく、特にエントリーレベルの労働者や管理職の採用が少ないことが明らかになった。",
-    "details": [
-      "ハーバード・ビジネス・スクールとINSEADの研究チームが発表した調査によると、2020年から2024年に設立されたAIネイティブなスタートアップは、従来のスタートアップと比較して従業員数が平均25%少なく、組織構造がフラットであることが判明した。これらの企業はAIを活用して業務を自動化・拡張しており、少ない人員でも同等の資金調達額や評価額を維持している。この傾向は、今後の若手・エントリーレベルの雇用市場に大きな影響を与える可能性がある。"
-    ],
-    "sources": [
-      {
-        "name": "Business Insider",
-        "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "AIがもたらす雇用構造の変化と組織のフラット化を実証。",
-    "rankScore": 78,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 4,
+    "rank": 6,
     "summaryLevel": "standard"
   },
   {
     "id": "news_001",
-    "category": "Model",
-    "title": "中国製AIモデルが脆弱性発見で米国製を凌駕、サイバーセキュリティの脅威に",
-    "date": "2026/07/03",
-    "summary": "中国のZhipu AIが公開したGLM 5.2などの最新AIモデルが、脆弱性発見ベンチマークで米国の主要モデルを上回る性能を記録。サイバー攻撃者と防御者の格差を広げ、セキュリティ上の懸念が高まっている。",
+    "category": "Service",
+    "title": "豪司法省、Microsoft CopilotとGoogle NotebookLMを公認AIツールとして導入",
+    "date": "2026/07/06",
+    "summary": "オーストラリア司法省は、職員向けにMicrosoft Copilot ChatとGoogle NotebookLMを導入した。保護レベルのデータまで扱えるようポリシー上のガードレールを設定し、最終出力の確認は人間が行う…",
     "details": [
-      "中国のZhipu AIがリリースしたオープンウェイトモデル「GLM 5.2」が、脆弱性発見ベンチマークにおいて米AnthropicのOpusやOpenAIのGPT-5.5を上回る性能を示し、1件あたりの発見コストもわずか0.17ドルに抑えられていることが判明した。また、360 Security Technologyもセキュリティ特化型モデル「Tulongfeng（Dragon Saber）」を公開し、すでに3,400件以上の脆弱性を発見したと主張しており…"
+      "オーストラリア司法省は、職員が安全に生成AIツールを活用できるよう、MicrosoftのCopilot ChatとGoogleのNotebookLMの2つのツールを公認した。機密性が「保護（protected）」レベルに達するデータまで処理可能とする一方、技術的な制限ではなくポリシーによるガードレールを設け、職員が自らの責任で出力結果を検証し、最終決定にAIを自動関与させない「ヒューマン・イン・ザ・ループ」の原則を義務付けている。"
+    ],
+    "sources": [
+      {
+        "name": "iTnews",
+        "url": "https://www.itnews.com.au/news/attorney-generals-dept-backs-copilot-chat-google-notebooklm-627007"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 65,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "政府機関における生成AI導入の現実的なガイドラインを示すため。",
+    "rankScore": 75,
+    "rankTier": "A",
+    "ageDays": 0,
+    "rank": 7,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "news_003",
+    "category": "Model",
+    "title": "中国製AIモデルが脆弱性発見で躍進、米国製モデルを凌駕する性能を記録",
+    "date": "2026/07/03",
+    "summary": "中国企業が開発した新しいAIモデル「GLM 5.2」などが、脆弱性発見ベンチマークにおいて米国の主要モデルを上回る性能を示し、サイバーセキュリティ分野での米中技術競争が激化しています。",
+    "details": [
+      "中国のZhipu AIがリリースしたオープンウェイトモデル「GLM 5.2」が、脆弱性発見のベンチマークにおいてAnthropicのOpusやOpenAIのGPT-5.5を上回る性能を示し、1件あたりの発見コストもわずか0.17ドルに抑えられていることが明らかになりました。また、360 Security Technologyも「Tulongfeng」と呼ばれるセキュリティツールをリリースしており、中国製AIがサイバー防衛および攻撃の双方において米国の優位…"
     ],
     "sources": [
       {
@@ -123,76 +201,50 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
+    "socialImpact": 75,
     "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "中国製AIの脆弱性発見能力が米国製を凌駕した衝撃を伝えるため。",
-    "rankScore": 78,
+    "confidence": 90,
+    "priorityReason": "中国製AIのサイバーセキュリティ能力の急速な進化。",
+    "rankScore": 75,
     "rankTier": "A",
     "ageDays": 3,
-    "rank": 5,
+    "rank": 8,
     "summaryLevel": "standard"
   },
   {
-    "id": "south-korea-future-fund-20260705",
-    "category": "Economy",
-    "title": "韓国、半導体ブームの税収増を原資に「未来対応基金」を創設へ",
+    "id": "news_005",
+    "category": "Business",
+    "title": "暗号資産マイニングのCipher Digital、114億ドルのAIデータセンター事業へ転換",
     "date": "2026/07/05",
-    "summary": "韓国政府は、半導体産業の好調による税収増を活用し、成長産業への投資や若者支援、格差是正を目的とした「未来対応基金」を創設する。サムスンやSK Hynixなどの巨額投資と連携し、長期的な競争力を強化する。",
+    "summary": "元ビットコインマイニング企業のCipher Digitalが、AWSやFluidstackとの大口契約により、114億ドルのリース収入を確保し、AIデータセンターのインフラプロバイダーへと転身を遂げた。",
     "details": [
-      "韓国の李在明（イ・ジェミョン）政権は、半導体ブームによってもたらされた追加税収を原資とする「未来対応基金」を創設する方針を明らかにした。この基金は、国家的な主要成長産業への投資や、若者世代の支援、拡大する経済的格差の正義に充てられる。政府はサムスン電子やSK Hynixなどの民間企業による数百億ドル規模の半導体・AI・データセンター投資計画と連携し、今後30年を見据えた包括的な産業競争力の維持を目指す。"
+      "暗号資産のマイニング事業を行っていたCipher Digitalは、AI需要の爆発的増加を背景に、AIデータセンターのホスティング事業者へと事業転換した。すでにAWSやFluidstackなどの大手テナントと計114億ドル規模の長期リース契約を締結しており、2027年以降に年間平均7億8700万ドルの純営業利益を見込むなど、インフラ需要を取り込んだビジネスモデルの再構築に成功している。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/south-korea-create-future-fund-chip-windfall-spur-growth-tackle-inequality-2026-07-05/"
+        "name": "Pluang",
+        "url": "https://pluang.com/en/news-feed/cipher-digital-dari-penambang-bitcoin-ke-pemilik-infrastruktur-ai"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70,
-    "confidence": 90,
-    "priorityReason": "半導体好況を国家の長期成長と格差是正に還元する新政策。",
-    "rankScore": 77,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 6,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "nhs-app-ai-triage-20260704",
-    "category": "Service",
-    "title": "英NHS、公式アプリにAIトリアージ機能を導入し患者を最適に誘導",
-    "date": "2026/07/04",
-    "summary": "英国の国民保健サービス（NHS）は、公式アプリにAIトリアージ機能を導入。患者の質問回答に基づき、GP予約や薬局、救急など適切な医療サービスへ自動で振り分ける。2028年までに全ユーザーへ拡大予定。",
-    "details": [
-      "英国の国民保健サービス（NHS）は、公式アプリにAIを活用したトリアージ機能を導入すると発表した。患者がアプリ上で一連の質問に答えると、AIが症状の緊急度を判断し、GP（一般医）の予約、地元の薬局、救急外来（A&E）、または自己ケアの推奨など、最適な医療サービスへ直接誘導する。このアップデートは今後1年間で約20万人の患者に提供され、2028年4月までにすべてのアプリユーザーが利用可能になる予定で、医療現場の事務負担軽減と待ち時間短縮が期待されている。"
-    ],
-    "sources": [
-      {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
+    "socialImpact": 60,
     "novelty": 75,
     "confidence": 95,
-    "priorityReason": "医療の効率化と患者の利便性を高める大規模なAI社会実装。",
-    "rankScore": 77,
+    "priorityReason": "暗号資産からAIインフラへの事業転換の成功例として注目すべき。",
+    "rankScore": 73,
     "rankTier": "A",
-    "ageDays": 2,
-    "rank": 7,
+    "ageDays": 1,
+    "rank": 9,
     "summaryLevel": "standard"
   },
   {
-    "id": "ai-creative-writing-mystery-20260705",
+    "id": "news_005",
     "category": "Model",
-    "title": "生成AIが小説を書く際、特定の「11個の単語」を異常に多用する謎が判明",
+    "title": "生成AIが創作時に特定の「11の単語」を多用する謎、研究で明らかに",
     "date": "2026/07/05",
-    "summary": "最新の研究により、複数の異なる生成AIモデルが創作小説を書く際、「灯台」や「エリアス」など特定の11個の単語を約90%の確率で頻出させることが判明。共通の学習データや調整手法によるバイアス…",
+    "summary": "生成AIに創作話を指示すると、異なるモデル間でも「灯台」や「エリアス」など特定の11単語が約90%の確率で使われる現象が判明し、AIの訓練データやアルゴリズムの画一性が浮き彫りになりました。",
     "details": [
-      "学術研究により、異なる開発元が提供する複数のLLM（大規模言語モデル）が、創作小説の執筆を求められた際に「灯台（lighthouse）」や「エリアス（Elias）」といった特定の11個の名詞を極めて高い確率（約90%）で共通して使用するパターンが発見された。この現象は、AIが完全にランダムに物語を生成しているわけではなく、開発各社が類似…"
+      "新たな研究により、異なる大規模言語モデル（LLM）に創作話を生成させた際、ランダムな構成という前提に反して、「lighthouse（灯台）」や「Elias（エリアス）」といった特定の11個の名詞が約2万件のストーリーの9割近くで共通して使用されていることが明らかになりました。この「創発的文学バイアス」は、AI開発企業が類似したアルゴリズ…"
     ],
     "sources": [
       {
@@ -204,11 +256,11 @@
     "socialImpact": 60,
     "novelty": 85,
     "confidence": 90,
-    "priorityReason": "AIの出力に潜む共通のバイアスと限界を浮き彫りにした研究。",
+    "priorityReason": "生成AIの創造性の限界と画一化を示す興味深い研究。",
     "rankScore": 67,
     "rankTier": "B",
     "ageDays": 1,
-    "rank": 8,
+    "rank": 10,
     "summaryLevel": "brief"
   }
 ]
