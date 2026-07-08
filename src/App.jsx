@@ -12,25 +12,51 @@ const Categories = {
   Entertainment: { label: 'エンタメ', icon: Zap, color: 'text-pink-600', bg: 'bg-pink-50', border: 'border-pink-600', accent: 'bg-pink-500' }
 };
 
+// §4.3 排他バケット。境界は GAS §4.2 と完全一致（3d:0-3 / 3w:4-21 / 3m:22-90）。
+// 「すべて」だけは横断表示用に残す。
 const TimeRanges = {
-  '3days': { label: '直近3日', days: 3 },
-  '3weeks': { label: '直近3週間', days: 21 },
-  '3months': { label: '直近3ヶ月', days: 90 },
-  'all': { label: 'すべて', days: 9999 }
+  '3d':  { label: '直近3日', min: 0,  max: 3 },
+  '3w':  { label: '3週間',  min: 4,  max: 21 },
+  '3m':  { label: '3か月',  min: 22, max: 90 },
+  'all': { label: 'すべて', min: 0,  max: 9999 }
+};
+
+// §4.3 保存済み ageDays は信用せず、date から JST基準で age を動的計算する。
+// date は GAS が Asia/Tokyo で "YYYY/MM/DD" 出力しているので、その暦日をそのまま JST日番号として扱う。
+// これでブラウザのタイムゾーンに左右されず、GAS §4.2 の
+//   Math.floor((今日0時JST − 記事0時JST) / 86400000)
+// と同じ結果になる。
+const jstTodayDayNumber = () => {
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Tokyo', year: 'numeric', month: '2-digit', day: '2-digit'
+  }).format(new Date()).split('-');
+  return Math.floor(Date.UTC(+parts[0], +parts[1] - 1, +parts[2]) / 86400000);
+};
+
+const articleDayNumber = (newsDate) => {
+  const m = String(newsDate || '').match(/(\d{4})[\/-](\d{1,2})[\/-](\d{1,2})/);
+  if (!m) return null;
+  return Math.floor(Date.UTC(+m[1], +m[2] - 1, +m[3]) / 86400000);
+};
+
+const ageInDaysJST = (newsDate) => {
+  const dn = articleDayNumber(newsDate);
+  if (dn == null) return null;
+  return jstTodayDayNumber() - dn;
 };
 
 export default function AIInfoGraphic() {
   const [selectedNews, setSelectedNews] = useState(null);
   const [activeCategory, setActiveCategory] = useState('All');
-  const [activeTimeRange, setActiveTimeRange] = useState('3weeks'); 
-  
+  const [activeTimeRange, setActiveTimeRange] = useState('all');
+
   const [archiveData, setArchiveData] = useState([]);
   const [todayHighlights, setTodayHighlights] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     const timestamp = new Date().getTime();
-    
+
     // publicフォルダ直下の2つのファイルを並列でロード！常にキャッシュをぶち破る。
     Promise.all([
       fetch(`/newsData.json?t=${timestamp}`).then(res => res.ok ? res.json() : []),
@@ -52,20 +78,17 @@ export default function AIInfoGraphic() {
     return [...todayHighlights].sort((a, b) => new Date(b.date) - new Date(a.date));
   }, [todayHighlights]);
 
-  const latestDateInDb = sortedArchive.length > 0 ? new Date(sortedArchive[0].date) : new Date();
-
-  // 過去3ヶ月のアーカイブフィルタリング
+  // §4.3 保存 ageDays に依存せず、表示時に date から age を再計算して排他バケット判定する。
   const filteredArchive = useMemo(() => {
+    const range = TimeRanges[activeTimeRange] || TimeRanges['all'];
     return sortedArchive.filter(news => {
       const matchCategory = activeCategory === 'All' || news.category === activeCategory;
-      const newsDate = new Date(news.date);
-      if (isNaN(newsDate.getTime())) return matchCategory;
-
-      const diffTime = Math.abs(latestDateInDb - newsDate);
-      const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-      return matchCategory && (diffDays <= TimeRanges[activeTimeRange].days);
+      if (!matchCategory) return false;
+      const age = ageInDaysJST(news.date);
+      if (age == null) return false; // 日付不明は非表示
+      return age >= range.min && age <= range.max;
     });
-  }, [sortedArchive, activeCategory, activeTimeRange, latestDateInDb]);
+  }, [sortedArchive, activeCategory, activeTimeRange]);
 
   const getImportanceBadge = (importance) => {
     switch (importance) {
@@ -83,14 +106,14 @@ export default function AIInfoGraphic() {
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-start md:items-center gap-6 relative z-10">
           <div>
              <span className="inline-flex items-center gap-1.5 px-3 py-1 bg-blue-500/10 text-blue-400 text-xs font-bold rounded-full border border-blue-500/20 mb-3 uppercase tracking-wider">
-                <Cpu className="h-3 w-3 animate-spin" /> Intelligent Dual-Stream Engine V4
+                <Cpu className="h-3 w-3 animate-spin" /> Intelligent Dual-Stream Engine V5.2
              </span>
              <h1 className="text-4xl md:text-5xl font-black tracking-tight bg-gradient-to-r from-white via-slate-100 to-slate-400 bg-clip-text text-transparent">
                AI & Global News <span className="text-blue-500 font-extrabold">Visualizer</span>
              </h1>
           </div>
           <div className="text-slate-400 text-xs max-w-xs border-l-2 border-blue-500 pl-4 py-1">
-             毎朝6:00自律更新。今日だけの「特選ハイライト」と、過去3ヶ月をマクロに見る「トレンドアーカイブ」の2層構造。
+             毎朝7:05自律更新。今日だけの「特選ハイライト」と、過去3ヶ月をマクロに見る「トレンドアーカイブ」の2層構造。
           </div>
         </div>
       </div>
@@ -140,7 +163,7 @@ export default function AIInfoGraphic() {
               <h2 className="text-lg font-black tracking-widest text-blue-400 flex items-center gap-2 uppercase">
                 <Database className="h-5 w-5" /> 3-Month Trend Archive
               </h2>
-              
+
               {/* Controls */}
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 bg-slate-900/40 p-3 rounded-2xl border border-slate-800/80">
                 <div className="flex flex-wrap gap-1.5 items-center">
@@ -259,7 +282,7 @@ export default function AIInfoGraphic() {
           </div>
         );
       })()}
-      
+
       <style dangerouslySetInnerHTML={{__html: `
         .custom-scrollbar::-webkit-scrollbar { width: 6px; }
         .custom-scrollbar::-webkit-scrollbar-track { background: #020617; }
