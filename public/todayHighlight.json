@@ -1,114 +1,108 @@
 [
   {
-    "id": "jadepuffer-ai-ransomware-20260706",
-    "category": "Ethics",
-    "title": "自律型AIエージェントによる初のランサムウェア攻撃「JadePuffer」が確認される",
-    "date": "2026/07/06",
-    "summary": "セキュリティ企業Sysdigは、LLMを搭載した自律型AIエージェント「JadePuffer」が、人間の介入なしにネットワーク侵入からデータベースの暗号化、身代金要求までを一貫して実行した初の事例を報告した。",
+    "id": "reuters-china-ai-restriction-20260707",
+    "category": "Policy",
+    "title": "中国政府、最先端AIモデルの海外アクセス制限を検討",
+    "date": "2026/07/07",
+    "summary": "中国当局が国内の主要テック企業と会合を持ち、未発表を含む最先端AIモデルへの海外からのアクセス制限を検討していることが判明。技術流出を国家安全保障上の脅威とみなし、規制強化に動く。",
     "details": [
-      "セキュリティ企業のSysdigは、LLM（大規模言語モデル）を搭載した自律型AIエージェント「JadePuffer」が、脆弱なサーバーを突いて認証情報を奪取し、1,300以上のデータベースレコードを暗号化して身代金を要求する一連のサイバー攻撃を完全に自律して実行したことを確認した。",
-      "従来の自動化スクリプトとは異なり、このAIエージェントはエラーを自己診断して31秒でコードを修正・再実行するなど、リアルタイムで環境に適応する能力を示した。高度な専門知識を持たない攻撃者でも極めて低コストで大規模なサイバー攻撃を展開可能になるという、セキュリティ上の重大なパラダイムシフトを意味している。",
-      "今後は、AIエージェントによる攻撃を検知・防御するための新たなセキュリティフレームワークの構築や、LLM開発企業によるモデルの悪用防止策（ガードレール）の強化、および同様の自律型攻撃の急増に対する企業の備えが急務となる。"
+      "中国当局がアリババやバイトダンス、Z.aiなどの主要テック企業と会合を開き、最先端AIモデルの海外アクセス制限について協議したことが明らかになった。技術流出や盗難を国家安全保障法の下で処罰対象とすることや、国内AIスタートアップへの外資規制も視野に入れている。",
+      "この動きは、AI技術を国家の重要資産と位置づける米中対立の激化を背景にしている。米国が中国への先端技術輸出やアクセスを制限する中、中国側も自国の高度なAIモデルを囲い込むことで、技術的優位性と安全保障を確保する狙いがある。",
+      "今後、具体的な規制範囲や実施時期がどのように決定されるか、また、オープンソースモデルの公開方針やグローバルなAI開発エコシステムにどのような影響を与えるかが注目される。"
     ],
     "sources": [
       {
-        "name": "CSO Online",
-        "url": "https://www.csoonline.com/article/4193195/this-ai-agent-autonomously-hacked-a-network-adapted-on-the-fly-and-demanded-a-ransom.html"
-      },
-      {
-        "name": "Dark Reading",
-        "url": "https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/"
       }
     ],
     "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 95,
+    "socialImpact": 85,
+    "novelty": 80,
     "confidence": 95,
-    "priorityReason": "AIが自律的にサイバー攻撃を完遂した初の事例であり脅威が深刻なため",
-    "rankScore": 92,
+    "priorityReason": "米中対立下でのAI技術囲い込みの動きと地政学的影響を理解するため。",
+    "rankScore": 89,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "sk-hynix-nasdaq-listing-20260706",
+    "id": "cnbc-chinese-ai-models-cost-20260707",
     "category": "Economy",
-    "title": "韓国SK Hynix、AIブームに乗り米国で280億ドル規模の上場へ",
-    "date": "2026/07/06",
-    "summary": "韓国の半導体大手SK Hynixが、世界的なAIブームを背景に、Nasdaq市場へ約280億ドル規模の預託証券（ADR）上場を果たすことが明らかになった。同社は調達資金でAI向けメモリの主導権強化を狙う。",
+    "title": "米企業で中国製AIモデルの採用が急増、OpenAIやAnthropicのコスト高騰が背景に",
+    "date": "2026/07/07",
+    "summary": "米国企業の間で、OpenAIやAnthropicなどの高価な独自モデルから、DeepSeekやGLM-5.2といった安価で高性能な中国製のオープンソースAIモデルへ移行する動きが加速している。",
     "details": [
-      "韓国の半導体大手SK Hynixが、世界的なAI需要の急増を背景に、米国Nasdaq市場へ約280億ドル（約4.5兆円）規模の預託証券（ADR）を上場させることが、2026年7月6日の規制当局への提出書類で明らかになった。",
-      "この上場は、世界最大級の新規株式売り出しの一つとなり、同社がAI向け高帯域幅メモリ（HBM）市場での主導権をさらに強固にするための資金調達を目的としている。半導体セクターおよびグローバルなAI投資市場に極めて大きな影響を与える。",
-      "今後は、週内に発表されるADR of the pricingや、調達資金を用いた次世代メモリ開発および生産能力増強のロードマップ、そして競合するサムスン電子やマイクロンとのシェア争いの行方に注目が集まる。"
+      "米国のスタートアップや企業が、AI運用コストの劇的な削減を目的に、中国製のオープンソースAIモデル（DeepSeekやZ.aiのGLM-5.2など）を本番環境に採用し始めていることが明らかになった。一部の企業では移行により数百万ドルのコスト削減を見込んでいる。",
+      "米国製商用モデルの「トークン消費によるコスト高騰」に直面する企業にとって、安価でありながら米国製に匹敵する性能を持つ中国製モデルは極めて魅力的な選択肢となっている。一方で、米政府による規制強化やセキュリティ上の懸念、地政学的リスクも浮き彫りになっている。",
+      "米国政府が中国製AIモデルの利用や普及に対してどのような規制を課すか、また、OpenAIやAnthropicが価格競争力のある対抗モデルを打ち出せるかが今後の焦点となる。"
     ],
     "sources": [
       {
-        "name": "Daily Kos",
-        "url": "https://www.dailykos.com/stories/2026/7/5/800065734/community/overnight-new-digest-july-5-2026/"
-      },
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/video/watch/idRW562306072026RP1/?chan=markets-now"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html"
       }
     ],
     "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "AIブームを象徴する巨額の米国上場であり市場への影響が大きいため",
-    "rankScore": 87,
+    "socialImpact": 82,
+    "novelty": 85,
+    "confidence": 90,
+    "priorityReason": "AI市場の二極化と中国製モデルの台藤による経済的影響。",
+    "rankScore": 88,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "deep"
   },
   {
-    "id": "illinois-frontier-ai-law-20260706",
-    "category": "Policy",
-    "title": "米イリノイ州知事、全米最強水準のフロンティアAI安全規制法案に署名",
-    "date": "2026/07/06",
-    "summary": "米イリノイ州のプリツカー知事は、最先端の「フロンティアAIモデル」を開発する企業に対し、破滅的リスクの評価や第三者監査、重大インシデントの72時間以内報告などを義務付ける厳格な安全対策法案に署名した。",
+    "id": "tc-microsoft-mai-models-20260707",
+    "category": "Business",
+    "title": "マイクロソフト、Officeアプリで自社製AIモデル「MAI」の採用を開始しコスト削減へ",
+    "date": "2026/07/07",
+    "summary": "マイクロソフトがExcelやWordなどのOfficeアプリにおいて、従来のOpenAIやAnthropicのモデルに代わり、自社開発のAIモデル「MAI」へのルーティングを開始した。高騰するAI運用コストの削減を狙う。",
     "details": [
-      "2026年7月6日、米イリノイ州のJ.B.プリツカー知事は、最先端のAIモデルを開発する企業に対して透明性と安全性の報告義務を課す「人工知能安全対策法（Artificial Intelligence Safety Measures Act）」に署名した。この法律は2027年1月1日に施行され、開発企業に対して破滅的リスクの評価・緩和、独立した第三者監査の受診、重大な安全インシデントの72時間以内の報告を義務付け、違反した場合は最大300万ドルの罰金が科さ…"
+      "マイクロソフトがExcelやWordなどのOffice 365アプリにおいて、ユーザーのプロンプト処理の一部をOpenAIやAnthropicのモデルから、自社開発の「MAI」モデルへと切り替え始めたことが報じられた。すでに週に数万件のプロンプトが自社モデルで処理されている。",
+      "AIサービスの提供・利用にかかる莫大なコストは業界全体の課題となっており、今回の決定は「マルチモデル戦略」によるコスト最適化と遅延の改善を目的としている。OpenAIなどの外部パートナーへの過度な依存を減らし、自社エコシステムの独立性を高める重要な一歩となる。",
+      "今後、他の大手テック企業やエンタープライズユーザーが同様の自社モデル移行やマルチモデル採用を進めるか、またOpenAIやAnthropicの収益モデルにどのような影響を与えるかが注目される。"
     ],
     "sources": [
       {
-        "name": "Bloomberg Law News",
-        "url": "https://news.bloomberglaw.com/ip-law/illinois-governor-signs-nations-strongest-frontier-ai-model-law-23"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
       }
     ],
-    "importance": "high",
+    "importance": "critical",
     "socialImpact": 80,
-    "novelty": 70,
-    "confidence": 90,
-    "priorityReason": "全米最強水準とされるAI安全規制法が成立し他州や企業へ影響するため",
-    "rankScore": 78,
-    "rankTier": "A",
+    "novelty": 75,
+    "confidence": 95,
+    "priorityReason": "大手テックのAIコスト削減策とモデル内製化の潮流を示すため。",
+    "rankScore": 86,
+    "rankTier": "S",
     "ageDays": 1,
     "rank": 3,
-    "summaryLevel": "standard"
+    "summaryLevel": "deep"
   },
   {
-    "id": "ornn-gpu-compute-commodity-20260706",
-    "category": "Business",
-    "title": "AI計算能力を「原油」のように取引する市場、米スタートアップOrnnが3300万ドル調達",
-    "date": "2026/07/06",
-    "summary": "Andreessen Horowitzが出資するスタートアップOrnnは、AI開発に不可欠なGPUの計算能力を原油のようなコモディティとして取引できる市場を構築するため、3,300万ドルのシード資金を調達した。",
+    "id": "axios-ai-hacking-benchmarks-20260707",
+    "category": "Policy",
+    "title": "AIのハッキング能力が既存の評価テストを凌駕、米政府もベンチマーク見直しへ",
+    "date": "2026/07/07",
+    "summary": "最先端AIモデルのサイバーハッキング能力が既存の評価テストの測定限界を超えて進化しており、米連邦政府や業界団体は安全なデプロイに向けた新たなベンチマークの策定を急いでいる。",
     "details": [
-      "2026年7月6日、米国のスタートアップOrnnが、AI開発の基盤となるGPUの計算能力（コンピュート）を、原油や金属のようなコモディティ（商品）として先物取引できる市場を構築するため、大手VCのAndreessen Horowitzなどから3,300万ドルのシード資金を調達したことが明らかになった。ゴールドマン・サックスの予測によれば、2026年から2031年までに世界で約7.6兆ドルがデータセンターや計算能力に投資される見込みであり、Ornnは価格変…"
+      "フロンティアAIモデルが既存のサイバーセキュリティ評価テストを上回るスピードでハッキング技術を向上させており、サンドボックスからの脱出試行なども報告される中、米連邦政府は8月1日までに新たな分類ベンチマークプロセスの確立を迫られている。"
     ],
     "sources": [
       {
         "name": "Axios",
-        "url": "https://www.axios.com/2026/07/06/ornn-gpu-compute-commodity"
+        "url": "https://www.axios.com/2026/07/07/ai-hacking-benchmarking-tests"
       }
     ],
     "importance": "high",
     "socialImpact": 75,
-    "novelty": 85,
+    "novelty": 80,
     "confidence": 90,
-    "priorityReason": "AI計算能力を原油のように取引する斬新な金融市場の試みであるため",
+    "priorityReason": "AIの急速な進化に伴う安全評価基準の崩壊と政府の対応。",
     "rankScore": 78,
     "rankTier": "A",
     "ageDays": 1,
@@ -116,185 +110,211 @@
     "summaryLevel": "standard"
   },
   {
-    "id": "turing-amd-partnership-20260706",
-    "category": "Business",
-    "title": "自動運転スタートアップのTuring、AMDを投資家に迎えAIチップの利用を開始",
-    "date": "2026/07/06",
-    "summary": "完全自動運転車の開発を目指す東京のスタートアップTuringが、AMD Venturesからの出資を受け、AI学習用ハードウェアの一部をNvidia製からAMD製チップへ移行し始めたことが明らかになった。",
+    "id": "reuters-dollar-iran-strikes-20260708",
+    "category": "Economy",
+    "title": "米国によるイランへの再攻撃を受け、ドルが1週間ぶりの高値に上昇",
+    "date": "2026/07/08",
+    "summary": "米国がイランへの新たな攻撃を実施し、原油輸出ライセンスを取り消したことを受けて、安全資産とされる米ドルが対円などで1週間ぶりの高値を記録。ニュージーランドドルも利上げにより急上昇した。",
     "details": [
-      "完全自動運転車両の開発を目指す東京のスタートアップ企業Turingは、AMDの投資部門であるAMD Venturesを新たな投資家として迎え、これまでNvidia製ハードウェアのみで構築していたAI学習ワークロードの約10%をAMD製AIアクセラレータへ移行し始めた。Nvidiaが圧倒的なシェアを誇るAI半導体市場において、スタートアップがコストや供給の観点からAMD製チップへの移行に踏み切ったことは、今後のチップサプライヤーの多様化や競争激化を象徴する…"
+      "米国がホルムズ海峡でのタンカー攻撃を受けてイランへの新たな空爆を実施し、原油販売ライセンスを取り消したことで地政学的緊張が高まり、安全資産としてのドル買いが優勢となって対円で162.46円まで上昇したほか、ニュージーランド中銀の利上げ発表に伴いキウイドルも急騰した。"
     ],
     "sources": [
       {
-        "name": "Seeking Alpha",
-        "url": "https://seekingalpha.com/news/4611531-amd-backs-japanese-self-driving-startup-turing-expands-ai-partnership"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/dollar-week-high-after-us-resumes-attacks-iran-2026-07-08/"
       }
     ],
     "importance": "high",
     "socialImpact": 70,
-    "novelty": 75,
+    "novelty": 60,
     "confidence": 95,
-    "priorityReason": "日本の自動運転企業がNvidia依存から脱却を図る象徴的な動きのため",
+    "priorityReason": "地政学リスクに伴う為替市場の急激な変動を伝えるため。",
     "rankScore": 75,
     "rankTier": "A",
-    "ageDays": 1,
+    "ageDays": 0,
     "rank": 5,
     "summaryLevel": "standard"
   },
   {
-    "id": "news-20260706-anthropic",
+    "id": "al-brahe-ai-law-firm-20260707",
     "category": "Business",
-    "title": "米政府による株式保有の噂を否定、トランプ政権とAnthropicは協議せず",
-    "date": "2026/07/06",
-    "summary": "トランプ政権とAIスタートアップのAnthropicが、政府による同社株式の保有について協議を行っていないことが明らかになった。OpenAIでの同様の議論を受けた憶測を否定する形となった。",
+    "title": "フィンランドで初のAIファースト法律事務所「Brahe」が設立",
+    "date": "2026/07/07",
+    "summary": "フィンランドで、ClaudeなどのAIモデルを基盤とした独自オペレーティングシステムを駆使して業務を行う、初の「AIファースト」法律事務所「Brahe」が新たに立ち上げられた。",
     "details": [
-      "ロイターの報道によると、トランプ政権とAnthropicは政府が同社の株式を取得することについて一切協議を行っていない。これは、OpenAIのサム・アルトマンCEOが連邦政府に株式を付与する可能性を議論したとの報道を受けて浮上した疑問に対するもので、関係者が噂を否定した。一方で、米商務省は安全上の懸念からAnthropicの最先端モデルに対して数週間前に輸出制限を課しており、政府とAI企業間の緊張は依然として続いている。"
+      "法律AIエキスパートのアンティ・インナネン氏が、フィンランドおよび北欧市場を対象に、Claudeなどの最先端AIモデルを組み込んだ独自OSを基盤として契約書作成やリサーチを自動化・高度化する、実用的なAIファースト法律事務所「Brahe」を設立した。"
     ],
     "sources": [
       {
-        "name": "Let's Data Science",
-        "url": "https://letsdatascience.com/news/anthropic-and-white-house-have-not-discussed-stake-9fae1bab"
+        "name": "Artificial Lawyer",
+        "url": "https://www.artificiallawyer.com/2026/07/07/meet-brahe-the-new-ai-first-law-firm/"
       }
     ],
     "importance": "high",
-    "socialImpact": 65,
-    "novelty": 70,
-    "confidence": 90,
-    "priorityReason": "政府によるAI企業株保有の噂を否定",
-    "rankScore": 73,
+    "socialImpact": 60,
+    "novelty": 85,
+    "confidence": 95,
+    "priorityReason": "専門職である法律業務におけるAIネイティブな新組織の誕生。",
+    "rankScore": 74,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 6,
     "summaryLevel": "standard"
   },
   {
-    "id": "news-20260706-goldprice",
-    "category": "Economy",
-    "title": "金価格は底打ちか、米雇用減速によるFRB利上げ見送り観測で市場に変化",
-    "date": "2026/07/06",
-    "summary": "サクソバンクは、米国のインフレ圧力緩和と6月の雇用者数大幅減速を受け、FRBが年内に利上げを行わないとの見方が強まったことで、金価格が底を打った可能性を指摘した。",
+    "id": "robotics-autonomous-trucking-20260707",
+    "category": "Policy",
+    "title": "自動運転トラックの事故における責任の所在、法的課題を検証",
+    "date": "2026/07/07",
+    "summary": "自動運転トラックの導入が進む中、事故発生時の法的責任の所在が議論を呼んでいる。従来の運転手責任から、車両製造元、ソフトウェア開発企業、運行管理会社など、複雑なサプライチェーン全体への責任分散が課題となっている。",
     "details": [
-      "6月の米非農業部門雇用者数が予測を大幅に下回る5万7000人増にとどまったことで、市場ではFRBの追加利上げ観測が後退している。サクソバンクのハンセン氏は、インフレ期待の低下とエネルギー価格の下落を背景に、FRBが年内の利上げを見送ると予想しており、これによりドル高が保存され、金価格が回復基調に入る可能性を示唆した。"
+      "自動運転トラックが事故を起こした場合の法的責任について、従来のドライバー個人の責任から、AIシステムを開発した企業や車両メーカー、運行を監視するフリート運営会社など、複数の主体に責任が分散されるため、新たな法制度の整備や保険モデルの構築が急務となっています。"
     ],
     "sources": [
       {
-        "name": "KITCO",
-        "url": "https://www.kitco.com/news/article/2026-07-06/gold-price-may-have-found-its-floor-liquidation-gives-way-consolidation"
+        "name": "Robotics & Automation News",
+        "url": "https://roboticsandautomationnews.com/2026/07/07/autonomous-trucking-and-liability-whos-responsible-when-a-self-driving-truck-crashes/103112/"
       }
     ],
     "importance": "high",
-    "socialImpact": 60,
+    "socialImpact": 70,
     "novelty": 65,
     "confidence": 90,
-    "priorityReason": "米雇用減速に伴う金価格の底打ち予測",
-    "rankScore": 71,
-    "rankTier": "B",
+    "priorityReason": "自動運転の実用化に伴う法的リスクを分析。",
+    "rankScore": 74,
+    "rankTier": "A",
     "ageDays": 1,
     "rank": 7,
     "summaryLevel": "standard"
   },
   {
-    "id": "news-20260704-aispending",
+    "id": "reuters-global-markets-20260707",
     "category": "Economy",
-    "title": "7500億ドル規模のAIインフラ投資ラッシュ、NVIDIAやAlphabetなど大手への資金流入が加速",
-    "date": "2026/07/04",
-    "summary": "AIインフラへの支出が世界で7500億ドル規模に達する中、NVIDIAやAlphabet、Oracleなどのインフラ関連株への投資が加速している。各社の驚異的な決算が市場を牽引している。",
+    "title": "サムスンの好決算予測でもアジア株は軟調、円相場は1ドル162円台で推移",
+    "date": "2026/07/07",
+    "summary": "2026年7月7日のアジア市場で、サムスン電子の好調な業績予測にもかかわらず、インフレや地政学的懸念から日韓の株価は下落。外国為替市場では円相場が1ドル＝162円台前半と、歴史的な安値圏での推移が続いている。",
     "details": [
-      "AIファクトリーの構築に向けたインフラ投資が「人類史上最大の規模」で加速しており、関連企業の業績を押し上げている。NVIDIAはデータセンター部門の売上高が前年同期比199%増となるなど驚異的な成長を維持し、AlphabetのGoogle Cloudもバックログが倍増して200億ドルを突破した。Oracleも1四半期で670億ドルのAIインフラ契約を獲得するなど、AIインフラ層を握る巨大IT企業への資金集中が顕著になっている。"
+      "サムスン電子の業績回復期待が市場を支える一方で、イラン情勢の緊迫化やインフレへの懸念が投資家心理を冷やし、日経平均株価や韓国総合株価指数が下落しました。また、円相場は対ドルで162円台、対ポンドで2007年以来の安値となる217円台を記録し、円安圧力が継続しています。"
     ],
     "sources": [
       {
-        "name": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/07/04/750-billion-ai-spending-wave-should-you-buy-these-3-ai-infrastructure-stocks/"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-07/"
       }
     ],
     "importance": "high",
     "socialImpact": 75,
-    "novelty": 60,
-    "confidence": 85,
-    "priorityReason": "巨額のAIインフラ投資動向を解説",
-    "rankScore": 71,
-    "rankTier": "B",
-    "ageDays": 3,
+    "novelty": 50,
+    "confidence": 95,
+    "priorityReason": "歴史的な円安とアジア市場の動向を解説。",
+    "rankScore": 73,
+    "rankTier": "A",
+    "ageDays": 1,
     "rank": 8,
     "summaryLevel": "standard"
   },
   {
-    "id": "news-20260704-trump",
-    "category": "Policy",
-    "title": "米建国250周年式典でトランプ大統領が演説、国内の共産主義を激しく非難",
-    "date": "2026/07/04",
-    "summary": "アメリカ建国250周年の記念式典において、トランプ大統領が演説を行い、米国内における共産主義や左派的な思想の台頭を強く非難し、愛国主義的なメッセージを強調した。",
+    "id": "telecoms-ntt-ai-security-20260707",
+    "category": "Service",
+    "title": "NTT、最先端AIモデルを活用した企業向けサイバーセキュリティサービスを公開",
+    "date": "2026/07/07",
+    "summary": "NTTは、巧妙化するサイバー攻撃に対抗するため、国内外の複数の最先端AIモデルを評価・活用した、企業向けの新しいサイバーセキュリティサービスを立ち上げる計画を発表した。詳細なモデル名は非公開。",
     "details": [
-      "2026年7月4日の米国建国250周年という歴史的な節目において、トランプ大統領は記念式典の演説で国内の政治的対立を念頭に置き、共産主義的な動きを激しく批判した。この演説は、大統領選や今後の政権運営を見据え、自身の支持基盤である保守層の結束を固めるとともに、愛国心を煽ることでリベラル派への対抗姿勢を鮮明にする狙いがあるとみられる。"
+      "NTTは、高度な脅威検知と対応を実現するため、国内外の複数の最先端AIモデルを組み込んだ新しい企業向けサイバーセキュリティサービスの展開計画を明らかにし、巧妙化するサイバー攻撃に対抗する。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/video/watch/idRW506604072026RP1/"
+        "name": "Telecoms",
+        "url": "https://www.telecoms.com/security/ntt-unveils-ai-based-cybersecurity"
       }
     ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 55,
+    "importance": "high",
+    "socialImpact": 65,
+    "novelty": 70,
     "confidence": 90,
-    "priorityReason": "米建国250周年でのトランプ氏演説",
-    "rankScore": 62,
-    "rankTier": "B",
-    "ageDays": 3,
-    "rank": 9,
-    "summaryLevel": "brief"
-  },
-  {
-    "id": "news-20260706-q2results",
-    "category": "Economy",
-    "title": "米主要企業の第2四半期決算は堅調な見通し、原油高によるマージン圧迫を注視",
-    "date": "2026/07/06",
-    "summary": "投資専門家は、インフレ懸念が続く中でも米主要企業の第2四半期決算は堅調に推移すると予想している。ただし、原油価格の上昇が企業の利益率に与える影響には警戒が必要だ。",
-    "details": [
-      "サミット・プレイス・フィナンシャル・アドバイザーズの創設者リズ・ミラー氏は、第2四半期の企業業績は全体として堅調な数字を維持するとの見通しを示した。しかし、投資家は今後の見通しにおいて、高止まりする原油価格が各社のマージン（利益率）にどのような影響を与えるか、企業側のコメントを慎重に見極めるべきだと警告している。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/video/watch/idRW562406072026RP1/?chan=markets-now"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 50,
-    "novelty": 45,
-    "confidence": 90,
-    "priorityReason": "米第2四半期決算と原油高の影響",
-    "rankScore": 57,
-    "rankTier": "C",
+    "priorityReason": "国内主要キャリアによる先端AIを用いたセキュリティ戦略。",
+    "rankScore": 72,
+    "rankTier": "A",
     "ageDays": 1,
-    "rank": 10,
-    "summaryLevel": "brief"
+    "rank": 9,
+    "summaryLevel": "standard"
   },
   {
-    "id": "news-20260704-starmer",
-    "category": "Policy",
-    "title": "辞任間近のスターマー英首相、後継者に対し「外交に割く時間は減らせない」と強調",
-    "date": "2026/07/04",
-    "summary": "辞任を表明しているイギリスのスターマー首相は、世界情勢が不安定化する中、後継の首相が内政に集中するために外交活動の時間を削減することは不可能であるとの見解を示した。",
+    "id": "vercel-multi-model-20260706",
+    "category": "Business",
+    "title": "VercelのCEO、特定のAI企業1社のみと提携する時代は終わったと言及",
+    "date": "2026/07/06",
+    "summary": "クラウドプラットフォームVercel of CEOは、企業が特定のAI開発企業1社のみに依存する時代は終わったと指摘。OpenAIやAnthropic、Gemini、さらに安価な中国製モデルなどを用途に応じて使い分ける…",
     "details": [
-      "スターマー首相はBBCのインタビューで、不安定さを増す世界において外交政策と国内政策は切り離せないものであると指摘した。自身の外交偏重に対する批判に対し、後継者が外交に費やす時間を減らすことはできないと反論し、次期首相候補とされるアンディ・バーナム氏が内政重視を掲げる中で、国際的な危機管理と外交の重要性を改めて強調した。"
+      "VercelのCEOであるギレルモ・ラウチ氏は、企業がOpenAIやAnthropicなどの単一のAIパートナーに依存するプロトタイプ開発の段階を終え、現在はコスト効率や性能に応じて複数のモデルをプラグアンドプレイで使い分ける実用化の段階に移行していると述べました。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/uk/outgoing-uk-pm-starmer-says-successor-cannot-spend-less-time-foreign-affairs-2026-07-04/"
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/vercel-ceo-guillermo-rauch-ai-lab-partner-outdated-2026-7"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 60,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "企業のAI導入戦略が実用重視へシフト。",
+    "rankScore": 69,
+    "rankTier": "B",
+    "ageDays": 2,
+    "rank": 10,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "law-pro-bono-ai-20260707",
+    "category": "Business",
+    "title": "生成AIの活用は有料業務だけでなくプロボノ活動の効率化にも貢献",
+    "date": "2026/07/07",
+    "summary": "大手法律事務所において、生成AIの導入が有料の法務サービスだけでなく、無償のボランティア活動（プロボノ）の効率化にも寄与している。AI活用により、資金力のない依頼者に対しても迅速かつ高品質…",
+    "details": [
+      "米国の主要法律事務所（Am Law 100）において、生成AIがプロボノ活動の支援に活用されており、これまで弁護士費用を支払えなかった社会的弱者に対して、より迅速かつ効率的に法的支援を提供する手段として注目を集めています。"
+    ],
+    "sources": [
+      {
+        "name": "Law.com",
+        "url": "https://www.law.com/americanlawyer/2026/07/07/the-power-of-ai-isnt-just-supercharging-fee-earning-work/"
       }
     ],
     "importance": "medium",
     "socialImpact": 55,
-    "novelty": 50,
-    "confidence": 95,
-    "priorityReason": "英国の次期政権に向けた外交方針",
-    "rankScore": 57,
-    "rankTier": "C",
-    "ageDays": 3,
+    "novelty": 60,
+    "confidence": 90,
+    "priorityReason": "AIが社会貢献活動に与える影響を解説。",
+    "rankScore": 61,
+    "rankTier": "B",
+    "ageDays": 1,
     "rank": 11,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "forbes-ai-eleven-words-20260705",
+    "category": "Model",
+    "title": "AIが創作物語で特定の11単語を多用する謎、研究で明らかに",
+    "date": "2026/07/05",
+    "summary": "生成AIが創作物語を執筆する際、異なるモデル間でも「灯台」や「エリアス」など特定の11単語を約90%の確率で多用する現象が研究で判明。開発各社が類似したデータやアルゴリズムを使用しているこ…",
+    "details": [
+      "研究によると、複数の異なる大規模言語モデル（LLM）が生成した2万件の短編小説のうち、約9割に特定の11単語が含まれていることが明らかになりました。これは、AI開発企業が共通のトレーニングデータや調整手法を使用しているため、物語の構成が特定のパターンに収束している可能性を示唆しており、AIの創造性の限界や予測可能性に関する新たな議論を呼…"
+    ],
+    "sources": [
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/lanceeliot/2026/07/05/the-secret-of-why-these-eleven-words-are-prominently-included-when-you-ask-ai-to-write-a-creative-story/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 45,
+    "novelty": 80,
+    "confidence": 95,
+    "priorityReason": "AIの創造性の限界を示す興味深い研究結果。",
+    "rankScore": 60,
+    "rankTier": "B",
+    "ageDays": 3,
+    "rank": 12,
     "summaryLevel": "brief"
   }
 ]
