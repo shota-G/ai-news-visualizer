@@ -1,90 +1,112 @@
 [
   {
-    "id": "openai-gpt56-release",
-    "category": "Service",
-    "title": "OpenAIがGPT5.6を一般公開へ",
-    "date": "2026/07/08",
-    "summary": "OpenAIは米政府の安全保障上の懸念による延期を経て、最先端モデル「GPT-5.6」を一般公開する。",
+    "id": "openai-gpt56-launch",
+    "category": "Model",
+    "title": "OpenAIがGPT5.6と新エージェント発表",
+    "date": "2026/07/09",
+    "summary": "OpenAIは、タスク自動化に特化した新エージェント「ChatGPT Work」と最新モデル「GPT-5.6」を一般公開した。",
     "details": [
-      "OpenAIは、最先端AIモデル「GPT-5.6」のSol、Terra、Lunaを一般公開すると発表した。当初は先月に予定されていたが、強力なAIシステムがもたらす国家安全保障上のリスクを懸念した米政府の要請により、追加のテストと審査が行われていた。",
-      "今回の一般公開は、米商務省が新たな先端AI監視枠組みに基づく審査を経て承認したことで実現した。競合のAnthropicが政府との対立後にアクセスを回復した動きに続くものであり、フロンティアモデルの市場競争と政府規制のバランスを示す象徴的な事例となる。",
-      "今後は、政府による先端AIモデルへの監視体制がどのように定着するか、また公開されたGPT-5.6が企業の商用展開やマルチモーダル活用にどのような変化をもたらすかが注目される。"
+      "OpenAIは2026年7月9日、最新のフラッグシップAIモデル「GPT-5.6」と、アプリやファイルをまたいでタスクを自動実行する新エージェント「ChatGPT Work」を一般公開した。",
+      "米政府のサイバーセキュリティ懸念による一時的な公開猶予要請を経てのリリースであり、先行する競合他社とのエンタープライズAI分野における主導権争いを激化させるマイルストーンとなる。",
+      "今後は、先行導入企業における業務効率化の実績や、政府による安全基準への適合状況、さらに競合モデルの追随動向が注視される。"
     ],
     "sources": [
       {
         "name": "Reuters",
-        "url": "https://www.reuters.com/technology/openai-gets-us-approval-broad-gpt-56-rollout-axios-reports-2026-07-08/"
+        "url": "https://www.reuters.com/business/openai-launches-chatgpt-work-2026-07-09/"
       },
       {
         "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
+        "url": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html"
       }
     ],
     "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 90,
+    "socialImpact": 90,
+    "novelty": 85,
     "confidence": 95,
-    "priorityReason": "政府規制をクリアした最先端モデルの登場は市場に多大な影響を与えるため。",
-    "rankScore": 89,
+    "priorityReason": "最新フラッグシップモデルと実用エージェントの同時発表であるため",
+    "rankScore": 91,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "sambanova-funding-11b-valuation",
+    "id": "anthropic-valuation-secondary-market",
     "category": "Business",
-    "title": "SambaNovaが10億ドル調達",
-    "date": "2026/07/08",
-    "summary": "AIチップスタートアップのSambaNovaが10億ドルを調達し、評価額は110億ドルに達した。",
+    "title": "Anthropicの未公開株評価額が1.2兆ドルに",
+    "date": "2026/07/09",
+    "summary": "AIスタートアップのAnthropicが、セカンダリーマーケットにおいて評価額1.2兆ドルに達したことが明らかになった。",
     "details": [
-      "AI半導体スタートアップのSambaNova Systemsが最新の資金調達ラウンドで10億ドル（約1600億円）を調達し、企業評価額が110億ドルに達した。同社は推論処理やオンプレミス環境でのAI展開に特化しており、市場を独占するNVIDIAに対抗する有力候補として投資家の期待を集めている。"
+      "セカンダリーマーケットでの取引価格に基づく評価額が1.2兆ドルに急騰しており、同市場で過去最も需要の高い企業として投資家の資金が集中している。"
     ],
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html"
-      },
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/finance/ai-chip-startup-sambanova-valued-11-billion-1-billion-funding-round-2026-07-08/"
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/anthropic-soared-1-2-trillion-valuation-on-secondary-markets-2026-7"
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
+    "socialImpact": 80,
     "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "NVIDIAの独占に挑む半導体企業の巨額調達は業界地図を塗り替えるため。",
-    "rankScore": 75,
+    "confidence": 90,
+    "priorityReason": "未公開市場での異例の超高評価額とAI投資過熱を示すため",
+    "rankScore": 78,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "imf-global-growth-forecast-2026",
+    "id": "us-venture-funding-h1-2026",
     "category": "Economy",
-    "title": "IMF、世界成長率予測を3%に下方修正",
-    "date": "2026/07/08",
-    "summary": "IMFは中東での戦争やAI市場の調整リスクを背景に、2026年の世界経済成長率予測を3.0%に引き下げた。",
+    "title": "米上半期VC投資額が4127億ドルに急増",
+    "date": "2026/07/09",
+    "summary": "2026年上半期の米国ベンチャーキャピタル投資額が4127億ドルに達し、AI分野がその86%を占めたことが判明した。",
     "details": [
-      "IMFは2026年の世界経済成長率予測を3.0%に下方修正し、インフレ予測を4.7%に引き上げた。中東の緊張や貿易摩擦、AI市場の期待調整リスクを警告している。"
+      "投資総額は前年通期を約30%上回り、Anthropicなどの巨額調達を含むAI分野が3559億ドルを占めて市場を牽引している。"
+    ],
+    "sources": [
+      {
+        "name": "SiliconANGLE",
+        "url": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "米国VC市場におけるAIへの極端な資金集中を裏付けるデータ",
+    "rankScore": 76,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 3,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "taiwan-central-bank-ai-bubble-warning",
+    "category": "Economy",
+    "title": "台湾中銀総裁がAIバブルのリスクを警告",
+    "date": "2026/07/09",
+    "summary": "台湾中央銀行の楊金龍総裁は、現在のAIブームに伴う成長は本物であるものの、バブル崩壊のリスクも存在すると警告した。",
+    "details": [
+      "議会公聴会で発言したもので、半導体産業に依存する台湾経済への影響を念頭に警戒感を示した。"
     ],
     "sources": [
       {
         "name": "Reuters",
-        "url": "https://www.reuters.com/world/china/imf-edges-2026-global-growth-forecast-lower-3-sees-rebound-2027-2026-07-08/"
+        "url": "https://www.reuters.com/world/asia-pacific/taiwan-central-bank-chief-warns-ai-bubble-risk-2026-07-09/"
       }
     ],
     "importance": "medium",
-    "socialImpact": 75,
-    "novelty": 50,
-    "confidence": 95,
-    "priorityReason": "世界的な経済見通しの悪化とAI市場への警告は投資家に必須の情報。",
-    "rankScore": 65,
+    "socialImpact": 70,
+    "novelty": 65,
+    "confidence": 90,
+    "priorityReason": "主要半導体拠点の金融トップによるAI市場への警告",
+    "rankScore": 66,
     "rankTier": "B",
     "ageDays": 1,
-    "rank": 3,
+    "rank": 4,
     "summaryLevel": "brief"
   }
 ]
