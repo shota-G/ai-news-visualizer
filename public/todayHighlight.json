@@ -1,30 +1,30 @@
 [
   {
-    "id": "openai-gpt56-launch",
+    "id": "openai-gpt-5-6-launch",
     "category": "Model",
-    "title": "OpenAIがGPT5.6と新エージェント発表",
-    "date": "2026/07/09",
-    "summary": "OpenAIは、タスク自動化に特化した新エージェント「ChatGPT Work」と最新モデル「GPT-5.6」を一般公開した。",
+    "title": "OpenAIがGPT5.6発表",
+    "date": "2026/07/10",
+    "summary": "OpenAIが新モデル群「GPT-5.6」を発表し、Microsoft 365 Copilotの推奨モデルに採用された。",
     "details": [
-      "OpenAIは2026年7月9日、最新のフラッグシップAIモデル「GPT-5.6」と、アプリやファイルをまたいでタスクを自動実行する新エージェント「ChatGPT Work」を一般公開した。",
-      "米政府のサイバーセキュリティ懸念による一時的な公開猶予要請を経てのリリースであり、先行する競合他社とのエンタープライズAI分野における主導権争いを激化させるマイルストーンとなる。",
-      "今後は、先行導入企業における業務効率化の実績や、政府による安全基準への適合状況、さらに競合モデルの追随動向が注視される。"
+      "OpenAIは新モデル群「GPT-5.6」（Sol、Terra、Luna）をリリースした。フラッグシップのSolは競合モデルと同等性能ながらコストを3分の1削減している。",
+      "本発表はAI市場の価格破壊を加速させ、Microsoftとの提携関係の強固さを改めて示すことで、競合のAnthropicやMetaを牽制する地政学的・商業的意義を持つ。",
+      "今後は、この新モデル群が実際の企業向けワークフローやデスクトップ向け「スーパーアプリ」にどのように統合され、普及していくかが焦点となる。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/openai-launches-chatgpt-work-2026-07-09/"
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/anishasircar/2026/07/10/openais-gpt-56-lands-with-work-agents-and-a-desktop-pivot/"
       },
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
       }
     ],
     "importance": "critical",
     "socialImpact": 90,
     "novelty": 85,
     "confidence": 95,
-    "priorityReason": "最新フラッグシップモデルと実用エージェントの同時発表であるため",
+    "priorityReason": "主要AIラボの最新フラッグシップモデル発表であり市場影響が極めて大きいため。",
     "rankScore": 91,
     "rankTier": "S",
     "ageDays": 1,
@@ -32,77 +32,77 @@
     "summaryLevel": "deep"
   },
   {
-    "id": "anthropic-valuation-secondary-market",
-    "category": "Business",
-    "title": "Anthropicの未公開株評価額が1.2兆ドルに",
-    "date": "2026/07/09",
-    "summary": "AIスタートアップのAnthropicが、セカンダリーマーケットにおいて評価額1.2兆ドルに達したことが明らかになった。",
+    "id": "fed-monetary-report-inflation",
+    "category": "Economy",
+    "title": "米FRBがインフレ上昇を報告",
+    "date": "2026/07/10",
+    "summary": "米連邦準備制度理事会は議会への半期報告書で、関税やエネルギー高、AI投資を背景にインフレが再加速したと指摘した。",
     "details": [
-      "セカンダリーマーケットでの取引価格に基づく評価額が1.2兆ドルに急騰しており、同市場で過去最も需要の高い企業として投資家の資金が集中している。"
+      "米連邦準備制度理事会（FRB）は10日に公表した金融政策報告書で、関税の影響やイラン情勢に伴うエネルギーコスト上昇、AIデータセンター建設ラッシュが今春のインフレ圧力をさらに高めたと言及し、目標値2%への回帰に向け金利高止まりや追加利上げの可能性を示唆した。"
     ],
     "sources": [
       {
-        "name": "Business Insider",
-        "url": "https://www.businessinsider.com/anthropic-soared-1-2-trillion-valuation-on-secondary-markets-2026-7"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/fed-report-cites-stepped-up-inflation-2026-07-10/"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 75,
-    "confidence": 90,
-    "priorityReason": "未公開市場での異例の超高評価額とAI投資過熱を示すため",
-    "rankScore": 78,
+    "socialImpact": 85,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "米国の金融政策とマクロ経済、AI投資がインフレに与える影響を示す重要指標のため。",
+    "rankScore": 79,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "us-venture-funding-h1-2026",
-    "category": "Economy",
-    "title": "米上半期VC投資額が4127億ドルに急増",
-    "date": "2026/07/09",
-    "summary": "2026年上半期の米国ベンチャーキャピタル投資額が4127億ドルに達し、AI分野がその86%を占めたことが判明した。",
+    "id": "character-ai-microdrama",
+    "category": "Entertainment",
+    "title": "Character.AIが短編ドラマ参入",
+    "date": "2026/07/10",
+    "summary": "Character.AIが視聴者とAIキャラクターが双方向に対話できるインタラクティブな短編ドラマ事業を開始した。",
     "details": [
-      "投資総額は前年通期を約30%上回り、Anthropicなどの巨額調達を含むAI分野が3559億ドルを占めて市場を牽引している。"
+      "Character.AIは、エピソードの前後や最中に視聴者がAIキャラクターと直接チャットで対話できる、新しい形式のインタラクティブなショートドラマの配信を開始した。"
     ],
     "sources": [
       {
-        "name": "SiliconANGLE",
-        "url": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "米国VC市場におけるAIへの極端な資金集中を裏付けるデータ",
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 3,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "taiwan-central-bank-ai-bubble-warning",
-    "category": "Economy",
-    "title": "台湾中銀総裁がAIバブルのリスクを警告",
-    "date": "2026/07/09",
-    "summary": "台湾中央銀行の楊金龍総裁は、現在のAIブームに伴う成長は本物であるものの、バブル崩壊のリスクも存在すると警告した。",
-    "details": [
-      "議会公聴会で発言したもので、半導体産業に依存する台湾経済への影響を念頭に警戒感を示した。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/taiwan-central-bank-chief-warns-ai-bubble-risk-2026-07-09/"
+        "name": "Lapaas Voice",
+        "url": "https://voice.lapaas.com/character-ai-enters-microdrama-business/"
       }
     ],
     "importance": "medium",
     "socialImpact": 70,
-    "novelty": 65,
+    "novelty": 80,
+    "confidence": 85,
+    "priorityReason": "生成AIを活用したエンタメコンテンツの新しいビジネスモデルであるため。",
+    "rankScore": 67,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 3,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "openai-atlas-browser-shutdown",
+    "category": "Business",
+    "title": "ChatGPT Atlas提供終了へ",
+    "date": "2026/07/10",
+    "summary": "OpenAIは、AI搭載ブラウザ「ChatGPT Atlas」のサービスを8月9日に終了し、デスクトップアプリへ統合する。",
+    "details": [
+      "OpenAIは、2025年10月に提供を開始したAIウェブブラウザ「Atlas」を1年未満で終了し、リソースをデスクトップ向けスーパーアプリに集約する。"
+    ],
+    "sources": [
+      {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/news/openai-chatgpt-atlas-browser-shutdown-superapp"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 65,
+    "novelty": 75,
     "confidence": 90,
-    "priorityReason": "主要半導体拠点の金融トップによるAI市場への警告",
+    "priorityReason": "OpenAIのプロダクト戦略の転換と選択と集中を示す動きであるため。",
     "rankScore": 66,
     "rankTier": "B",
     "ageDays": 1,
