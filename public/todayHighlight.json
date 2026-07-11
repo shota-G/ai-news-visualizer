@@ -1,112 +1,150 @@
 [
   {
-    "id": "openai-gpt-5-6-launch",
-    "category": "Model",
-    "title": "OpenAIがGPT5.6発表",
+    "id": "apple-sues-openai-trade-secrets",
+    "category": "Business",
+    "title": "アップルがオープンAIを提訴",
     "date": "2026/07/10",
-    "summary": "OpenAIが新モデル群「GPT-5.6」を発表し、Microsoft 365 Copilotの推奨モデルに採用された。",
+    "summary": "アップルがオープンAIを提訴し、競合ハードウェア開発のために企業秘密を盗用されたと主張している。",
     "details": [
-      "OpenAIは新モデル群「GPT-5.6」（Sol、Terra、Luna）をリリースした。フラッグシップのSolは競合モデルと同等性能ながらコストを3分の1削減している。",
-      "本発表はAI市場の価格破壊を加速させ、Microsoftとの提携関係の強固さを改めて示すことで、競合のAnthropicやMetaを牽制する地政学的・商業的意義を持つ。",
-      "今後は、この新モデル群が実際の企業向けワークフローやデスクトップ向け「スーパーアプリ」にどのように統合され、普及していくかが焦点となる。"
+      "アップルは、オープンAIが同社の企業秘密を盗用して競合するハードウェア事業を構築しようとしたとして、サンフランシスコの連邦地裁に提訴した。元従業員らが機密文書や未発表技術の詳細を持ち出したと主張している。",
+      "生成AI市場で先行するオープンAIと、独自のAI戦略を急ぐアップルというテック巨人2社の直接対決であり、今後のAIハードウェア開発や人材引き抜きを巡る法的な境界線に大きな影響を与える可能性がある。",
+      "今後の裁判手続きにおけるオープンAI側の反論や、流出したとされる具体的な技術情報の範囲、および両社の提携関係への影響に注目が集まる。"
     ],
     "sources": [
       {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/anishasircar/2026/07/10/openais-gpt-56-lands-with-work-agents-and-a-desktop-pivot/"
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/"
       },
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/video/2026/07/10/apple-says-openai-stole-its-secrets-to-build-rival-hardware.html"
       }
     ],
     "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 85,
-    "confidence": 95,
-    "priorityReason": "主要AIラボの最新フラッグシップモデル発表であり市場影響が極めて大きいため。",
-    "rankScore": 91,
+    "socialImpact": 85,
+    "novelty": 80,
+    "confidence": 100,
+    "priorityReason": "テック大手2社の全面法廷闘争であり市場影響が極めて大きい。",
+    "rankScore": 86,
     "rankTier": "S",
-    "ageDays": 1,
+    "ageDays": 2,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "fed-monetary-report-inflation",
-    "category": "Economy",
-    "title": "米FRBがインフレ上昇を報告",
-    "date": "2026/07/10",
-    "summary": "米連邦準備制度理事会は議会への半期報告書で、関税やエネルギー高、AI投資を背景にインフレが再加速したと指摘した。",
+    "id": "japan-reusable-rocket-test-flight",
+    "category": "Business",
+    "title": "JAXAが再使用ロケットを初飛行",
+    "date": "2026/07/11",
+    "summary": "宇宙航空研究開発機構が実験用再使用ロケットの初飛行試験を実施し、離着陸に成功した。",
     "details": [
-      "米連邦準備制度理事会（FRB）は10日に公表した金融政策報告書で、関税の影響やイラン情勢に伴うエネルギーコスト上昇、AIデータセンター建設ラッシュが今春のインフレ圧力をさらに高めたと言及し、目標値2%への回帰に向け金利高止まりや追加利上げの可能性を示唆した。"
+      "日本の実験用再使用ロケット「RV-X」が11日に初の試験飛行を行い、上昇後に水平移動して安全に着陸した。スペースXが主導する宇宙輸送市場でのコスト削減と競争力強化を目指す。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/fed-report-cites-stepped-up-inflation-2026-07-10/"
+        "name": "AP News",
+        "url": "https://apnews.com/article/japan-reusable-rocket-h3-test-space-china-eb83b8385641a094b4cd69c3ee48090a"
+      },
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/japans-space-agency-conducts-test-flight-experimental-reusable-134669204"
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "米国の金融政策とマクロ経済、AI投資がインフレに与える影響を示す重要指標のため。",
-    "rankScore": 79,
+    "socialImpact": 70,
+    "novelty": 85,
+    "confidence": 100,
+    "priorityReason": "日本の宇宙開発における再使用技術の重要なマイルストーン。",
+    "rankScore": 77,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "character-ai-microdrama",
-    "category": "Entertainment",
-    "title": "Character.AIが短編ドラマ参入",
-    "date": "2026/07/10",
-    "summary": "Character.AIが視聴者とAIキャラクターが双方向に対話できるインタラクティブな短編ドラマ事業を開始した。",
+    "id": "imf-cuts-2026-global-growth",
+    "category": "Economy",
+    "title": "IMFが世界成長率予測を3%に下方修正",
+    "date": "2026/07/11",
+    "summary": "国際通貨基金は地政学的緊張や技術変化を理由に、2026年の世界経済成長率予測を3%に引き下げた。",
     "details": [
-      "Character.AIは、エピソードの前後や最中に視聴者がAIキャラクターと直接チャットで対話できる、新しい形式のインタラクティブなショートドラマの配信を開始した。"
+      "IMFは中東紛争や急速な技術移行を背景に、2026年の世界成長率予測を前年の3.5%から3.0%へ下方修正した。原油価格の変動や通貨安が新興国企業の利益を圧迫する懸念がある。"
     ],
     "sources": [
       {
-        "name": "Lapaas Voice",
-        "url": "https://voice.lapaas.com/character-ai-enters-microdrama-business/"
+        "name": "Whalesbook",
+        "url": "https://www.whalesbook.com/news/English/economy/IMF-Cuts-2026-Global-Growth-to-3percent-Amid-Geopolitical-Tension/6a51ca00bfbc3f404223dfb0"
+      },
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/article/inflation-economy-iran-trump-unemployment-6e3bec84857235030c5aa6859869f33f"
       }
     ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 80,
-    "confidence": 85,
-    "priorityReason": "生成AIを活用したエンタメコンテンツの新しいビジネスモデルであるため。",
-    "rankScore": 67,
-    "rankTier": "B",
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 60,
+    "confidence": 95,
+    "priorityReason": "世界的な景気減速リスクを示す重要指標の改定。",
+    "rankScore": 76,
+    "rankTier": "A",
     "ageDays": 1,
     "rank": 3,
-    "summaryLevel": "brief"
+    "summaryLevel": "standard"
   },
   {
-    "id": "openai-atlas-browser-shutdown",
-    "category": "Business",
-    "title": "ChatGPT Atlas提供終了へ",
+    "id": "meta-scraps-instagram-ai-feature",
+    "category": "Ethics",
+    "title": "メタがインスタAI画像生成を中止",
     "date": "2026/07/10",
-    "summary": "OpenAIは、AI搭載ブラウザ「ChatGPT Atlas」のサービスを8月9日に終了し、デスクトップアプリへ統合する。",
+    "summary": "メタは、公開アカウントの画像からAI画像を生成できる新機能を、プライバシー懸念の批判を受けて提供中止した。",
     "details": [
-      "OpenAIは、2025年10月に提供を開始したAIウェブブラウザ「Atlas」を1年未満で終了し、リソースをデスクトップ向けスーパーアプリに集約する。"
+      "メタは今週公開したばかりの画像生成モデル「Muse Image」の新機能を停止した。公開投稿をAI学習や生成に自動利用する仕様に対し、ハリウッドの芸能事務所や一般ユーザーからプライバシー侵害の批判が殺到したためである。"
     ],
     "sources": [
       {
-        "name": "The Next Web",
-        "url": "https://thenextweb.com/news/openai-chatgpt-atlas-browser-shutdown-superapp"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10/"
+      },
+      {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 78,
+    "novelty": 75,
+    "confidence": 100,
+    "priorityReason": "AIとプライバシー保護の境界線を示す象徴的な撤退事例。",
+    "rankScore": 75,
+    "rankTier": "A",
+    "ageDays": 2,
+    "rank": 4,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "openai-targeting-families",
+    "category": "Service",
+    "title": "オープンAIが家族向けサービス強化へ",
+    "date": "2026/07/11",
+    "summary": "オープンAIは個人向けから家族や高齢者層へ対象を広げるため、専用のプロダクトマネージャーを雇用する。",
+    "details": [
+      "ChatGPTの普及に伴い、オープンAIは家族や介護者、高齢者向けの体験を構築する専門組織を新設し、家庭内への浸透を図る。"
+    ],
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
       }
     ],
     "importance": "medium",
     "socialImpact": 65,
-    "novelty": 75,
-    "confidence": 90,
-    "priorityReason": "OpenAIのプロダクト戦略の転換と選択と集中を示す動きであるため。",
-    "rankScore": 66,
+    "novelty": 70,
+    "confidence": 100,
+    "priorityReason": "AIサービスの対象顧客拡大に向けた新たな戦略。",
+    "rankScore": 65,
     "rankTier": "B",
     "ageDays": 1,
-    "rank": 4,
+    "rank": 5,
     "summaryLevel": "brief"
   }
 ]
