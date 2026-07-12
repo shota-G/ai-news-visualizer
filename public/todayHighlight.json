@@ -1,150 +1,108 @@
 [
   {
-    "id": "apple-sues-openai-trade-secrets",
-    "category": "Business",
-    "title": "アップルがオープンAIを提訴",
-    "date": "2026/07/10",
-    "summary": "アップルがオープンAIを提訴し、競合ハードウェア開発のために企業秘密を盗用されたと主張している。",
+    "id": "reuters-hormuz-strait-closure-20260712",
+    "category": "Economy",
+    "title": "イランがホルムズ海峡閉鎖を宣言",
+    "date": "2026/07/12",
+    "summary": "イランがホルムズ海峡の閉鎖を宣言し、米国による地域への介入が停止するまで閉鎖を継続すると警告した。",
     "details": [
-      "アップルは、オープンAIが同社の企業秘密を盗用して競合するハードウェア事業を構築しようとしたとして、サンフランシスコの連邦地裁に提訴した。元従業員らが機密文書や未発表技術の詳細を持ち出したと主張している。",
-      "生成AI市場で先行するオープンAIと、独自のAI戦略を急ぐアップルというテック巨人2社の直接対決であり、今後のAIハードウェア開発や人材引き抜きを巡る法的な境界線に大きな影響を与える可能性がある。",
-      "今後の裁判手続きにおけるオープンAI側の反論や、流出したとされる具体的な技術情報の範囲、および両社の提携関係への影響に注目が集まる。"
+      "イラン革命防衛隊は、未承認ルートを航行した船舶が攻撃を受けたことを受け、ホルムズ海峡を「追って通知があるまで」閉鎖すると発表した。",
+      "世界の原油輸送の要衝である同海峡の閉鎖は、エネルギー供給網に直接的な打撃を与え、原油価格の急騰やインフレ再燃を招く危険性がある。",
+      "今後は米軍による対抗措置の有無や、原油市場の価格推移、主要国の外交的対応が焦点となる。"
     ],
     "sources": [
       {
-        "name": "The Washington Post",
-        "url": "https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/"
-      },
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/video/2026/07/10/apple-says-openai-stole-its-secrets-to-build-rival-hardware.html"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/iran-declares-strait-hormuz-closed-unauthorised-vessel-hit-2026-07-11/"
       }
     ],
     "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 100,
-    "priorityReason": "テック大手2社の全面法廷闘争であり市場影響が極めて大きい。",
-    "rankScore": 86,
+    "socialImpact": 95,
+    "novelty": 85,
+    "confidence": 90,
+    "priorityReason": "世界経済と原油市場に直撃する地政学リスク",
+    "rankScore": 92,
     "rankTier": "S",
-    "ageDays": 2,
+    "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "japan-reusable-rocket-test-flight",
+    "id": "tcs-ai-strategy-shift-20260712",
     "category": "Business",
-    "title": "JAXAが再使用ロケットを初飛行",
-    "date": "2026/07/11",
-    "summary": "宇宙航空研究開発機構が実験用再使用ロケットの初飛行試験を実施し、離着陸に成功した。",
+    "title": "印TCSがAI技術者8900人育成へ",
+    "date": "2026/07/12",
+    "summary": "インドのIT大手タタ・コンサルタンシー・サービスが、AI展開に向け最大8,900人の専門技術者チームを構築する方針を明らかにした。",
     "details": [
-      "日本の実験用再使用ロケット「RV-X」が11日に初の試験飛行を行い、上昇後に水平移動して安全に着陸した。スペースXが主導する宇宙輸送市場でのコスト削減と競争力強化を目指す。"
+      "同社はAIがアウトソーシング業務を代替するのではなく、新たなビジネス機会を創出すると判断し、データやサイバーセキュリティ分野での企業買収も視野に入れている。"
     ],
     "sources": [
       {
-        "name": "AP News",
-        "url": "https://apnews.com/article/japan-reusable-rocket-h3-test-space-china-eb83b8385641a094b4cd69c3ee48090a"
-      },
-      {
-        "name": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/japans-space-agency-conducts-test-flight-experimental-reusable-134669204"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/india/indias-tata-consultancy-services-plans-up-8900-ai-deployment-engineers-seeks-ai-2026-07-12/"
       }
     ],
     "importance": "high",
     "socialImpact": 70,
-    "novelty": 85,
-    "confidence": 100,
-    "priorityReason": "日本の宇宙開発における再使用技術の重要なマイルストーン。",
-    "rankScore": 77,
+    "novelty": 75,
+    "confidence": 95,
+    "priorityReason": "ITアウトソーシング大手のAIシフト戦略",
+    "rankScore": 75,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "imf-cuts-2026-global-growth",
-    "category": "Economy",
-    "title": "IMFが世界成長率予測を3%に下方修正",
-    "date": "2026/07/11",
-    "summary": "国際通貨基金は地政学的緊張や技術変化を理由に、2026年の世界経済成長率予測を3%に引き下げた。",
+    "id": "starbucks-in-house-ai-development-20260712",
+    "category": "Service",
+    "title": "スターバックスが独自AI開発へ",
+    "date": "2026/07/12",
+    "summary": "スターバックスが年間4億ドルのソフトウェア支出削減に向け、マイクロソフトやIBM製品を代替する独自AIツールを開発する。",
     "details": [
-      "IMFは中東紛争や急速な技術移行を背景に、2026年の世界成長率予測を前年の3.5%から3.0%へ下方修正した。原油価格の変動や通貨安が新興国企業の利益を圧迫する懸念がある。"
+      "AI支援開発の普及により自社開発のハードルが下がり、エンタープライズIT市場の勢力図に影響を与える可能性がある。"
     ],
     "sources": [
       {
-        "name": "Whalesbook",
-        "url": "https://www.whalesbook.com/news/English/economy/IMF-Cuts-2026-Global-Growth-to-3percent-Amid-Geopolitical-Tension/6a51ca00bfbc3f404223dfb0"
-      },
-      {
-        "name": "AP News",
-        "url": "https://apnews.com/article/inflation-economy-iran-trump-unemployment-6e3bec84857235030c5aa6859869f33f"
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/sandycarter/2026/07/12/starbucks-just-fired-a-warning-shot-at-microsoft-and-ibm-ai-apps/"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 60,
-    "confidence": 95,
-    "priorityReason": "世界的な景気減速リスクを示す重要指標の改定。",
-    "rankScore": 76,
+    "socialImpact": 65,
+    "novelty": 80,
+    "confidence": 90,
+    "priorityReason": "大企業による脱メガテックAI内製化の動き",
+    "rankScore": 74,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "meta-scraps-instagram-ai-feature",
-    "category": "Ethics",
-    "title": "メタがインスタAI画像生成を中止",
-    "date": "2026/07/10",
-    "summary": "メタは、公開アカウントの画像からAI画像を生成できる新機能を、プライバシー懸念の批判を受けて提供中止した。",
+    "id": "gpif-alternative-investment-push-20260712",
+    "category": "Economy",
+    "title": "GPIFの非上場株投資比率引き上げへ",
+    "date": "2026/07/12",
+    "summary": "日本政府が世界最大規模の年金積立金管理運用独立行政法人に対し、非上場株式などのオルタナティブ投資比率を引き上げるよう促す方針であると報じられた。",
     "details": [
-      "メタは今週公開したばかりの画像生成モデル「Muse Image」の新機能を停止した。公開投稿をAI学習や生成に自動利用する仕様に対し、ハリウッドの芸能事務所や一般ユーザーからプライバシー侵害の批判が殺到したためである。"
+      "運用資産の多様化と収益性向上を目指し、従来の投資配分からオルタナティブ資産へのシフトを加速させる方針だ。"
     ],
     "sources": [
       {
         "name": "Reuters",
-        "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10/"
-      },
-      {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 78,
-    "novelty": 75,
-    "confidence": 100,
-    "priorityReason": "AIとプライバシー保護の境界線を示す象徴的な撤退事例。",
-    "rankScore": 75,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 4,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "openai-targeting-families",
-    "category": "Service",
-    "title": "オープンAIが家族向けサービス強化へ",
-    "date": "2026/07/11",
-    "summary": "オープンAIは個人向けから家族や高齢者層へ対象を広げるため、専用のプロダクトマネージャーを雇用する。",
-    "details": [
-      "ChatGPTの普及に伴い、オープンAIは家族や介護者、高齢者向けの体験を構築する専門組織を新設し、家庭内への浸透を図る。"
-    ],
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
+        "url": "https://www.reuters.com/world/asia-pacific/japan-push-its-massive-pension-fund-boost-alternative-investments-nikkei-says-2026-07-12/"
       }
     ],
     "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 70,
-    "confidence": 100,
-    "priorityReason": "AIサービスの対象顧客拡大に向けた新たな戦略。",
-    "rankScore": 65,
+    "socialImpact": 75,
+    "novelty": 60,
+    "confidence": 85,
+    "priorityReason": "日本の巨大年金基金の運用方針転換",
+    "rankScore": 66,
     "rankTier": "B",
     "ageDays": 1,
-    "rank": 5,
+    "rank": 4,
     "summaryLevel": "brief"
   }
 ]
