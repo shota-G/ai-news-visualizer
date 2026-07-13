@@ -1,108 +1,134 @@
 [
   {
-    "id": "reuters-hormuz-strait-closure-20260712",
-    "category": "Economy",
-    "title": "イランがホルムズ海峡閉鎖を宣言",
-    "date": "2026/07/12",
-    "summary": "イランがホルムズ海峡の閉鎖を宣言し、米国による地域への介入が停止するまで閉鎖を継続すると警告した。",
+    "id": "apple-lawsuit-openai-trade-secrets",
+    "category": "Ethics",
+    "title": "アップル、営業秘密侵害でOpenAI提訴",
+    "date": "2026/07/13",
+    "summary": "アップルがOpenAIを相手取り、営業秘密を盗用したとして訴訟を起こしたことが明らかになった。",
     "details": [
-      "イラン革命防衛隊は、未承認ルートを航行した船舶が攻撃を受けたことを受け、ホルムズ海峡を「追って通知があるまで」閉鎖すると発表した。",
-      "世界の原油輸送の要衝である同海峡の閉鎖は、エネルギー供給網に直接的な打撃を与え、原油価格の急騰やインフレ再燃を招く危険性がある。",
-      "今後は米軍による対抗措置の有無や、原油市場の価格推移、主要国の外交的対応が焦点となる。"
+      "アップルがOpenAIを提訴した。この訴訟は両社のAIパートナーシップやハードウェア戦略に新たな緊張をもたらしている。",
+      "AI開発におけるデータや技術の不正取得を巡る法廷闘争は、今後の業界標準や提携関係のあり方に甚大な影響を与える可能性がある。",
+      "今後の法廷での証拠開示や、OpenAI側がどのような反論を展開するかに注目が集まる。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/iran-declares-strait-hormuz-closed-unauthorised-vessel-hit-2026-07-11/"
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/daniellechemtob/2026/07/13/forbes-daily-apple-lawsuit-accuses-openai-of-stealing-trade-secrets/"
       }
     ],
     "importance": "critical",
-    "socialImpact": 95,
+    "socialImpact": 90,
     "novelty": 85,
-    "confidence": 90,
-    "priorityReason": "世界経済と原油市場に直撃する地政学リスク",
-    "rankScore": 92,
+    "confidence": 95,
+    "priorityReason": "巨大テック企業同士のAI技術を巡る法廷闘争であり影響大。",
+    "rankScore": 90,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "tcs-ai-strategy-shift-20260712",
-    "category": "Business",
-    "title": "印TCSがAI技術者8900人育成へ",
-    "date": "2026/07/12",
-    "summary": "インドのIT大手タタ・コンサルタンシー・サービスが、AI展開に向け最大8,900人の専門技術者チームを構築する方針を明らかにした。",
+    "id": "xi-jinping-ai-summit-debut",
+    "category": "Policy",
+    "title": "習主席、中国AIサミット初登壇へ",
+    "date": "2026/07/13",
+    "summary": "中国の習近平国家主席が、同国の主要AIカンファレンスに初めて出席し基調講演を行うことが判明した。",
     "details": [
-      "同社はAIがアウトソーシング業務を代替するのではなく、新たなビジネス機会を創出すると判断し、データやサイバーセキュリティ分野での企業買収も視野に入れている。"
+      "米中対立が激化する中、中国政府がAI技術を極めて重視している姿勢を示す動きである。習主席はサミットで基調講演を行う予定だ。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/india/indias-tata-consultancy-services-plans-up-8900-ai-deployment-engineers-seeks-ai-2026-07-12/"
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-13/xi-to-debut-at-china-s-flagship-ai-summit-as-us-rivalry-heats-up"
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
+    "socialImpact": 85,
     "novelty": 75,
     "confidence": 95,
-    "priorityReason": "ITアウトソーシング大手のAIシフト戦略",
-    "rankScore": 75,
+    "priorityReason": "米中AI覇権争いにおける中国トップの動向を示す重要ニュース。",
+    "rankScore": 80,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "starbucks-in-house-ai-development-20260712",
-    "category": "Service",
-    "title": "スターバックスが独自AI開発へ",
-    "date": "2026/07/12",
-    "summary": "スターバックスが年間4億ドルのソフトウェア支出削減に向け、マイクロソフトやIBM製品を代替する独自AIツールを開発する。",
+    "id": "helsing-defense-startup-funding",
+    "category": "Business",
+    "title": "欧州防衛AIのヘルシングが2800億円調達",
+    "date": "2026/07/13",
+    "summary": "欧州の防衛テックスタートアップであるヘルシングが、18億ドルを調達し企業価値が180億ドルに達した。",
     "details": [
-      "AI支援開発の普及により自社開発のハードルが下がり、エンタープライズIT市場の勢力図に影響を与える可能性がある。"
+      "ドイツを拠点とするヘルシングは、米アンデュリルに対抗する防衛AI企業であり、地政学的緊張の高まりを背景に投資家から巨額の資金を集めている。"
     ],
     "sources": [
       {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/sandycarter/2026/07/12/starbucks-just-fired-a-warning-shot-at-microsoft-and-ibm-ai-apps/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html"
       }
     ],
     "importance": "high",
-    "socialImpact": 65,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "大企業による脱メガテックAI内製化の動き",
-    "rankScore": 74,
+    "socialImpact": 80,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "防衛テック分野への巨額資金流入と欧州の防衛AI強化を象徴。",
+    "rankScore": 77,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "gpif-alternative-investment-push-20260712",
-    "category": "Economy",
-    "title": "GPIFの非上場株投資比率引き上げへ",
-    "date": "2026/07/12",
-    "summary": "日本政府が世界最大規模の年金積立金管理運用独立行政法人に対し、非上場株式などのオルタナティブ投資比率を引き上げるよう促す方針であると報じられた。",
+    "id": "nadella-criticizes-anthropic-distillation",
+    "category": "Model",
+    "title": "マイクロソフトCEO、競合のAI蒸留批判を牽制",
+    "date": "2026/07/13",
+    "summary": "マイクロソフトのサティア・ナデラCEOが、モデルの「蒸留」を批判する競合AI開発企業を偽善的だと非難した。",
     "details": [
-      "運用資産の多様化と収益性向上を目指し、従来の投資配分からオルタナティブ資産へのシフトを加速させる方針だ。"
+      "ナデラ氏は、強力なモデルの出力を基に軽量モデルを訓練する「蒸留」プロセスを巡り、アンソロピックなどの競合をSNS上で牽制した。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/japan-push-its-massive-pension-fund-boost-alternative-investments-nikkei-says-2026-07-12/"
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-swipe-ai-model-makers-distillation-2026-7"
       }
     ],
     "importance": "medium",
-    "socialImpact": 75,
-    "novelty": 60,
-    "confidence": 85,
-    "priorityReason": "日本の巨大年金基金の運用方針転換",
+    "socialImpact": 65,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "大手テック首脳によるAI開発手法を巡る直接的な議論。",
     "rankScore": 66,
     "rankTier": "B",
     "ageDays": 1,
     "rank": 4,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "anthropic-extends-fable-access",
+    "category": "Model",
+    "title": "アンソロピック、Fable 5のアクセス再延長",
+    "date": "2026/07/13",
+    "summary": "アンソロピックが、競合OpenAIの最新モデル「Sol」のリリースに対抗し、Claude Fable 5のアクセスを再延長した。",
+    "details": [
+      "OpenAIがコーディング等でFableを上回ると主張する新モデルを投入したため、アンソロピックは対抗措置としてアクセス延長を決定した。"
+    ],
+    "sources": [
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/tylerroush/2026/07/13/ai-model-wars-anthropic-extends-fable-access-again-after-openais-sol-release/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 60,
+    "novelty": 65,
+    "confidence": 90,
+    "priorityReason": "OpenAIとアンソロピックの熾烈なモデル開発競争の現状。",
+    "rankScore": 64,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 5,
     "summaryLevel": "brief"
   }
 ]
