@@ -1,78 +1,82 @@
 [
   {
-    "id": "apple-lawsuit-openai-trade-secrets",
-    "category": "Ethics",
-    "title": "アップル、営業秘密侵害でOpenAI提訴",
-    "date": "2026/07/13",
-    "summary": "アップルがOpenAIを相手取り、営業秘密を盗用したとして訴訟を起こしたことが明らかになった。",
+    "id": "us-inflation-june-2026",
+    "category": "Economy",
+    "title": "米インフレ率3.5%に鈍化",
+    "date": "2026/07/14",
+    "summary": "米国の6月消費者物価指数は前年比3.5%上昇となり、ガソリン価格の下落を背景に前月の4.2%から大幅に鈍化した。",
     "details": [
-      "アップルがOpenAIを提訴した。この訴訟は両社のAIパートナーシップやハードウェア戦略に新たな緊張をもたらしている。",
-      "AI開発におけるデータや技術の不正取得を巡る法廷闘争は、今後の業界標準や提携関係のあり方に甚大な影響を与える可能性がある。",
-      "今後の法廷での証拠開示や、OpenAI側がどのような反論を展開するかに注目が集まる。"
+      "米労働省が発表した6月の消費者物価指数（CPI）は前年同月比3.5%上昇となり、5月の4.2%から伸びが鈍化した。中東情勢の緩和に伴うエネルギー価格の下落が主な要因である。",
+      "インフレ圧力が和らいだことで、連邦準備制度理事会（FRB）のウォルシュ議長に対する利上げ圧力は一時的に緩和される。市場では早期の追加利上げ観測が後退している。",
+      "今後はイラン情勢の再燃による原油価格への影響や、コア物価指数の推移、および次回のFRB政策会合での発言が注視される。"
     ],
     "sources": [
       {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/daniellechemtob/2026/07/13/forbes-daily-apple-lawsuit-accuses-openai-of-stealing-trade-secrets/"
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/c98289j7lg7o"
+      },
+      {
+        "name": "Politico",
+        "url": "https://www.politico.com/news/2026/07/14/inflation-fed-warsh-rates-iran-00995912"
       }
     ],
     "importance": "critical",
-    "socialImpact": 90,
-    "novelty": 85,
+    "socialImpact": 85,
+    "novelty": 60,
     "confidence": 95,
-    "priorityReason": "巨大テック企業同士のAI技術を巡る法廷闘争であり影響大。",
-    "rankScore": 90,
+    "priorityReason": "米国の利上げペースを左右する最重要指標の発表であるため。",
+    "rankScore": 85,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "xi-jinping-ai-summit-debut",
+    "id": "japan-espionage-russia-countermeasure",
     "category": "Policy",
-    "title": "習主席、中国AIサミット初登壇へ",
-    "date": "2026/07/13",
-    "summary": "中国の習近平国家主席が、同国の主要AIカンファレンスに初めて出席し基調講演を行うことが判明した。",
+    "title": "日本政府、スパイ対策強化を認める",
+    "date": "2026/07/14",
+    "summary": "日本政府は、ロシアによるスパイ活動の拠点化を報じた米紙報道を受け、諜報対策をさらに厳格化する必要性を認めた。",
     "details": [
-      "米中対立が激化する中、中国政府がAI技術を極めて重視している姿勢を示す動きである。習主席はサミットで基調講演を行う予定だ。"
+      "高市早苗首相の下、日本は戦後初となる中央情報機関の創設や、西側諸国と連携した技術流出防止策の強化を進めている。"
     ],
     "sources": [
       {
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-13/xi-to-debut-at-china-s-flagship-ai-summit-as-us-rivalry-heats-up"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jul/14/japan-espionage-russia-den-of-spies"
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
+    "socialImpact": 80,
     "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "米中AI覇権争いにおける中国トップの動向を示す重要ニュース。",
-    "rankScore": 80,
+    "confidence": 90,
+    "priorityReason": "日本の安全保障政策における重大な転換点となるため。",
+    "rankScore": 78,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "helsing-defense-startup-funding",
-    "category": "Business",
-    "title": "欧州防衛AIのヘルシングが2800億円調達",
-    "date": "2026/07/13",
-    "summary": "欧州の防衛テックスタートアップであるヘルシングが、18億ドルを調達し企業価値が180億ドルに達した。",
+    "id": "economists-warning-ai-job-displacement",
+    "category": "Ethics",
+    "title": "経済学者ら、AIの雇用影響に警告",
+    "date": "2026/07/14",
+    "summary": "200人以上の経済学者や技術リーダーが共同書簡を公開し、AIによる大規模な雇用代替リスクに即時対処するよう求めた。",
     "details": [
-      "ドイツを拠点とするヘルシングは、米アンデュリルに対抗する防衛AI企業であり、地政学的緊張の高まりを背景に投資家から巨額の資金を集めている。"
+      "書簡にはOpenAIやAnthropicの幹部も署名しており、AIがもたらす経済的影響や格差拡大に対して、制度的な対策が急務であると訴えている。"
     ],
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html"
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/tech/tech-news/hundreds-economists-say-must-act-now-ais-economic-impact-job-displacem-rcna587450"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "防衛テック分野への巨額資金流入と欧州の防衛AI強化を象徴。",
+    "socialImpact": 85,
+    "novelty": 65,
+    "confidence": 90,
+    "priorityReason": "AIの社会実装に伴う労働市場への警鐘として注目されるため。",
     "rankScore": 77,
     "rankTier": "A",
     "ageDays": 1,
@@ -80,55 +84,55 @@
     "summaryLevel": "standard"
   },
   {
-    "id": "nadella-criticizes-anthropic-distillation",
-    "category": "Model",
-    "title": "マイクロソフトCEO、競合のAI蒸留批判を牽制",
-    "date": "2026/07/13",
-    "summary": "マイクロソフトのサティア・ナデラCEOが、モデルの「蒸留」を批判する競合AI開発企業を偽善的だと非難した。",
+    "id": "softbank-son-ai-investment-2040",
+    "category": "Business",
+    "title": "孫正義氏、AIに年5兆ドル必要",
+    "date": "2026/07/14",
+    "summary": "ソフトバンクグループの孫正義代表は、2040年までにAI需要を満たすため世界で年間5兆ドルの投資が必要になるとの見解を示した。",
     "details": [
-      "ナデラ氏は、強力なモデルの出力を基に軽量モデルを訓練する「蒸留」プロセスを巡り、アンソロピックなどの競合をSNS上で牽制した。"
+      "孫氏は都内での講演で、AI開発には莫大な資金が必要であり、バブル論を否定した上で、データセンターや電力インフラへの巨額投資が不可欠だと強調した。"
     ],
     "sources": [
       {
-        "name": "Business Insider",
-        "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-swipe-ai-model-makers-distillation-2026-7"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/softbanks-son-says-ai-will-need-5-trillion-per-year-by-2040-dismisses-bubble-2026-07-14/"
       }
     ],
-    "importance": "medium",
-    "socialImpact": 65,
+    "importance": "high",
+    "socialImpact": 75,
     "novelty": 70,
-    "confidence": 90,
-    "priorityReason": "大手テック首脳によるAI開発手法を巡る直接的な議論。",
-    "rankScore": 66,
-    "rankTier": "B",
+    "confidence": 95,
+    "priorityReason": "今後のAIインフラ投資の規模感を示す重要発言であるため。",
+    "rankScore": 76,
+    "rankTier": "A",
     "ageDays": 1,
     "rank": 4,
-    "summaryLevel": "brief"
+    "summaryLevel": "standard"
   },
   {
-    "id": "anthropic-extends-fable-access",
-    "category": "Model",
-    "title": "アンソロピック、Fable 5のアクセス再延長",
-    "date": "2026/07/13",
-    "summary": "アンソロピックが、競合OpenAIの最新モデル「Sol」のリリースに対抗し、Claude Fable 5のアクセスを再延長した。",
+    "id": "reflection-ai-nebius-deal",
+    "category": "Business",
+    "title": "米新興が10億ドルの計算資源契約",
+    "date": "2026/07/14",
+    "summary": "オープンモデル開発を目指す米Reflection AIが、欧州のNebiusと10億ドル規模の計算資源提供契約を締結した。",
     "details": [
-      "OpenAIがコーディング等でFableを上回ると主張する新モデルを投入したため、アンソロピックは対抗措置としてアクセス延長を決定した。"
+      "Reflection AIは、元ヤンデックスの国際部門であるNebiusから、エヌビディアの最新AI半導体へのアクセス権を確保し、開発体制を強化する。"
     ],
     "sources": [
       {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/tylerroush/2026/07/13/ai-model-wars-anthropic-extends-fable-access-again-after-openais-sol-release/"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/"
       }
     ],
-    "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 65,
+    "importance": "high",
+    "socialImpact": 65,
+    "novelty": 80,
     "confidence": 90,
-    "priorityReason": "OpenAIとアンソロピックの熾烈なモデル開発競争の現状。",
-    "rankScore": 64,
-    "rankTier": "B",
+    "priorityReason": "AIスタートアップによる巨額のインフラ確保の動きを示すため。",
+    "rankScore": 75,
+    "rankTier": "A",
     "ageDays": 1,
     "rank": 5,
-    "summaryLevel": "brief"
+    "summaryLevel": "standard"
   }
 ]
