@@ -1,138 +1,138 @@
 [
   {
-    "id": "us-inflation-june-2026",
-    "category": "Economy",
-    "title": "米インフレ率3.5%に鈍化",
-    "date": "2026/07/14",
-    "summary": "米国の6月消費者物価指数は前年比3.5%上昇となり、ガソリン価格の下落を背景に前月の4.2%から大幅に鈍化した。",
+    "id": "anthropic-ipo-meetings-2026",
+    "category": "Business",
+    "title": "米アンソロピックが上場準備へ",
+    "date": "2026/07/15",
+    "summary": "AIスタートアップの米アンソロピックが、新規株式公開に向けて投資家会合を計画していることが判明した。",
     "details": [
-      "米労働省が発表した6月の消費者物価指数（CPI）は前年同月比3.5%上昇となり、5月の4.2%から伸びが鈍化した。中東情勢の緩和に伴うエネルギー価格の下落が主な要因である。",
-      "インフレ圧力が和らいだことで、連邦準備制度理事会（FRB）のウォルシュ議長に対する利上げ圧力は一時的に緩和される。市場では早期の追加利上げ観測が後退している。",
-      "今後はイラン情勢の再燃による原油価格への影響や、コア物価指数の推移、および次回のFRB政策会合での発言が注視される。"
+      "米アンソロピックが、メガIPO（新規株式公開）の実施に向けて投資家との会合を計画していることが関係者の話で分かった。",
+      "ゴールドマン・サックス、モルガン・スタンレー、JPモルガン・チェースの米金融大手3行がこの上場案件に関与している。",
+      "競合のオープンAIに先んじて株式公開を実現できるか、今後の具体的な上場日程や目標評価額の推移が注目される。"
     ],
     "sources": [
       {
-        "name": "BBC",
-        "url": "https://www.bbc.com/news/articles/c98289j7lg7o"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html"
       },
       {
-        "name": "Politico",
-        "url": "https://www.politico.com/news/2026/07/14/inflation-fed-warsh-rates-iran-00995912"
+        "name": "Bloomberg (Yahoo Finance)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-said-plan-ipo-investor-152850812.html"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
-    "novelty": 60,
+    "novelty": 80,
     "confidence": 95,
-    "priorityReason": "米国の利上げペースを左右する最重要指標の発表であるため。",
-    "rankScore": 85,
+    "priorityReason": "競合OpenAIに先駆けるメガIPOの動きで市場への影響が大きい。",
+    "rankScore": 88,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "japan-espionage-russia-countermeasure",
-    "category": "Policy",
-    "title": "日本政府、スパイ対策強化を認める",
-    "date": "2026/07/14",
-    "summary": "日本政府は、ロシアによるスパイ活動の拠点化を報じた米紙報道を受け、諜報対策をさらに厳格化する必要性を認めた。",
+    "id": "startups-turn-to-cheap-chinese-ai",
+    "category": "Economy",
+    "title": "米新興企業が安価な中国製AI採用",
+    "date": "2026/07/15",
+    "summary": "コスト削減を迫られる米国のスタートアップ企業が、高価な米国製AIから10倍安価な中国製AIモデルへ移行している。",
     "details": [
-      "高市早苗首相の下、日本は戦後初となる中央情報機関の創設や、西側諸国と連携した技術流出防止策の強化を進めている。"
+      "AI利用コストの急増に直面する米国の新興企業が、アンソロピックなどの高価な米国製モデルから、コストが10分の1に抑えられる安価な中国製AIモデルへ切り替える動きが出ている。"
     ],
     "sources": [
       {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jul/14/japan-espionage-russia-den-of-spies"
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 75,
+    "socialImpact": 78,
+    "novelty": 82,
     "confidence": 90,
-    "priorityReason": "日本の安全保障政策における重大な転換点となるため。",
-    "rankScore": 78,
+    "priorityReason": "AI開発競争におけるコスト面での地政学的変化を反映。",
+    "rankScore": 79,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "economists-warning-ai-job-displacement",
-    "category": "Ethics",
-    "title": "経済学者ら、AIの雇用影響に警告",
-    "date": "2026/07/14",
-    "summary": "200人以上の経済学者や技術リーダーが共同書簡を公開し、AIによる大規模な雇用代替リスクに即時対処するよう求めた。",
+    "id": "apple-intelligence-china-approval",
+    "category": "Model",
+    "title": "中国がアップルAIの導入を承認",
+    "date": "2026/07/15",
+    "summary": "中国当局がApple Intelligenceの国内導入を承認し、アリババのAIモデル「通義千問」が統合される見通しとなった。",
     "details": [
-      "書簡にはOpenAIやAnthropicの幹部も署名しており、AIがもたらす経済的影響や格差拡大に対して、制度的な対策が急務であると訴えている。"
+      "中国のインターネット規制当局が、アリババのAIモデル「Qwen（通義千問）」をiOSなどのOSに統合することを条件に、アップルのAIサービス「Apple Intelligence」の国内導入を承認した。米中対立下での巨大市場におけるローカライズ戦略として注目される。"
     ],
     "sources": [
       {
-        "name": "NBC News",
-        "url": "https://www.nbcnews.com/tech/tech-news/hundreds-economists-say-must-act-now-ais-economic-impact-job-displacem-rcna587450"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
       }
     ],
     "importance": "high",
-    "socialImpact": 85,
-    "novelty": 65,
+    "socialImpact": 80,
+    "novelty": 75,
     "confidence": 90,
-    "priorityReason": "AIの社会実装に伴う労働市場への警鐘として注目されるため。",
-    "rankScore": 77,
+    "priorityReason": "アップルの中国市場におけるAI戦略の重要な進展であるため。",
+    "rankScore": 78,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "softbank-son-ai-investment-2040",
+    "id": "openai-researcher-drug-discovery-startup",
     "category": "Business",
-    "title": "孫正義氏、AIに年5兆ドル必要",
+    "title": "OpenAI研究者が創薬AI新会社",
     "date": "2026/07/14",
-    "summary": "ソフトバンクグループの孫正義代表は、2040年までにAI需要を満たすため世界で年間5兆ドルの投資が必要になるとの見解を示した。",
+    "summary": "OpenAIの研究者マイルズ・ワン氏が退社し、評価額20億ドル規模の創薬AIスタートアップの立ち上げに向け交渉中である。",
     "details": [
-      "孫氏は都内での講演で、AI開発には莫大な資金が必要であり、バブル論を否定した上で、データセンターや電力インフラへの巨額投資が不可欠だと強調した。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/softbanks-son-says-ai-will-need-5-trillion-per-year-by-2040-dismisses-bubble-2026-07-14/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "今後のAIインフラ投資の規模感を示す重要発言であるため。",
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 4,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "reflection-ai-nebius-deal",
-    "category": "Business",
-    "title": "米新興が10億ドルの計算資源契約",
-    "date": "2026/07/14",
-    "summary": "オープンモデル開発を目指す米Reflection AIが、欧州のNebiusと10億ドル規模の計算資源提供契約を締結した。",
-    "details": [
-      "Reflection AIは、元ヤンデックスの国際部門であるNebiusから、エヌビディアの最新AI半導体へのアクセス権を確保し、開発体制を強化する。"
+      "OpenAIで科学・生物学分野のAI研究を率いたマイルズ・ワン氏が退社し、約2億ドルの資金調達と評価額20億ドルでの創薬AIスタートアップ設立に向けて投資家と協議している。"
     ],
     "sources": [
       {
         "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/"
+        "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"
       }
     ],
     "importance": "high",
-    "socialImpact": 65,
+    "socialImpact": 75,
     "novelty": 80,
     "confidence": 90,
-    "priorityReason": "AIスタートアップによる巨額のインフラ確保の動きを示すため。",
+    "priorityReason": "優秀な人材の独立によるバイオAI分野の活性化を示す。",
     "rankScore": 75,
     "rankTier": "A",
-    "ageDays": 1,
-    "rank": 5,
+    "ageDays": 2,
+    "rank": 4,
     "summaryLevel": "standard"
+  },
+  {
+    "id": "white-house-gold-eagle-initiative",
+    "category": "Policy",
+    "title": "米政府がAI脆弱性対策を始動",
+    "date": "2026/07/14",
+    "summary": "米ホワイトハウスは、重要インフラの脆弱性をAIで迅速に検知・修正する新イニシアチブ「ゴールド・イーグル」を発表した。",
+    "details": [
+      "トランプ大統領が署名したAI大統領令に基づき、重要インフラの脆弱性検知とパッチ適用を高速化するAI主導の調整メカニズム「ゴールド・イーグル」が始動した。"
+    ],
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "国家安全保障におけるAI活用の具体策として重要。",
+    "rankScore": 65,
+    "rankTier": "B",
+    "ageDays": 2,
+    "rank": 5,
+    "summaryLevel": "brief"
   }
 ]
