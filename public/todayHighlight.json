@@ -1,137 +1,141 @@
 [
   {
-    "id": "anthropic-ipo-meetings-2026",
-    "category": "Business",
-    "title": "米アンソロピックが上場準備へ",
-    "date": "2026/07/15",
-    "summary": "AIスタートアップの米アンソロピックが、新規株式公開に向けて投資家会合を計画していることが判明した。",
+    "id": "us-brazil-tariffs-2026",
+    "category": "Policy",
+    "title": "米政府がブラジル製品に25%関税",
+    "date": "2026/07/16",
+    "summary": "米国政府は不公正な貿易慣行を理由に、ブラジルからの輸入品の大部分に対して25%の追加関税を課すことを決定した。",
     "details": [
-      "米アンソロピックが、メガIPO（新規株式公開）の実施に向けて投資家との会合を計画していることが関係者の話で分かった。",
-      "ゴールドマン・サックス、モルガン・スタンレー、JPモルガン・チェースの米金融大手3行がこの上場案件に関与している。",
-      "競合のオープンAIに先んじて株式公開を実現できるか、今後の具体的な上場日程や目標評価額の推移が注目される。"
+      "米国政府がブラジルからの輸入品の大部分に対して25%の追加関税を課すことを決定した。この措置は7月22日から開始される予定である。",
+      "米ブラジル間の貿易摩擦が激化することで、サプライチェーンの再編や対象品目の価格高騰など、グローバル市場への広範な影響が懸念される。",
+      "7月22日の関税発動に向けたブラジル政府の対抗措置や、対象となる具体的な品目リストの公表に注目が集まる。"
     ],
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html"
+        "name": "AP News",
+        "url": "https://apnews.com/article/us-brazil-trade-tariffs-99e8c52a44c75f31c343d7ebad41f614"
       },
       {
-        "name": "Bloomberg (Yahoo Finance)",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-said-plan-ipo-investor-152850812.html"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/video/watch/idRW838016072026RP1"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
-    "novelty": 80,
+    "novelty": 70,
     "confidence": 95,
-    "priorityReason": "競合OpenAIに先駆けるメガIPOの動きで市場への影響が大きい。",
-    "rankScore": 88,
+    "priorityReason": "米国の新たな関税政策による国際貿易への影響が極めて大きいため。",
+    "rankScore": 87,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "startups-turn-to-cheap-chinese-ai",
-    "category": "Economy",
-    "title": "米新興企業が安価な中国製AI採用",
-    "date": "2026/07/15",
-    "summary": "コスト削減を迫られる米国のスタートアップ企業が、高価な米国製AIから10倍安価な中国製AIモデルへ移行している。",
+    "id": "nvidia-japan-physical-ai-2026",
+    "category": "Business",
+    "title": "エヌビディアが日本で物理AI拡大",
+    "date": "2026/07/16",
+    "summary": "米エヌビディアはロボット向け新AIモデルを発表し、富士通など日本の主要企業と連携して物理AIエコシステムを拡張する。",
     "details": [
-      "AI利用コストの急増に直面する米国の新興企業が、アンソロピックなどの高価な米国製モデルから、コストが10分の1に抑えられる安価な中国製AIモデルへ切り替える動きが出ている。"
+      "米エヌビディアはロボットやビジョンAI向けの新型世界モデル「Cosmos 3 Edge」を発表し、富士通やファナック、安川電機などの国内ロボティクス大手と提携して日本市場での「物理AI」展開を本格化させる。"
     ],
     "sources": [
       {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/"
       }
     ],
     "importance": "high",
-    "socialImpact": 78,
-    "novelty": 82,
-    "confidence": 90,
-    "priorityReason": "AI開発競争におけるコスト面での地政学的変化を反映。",
-    "rankScore": 79,
+    "socialImpact": 80,
+    "novelty": 85,
+    "confidence": 95,
+    "priorityReason": "日本の製造業・ロボット技術と最先端AIの融合を促す重要提携。",
+    "rankScore": 80,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "apple-intelligence-china-approval",
-    "category": "Model",
-    "title": "中国がアップルAIの導入を承認",
-    "date": "2026/07/15",
-    "summary": "中国当局がApple Intelligenceの国内導入を承認し、アリババのAIモデル「通義千問」が統合される見通しとなった。",
+    "id": "tsmc-q2-profit-jump-2026",
+    "category": "Economy",
+    "title": "TSMCの第2四半期純利益が77%増",
+    "date": "2026/07/16",
+    "summary": "台湾TSMCの2026年第2四半期純利益は前年同期比77%増と大幅に伸長し、市場予想を大きく上回る過去最高益を記録した。",
     "details": [
-      "中国のインターネット規制当局が、アリババのAIモデル「Qwen（通義千問）」をiOSなどのOSに統合することを条件に、アップルのAIサービス「Apple Intelligence」の国内導入を承認した。米中対立下での巨大市場におけるローカライズ戦略として注目される。"
+      "世界最大の受託半導体メーカーである台湾TSMCが発表した2026年第2四半期決算は、AI向け半導体需要の急増を背景に純利益が前年同期比77%増となり、市場予想を上回る過去最高益を達成した。"
     ],
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/tsmc-q2-profit-jumps-77-record-far-surpasses-expectations-2026-07-16/"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 75,
-    "confidence": 90,
-    "priorityReason": "アップルの中国市場におけるAI戦略の重要な進展であるため。",
-    "rankScore": 78,
+    "socialImpact": 75,
+    "novelty": 65,
+    "confidence": 95,
+    "priorityReason": "AI半導体需要の強さを裏付ける、市場影響力の高い決算発表。",
+    "rankScore": 75,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "openai-researcher-drug-discovery-startup",
+    "id": "fireworks-ai-valuation-2026",
     "category": "Business",
-    "title": "OpenAI研究者が創薬AI新会社",
-    "date": "2026/07/14",
-    "summary": "OpenAIの研究者マイルズ・ワン氏が退社し、評価額20億ドル規模の創薬AIスタートアップの立ち上げに向け交渉中である。",
+    "title": "Fireworksが評価額175億ドルに",
+    "date": "2026/07/16",
+    "summary": "エヌビディアが出資するAIスタートアップのFireworksが、評価額175億ドルで15億ドルの資金調達を実施した。",
     "details": [
-      "OpenAIで科学・生物学分野のAI研究を率いたマイルズ・ワン氏が退社し、約2億ドルの資金調達と評価額20億ドルでの創薬AIスタートアップ設立に向けて投資家と協議している。"
+      "オープンソースAIモデルのクラウド実行サービスを提供するFireworksは、年換算売上高が前年比5倍の10億ドルを突破し、評価額175億ドルに達した。"
     ],
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/16/fireworks-ai-startup-value.html"
       }
     ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 80,
+    "importance": "medium",
+    "socialImpact": 60,
+    "novelty": 75,
     "confidence": 90,
-    "priorityReason": "優秀な人材の独立によるバイオAI分野の活性化を示す。",
-    "rankScore": 75,
-    "rankTier": "A",
-    "ageDays": 2,
+    "priorityReason": "低コストなAIモデル需要の高まりを象徴する大型調達。",
+    "rankScore": 65,
+    "rankTier": "B",
+    "ageDays": 1,
     "rank": 4,
-    "summaryLevel": "standard"
+    "summaryLevel": "brief"
   },
   {
-    "id": "white-house-gold-eagle-initiative",
-    "category": "Policy",
-    "title": "米政府がAI脆弱性対策を始動",
-    "date": "2026/07/14",
-    "summary": "米ホワイトハウスは、重要インフラの脆弱性をAIで迅速に検知・修正する新イニシアチブ「ゴールド・イーグル」を発表した。",
+    "id": "south-korea-rate-hike-2026",
+    "category": "Economy",
+    "title": "韓国中銀が3年ぶり利上げ実施",
+    "date": "2026/07/16",
+    "summary": "韓国銀行は中東情勢緊迫化に伴うインフレ抑制と家計債務抑制のため、2023年以来初となる利上げを決定した。",
     "details": [
-      "トランプ大統領が署名したAI大統領令に基づき、重要インフラの脆弱性検知とパッチ適用を高速化するAI主導の調整メカニズム「ゴールド・イーグル」が始動した。"
+      "韓国銀行は16日、インフレ圧力と家計債務増加に対処するため、約3年ぶりとなる政策金利の引き上げを決定し、さらなる利上げの可能性も示唆した。"
     ],
     "sources": [
       {
-        "name": "SecurityWeek",
-        "url": "https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/"
+        "name": "Greenwich Time",
+        "url": "https://www.greenwichtime.com/news/world/article/south-korea-s-central-bank-hikes-rate-for-1st-22347244.php"
       }
     ],
     "importance": "medium",
     "socialImpact": 70,
-    "novelty": 70,
+    "novelty": 60,
     "confidence": 90,
-    "priorityReason": "国家安全保障におけるAI活用の具体策として重要。",
+    "priorityReason": "アジア市場の株安を誘発した、韓国の金融政策転換。",
     "rankScore": 65,
     "rankTier": "B",
-    "ageDays": 2,
+    "ageDays": 1,
     "rank": 5,
     "summaryLevel": "brief"
   }
