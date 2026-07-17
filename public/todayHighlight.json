@@ -1,86 +1,90 @@
 [
   {
-    "id": "us-brazil-tariffs-2026",
-    "category": "Policy",
-    "title": "米政府がブラジル製品に25%関税",
-    "date": "2026/07/16",
-    "summary": "米国政府は不公正な貿易慣行を理由に、ブラジルからの輸入品の大部分に対して25%の追加関税を課すことを決定した。",
+    "id": "moonshot-kimi-k3-launch",
+    "category": "Model",
+    "title": "中国MoonshotがKimi K3発表",
+    "date": "2026/07/17",
+    "summary": "中国のAIスタートアップMoonshot AIが、米国製モデルに匹敵する性能を持つ世界最大級のオープンソースAIモデル「Kimi K3」を発表した。",
     "details": [
-      "米国政府がブラジルからの輸入品の大部分に対して25%の追加関税を課すことを決定した。この措置は7月22日から開始される予定である。",
-      "米ブラジル間の貿易摩擦が激化することで、サプライチェーンの再編や対象品目の価格高騰など、グローバル市場への広範な影響が懸念される。",
-      "7月22日の関税発動に向けたブラジル政府の対抗措置や、対象となる具体的な品目リストの公表に注目が集まる。"
+      "中国のAIスタートアップであるMoonshot AIが、米国OpenAIやAnthropicの最先端モデルに匹敵する性能を持つオープンソースモデル「Kimi K3」を発表した。本モデルは7月27日にオープンソースとして一般公開される予定である。",
+      "安価で高性能な中国製オープンソースモデルの登場は、巨額のインフラ投資を続ける米国のAI企業の優位性を脅かし、市場の競争環境を激変させる可能性がある。この発表を受けて、米国やアジアの株式市場ではAI関連株の売りが加速した。",
+      "7月27日の一般公開時に、実際のコーディングや複雑な推論タスクにおける処理効率、およびシリコンバレーの競合モデルに対する具体的なベンチマーク性能がどう評価されるか注目される。"
     ],
     "sources": [
       {
-        "name": "AP News",
-        "url": "https://apnews.com/article/us-brazil-trade-tariffs-99e8c52a44c75f31c343d7ebad41f614"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html"
       },
       {
         "name": "Reuters",
-        "url": "https://www.reuters.com/video/watch/idRW838016072026RP1"
+        "url": "https://www.reuters.com/world/china/chinas-moonshot-unveils-worlds-largest-open-ai-model-closing-us-rivals-2026-07-17/"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
-    "novelty": 70,
+    "novelty": 90,
     "confidence": 95,
-    "priorityReason": "米国の新たな関税政策による国際貿易への影響が極めて大きいため。",
-    "rankScore": 87,
+    "priorityReason": "米中AI覇権争いの勢力図を塗り替える技術的ブレイクスルーのため",
+    "rankScore": 90,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "nvidia-japan-physical-ai-2026",
-    "category": "Business",
-    "title": "エヌビディアが日本で物理AI拡大",
-    "date": "2026/07/16",
-    "summary": "米エヌビディアはロボット向け新AIモデルを発表し、富士通など日本の主要企業と連携して物理AIエコシステムを拡張する。",
+    "id": "global-ai-stock-selloff",
+    "category": "Economy",
+    "title": "東京市場で日経平均が5%超急落",
+    "date": "2026/07/17",
+    "summary": "米国のハイテク株安や中国製新AIモデルの台頭を背景に、東京市場で半導体やAI関連銘柄が軒並み売られ、日経平均株価が急落した。",
     "details": [
-      "米エヌビディアはロボットやビジョンAI向けの新型世界モデル「Cosmos 3 Edge」を発表し、富士通やファナック、安川電機などの国内ロボティクス大手と提携して日本市場での「物理AI」展開を本格化させる。"
+      "米国の半導体株安や中国企業のAI技術躍進に伴う投資回収への懸念から、東京市場で日経平均株価が5%超急落し、台湾市場でもTSMCを中心に5.9%下落するなど、アジアの主要な半導体・AI関連銘柄に世界的な売りが波及した。"
     ],
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html"
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2026/07/17/stocks-markets-ai-iran-trump-rates/4c7eb13e-8199-11f1-8a16-393bd03340b0_story.html"
       },
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html"
       }
     ],
     "importance": "high",
     "socialImpact": 80,
-    "novelty": 85,
+    "novelty": 60,
     "confidence": 95,
-    "priorityReason": "日本の製造業・ロボット技術と最先端AIの融合を促す重要提携。",
-    "rankScore": 80,
+    "priorityReason": "世界的なAIバブル懸念と日本市場への直接的影響を示すため",
+    "rankScore": 76,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "tsmc-q2-profit-jump-2026",
-    "category": "Economy",
-    "title": "TSMCの第2四半期純利益が77%増",
-    "date": "2026/07/16",
-    "summary": "台湾TSMCの2026年第2四半期純利益は前年同期比77%増と大幅に伸長し、市場予想を大きく上回る過去最高益を記録した。",
+    "id": "anthropic-meta-compute-talks",
+    "category": "Business",
+    "title": "AnthropicがMetaと交渉",
+    "date": "2026/07/17",
+    "summary": "AIスタートアップのAnthropicが、不足する計算資源を確保するため、MetaからAIインフラを借り受ける初期交渉を行っていることが判明した。",
     "details": [
-      "世界最大の受託半導体メーカーである台湾TSMCが発表した2026年第2四半期決算は、AI向け半導体需要の急増を背景に純利益が前年同期比77%増となり、市場予想を上回る過去最高益を達成した。"
+      "AnthropicはMetaが保有する数10億ドル規模のAIインフラの一部をリースする交渉を進めており、合意すればMetaがクラウドプロバイダーとして競合のテック大手に挑む契機となる。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/tsmc-q2-profit-jumps-77-record-far-surpasses-expectations-2026-07-16/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/07/17/tech/meta-anthropic-ai-cloud-computing"
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
-    "novelty": 65,
-    "confidence": 95,
-    "priorityReason": "AI半導体需要の強さを裏付ける、市場影響力の高い決算発表。",
+    "socialImpact": 70,
+    "novelty": 75,
+    "confidence": 90,
+    "priorityReason": "AI開発競争におけるインフラ確保の新たな提携の動きを伝えるため",
     "rankScore": 75,
     "rankTier": "A",
     "ageDays": 1,
@@ -88,52 +92,52 @@
     "summaryLevel": "standard"
   },
   {
-    "id": "fireworks-ai-valuation-2026",
+    "id": "general-compute-400m-loan",
     "category": "Business",
-    "title": "Fireworksが評価額175億ドルに",
-    "date": "2026/07/16",
-    "summary": "エヌビディアが出資するAIスタートアップのFireworksが、評価額175億ドルで15億ドルの資金調達を実施した。",
+    "title": "推論特化クラウドが580億円調達",
+    "date": "2026/07/17",
+    "summary": "AI推論クラウドのGeneral Computeが、推論特化型チップを担保に投資会社Upper90から4億ドルの融資を獲得した。",
     "details": [
-      "オープンソースAIモデルのクラウド実行サービスを提供するFireworksは、年換算売上高が前年比5倍の10億ドルを突破し、評価額175億ドルに達した。"
+      "AIモデルの実行段階である「推論」の効率化需要が高まる中、高価な学習用GPUではなく推論特化型チップを担保にした初の大型融資事例として注目を集めている。"
     ],
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/16/fireworks-ai-startup-value.html"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
       }
     ],
     "importance": "medium",
     "socialImpact": 60,
-    "novelty": 75,
+    "novelty": 80,
     "confidence": 90,
-    "priorityReason": "低コストなAIモデル需要の高まりを象徴する大型調達。",
-    "rankScore": 65,
+    "priorityReason": "AI金融市場における担保対象のシフトを示す先駆的事例のため",
+    "rankScore": 66,
     "rankTier": "B",
     "ageDays": 1,
     "rank": 4,
     "summaryLevel": "brief"
   },
   {
-    "id": "south-korea-rate-hike-2026",
-    "category": "Economy",
-    "title": "韓国中銀が3年ぶり利上げ実施",
-    "date": "2026/07/16",
-    "summary": "韓国銀行は中東情勢緊迫化に伴うインフレ抑制と家計債務抑制のため、2023年以来初となる利上げを決定した。",
+    "id": "netflix-generative-ai-production",
+    "category": "Entertainment",
+    "title": "Netflixが300作品で生成AI活用",
+    "date": "2026/07/17",
+    "summary": "Netflixが2026年第2四半期決算で、同年だけで約300作品の制作・編集プロセスに生成AIを導入した実績を公表した。",
     "details": [
-      "韓国銀行は16日、インフレ圧力と家計債務増加に対処するため、約3年ぶりとなる政策金利の引き上げを決定し、さらなる利上げの可能性も示唆した。"
+      "企画からポストプロダクションまで、映像制作のライフサイクル全体で生成AIを活用し、コンテンツ制作の効率化と高度化を実証している。"
     ],
     "sources": [
       {
-        "name": "Greenwich Time",
-        "url": "https://www.greenwichtime.com/news/world/article/south-korea-s-central-bank-hikes-rate-for-1st-22347244.php"
+        "name": "GIGAZINE",
+        "url": "https://gigazine.net/gsc_news/en/20260717-netflix-gen-ai-title/"
       }
     ],
     "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 60,
+    "socialImpact": 65,
+    "novelty": 70,
     "confidence": 90,
-    "priorityReason": "アジア市場の株安を誘発した、韓国の金融政策転換。",
-    "rankScore": 65,
+    "priorityReason": "エンタメ業界における生成AIの実用化規模が判明したため",
+    "rankScore": 64,
     "rankTier": "B",
     "ageDays": 1,
     "rank": 5,
