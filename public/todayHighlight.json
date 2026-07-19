@@ -1,86 +1,106 @@
 [
   {
-    "id": "kimi-k3-china-ai-breakthrough",
-    "category": "Model",
-    "title": "中国MoonshotがKimi K3発表",
-    "date": "2026/07/18",
-    "summary": "中国のスタートアップMoonshot AIが開発したオープンウェイトモデル「Kimi K3」が、コーディングやエージェント機能で米国製AIに匹敵し業界に衝撃を与えている。",
+    "id": "china-moonshot-ipo-plan",
+    "category": "Business",
+    "title": "中国Moonshotが半年以内のIPO計画",
+    "date": "2026/07/19",
+    "summary": "中国のAIスタートアップMoonshot AIが、最新モデルの成功を受けて最短6ヶ月以内の新規株式公開に向けた準備を進めていることが判明した。",
     "details": [
-      "中国のスタートアップであるMoonshot AIが、最新のオープンウェイトAIモデル「Kimi K3」を公開した。",
-      "本モデルはコーディングベンチマークで米国製モデルを凌駕しており、米国の技術的優位性を揺るがす地政学的な影響が懸念されている。",
-      "今後は、米国政府による規制緩和の議論や、オープンソースAIを巡る米中間の開発競争の激化に注目すべきである。"
+      "Moonshot AIは投資家に対し、最短で6ヶ月以内の上場計画を提示した。同社は現在、評価額300億ドル（約4兆7000億円）超を見込む資金調達ラウンドの最終段階にある。"
     ],
     "sources": [
       {
-        "name": "Axios",
-        "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai"
-      },
-      {
-        "name": "Tech Xplore",
-        "url": "https://techxplore.com/news/2026-07-chinese-ai-tech-industry-abilities.html"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 90,
-    "confidence": 95,
-    "priorityReason": "米中AI覇権争いの転換点となる重要モデルの登場であるため。",
-    "rankScore": 90,
-    "rankTier": "S",
-    "ageDays": 1,
-    "rank": 1,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "us-data-center-protests-national",
-    "category": "Ethics",
-    "title": "全米125カ所でデータセンター抗議活動",
-    "date": "2026/07/18",
-    "summary": "AIインフラの急速な拡大に伴う環境負荷や電力消費に反対する初の全米規模の共同抗議活動が、125以上の地域で一斉に実施された。",
-    "details": [
-      "AIブームに伴うデータセンターの急速な建設に対し、住民や環境団体が反発を強めており、全米125カ所以上で一斉に抗議デモが計画された。インフラ拡大がもたらす電力や水資源への負荷が社会問題化している。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/retail-consumer/us-data-center-protests-go-national-backlash-grows-2026-07-18/"
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough"
       }
     ],
     "importance": "high",
-    "socialImpact": 80,
-    "novelty": 75,
+    "socialImpact": 75,
+    "novelty": 80,
     "confidence": 95,
-    "priorityReason": "AIインフラ開発に対する住民の反発が全米規模に拡大したため。",
+    "priorityReason": "中国AI企業の急成長と巨大IPOの動きを示す重要ニュース。",
     "rankScore": 78,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 1,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "netflix-acquires-interpositive",
+    "category": "Business",
+    "title": "ネトフリ、アフレック氏のAI企業買収",
+    "date": "2026/07/19",
+    "summary": "米ネットフリックスが、俳優ベン・アフレック氏らが共同創業したAI映画制作スタートアップを5億8700万ドルの現金で買収したことが規制開示で判明した。",
+    "details": [
+      "ネットフリックスは、ベン・アフレック氏が共同創業したInterPositiveを5億8700万ドルで買収した。同氏は人間の創造力を保護・強化するために同社を設立したと説明している。"
+    ],
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 85,
+    "confidence": 95,
+    "priorityReason": "ハリウッド大物と配信大手のAI映画制作を巡る巨額買収劇。",
+    "rankScore": 77,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "netflix-acquires-interpositive",
-    "category": "Business",
-    "title": "ネットフリックスがAI企業を5.8億ドルで買収",
-    "date": "2026/07/18",
-    "summary": "ネットフリックスが、俳優ベン・アフレック氏が創業したAIスタートアップ「InterPositive」を約5億8700万ドルの現金で買収したことが判明した。",
+    "id": "hemispheric-brain-activity-ai",
+    "category": "Service",
+    "title": "脳活動を言語化するAI開発に5200万ドル",
+    "date": "2026/07/19",
+    "summary": "イスラエルのスタートアップHemisphericが、脳活動を解読してうつ病やPTSDなどの診断を支援するAIモデル開発に向け5200万ドルを調達した。",
     "details": [
-      "ネットフリックスがSECへの提出書類で、ベン・アフレック氏のAI企業を5億8700万ドルで買収した事実を開示した。"
+      "同社は15分間の非侵襲スキャンとAIモデルを組み合わせ、10万人以上のデータを用いて精神疾患やパーキンソン病の早期診断を目指す。"
     ],
     "sources": [
       {
-        "name": "Variety Australia",
-        "url": "https://au.variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-38668/"
+        "name": "Haaretz",
+        "url": "https://www.haaretz.com/israel-news/tech-news/2026-07-19/ty-article-magazine/the-sound-of-depression-translating-brain-activity-into-language/0000019f-6a1d-de8e-afff-fbff1b7e0000"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 75,
+    "novelty": 90,
+    "confidence": 90,
+    "priorityReason": "医療分野における脳波解析とAI融合の最前線を示す。",
+    "rankScore": 71,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 3,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "rlmf-next-gen-ai-tuning",
+    "category": "Model",
+    "title": "自己監視を促す新AI調整手法「RLMF」",
+    "date": "2026/07/19",
+    "summary": "従来のRLHFに代わり、AI自身に確信度を評価させ信頼性を高める新手法「メタ認知フィードバックによる強化学習」が台頭している。",
+    "details": [
+      "RLMFは、単に正解を報酬とするのではなく、AIが自身の回答の正確性を自己評価し、適切な確信度を表現できるように訓練する手法である。"
+    ],
+    "sources": [
+      {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/lanceeliot/2026/07/19/reinforcement-learning-with-metacognitive-feedback-is-offered-as-a-next-gen-way-to-shape-ai-llms/"
       }
     ],
     "importance": "medium",
     "socialImpact": 60,
-    "novelty": 70,
+    "novelty": 85,
     "confidence": 90,
-    "priorityReason": "エンタメ大手による巨額のAI企業買収の実態が明らかになったため。",
-    "rankScore": 64,
+    "priorityReason": "ハルシネーションを抑制する次世代のAI訓練手法として注目。",
+    "rankScore": 67,
     "rankTier": "B",
     "ageDays": 1,
-    "rank": 3,
+    "rank": 4,
     "summaryLevel": "brief"
   }
 ]
