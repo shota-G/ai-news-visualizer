@@ -1,106 +1,146 @@
 [
   {
-    "id": "china-moonshot-ipo-plan",
+    "id": "anthropic-authors-settlement-20260720",
     "category": "Business",
-    "title": "中国Moonshotが半年以内のIPO計画",
-    "date": "2026/07/19",
-    "summary": "中国のAIスタートアップMoonshot AIが、最新モデルの成功を受けて最短6ヶ月以内の新規株式公開に向けた準備を進めていることが判明した。",
+    "title": "Anthropicが著作権訴訟で15億ドルの和解合意",
+    "date": "2026/07/20",
+    "summary": "米Anthropicと著者グループによる15億ドルの和解案が最終承認され、AI著作権訴訟として過去最大規模の決着となった。",
     "details": [
-      "Moonshot AIは投資家に対し、最短で6ヶ月以内の上場計画を提示した。同社は現在、評価額300億ドル（約4兆7000億円）超を見込む資金調達ラウンドの最終段階にある。"
+      "米Anthropicが海賊版書籍をAI学習に無断使用したとする集団訴訟で、15億ドル（約2400億円）を支払う和解案が裁判所に最終承認された。このうち1億2200万ドルは弁護士費用や訴訟費用に充てられる。",
+      "生成AIの学習データを巡る著作権侵害訴訟としては過去最大の和解額であり、今後のAI開発企業とコンテンツ権利者との交渉やライセンス契約における重要な先例となる。",
+      "今後はOpenAIなど他社が抱える同様の著作権訴訟への影響や、AI学習データの合法的な調達コストが業界全体のビジネスモデルに与える変化が注目される。"
     ],
     "sources": [
       {
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough"
+        "name": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/ip-law/anthropic-authors-1-5-billion-deal-receives-final-approval"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 85,
+    "novelty": 90,
+    "confidence": 95,
+    "priorityReason": "AI著作権訴訟で過去最大の和解が成立し業界に激震",
+    "rankScore": 90,
+    "rankTier": "S",
+    "ageDays": 1,
+    "rank": 1,
+    "summaryLevel": "deep"
+  },
+  {
+    "id": "kimi-k3-subscription-halt-20260720",
+    "category": "Model",
+    "title": "中国AIモデルKimi K3が需要急増で新規登録停止",
+    "date": "2026/07/20",
+    "summary": "中国Moonshotの最新AIモデル「Kimi K3」が、サービス開始直後の急激な需要増によりインフラ容量を超え、新規サブスク契約を一時停止した。",
+    "details": [
+      "米国製モデルに匹敵する性能で注目を集める中国Moonshotのオープンウェイトモデル「Kimi K3」が、リリースから数日でアクセスが殺到し、サーバー容量の限界に達したため新規登録の受け付けを停止した。この急成長はアリババやテンセントなど中国テック大手のクラウド需要にも好影響を与えている。"
+    ],
+    "sources": [
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/article/kimi-k3-china-ai-model-us-4c66a2e0f557ce79d3cc2d769c9a6226"
+      },
+      {
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/kimi-k3-ai-model-moonshot-investors-alibaba-cloud-tencent-stock-2026-7"
       }
     ],
     "importance": "high",
     "socialImpact": 75,
     "novelty": 80,
     "confidence": 95,
-    "priorityReason": "中国AI企業の急成長と巨大IPOの動きを示す重要ニュース。",
+    "priorityReason": "米中AI競争を揺るがす最新モデルの爆発的普及",
     "rankScore": 78,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 1,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "netflix-acquires-interpositive",
-    "category": "Business",
-    "title": "ネトフリ、アフレック氏のAI企業買収",
-    "date": "2026/07/19",
-    "summary": "米ネットフリックスが、俳優ベン・アフレック氏らが共同創業したAI映画制作スタートアップを5億8700万ドルの現金で買収したことが規制開示で判明した。",
-    "details": [
-      "ネットフリックスは、ベン・アフレック氏が共同創業したInterPositiveを5億8700万ドルで買収した。同氏は人間の創造力を保護・強化するために同社を設立したと説明している。"
-    ],
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 85,
-    "confidence": 95,
-    "priorityReason": "ハリウッド大物と配信大手のAI映画制作を巡る巨額買収劇。",
-    "rankScore": 77,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "hemispheric-brain-activity-ai",
-    "category": "Service",
-    "title": "脳活動を言語化するAI開発に5200万ドル",
-    "date": "2026/07/19",
-    "summary": "イスラエルのスタートアップHemisphericが、脳活動を解読してうつ病やPTSDなどの診断を支援するAIモデル開発に向け5200万ドルを調達した。",
+    "id": "amd-helios-microsoft-azure-20260720",
+    "category": "Business",
+    "title": "AMDが初のAIラックHelios発表、MSが採用へ",
+    "date": "2026/07/20",
+    "summary": "米AMDがNvidiaに対抗する初のラック規模AIシステム「Helios」を発表し、マイクロソフトがAzureデータセンターへの導入を決めた。",
     "details": [
-      "同社は15分間の非侵襲スキャンとAIモデルを組み合わせ、10万人以上のデータを用いて精神疾患やパーキンソン病の早期診断を目指す。"
+      "AMDは初のラック規模AIシステム「Helios」を投入し、マイクロソフトのほかMetaやOracleも初期顧客として採用を決定、Nvidiaの牙城に挑む。"
     ],
     "sources": [
       {
-        "name": "Haaretz",
-        "url": "https://www.haaretz.com/israel-news/tech-news/2026-07-19/ty-article-magazine/the-sound-of-depression-translating-brain-activity-into-language/0000019f-6a1d-de8e-afff-fbff1b7e0000"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html"
       }
     ],
-    "importance": "medium",
-    "socialImpact": 75,
-    "novelty": 90,
+    "importance": "high",
+    "socialImpact": 70,
+    "novelty": 75,
     "confidence": 90,
-    "priorityReason": "医療分野における脳波解析とAI融合の最前線を示す。",
-    "rankScore": 71,
-    "rankTier": "B",
+    "priorityReason": "Nvidia一強のAI半導体市場に挑むAMDの重要製品",
+    "rankScore": 75,
+    "rankTier": "A",
     "ageDays": 1,
     "rank": 3,
-    "summaryLevel": "brief"
+    "summaryLevel": "standard"
   },
   {
-    "id": "rlmf-next-gen-ai-tuning",
-    "category": "Model",
-    "title": "自己監視を促す新AI調整手法「RLMF」",
-    "date": "2026/07/19",
-    "summary": "従来のRLHFに代わり、AI自身に確信度を評価させ信頼性を高める新手法「メタ認知フィードバックによる強化学習」が台頭している。",
+    "id": "cuspai-funding-bezos-nvidia-20260720",
+    "category": "Business",
+    "title": "英CuspAIが4.5億ドル調達、ベゾス氏ら出資",
+    "date": "2026/07/20",
+    "summary": "AIを用いた半導体新材料開発を手がける英CuspAIが、ジェフ・ベゾス氏のファンドや英政府などから4億5000万ドルを調達した。",
     "details": [
-      "RLMFは、単に正解を報酬とするのではなく、AIが自身の回答の正確性を自己評価し、適切な確信度を表現できるように訓練する手法である。"
+      "CuspAIはNvidiaとも提携し、AIを活用して半導体製造に必要な新材料や希少鉱物の代替物質探索を加速させる。"
     ],
     "sources": [
       {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/lanceeliot/2026/07/19/reinforcement-learning-with-metacognitive-feedback-is-offered-as-a-next-gen-way-to-shape-ai-llms/"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/uk-government-bezos-back-cuspais-450-million-round-startup-seeks-discover-new-2026-07-20/"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/20/bezos-cuspai-new-chip-materials-nvidia.html"
       }
     ],
     "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 85,
+    "socialImpact": 65,
+    "novelty": 80,
     "confidence": 90,
-    "priorityReason": "ハルシネーションを抑制する次世代のAI訓練手法として注目。",
+    "priorityReason": "AIによる材料科学の進化と半導体供給網への影響",
     "rankScore": 67,
     "rankTier": "B",
     "ageDays": 1,
     "rank": 4,
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "us-ai-safety-director-resigns-20260720",
+    "category": "Policy",
+    "title": "米AI安全研究所の所長が就任3ヶ月で辞任",
+    "date": "2026/07/20",
+    "summary": "米商務省の連邦AIテスト機関「AI規格・イノベーションセンター」で、クリス・フォール所長が就任からわずか3ヶ月で辞任した。",
+    "details": [
+      "トランプ政権下のAI安全評価を主導する立場だったフォール氏の突然の辞任により、政府のAI規制・検証体制の再構築が迫られる。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/us/head-us-ai-safety-agency-resigns-2026-07-20/"
+      },
+      {
+        "name": "Politico",
+        "url": "https://www.politico.com/news/2026/07/20/top-trump-ai-safety-official-abruptly-leaves-post-01004847"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 60,
+    "confidence": 95,
+    "priorityReason": "米国のAI安全保障政策における司令塔の突然の交代",
+    "rankScore": 66,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 5,
     "summaryLevel": "brief"
   }
 ]
