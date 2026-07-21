@@ -1,56 +1,50 @@
 [
   {
-    "id": "anthropic-authors-settlement-20260720",
-    "category": "Business",
-    "title": "Anthropicが著作権訴訟で15億ドルの和解合意",
-    "date": "2026/07/20",
-    "summary": "米Anthropicと著者グループによる15億ドルの和解案が最終承認され、AI著作権訴訟として過去最大規模の決着となった。",
+    "id": "japan-noetra-physical-ai-20260721",
+    "category": "Policy",
+    "title": "国内44社が物理AI開発連合を設立",
+    "date": "2026/07/21",
+    "summary": "日本の大手企業44社がコンソーシアム「Noetra」を設立し、政府から約3873億円の資金支援を得て物理AI開発に着手した。",
     "details": [
-      "米Anthropicが海賊版書籍をAI学習に無断使用したとする集団訴訟で、15億ドル（約2400億円）を支払う和解案が裁判所に最終承認された。このうち1億2200万ドルは弁護士費用や訴訟費用に充てられる。",
-      "生成AIの学習データを巡る著作権侵害訴訟としては過去最大の和解額であり、今後のAI開発企業とコンテンツ権利者との交渉やライセンス契約における重要な先例となる。",
-      "今後はOpenAIなど他社が抱える同様の著作権訴訟への影響や、AI学習データの合法的な調達コストが業界全体のビジネスモデルに与える変化が注目される。"
+      "日本独自のソブリンAIおよび物理AIエコシステムの構築を目指す。ロボット制御用AIモデルの開発を推進し、新産業時代における主導権確保を狙う。"
     ],
     "sources": [
       {
-        "name": "Bloomberg Law",
-        "url": "https://news.bloomberglaw.com/ip-law/anthropic-authors-1-5-billion-deal-receives-final-approval"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 90,
-    "confidence": 95,
-    "priorityReason": "AI著作権訴訟で過去最大の和解が成立し業界に激震",
-    "rankScore": 90,
-    "rankTier": "S",
-    "ageDays": 1,
-    "rank": 1,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "kimi-k3-subscription-halt-20260720",
-    "category": "Model",
-    "title": "中国AIモデルKimi K3が需要急増で新規登録停止",
-    "date": "2026/07/20",
-    "summary": "中国Moonshotの最新AIモデル「Kimi K3」が、サービス開始直後の急激な需要増によりインフラ容量を超え、新規サブスク契約を一時停止した。",
-    "details": [
-      "米国製モデルに匹敵する性能で注目を集める中国Moonshotのオープンウェイトモデル「Kimi K3」が、リリースから数日でアクセスが殺到し、サーバー容量の限界に達したため新規登録の受け付けを停止した。この急成長はアリババやテンセントなど中国テック大手のクラウド需要にも好影響を与えている。"
-    ],
-    "sources": [
-      {
-        "name": "AP News",
-        "url": "https://apnews.com/article/kimi-k3-china-ai-model-us-4c66a2e0f557ce79d3cc2d769c9a6226"
-      },
-      {
-        "name": "Business Insider",
-        "url": "https://www.businessinsider.com/kimi-k3-ai-model-moonshot-investors-alibaba-cloud-tencent-stock-2026-7"
+        "name": "Light Reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/noetra-plans-140mw-data-center-to-fuel-japan-s-physical-ai-push"
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
+    "socialImpact": 85,
     "novelty": 80,
+    "confidence": 90,
+    "priorityReason": "日本政府が巨額支援する産業AI連合の始動を伝えるため。",
+    "rankScore": 81,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 1,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "microsoft-mistral-deal-20260721",
+    "category": "Business",
+    "title": "米マイクロソフトが仏ミストラルを支援",
+    "date": "2026/07/21",
+    "summary": "マイクロソフトが仏AIスタートアップのMistralに対し、欧州のインフラ整備に向け数十億ドル規模の資金提供に合意した。",
+    "details": [
+      "本合意により、MistralのAI技術はマイクロソフトのクラウドを通じて米国市場などへ配信が拡大される。欧州におけるAI覇権争いと米仏企業の提携強化を示す動きである。"
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/microsoft-fund-mistrals-european-ai-expansion-multibillion-dollar-deal-2026-07-21/"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 78,
+    "novelty": 75,
     "confidence": 95,
-    "priorityReason": "米中AI競争を揺るがす最新モデルの爆発的普及",
+    "priorityReason": "欧州AIの雄と米巨頭の数十億ドル規模の提携劇であるため。",
     "rankScore": 78,
     "rankTier": "A",
     "ageDays": 1,
@@ -58,89 +52,59 @@
     "summaryLevel": "standard"
   },
   {
-    "id": "amd-helios-microsoft-azure-20260720",
+    "id": "openai-anthropic-lobbying-20260721",
     "category": "Business",
-    "title": "AMDが初のAIラックHelios発表、MSが採用へ",
-    "date": "2026/07/20",
-    "summary": "米AMDがNvidiaに対抗する初のラック規模AIシステム「Helios」を発表し、マイクロソフトがAzureデータセンターへの導入を決めた。",
+    "title": "米AI大手のロビー活動費が急増",
+    "date": "2026/07/21",
+    "summary": "OpenAIとAnthropicの2026年第2四半期の連邦ロビー活動費が、前四半期比23%増の計317万ドルに達した。",
     "details": [
-      "AMDは初のラック規模AIシステム「Helios」を投入し、マイクロソフトのほかMetaやOracleも初期顧客として採用を決定、Nvidiaの牙城に挑む。"
+      "AI規制や輸出管理を巡る議論の活発化を背景に、新興AI企業がワシントンでの影響力確保に向け資金投入を急増させている。Anthropicは197万ドル、OpenAIは120万ドルを費やし、いずれも過去最高額を記録した。大手国防企業が支出を減らす中で、AI分野の存在感が際立っている。"
     ],
     "sources": [
       {
         "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html"
+        "url": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/07/21/anthropic-ramps-up-lobbying-spending-ai-policy-fights"
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
-    "novelty": 75,
-    "confidence": 90,
-    "priorityReason": "Nvidia一強のAI半導体市場に挑むAMDの重要製品",
-    "rankScore": 75,
+    "socialImpact": 75,
+    "novelty": 70,
+    "confidence": 95,
+    "priorityReason": "AI規制法案を巡るロビー活動の激化と資金規模がわかるため。",
+    "rankScore": 76,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 3,
     "summaryLevel": "standard"
   },
   {
-    "id": "cuspai-funding-bezos-nvidia-20260720",
-    "category": "Business",
-    "title": "英CuspAIが4.5億ドル調達、ベゾス氏ら出資",
-    "date": "2026/07/20",
-    "summary": "AIを用いた半導体新材料開発を手がける英CuspAIが、ジェフ・ベゾス氏のファンドや英政府などから4億5000万ドルを調達した。",
+    "id": "cisco-antares-ai-models-20260721",
+    "category": "Model",
+    "title": "シスコが脆弱性検知の低コストAI公開",
+    "date": "2026/07/21",
+    "summary": "シスコがソースコードのセキュリティ脆弱性を高速かつ低コストで特定するオープンウェイトAI「Antares」を発表した。",
     "details": [
-      "CuspAIはNvidiaとも提携し、AIを活用して半導体製造に必要な新材料や希少鉱物の代替物質探索を加速させる。"
+      "Antaresは、巨大なAIモデルと比較して数分の一のコストで動作する。ユーザーがモデルの重みを制御できるオープンウェイト形式を採用し、開発現場の安全性を高める。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/uk-government-bezos-back-cuspais-450-million-round-startup-seeks-discover-new-2026-07-20/"
-      },
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/20/bezos-cuspai-new-chip-materials-nvidia.html"
+        "name": "SecurityWeek",
+        "url": "https://www.securityweek.com/cisco-launches-low-cost-ai-models-for-source-code-security/"
       }
     ],
     "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 80,
+    "socialImpact": 60,
+    "novelty": 72,
     "confidence": 90,
-    "priorityReason": "AIによる材料科学の進化と半導体供給網への影響",
-    "rankScore": 67,
+    "priorityReason": "開発者向けセキュリティAIの低コスト化トレンドを示すため。",
+    "rankScore": 65,
     "rankTier": "B",
     "ageDays": 1,
     "rank": 4,
-    "summaryLevel": "brief"
-  },
-  {
-    "id": "us-ai-safety-director-resigns-20260720",
-    "category": "Policy",
-    "title": "米AI安全研究所の所長が就任3ヶ月で辞任",
-    "date": "2026/07/20",
-    "summary": "米商務省の連邦AIテスト機関「AI規格・イノベーションセンター」で、クリス・フォール所長が就任からわずか3ヶ月で辞任した。",
-    "details": [
-      "トランプ政権下のAI安全評価を主導する立場だったフォール氏の突然の辞任により、政府のAI規制・検証体制の再構築が迫られる。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/us/head-us-ai-safety-agency-resigns-2026-07-20/"
-      },
-      {
-        "name": "Politico",
-        "url": "https://www.politico.com/news/2026/07/20/top-trump-ai-safety-official-abruptly-leaves-post-01004847"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 60,
-    "confidence": 95,
-    "priorityReason": "米国のAI安全保障政策における司令塔の突然の交代",
-    "rankScore": 66,
-    "rankTier": "B",
-    "ageDays": 1,
-    "rank": 5,
     "summaryLevel": "brief"
   }
 ]
