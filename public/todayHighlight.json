@@ -1,110 +1,90 @@
 [
   {
-    "id": "japan-noetra-physical-ai-20260721",
-    "category": "Policy",
-    "title": "国内44社が物理AI開発連合を設立",
-    "date": "2026/07/21",
-    "summary": "日本の大手企業44社がコンソーシアム「Noetra」を設立し、政府から約3873億円の資金支援を得て物理AI開発に着手した。",
+    "id": "amd-anthropic-deal-20260722",
+    "category": "Business",
+    "title": "AMDがAnthropicと提携",
+    "date": "2026/07/22",
+    "summary": "AMDがAIスタートアップのAnthropicに最大50億ドルを投資し、数万基規模のAIチップ供給契約を締結した。",
     "details": [
-      "日本独自のソブリンAIおよび物理AIエコシステムの構築を目指す。ロボット制御用AIモデルの開発を推進し、新産業時代における主導権確保を狙う。"
+      "米半導体大手のAMDは、AIスタートアップのAnthropicに対し最大50億ドルを投資する大規模なコンピューティング提携を発表した。",
+      "本契約は数十億ドル規模に及び、AMD製AIチップの供給を通じて、特定ベンダーに依存しないAnthropicのインフラ多様化を支援する。",
+      "今後はAMD製チップの供給スケジュールや、競合するNVIDIAの市場シェアに与える影響が注視される。"
     ],
     "sources": [
       {
-        "name": "Light Reading",
-        "url": "https://www.lightreading.com/ai-machine-learning/noetra-plans-140mw-data-center-to-fuel-japan-s-physical-ai-push"
+        "name": "The Tech Buzz",
+        "url": "https://www.techbuzz.ai/articles/amd-bets-5b-on-anthropic-in-massive-ai-chip-deal"
+      },
+      {
+        "name": "The Wall Street Journal",
+        "url": "https://www.wsj.com/tech/ai/amd-and-anthropic-sign-major-chips-and-investment-deal-4adfdc45"
       }
     ],
-    "importance": "high",
+    "importance": "critical",
     "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "日本政府が巨額支援する産業AI連合の始動を伝えるため。",
-    "rankScore": 81,
-    "rankTier": "A",
+    "novelty": 90,
+    "confidence": 95,
+    "priorityReason": "半導体市場の勢力図を塗り替える巨額提携のため。",
+    "rankScore": 90,
+    "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
-    "summaryLevel": "standard"
+    "summaryLevel": "deep"
   },
   {
-    "id": "microsoft-mistral-deal-20260721",
-    "category": "Business",
-    "title": "米マイクロソフトが仏ミストラルを支援",
-    "date": "2026/07/21",
-    "summary": "マイクロソフトが仏AIスタートアップのMistralに対し、欧州のインフラ整備に向け数十億ドル規模の資金提供に合意した。",
+    "id": "japan-trade-data-20260722",
+    "category": "Economy",
+    "title": "日本の6月輸出が19.3%増",
+    "date": "2026/07/22",
+    "summary": "日本の6月の輸出額は、半導体製造装置の需要増と円安を背景に前年同月比19.3%増を記録し、市場予想を上回った。",
     "details": [
-      "本合意により、MistralのAI技術はマイクロソフトのクラウドを通じて米国市場などへ配信が拡大される。欧州におけるAI覇権争いと米仏企業の提携強化を示す動きである。"
+      "財務省が発表した貿易統計によると、日本の6月の輸出額は前年同月比19.3%増となり、2022年11月以来の速いペースで成長した。半導体等製造装置の出荷増と円安が全体を牽引し、事前予想の18.6%増を上回る結果となった。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/microsoft-fund-mistrals-european-ai-expansion-multibillion-dollar-deal-2026-07-21/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/22/japan-june-exports-trade-data.html"
       }
     ],
     "importance": "high",
-    "socialImpact": 78,
-    "novelty": 75,
+    "socialImpact": 75,
+    "novelty": 60,
     "confidence": 95,
-    "priorityReason": "欧州AIの雄と米巨頭の数十億ドル規模の提携劇であるため。",
-    "rankScore": 78,
+    "priorityReason": "日本経済の回復基調を示す重要な貿易指標のため。",
+    "rankScore": 74,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "openai-anthropic-lobbying-20260721",
+    "id": "monday-com-layoffs-20260722",
     "category": "Business",
-    "title": "米AI大手のロビー活動費が急増",
-    "date": "2026/07/21",
-    "summary": "OpenAIとAnthropicの2026年第2四半期の連邦ロビー活動費が、前四半期比23%増の計317万ドルに達した。",
+    "title": "Monday.comが従業員2割削減",
+    "date": "2026/07/22",
+    "summary": "Monday.comが全従業員の約20%にあたる620人の人員削減を発表し、AI製品開発へ経営資源を集中させる方針を示した。",
     "details": [
-      "AI規制や輸出管理を巡る議論の活発化を背景に、新興AI企業がワシントンでの影響力確保に向け資金投入を急増させている。Anthropicは197万ドル、OpenAIは120万ドルを費やし、いずれも過去最高額を記録した。大手国防企業が支出を減らす中で、AI分野の存在感が際立っている。"
+      "Monday.comは株価の急落を受け、組織をフラット化しAI自律エージェントなどの成長分野へ再投資するため、従業員の20%を削減する。"
     ],
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html"
+        "name": "Ynetnews",
+        "url": "https://www.ynetnews.com/business/article/b1j8cganfx"
       },
       {
-        "name": "Axios",
-        "url": "https://www.axios.com/2026/07/21/anthropic-ramps-up-lobbying-spending-ai-policy-fights"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "AI規制法案を巡るロビー活動の激化と資金規模がわかるため。",
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 3,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "cisco-antares-ai-models-20260721",
-    "category": "Model",
-    "title": "シスコが脆弱性検知の低コストAI公開",
-    "date": "2026/07/21",
-    "summary": "シスコがソースコードのセキュリティ脆弱性を高速かつ低コストで特定するオープンウェイトAI「Antares」を発表した。",
-    "details": [
-      "Antaresは、巨大なAIモデルと比較して数分の一のコストで動作する。ユーザーがモデルの重みを制御できるオープンウェイト形式を採用し、開発現場の安全性を高める。"
-    ],
-    "sources": [
-      {
-        "name": "SecurityWeek",
-        "url": "https://www.securityweek.com/cisco-launches-low-cost-ai-models-for-source-code-security/"
+        "name": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/monday-com-layoffs-ai-pivot"
       }
     ],
     "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 72,
+    "socialImpact": 70,
+    "novelty": 65,
     "confidence": 90,
-    "priorityReason": "開発者向けセキュリティAIの低コスト化トレンドを示すため。",
-    "rankScore": 65,
+    "priorityReason": "SaaS企業のAIシフトに伴う大規模な人員削減事例。",
+    "rankScore": 66,
     "rankTier": "B",
     "ageDays": 1,
-    "rank": 4,
+    "rank": 3,
     "summaryLevel": "brief"
   }
 ]
