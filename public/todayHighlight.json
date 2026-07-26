@@ -1,134 +1,110 @@
 [
   {
-    "id": "japan-physical-ai-strategy-20260726",
-    "category": "Policy",
-    "title": "政府支援で物理AI戦略を拡大",
-    "date": "2026/07/26",
-    "summary": "日本政府がコンピューティング基盤プロジェクトや国内製造業・ロボット企業との連携を通じ、産業自動化に向けた物理AIの国家戦略を拡大している。",
-    "details": [
-      "日本政府は、産業自動化とAI開発の加速を目指し、政府支援のコンピューティング基盤プロジェクトや国内メーカー、ロボティクス企業との新たな協働を通じて、物理AIに関する国家戦略を拡大している。",
-      "この取り組みは、Nvidiaが日本で開催したAIカンファレンスで発表された。製造業の強みを活かした物理AI分野で主導権を握る狙いがあり、産業界全体の生産性向上や技術革新に直結する重要な施策である。",
-      "今後は、政府が主導するインフラ整備の具体的な進捗や、参画する国内メーカーによる実用化ロボットの導入スケジュールに注目が集まる。"
-    ],
-    "sources": [
-      {
-        "name": "The Manila Times",
-        "url": "https://www.manilatimes.net/2026/07/26/business/sunday-business-it/japan-expands-physical-ai-strategy/2391397"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "日本の物理AI国家戦略の具体化を示す重要ニュースのため。",
-    "rankScore": 90,
-    "rankTier": "S",
-    "ageDays": 0,
-    "rank": 1,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "samsung-skhynix-us-partnership-20260725",
+    "id": "us-korean-tech-alliance",
     "category": "Business",
-    "title": "韓国半導体2社が米テックと提携",
-    "date": "2026/07/25",
-    "summary": "サムスン電子とSKハイニックスが、米国のビッグテック企業と9500億ドル規模のメモリ半導体供給パートナーシップを締結した。",
+    "title": "米韓テック企業が巨額AI同盟",
+    "date": "2026/07/27",
+    "summary": "米韓のテック企業がサンフランシスコで約9500億ドル規模のAI分野共同投資を発表した。",
     "details": [
-      "韓国のサムスン電子とSKハイニックスは、AI向けメモリ半導体の安定供給を目指し、米国の主要テック企業と総額9500億ドル規模のパートナーシップを締結した。この超大型提携により、AI半導体市場における米韓のサプライチェーン連携がさらに強固になる。"
+      "半導体やデータセンターなどのインフラ分野で、地政学的リスクや市場の不確実性に対応するため、米韓の主要企業が総額9500億ドル規模の協力を表明した。サンフランシスコで開催されたAIサミットにて合意された。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/media-telecom/south-koreas-sk-hynix-samsung-elec-sign-950-bln-partnership-with-us-big-tech-2026-07-25/"
+        "name": "The Chosun Daily",
+        "url": "https://www.chosun.com/english/industry-en/2026/07/27/77OZWQEMXVFJHPGQO5SM4LEDIU"
       }
     ],
     "importance": "high",
-    "socialImpact": 90,
-    "novelty": 85,
+    "socialImpact": 80,
+    "novelty": 75,
     "confidence": 90,
-    "priorityReason": "半導体サプライチェーンを揺るがす巨額提携のため。",
-    "rankScore": 82,
+    "priorityReason": "巨額の投資規模と半導体サプライチェーンへの影響が大きいため。",
+    "rankScore": 80,
+    "rankTier": "A",
+    "ageDays": 0,
+    "rank": 1,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "chinese-ai-models-us-inroads",
+    "category": "Model",
+    "title": "中国製AIモデルが米国で台頭",
+    "date": "2026/07/26",
+    "summary": "安価で実用的な中国製AIモデルが、米国の開発者や企業の支持を集め急速に普及している。",
+    "details": [
+      "月之暗面の「Kimi K3」など、安価で十分な性能を持つ中国製オープンソースAIモデルが、米国市場で急速にユーザーを獲得している。高価な米国製モデルに対抗し、大手テック企業の支配力を脅かす存在になりつつある。"
+    ],
+    "sources": [
+      {
+        "name": "Los Angeles Times",
+        "url": "https://www.latimes.com/world-nation/story/2026-07-26/cheaper-open-intelligent-chinese-ai-models-gain-ground-as-they-make-inroads-in-u-s"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 80,
+    "confidence": 95,
+    "priorityReason": "米中AI覇権争いの新たな局面を示す重要な動きであるため。",
+    "rankScore": 78,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "openai-open-weights-letter-20260725",
-    "category": "Ethics",
-    "title": "OpenAIがオープンウェイト支持署名",
-    "date": "2026/07/25",
-    "summary": "OpenAIが当初不参加だった「オープンウェイトと米国のAI指導力」を支持する公開書簡に署名し、賛同連合は35社に拡大した。",
+    "id": "fed-chair-warsh-inflation-test",
+    "category": "Economy",
+    "title": "米債利回り急上昇でFRB議長に試練",
+    "date": "2026/07/26",
+    "summary": "地政学的緊張と原油高に伴う米長期金利の急上昇が、FRBのウォルシュ議長に重圧を与えている。",
     "details": [
-      "規制回避と競争力維持を掲げるオープンウェイト支持派にOpenAIが合流したことで、米政府のAI規制方針に与える影響が強まる可能性がある。"
+      "原油価格が1バレル100ドルに迫る中、米政府国債の利回りが急上昇し金融市場が動揺している。インフレ懸念が再燃する中、今週開催される連邦公開市場委員会（FOMC）での利上げ判断を巡り、ケビン・ウォルシュ議長の手腕が試されている。"
     ],
     "sources": [
       {
-        "name": "FourWeekMBA",
-        "url": "https://fourweekmba.com/ai-openai-open-weights-coalition-letter-signed/"
+        "name": "IDNFinancials",
+        "url": "https://www.idnfinancials.com/news/66562/surge-in-us-bond-yields-tests-fed-chairman-kevin-warshs-leadership"
+      },
+      {
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2026/07/26/new-fed-chair-wont-tell-you-what-he-thinks/"
       }
     ],
-    "importance": "medium",
-    "socialImpact": 75,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "AI規制を巡る業界のパワーバランス変化を示すため。",
-    "rankScore": 70,
-    "rankTier": "B",
+    "importance": "high",
+    "socialImpact": 85,
+    "novelty": 60,
+    "confidence": 95,
+    "priorityReason": "世界金融市場と金利動向に直結する極めて重要な局面であるため。",
+    "rankScore": 77,
+    "rankTier": "A",
     "ageDays": 1,
     "rank": 3,
-    "summaryLevel": "brief"
+    "summaryLevel": "standard"
   },
   {
-    "id": "amazon-ai-generated-labeling-20260725",
-    "category": "Service",
-    "title": "アマゾンがAI生成人物の明示義務化",
-    "date": "2026/07/25",
-    "summary": "米アマゾンが、出品者に対して商品画像内の実写風AI生成人物に開示メタデータを付与するよう義務付けを開始した。",
+    "id": "ai-mental-health-evaluation-flaw",
+    "category": "Ethics",
+    "title": "AIメンタルヘルス助言の評価に欠陥",
+    "date": "2026/07/26",
+    "summary": "生成AIによる精神健康相談の評価手法において、文脈を無視した評価による重大な欠陥が判明した。",
     "details": [
-      "ニューヨーク州で施行されたデジタル出演者開示法に対応した措置であり、ECプラットフォームにおけるAI生成コンテンツの透明性確保に向けた先例となる。"
+      "最新の研究により、医療やメンタルヘルス分野におけるLLMの評価手法に重大な欠陥があることが示された。文脈を考慮しない静的な評価と、実際の対話における動的な評価との間に乖離があり、AIの安全性が誤認されるリスクがある。"
     ],
     "sources": [
       {
         "name": "Forbes",
-        "url": "https://www.forbes.com/sites/gabrielalinzainescu/2026/07/25/amazon-requires-sellers-to-label-ai-generated-people-in-listing-images/"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 80,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "EC事業者やクリエイターに直接影響する規制対応のため。",
-    "rankScore": 69,
-    "rankTier": "B",
-    "ageDays": 1,
-    "rank": 4,
-    "summaryLevel": "brief"
-  },
-  {
-    "id": "prentis-ai-lab-funding-20260724",
-    "category": "Business",
-    "title": "米新興AIが1億ドル調達交渉中",
-    "date": "2026/07/25",
-    "summary": "リード・ホフマン氏らが共同創業したAI研究所「Prentis」が、評価額10億ドルで1億ドルの資金調達に向けて交渉を行っている。",
-    "details": [
-      "PrentisはPC画面を認識してソフトウェアを直接操作する「コンピューター使用モデル」に特化したAIエージェントを開発しており、業務自動化の次世代技術として注目される。"
-    ],
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/"
+        "url": "https://www.forbes.com/sites/lanceeliot/2026/07/26/ai-generated-mental-health-advice-misjudged-due-to-differences-in-stateless-versus-contextual-evaluations/"
       }
     ],
     "importance": "medium",
     "socialImpact": 70,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "著名投資家が主導する注目AIスタートアップの動向。",
-    "rankScore": 68,
+    "novelty": 85,
+    "confidence": 90,
+    "priorityReason": "AI医療応用の安全性評価に一石を投じる研究成果であるため。",
+    "rankScore": 69,
     "rankTier": "B",
     "ageDays": 1,
-    "rank": 5,
+    "rank": 4,
     "summaryLevel": "brief"
   }
 ]
