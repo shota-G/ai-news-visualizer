@@ -1,110 +1,90 @@
 [
   {
-    "id": "us-korean-tech-alliance",
+    "id": "nvidia-openai-datacenter-guarantee",
     "category": "Business",
-    "title": "米韓テック企業が巨額AI同盟",
+    "title": "NVIDIA、OpenAIに2500億ドル融資保証か",
     "date": "2026/07/27",
-    "summary": "米韓のテック企業がサンフランシスコで約9500億ドル規模のAI分野共同投資を発表した。",
+    "summary": "NVIDIAがOpenAIのオハイオ州データセンター誘致に向け、最大2500億ドルの債務保証を協議していることが判明した。",
     "details": [
-      "半導体やデータセンターなどのインフラ分野で、地政学的リスクや市場の不確実性に対応するため、米韓の主要企業が総額9500億ドル規模の協力を表明した。サンフランシスコで開催されたAIサミットにて合意された。"
+      "NVIDIAがOpenAIによる米オハイオ州の10ギガワット規模のAIデータセンターキャンパスのリースを支援するため、約2500億ドルの融資保証を提供する協議を行っていることが明らかになった。本プロジェクトはソフトバンクエナジーが開発を進めており、最終的な総工費は5000億ドルを超える可能性がある。",
+      "AIインフラの急速な拡大に伴い、テック企業間でのデータセンター、電力、半導体の確保競争が激化している。NVIDIAが巨額の資金調達を保証することで、OpenAIは競合するMicrosoftやGoogle、Anthropicに対してインフラ確保の面で圧倒的な優位性を築く狙いがある。",
+      "今後は、米国政府による電力割り当ての最終決定や、日米貿易協定に基づく日本政府による関連電力インフラへの資金支援の動向、さらには競合他社の対抗策が注目される。"
     ],
     "sources": [
       {
-        "name": "The Chosun Daily",
-        "url": "https://www.chosun.com/english/industry-en/2026/07/27/77OZWQEMXVFJHPGQO5SM4LEDIU"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/media-telecom/nvidia-talks-with-openai-guarantee-250-billion-financing-data-center-wsj-reports-2026-07-26"
+      },
+      {
+        "name": "American Bazaar",
+        "url": "https://americanbazaaronline.com/2026/07/27/nvidia-to-partner-with-openai-on-250-billion-data-center-plan-485285"
       }
     ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 75,
-    "confidence": 90,
-    "priorityReason": "巨額の投資規模と半導体サプライチェーンへの影響が大きいため。",
-    "rankScore": 80,
-    "rankTier": "A",
-    "ageDays": 0,
+    "importance": "critical",
+    "socialImpact": 85,
+    "novelty": 90,
+    "confidence": 95,
+    "priorityReason": "AIインフラ覇権を左右する巨額の資金支援計画であるため",
+    "rankScore": 90,
+    "rankTier": "S",
+    "ageDays": 1,
     "rank": 1,
-    "summaryLevel": "standard"
+    "summaryLevel": "deep"
   },
   {
-    "id": "chinese-ai-models-us-inroads",
-    "category": "Model",
-    "title": "中国製AIモデルが米国で台頭",
-    "date": "2026/07/26",
-    "summary": "安価で実用的な中国製AIモデルが、米国の開発者や企業の支持を集め急速に普及している。",
+    "id": "singapore-mas-monetary-tightening",
+    "category": "Economy",
+    "title": "シンガポール中銀、予想外の追加金融引き締め",
+    "date": "2026/07/27",
+    "summary": "シンガポール金融管理局が、イラン戦争に伴うエネルギー価格高騰とインフレリスクに対処するため、予想外の追加金融引き締めを発表した。",
     "details": [
-      "月之暗面の「Kimi K3」など、安価で十分な性能を持つ中国製オープンソースAIモデルが、米国市場で急速にユーザーを獲得している。高価な米国製モデルに対抗し、大手テック企業の支配力を脅かす存在になりつつある。"
+      "シンガポール金融管理局（MAS）は、イラン戦争に起因する原油・ガス価格の上昇による持続的なインフレ圧力に対抗するため、シンガポールドル高を容認する追加の金融引き締めを断行した。これは4月に続く2回連続の予想外の措置であり、地政学的リスクがアジアの主要金融政策に直接影響を与えていることを示している。"
     ],
     "sources": [
       {
-        "name": "Los Angeles Times",
-        "url": "https://www.latimes.com/world-nation/story/2026-07-26/cheaper-open-intelligent-chinese-ai-models-gain-ground-as-they-make-inroads-in-u-s"
+        "name": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/mas-allows-for-stronger-singdollar-on-persistent-iran-war-induced-inflation-risk?ref=latest"
+      },
+      {
+        "name": "New Fortune Times",
+        "url": "https://www.newfortunetimes.com/singapore-tightens-policy-again-as-mas-moves-to-stay-ahead-of-inflation"
       }
     ],
     "importance": "high",
     "socialImpact": 75,
-    "novelty": 80,
+    "novelty": 70,
     "confidence": 95,
-    "priorityReason": "米中AI覇権争いの新たな局面を示す重要な動きであるため。",
-    "rankScore": 78,
+    "priorityReason": "地政学リスクに伴うアジア市場の金融政策変化を伝えるため",
+    "rankScore": 76,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "fed-chair-warsh-inflation-test",
-    "category": "Economy",
-    "title": "米債利回り急上昇でFRB議長に試練",
-    "date": "2026/07/26",
-    "summary": "地政学的緊張と原油高に伴う米長期金利の急上昇が、FRBのウォルシュ議長に重圧を与えている。",
+    "id": "japan-pm-takaichi-approval-drops",
+    "category": "Policy",
+    "title": "高市首相の支持率下落、インフレ直撃が影響",
+    "date": "2026/07/27",
+    "summary": "読売新聞の世論調査で、物価高騰が国民生活を直撃していることを背景に、高市首相の内閣支持率が下落したことが明らかになった。",
     "details": [
-      "原油価格が1バレル100ドルに迫る中、米政府国債の利回りが急上昇し金融市場が動揺している。インフレ懸念が再燃する中、今週開催される連邦公開市場委員会（FOMC）での利上げ判断を巡り、ケビン・ウォルシュ議長の手腕が試されている。"
+      "中東情勢の緊迫化に伴うエネルギー価格高騰や円安によるインフレが国民生活に悪影響を及ぼす中、高市早苗首相の支持率が下落した。"
     ],
     "sources": [
       {
-        "name": "IDNFinancials",
-        "url": "https://www.idnfinancials.com/news/66562/surge-in-us-bond-yields-tests-fed-chairman-kevin-warshs-leadership"
-      },
-      {
-        "name": "The Washington Post",
-        "url": "https://www.washingtonpost.com/business/2026/07/26/new-fed-chair-wont-tell-you-what-he-thinks/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 60,
-    "confidence": 95,
-    "priorityReason": "世界金融市場と金利動向に直結する極めて重要な局面であるため。",
-    "rankScore": 77,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 3,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "ai-mental-health-evaluation-flaw",
-    "category": "Ethics",
-    "title": "AIメンタルヘルス助言の評価に欠陥",
-    "date": "2026/07/26",
-    "summary": "生成AIによる精神健康相談の評価手法において、文脈を無視した評価による重大な欠陥が判明した。",
-    "details": [
-      "最新の研究により、医療やメンタルヘルス分野におけるLLMの評価手法に重大な欠陥があることが示された。文脈を考慮しない静的な評価と、実際の対話における動的な評価との間に乖離があり、AIの安全性が誤認されるリスクがある。"
-    ],
-    "sources": [
-      {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/lanceeliot/2026/07/26/ai-generated-mental-health-advice-misjudged-due-to-differences-in-stateless-versus-contextual-evaluations/"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/japan-pm-takaichis-approval-rating-slides-inflation-bites-yomiuri-poll-shows-2026-07-27/"
       }
     ],
     "importance": "medium",
     "socialImpact": 70,
-    "novelty": 85,
+    "novelty": 60,
     "confidence": 90,
-    "priorityReason": "AI医療応用の安全性評価に一石を投じる研究成果であるため。",
-    "rankScore": 69,
+    "priorityReason": "日本の政権支持率に与える物価高の影響を示すニュース",
+    "rankScore": 65,
     "rankTier": "B",
     "ageDays": 1,
-    "rank": 4,
+    "rank": 3,
     "summaryLevel": "brief"
   }
 ]
