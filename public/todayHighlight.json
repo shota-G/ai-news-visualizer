@@ -1,330 +1,90 @@
 [
   {
-    "id": "nvidia-openai-financing",
+    "id": "openai-nvidia-datacenter-financing",
     "category": "Business",
-    "title": "Nvidia、OpenAIに2500億ドル規模の資金提供を検討",
-    "date": "2026/07/28",
-    "summary": "NvidiaがOpenAIのデータセンター建設に最大2500億ドル規模の資金提供を検討しており、AIエコシステム内の資金循環構造への懸念が高まっている。",
+    "title": "NvidiaがOpenAIの巨額融資保証へ",
+    "date": "2026/07/29",
+    "summary": "NvidiaがOpenAIのデータセンター建設に向け、2500億ドルの融資保証を行う交渉を進めていることが判明した。",
     "details": [
-      "NvidiaはOpenAIのデータセンター建設に対し、最大2500億ドル規模の資金提供を検討している。この動きは、AIチップの主要サプライヤーであるNvidiaが、主要顧客であるAIスタートアップのインフラ構築を直接支援する形となる。",
-      "この大規模な資金提供は、AI分野における計算能力確保競争の激化を浮き彫りにする。同時に、Nvidia、Microsoft、Amazonなどの大手テクノロジー企業がAIスタートアップに投資し、その資金で自社の製品やサービスを購入させる「資金循環」構造への懸念が市場で高まっている。",
-      "この資金循環はAIバブルの兆候と見なされ、半導体株の広範な下落を引き起こしている。今後、Nvidiaの投資戦略とAIスタートアップの資金調達状況が市場の注目点となる。"
+      "米半導体大手のNvidiaが、OpenAIがオハイオ州に建設を計画している10ギガワット規模の巨大データセンターのリース資金として、2500億ドル（約38兆円）の融資保証を行う方向で交渉中である。さらに、3500億ドル規模のAIチップ購入資金の支援も別途検討している。",
+      "この超大型ディールは、AIインフラ需要の凄まじさと、Nvidiaが単なるチップサプライヤーを超えてAIエコシステムの金融的なバックボーン（後ろ盾）としての役割を強めていることを示しており、市場のバブル懸念と期待を同時に刺激している。",
+      "今後は、この巨額の資金調達スキームが正式に合意に達するかどうか、また米連邦政府の土地利用や電力網確保に関する規制当局の承認プロセスがどのように進展するかに注目が集まる。"
     ],
     "sources": [
       {
-        "name": "Gulf Daily News",
-        "url": "https://www.gdnonline.com/Details/1401807/Nvidia-may-offer-$250bn-to-OpenAI-for-data-centre"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/media-telecom/nvidia-talks-with-openai-guarantee-250-billion-financing-data-center-wsj-reports-2026-07-26"
       },
       {
-        "name": "MLQ.AI",
-        "url": "https://mlq.ai/news/nvidia-in-talks-to-backstop-250-billion-in-openai-data-center-financing"
+        "name": "Mexico Business News",
+        "url": "https://mexicobusiness.news/cloudanddata/news/openai-plans-us500-billion-ai-data-center-nvidia-backing"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
-    "novelty": 70,
+    "novelty": 90,
     "confidence": 95,
-    "priorityReason": "AIインフラ投資の新たな動向と市場の資金循環懸念を示す。",
-    "rankScore": 86,
+    "priorityReason": "AI史上最大規模のインフラ投資と金融支援の全貌",
+    "rankScore": 90,
     "rankTier": "S",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "japan-earthquake-tsunami",
-    "category": "Policy",
-    "title": "日本南部でM7.1地震、津波注意報発令",
-    "date": "2026/07/28",
-    "summary": "日本南部でマグニチュード7.1の強い地震が発生し、家屋や橋が倒壊、津波注意報が発令され広範囲に影響が出た。",
+    "id": "global-market-selloff-july29",
+    "category": "Economy",
+    "title": "AI株急落と原油高でダウ1100ドル超下落",
+    "date": "2026/07/29",
+    "summary": "AIインフラ投資への懸念から半導体株が急落し、中東緊迫化による原油高も重なりダウ平均が1100ドル超下落した。",
     "details": [
-      "2026年7月28日、日本南部でマグニチュード7.1の強い地震が発生した。この地震により、複数の家屋や橋が倒壊するなどの被害が報告され、広範囲にわたって津波注意報が発令された。当局は住民に対し、安全な場所への避難を呼びかけている。"
+      "FRBの利上げ見送りやAI投資の投資回収への疑念から半導体関連株が大幅に売られ、中東情勢緊迫化に伴う原油価格の急騰も重なり、米国株式市場は大幅下落を記録した。"
     ],
     "sources": [
       {
-        "name": "CNN",
-        "url": "https://www.cnn.com/2026/07/28/world/video/magnitude-7-1-rocks-southern-japan-cnc"
+        "name": "Audacy",
+        "url": "https://www.audacy.com/wwl/news/business/stocks-markets-ai-oil-trump-rates-b8bfaf782877957bbaa7196b70a4d725"
       },
       {
-        "name": "AP News",
-        "url": "https://apnews.com/article/japan-earthquake-tsunami-09e6f40acbcc96053946c9c104e7a242"
+        "name": "STL.News",
+        "url": "https://www.stl.news/overseas-overnight-trading-summary-for-july-29-2026"
       }
     ],
     "importance": "high",
-    "socialImpact": 90,
-    "novelty": 100,
+    "socialImpact": 82,
+    "novelty": 65,
     "confidence": 95,
-    "priorityReason": "日本で発生した大規模自然災害であり、人命とインフラへの影響が大きい。",
-    "rankScore": 86,
-    "rankTier": "S",
+    "priorityReason": "AIバブル懸念の再燃による世界的な市場動揺",
+    "rankScore": 77,
+    "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "chip-stock-rout",
-    "category": "Economy",
-    "title": "AIバブル懸念で半導体株が急落",
-    "date": "2026/07/28",
-    "summary": "AIブームに伴う資金循環への懸念と中国との競争激化により、アジア市場を中心に半導体株が大幅に下落した。",
-    "details": [
-      "2026年7月28日、アジア市場を中心に半導体株が大幅に下落した。PHLX半導体指数は5%以上下落し、6月のピークから25%超の下げ幅を記録した。韓国のKOSPI市場では半導体関連株の急落により一時取引が停止された。",
-      "この下落は、NvidiaによるOpenAIへの大規模資金提供計画など、AIエコシステム内での「資金循環」構造への懸念が背景にある。また、中国が独自の高度なチップ製造技術を進展させているとの報道も、競争激化への不安を煽った。",
-      "AI関連投資の過熱感と、それに伴うバブル崩壊への警戒感が市場全体に広がっている。今後、主要半導体企業の決算発表や、AI分野への投資動向が市場の焦点となる。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-28/"
-      },
-      {
-        "name": "Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-28/korean-stocks-sink-as-chipmakers-plung-on-deepening-ai-fatigue"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 80,
-    "novelty": 65,
-    "confidence": 90,
-    "priorityReason": "AIバブル懸念が市場に与える影響を明確に示す。",
-    "rankScore": 84,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 3,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "google-kddi-ai-fund-japan",
-    "category": "Business",
-    "title": "GoogleとKDDI、日本向けAIファンド設立",
-    "date": "2026/07/29",
-    "summary": "GoogleとKDDIが日本国内のAIスタートアップを支援するため、新たなファンドを共同で設立し、日本のAIエコシステムを強化する。",
-    "details": [
-      "GoogleとKDDIは、日本のAIスタートアップ企業への投資を目的としたファンドを立ち上げた。この提携により、KDDIの広範なネットワークと顧客基盤がAIスタートアップに提供され、特にヘルスケアAI、金融サービス、スマートシティインフラなどの分野での成長が期待される。日本のAI技術革新と産業競争力向上に貢献するだろう。"
-    ],
-    "sources": [
-      {
-        "name": "The Tech Buzz",
-        "url": "https://www.techbuzz.ai/articles/google-kddi-launch-ai-startup-fund-for-japan"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 65,
-    "novelty": 80,
-    "confidence": 80,
-    "priorityReason": "日本のAI産業成長を加速させる重要な投資動向。",
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 0,
-    "rank": 4,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "nvidia-safe-superintelligence-investment",
-    "category": "Business",
-    "title": "Nvidia、元OpenAI主任科学者の新会社に50億ドル投資",
-    "date": "2026/07/28",
-    "summary": "Nvidiaが元OpenAI主任科学者イリヤ・サツケバー氏の新会社Safe Superintelligenceに50億ドルを投資し、長期的な顧客確保とAI研究を強化する。",
-    "details": [
-      "Nvidiaは、OpenAIの元主任科学者であるイリヤ・サツケバー氏が設立した新会社Safe Superintelligenceに対し、50億ドル（約7300億円）を投資した。この戦略的投資により、Nvidiaは同社に10倍の計算能力へのアクセスを提供し、長期的な顧客関係を構築するとともに、最先端のAI研究開発を支援する狙いがある。"
-    ],
-    "sources": [
-      {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/07/28/top-ai-companies-say-they-want-chinese-models-to-stay-available-is-it-genuine"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 80,
-    "confidence": 85,
-    "priorityReason": "AI研究の最前線における主要企業の戦略的投資動向。",
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 5,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "bis-ai-inflation-risk",
-    "category": "Economy",
-    "title": "BIS、AIブームがインフレ信号を不明瞭化と警告",
-    "date": "2026/07/28",
-    "summary": "国際決済銀行（BIS）は、AI技術の急速な発展が中央銀行のインフレ信号を読み取りにくくし、金融政策の課題を増大させると指摘した。",
-    "details": [
-      "国際決済銀行（BIS）は、AI技術の急速な進展が経済に与える影響について警告を発した。AIによる生産性向上やコスト削減がインフレ率に与える影響が不確実であるため、中央銀行が正確なインフレ信号を識別し、適切な金融政策を策定することが困難になる可能性があると指摘している。これは、AIがマクロ経済に与える新たな課題を示唆している。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/finance/bis-says-ai-boom-risks-clouding-central-banks-inflation-signals-2026-07-28/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 70,
-    "novelty": 70,
-    "confidence": 90,
-    "priorityReason": "AIが金融政策と経済安定に与える潜在的リスクを指摘。",
-    "rankScore": 74,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 6,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "moonshot-ai-model",
-    "category": "Model",
-    "title": "中国Moonshot AIがトップモデル公開",
-    "date": "2026/07/28",
-    "summary": "中国のAI企業Moonshot AIが最新のトップモデルを公開し、OpenAIやAnthropicといった主要AI企業との競争を激化させる。",
-    "details": [
-      "Moonshot AIは、OpenAIやAnthropicといった世界の主要AI企業に対抗するため、最新のトップモデルを一般公開した。この動きは、中国がAI分野における技術的優位性を確立しようとする国家戦略の一環であり、グローバルなAIモデル開発競争をさらに加速させるだろう。"
-    ],
-    "sources": [
-      {
-        "name": "en.sedaily.com",
-        "url": "https://en.sedaily.com/finance/2026/07/28/chinas-moonshot-ai-opens-top-model-squaring-off-against"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 60,
-    "novelty": 75,
-    "confidence": 85,
-    "priorityReason": "中国AI企業の競争力向上とグローバル市場への影響。",
-    "rankScore": 73,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 7,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "china-us-ai-hegemonism",
+    "id": "bigtech-open-weights-letter",
     "category": "Policy",
-    "title": "中国、米国の「AI覇権主義」を非難",
-    "date": "2026/07/28",
-    "summary": "中国は米国によるAI分野の政策を「AI覇権主義」と非難し、潜在的な調査に対して対抗措置を取る可能性を示唆した。",
+    "title": "米政府のAI規制案にテック企業が抗議",
+    "date": "2026/07/26",
+    "summary": "NvidiaやMetaなど25社が、オープンウェイトAIモデルに対する拙速な規制を避けるよう求める共同書簡を米政府に提出した。",
     "details": [
-      "中国政府は、米国がAI技術の発展と普及において一方的な優位性を追求しているとして、「AI覇権主義」であると強く批判した。米国が中国企業に対しAI関連の調査や規制を強化する可能性に対し、中国は対抗措置を講じる用意があることを表明した。これは、AI技術を巡る米中間の地政学的緊張がさらに高まっていることを示している。"
+      "トランプ政権による中国製AIモデルの禁止や規制強化の動きを背景に、Nvidia、Meta、Microsoftを含む25社が、ダウンロード可能なオープンウェイトモデルへの「時期尚早な制限」を回避するようワシントンに要請した。一方でOpenAIやGoogleは署名を見送っている。"
     ],
     "sources": [
       {
-        "name": "The Japan Times",
-        "url": "https://www.japantimes.co.jp/news/2026/07/28/asia-pacific/politics/china-us-ai-hegemonism-probes"
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-24-other-companies-sign-open-weights-letter-as-washington-weighs-chinese-ai-model-ban"
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
-    "novelty": 60,
+    "socialImpact": 78,
+    "novelty": 80,
     "confidence": 90,
-    "priorityReason": "米中間のAI技術覇権争いが国際政治に与える影響。",
+    "priorityReason": "AIのオープンソース化を巡る政策対立の激化",
     "rankScore": 73,
     "rankTier": "A",
-    "ageDays": 1,
-    "rank": 8,
+    "ageDays": 4,
+    "rank": 3,
     "summaryLevel": "standard"
-  },
-  {
-    "id": "amazon-ai-strategy-reshapes",
-    "category": "Business",
-    "title": "Amazon、AI戦略を再編しNovaモデル廃止",
-    "date": "2026/07/29",
-    "summary": "AmazonがAI戦略を大幅に再編し、主力AIモデル「Nova」の大部分を廃止して、新たな方向性へとシフトする。",
-    "details": [
-      "AmazonはAI戦略の見直しを行い、これまで開発してきた主力AIモデルである「Nova」の大部分を廃止する方針を決定した。この戦略転換は、AI分野における競争激化と、より効率的で市場ニーズに合致したAIソリューションへの集中を目指すものと見られる。今後のAmazonのAI開発の方向性が注目される。"
-    ],
-    "sources": [
-      {
-        "name": "Insider (Facebook)",
-        "url": "https://www.facebook.com/insider/posts/amazon-reshapes-its-ai-strategy-by-deprecating-most-nova-ai-models-and-shifting-/1400417645279168"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 55,
-    "novelty": 70,
-    "confidence": 70,
-    "priorityReason": "大手テック企業のAI戦略転換が業界に与える影響。",
-    "rankScore": 63,
-    "rankTier": "B",
-    "ageDays": 0,
-    "rank": 9,
-    "summaryLevel": "brief"
-  },
-  {
-    "id": "ai-video-generation-market",
-    "category": "Business",
-    "title": "AI動画生成市場、2035年に32億ドル規模へ",
-    "date": "2026/07/29",
-    "summary": "AIを活用した動画生成市場が急速に成長し、2035年までに32億ドル規模に達すると予測され、多様な産業での採用が進む。",
-    "details": [
-      "AI動画生成市場は、コンテンツ制作の自動化、コスト削減、市場投入期間の短縮といった利点から、教育、Eコマース、ヘルスケア、ゲームなどの分野で急速に採用が拡大している。パーソナライズされた動画コンテンツ、仮想アバター、AI音声合成、多言語動画制作への需要増加が市場成長を牽引し、2035年には32億ドル規模に達すると予測されている。"
-    ],
-    "sources": [
-      {
-        "name": "openpr.com",
-        "url": "https://www.openpr.com/news/4588986/ai-video-generation-market-to-reach-usd-3-2-billion-by-2035"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 50,
-    "novelty": 60,
-    "confidence": 75,
-    "priorityReason": "AI技術の具体的な市場成長予測と産業への影響。",
-    "rankScore": 60,
-    "rankTier": "B",
-    "ageDays": 0,
-    "rank": 10,
-    "summaryLevel": "brief"
-  },
-  {
-    "id": "healthcare-digital-transformation-market",
-    "category": "Service",
-    "title": "ヘルスケアDX市場、2035年に2709億ドル規模へ",
-    "date": "2026/07/28",
-    "summary": "ヘルスケア分野のデジタルトランスフォーメーション市場は、2035年までに年平均成長率14.13%で2709億ドルに達すると予測されている。",
-    "details": [
-      "ヘルスケア分野におけるデジタルトランスフォーメーション市場は、AI、機械学習、クラウドコンピューティング、ビッグデータ分析、IoMTなどの技術導入により、2035年までに2709億ドル規模に成長すると予測されている。これは、医療サービスの効率化、患者ケアの向上、コスト削減への需要が高まっているためである。"
-    ],
-    "sources": [
-      {
-        "name": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/28/3334663/0/en/Global-Digital-Transformation-in-Healthcare-Market-Size-Share-Worth-USD-270-9-Billion-by-2035-at-a-14-13-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-.html"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 55,
-    "confidence": 80,
-    "priorityReason": "ヘルスケア分野におけるAIとDXの市場成長予測。",
-    "rankScore": 60,
-    "rankTier": "B",
-    "ageDays": 1,
-    "rank": 11,
-    "summaryLevel": "brief"
-  },
-  {
-    "id": "azerbaijan-ai-platform-investment",
-    "category": "Business",
-    "title": "アゼルバイジャン企業、AIコンテンツ作成に投資",
-    "date": "2026/07/28",
-    "summary": "アゼルバイジャンの企業がAIコンテンツ作成プラットフォームに8万5000ドルを投資し、MicrosoftとCloudflareからの支援も確保した。",
-    "details": [
-      "アゼルバイジャンのスタートアップInnMediaが、AIコンテンツ作成プラットフォーム開発のために8万5000ドル（約1200万円）の投資を受け、さらにMicrosoftとCloudflareからの支援も確保した。この投資は、AIを活用したコンテンツ制作の地域的な発展を促進し、新たなビジネス機会を創出する可能性を秘めている。"
-    ],
-    "sources": [
-      {
-        "name": "digitalbusiness.kz",
-        "url": "https://digitalbusiness.kz/en/2026-07-28/azerbaijanis-invest-85-000-in-ai-content-creation-platform-and-secure-support-from-microsoft-and-cloudflare/amp"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 40,
-    "novelty": 50,
-    "confidence": 80,
-    "priorityReason": "新興市場におけるAIスタートアップへの投資と大手企業の支援。",
-    "rankScore": 54,
-    "rankTier": "C",
-    "ageDays": 1,
-    "rank": 12,
-    "summaryLevel": "brief"
   }
 ]
