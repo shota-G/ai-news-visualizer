@@ -2,73 +2,73 @@
   {
     "id": "openai-nvidia-datacenter-financing",
     "category": "Business",
-    "title": "NvidiaがOpenAIの巨額融資保証へ",
-    "date": "2026/07/29",
-    "summary": "NvidiaがOpenAIのデータセンター建設に向け、2500億ドルの融資保証を行う交渉を進めていることが判明した。",
+    "title": "Nvidia、OpenAIデータセンターに巨額融資保証か",
+    "date": "2026/07/27",
+    "summary": "NvidiaがOpenAIの巨大データセンター計画に対し、約2500億ドルの融資保証を協議していることが判明した。",
     "details": [
-      "米半導体大手のNvidiaが、OpenAIがオハイオ州に建設を計画している10ギガワット規模の巨大データセンターのリース資金として、2500億ドル（約38兆円）の融資保証を行う方向で交渉中である。さらに、3500億ドル規模のAIチップ購入資金の支援も別途検討している。",
-      "この超大型ディールは、AIインフラ需要の凄まじさと、Nvidiaが単なるチップサプライヤーを超えてAIエコシステムの金融的なバックボーン（後ろ盾）としての役割を強めていることを示しており、市場のバブル懸念と期待を同時に刺激している。",
-      "今後は、この巨額の資金調達スキームが正式に合意に達するかどうか、また米連邦政府の土地利用や電力網確保に関する規制当局の承認プロセスがどのように進展するかに注目が集まる。"
+      "NvidiaがOpenAIのオハイオ州データセンター計画に対し、約2500億ドルの融資保証を提供する協議を進めていることが明らかになった。",
+      "AIインフラの規模拡大に伴う巨額の資金調達を支援する動きであり、半導体メーカーとAIスタートアップの緊密な連携が市場に与える影響は極めて大きい。",
+      "今後は米国政府による電力管理や、日本との貿易協定に基づく資金拠出の具体的な進捗が注目される。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/media-telecom/nvidia-talks-with-openai-guarantee-250-billion-financing-data-center-wsj-reports-2026-07-26"
+        "name": "Forbes",
+        "url": "https://www.forbes.com/sites/tylerroush/2026/07/27/nvidia-and-openai-discussing-500-billion-data-center-heres-what-we-know"
       },
       {
-        "name": "Mexico Business News",
-        "url": "https://mexicobusiness.news/cloudanddata/news/openai-plans-us500-billion-ai-data-center-nvidia-backing"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/media-telecom/nvidia-talks-with-openai-guarantee-250-billion-financing-data-center-wsj-reports-2026-07-26"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
-    "novelty": 90,
+    "novelty": 80,
     "confidence": 95,
-    "priorityReason": "AI史上最大規模のインフラ投資と金融支援の全貌",
-    "rankScore": 90,
-    "rankTier": "S",
-    "ageDays": 1,
+    "priorityReason": "AIインフラ投資の規模を揺るがす巨額の提携交渉であるため。",
+    "rankScore": 82,
+    "rankTier": "A",
+    "ageDays": 4,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "global-market-selloff-july29",
+    "id": "global-market-tech-rotation",
     "category": "Economy",
-    "title": "AI株急落と原油高でダウ1100ドル超下落",
-    "date": "2026/07/29",
-    "summary": "AIインフラ投資への懸念から半導体株が急落し、中東緊迫化による原油高も重なりダウ平均が1100ドル超下落した。",
+    "title": "世界市場でハイテク株売り、AIバブル懸念で急落",
+    "date": "2026/07/30",
+    "summary": "AI投資の持続性に対する懸念から半導体・ハイテク株が売られ、台湾加権指数が過去3番目の下落幅を記録した。",
     "details": [
-      "FRBの利上げ見送りやAI投資の投資回収への疑念から半導体関連株が大幅に売られ、中東情勢緊迫化に伴う原油価格の急騰も重なり、米国株式市場は大幅下落を記録した。"
+      "米連邦準備制度の金利政策への不透明感や、AI分野の巨額投資に対するリターンへの警戒感から、アジアや欧米の市場でハイテク株から他セクターへの資金移動が加速している。"
     ],
     "sources": [
       {
-        "name": "Audacy",
-        "url": "https://www.audacy.com/wwl/news/business/stocks-markets-ai-oil-trump-rates-b8bfaf782877957bbaa7196b70a4d725"
+        "name": "Taipei Times",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2026/07/31/2003861666"
       },
       {
         "name": "STL.News",
-        "url": "https://www.stl.news/overseas-overnight-trading-summary-for-july-29-2026"
+        "url": "https://www.stl.news/global-market-shockwaves-overnight-overseas-trading"
       }
     ],
     "importance": "high",
-    "socialImpact": 82,
-    "novelty": 65,
-    "confidence": 95,
-    "priorityReason": "AIバブル懸念の再燃による世界的な市場動揺",
-    "rankScore": 77,
+    "socialImpact": 80,
+    "novelty": 60,
+    "confidence": 90,
+    "priorityReason": "世界的な株安とAIバブル懸念の再燃を裏付ける市場の動き。",
+    "rankScore": 75,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "bigtech-open-weights-letter",
+    "id": "open-weights-letter-washington",
     "category": "Policy",
-    "title": "米政府のAI規制案にテック企業が抗議",
-    "date": "2026/07/26",
-    "summary": "NvidiaやMetaなど25社が、オープンウェイトAIモデルに対する拙速な規制を避けるよう求める共同書簡を米政府に提出した。",
+    "title": "Nvidiaら25社、オープンウェイトAI擁護の書簡署名",
+    "date": "2026/07/28",
+    "summary": "NvidiaやMicrosoftなど25社が、オープンウェイトAIモデルの保護を求める共同書簡を米政府に提出した。",
     "details": [
-      "トランプ政権による中国製AIモデルの禁止や規制強化の動きを背景に、Nvidia、Meta、Microsoftを含む25社が、ダウンロード可能なオープンウェイトモデルへの「時期尚早な制限」を回避するようワシントンに要請した。一方でOpenAIやGoogleは署名を見送っている。"
+      "中国製AIモデルの禁止が議論される中、スタートアップへの計算資源提供や共有データセットへの投資を求め、OpenAIやGoogleは署名を見送った。"
     ],
     "sources": [
       {
@@ -77,13 +77,13 @@
       }
     ],
     "importance": "high",
-    "socialImpact": 78,
-    "novelty": 80,
+    "socialImpact": 75,
+    "novelty": 70,
     "confidence": 90,
-    "priorityReason": "AIのオープンソース化を巡る政策対立の激化",
-    "rankScore": 73,
+    "priorityReason": "AI規制とオープンソースの未来を左右する政策提言。",
+    "rankScore": 74,
     "rankTier": "A",
-    "ageDays": 4,
+    "ageDays": 3,
     "rank": 3,
     "summaryLevel": "standard"
   }
