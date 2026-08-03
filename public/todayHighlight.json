@@ -1,60 +1,82 @@
 [
   {
-    "id": "nvidia-openai-datacenter-financing",
-    "category": "Business",
-    "title": "Nvidia、OpenAIに巨額融資枠",
-    "date": "2026/07/27",
-    "summary": "NvidiaがOpenAIのデータセンター建設計画に対し、約2500億ドルの債務保証を提供する協議を進めていることが判明した。",
+    "id": "boj-ai-inflation-risk",
+    "category": "Economy",
+    "title": "日銀、世界的なAI需要のインフレ影響を警告",
+    "date": "2026/08/03",
+    "summary": "日本銀行は、世界的なAI関連需要が日本のインフレ率に持続的な上昇圧力を加える可能性があると指摘した。",
     "details": [
-      "NvidiaがOpenAIに対し、オハイオ州で計画されている100億ドル規模のデータセンターをリースするための約2500億ドルの融資保証（バックストップ）を提供する協議を行っていることが明らかになった。",
-      "この取引はAIブームにおける最大規模の財務支援であり、Nvidia製チップの安定供給とOpenAIのインフラ確保を強固にする一方、AIエコシステム内での循環取引やバブル懸念を再燃させている。",
-      "今後は、ソフトバンクが建設予定のデータセンター詳細や、米商務省による電力・安全保障面での規制方針、他メガテック企業の動向が注目される。"
+      "世界的なAI関連需要の急増が、日本のインフレ率に持続的な上昇圧力を与える可能性があると日本銀行が指摘した。データセンターや半導体設備への巨額投資が、電力や専門機材、高度人材の需要を押し上げ、物価上昇リスクを高める要因になっている。",
+      "AI投資がもたらす短期的なコスト増は、生産性向上によるデフレ効果を上回り、中央銀行の金融政策判断を複雑にする。特にエネルギーや資材のボトルネックが価格に転嫁されやすい状況が続いており、市場や地政学的なインフレ圧力をさらに強める懸念がある。",
+      "今後は、日銀が指摘するインフレリスクが実際の消費者物価指数（CPI）や、今後の追加利上げ判断にどのような影響を与えるか、政策金利の推移に注目すべきである。"
     ],
     "sources": [
       {
-        "name": "The Wall Street Journal",
-        "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3"
-      },
-      {
         "name": "Reuters",
-        "url": "https://www.reuters.com/business/media-telecom/nvidia-talks-with-openai-guarantee-250-billion-financing-data-center-wsj-reports-2026-07-26"
+        "url": "https://www.reuters.com/world/asia-pacific/boj-says-global-ai-demand-could-have-sticky-inflationary-effect-2026-08-03/"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
-    "novelty": 90,
+    "novelty": 75,
     "confidence": 95,
-    "priorityReason": "AIインフラ投資の規模を塗り替える巨額の財務支援交渉であるため。",
-    "rankScore": 84,
-    "rankTier": "A",
-    "ageDays": 7,
+    "priorityReason": "日銀がAI需要によるインフレリスクを公式に警告したため。",
+    "rankScore": 87,
+    "rankTier": "S",
+    "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "japan-us-coordinated-currency-intervention",
-    "category": "Economy",
-    "title": "日米が協調為替介入を実施へ",
-    "date": "2026/08/02",
-    "summary": "日本政府が円安阻止に向け、米国政府と2011年以来となる協調為替介入を実施したことを近く公表する見通しとなった。",
+    "id": "congress-chatgpt-spending",
+    "category": "Policy",
+    "title": "米下院、AI支出の9割をChatGPTに集中",
+    "date": "2026/08/03",
+    "summary": "米連邦議会下院のAI関連支出において、OpenAIのChatGPTが全体の約90%を占めていることが判明した。",
     "details": [
-      "日米両国は急速な円安進行を抑制するため、2011年の東日本大震災以来となる協調介入に踏み切った。この決定は、双方のインフレ懸念や金利政策の不確実性を背景に、市場の投機的な動きを牽制する強いメッセージとなる。"
+      "米下院の支出記録によると、議会オフィスや委員会によるAIツールへの支出約10万ドルのうち、9割がChatGPTに費やされていた。政府機関におけるOpenAI製品の圧倒的なシェアと浸透度が浮き彫りになっている。"
     ],
     "sources": [
       {
-        "name": "The Business Standard",
-        "url": "https://www.tbsnews.net/world/global-economy/japan-announce-tokyo-washington-took-joint-action-yen-sources-say-1504716"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/"
       }
     ],
     "importance": "high",
-    "socialImpact": 90,
-    "novelty": 85,
+    "socialImpact": 70,
+    "novelty": 80,
     "confidence": 90,
-    "priorityReason": "15年ぶりとなる日米協調介入は、為替市場に決定的な影響を与えるため。",
-    "rankScore": 83,
+    "priorityReason": "米政府中枢におけるAI採用の実態と偏りが示されたため。",
+    "rankScore": 77,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
+  },
+  {
+    "id": "japan-airlines-chatgpt-ad",
+    "category": "Business",
+    "title": "日本航空、ChatGPT活用の新広告戦略を導入",
+    "date": "2026/08/03",
+    "summary": "日本航空がChatGPTを活用した新たな広告マーケティング戦略とその効果測定を開始する。",
+    "details": [
+      "日本航空はGoogleやJellyfishと連携し、ChatGPTを活用した新たな広告戦略とその効果追跡を開始する。"
+    ],
+    "sources": [
+      {
+        "name": "Ad Age",
+        "url": "https://adage.com/technology/ai/aa-japan-airlines-chatgpt-google-jellyfish-marketing/"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 60,
+    "novelty": 70,
+    "confidence": 85,
+    "priorityReason": "国内大手航空会社による生成AI広告の具体的事例。",
+    "rankScore": 64,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 3,
+    "summaryLevel": "brief"
   }
 ]
