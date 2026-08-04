@@ -1,52 +1,50 @@
 [
   {
-    "id": "boj-ai-inflation-risk",
-    "category": "Economy",
-    "title": "日銀、世界的なAI需要のインフレ影響を警告",
-    "date": "2026/08/03",
-    "summary": "日本銀行は、世界的なAI関連需要が日本のインフレ率に持続的な上昇圧力を加える可能性があると指摘した。",
+    "id": "anthropic-volta-10b-deal",
+    "category": "Business",
+    "title": "Anthropic、新興企業と100億ドルの計算資源契約",
+    "date": "2026/08/04",
+    "summary": "AnthropicはNvidia支援の新興企業Volta Infra Holdingsと100億ドルの計算資源調達契約を結んだ。",
     "details": [
-      "世界的なAI関連需要の急増が、日本のインフレ率に持続的な上昇圧力を与える可能性があると日本銀行が指摘した。データセンターや半導体設備への巨額投資が、電力や専門機材、高度人材の需要を押し上げ、物価上昇リスクを高める要因になっている。",
-      "AI投資がもたらす短期的なコスト増は、生産性向上によるデフレ効果を上回り、中央銀行の金融政策判断を複雑にする。特にエネルギーや資材のボトルネックが価格に転嫁されやすい状況が続いており、市場や地政学的なインフレ圧力をさらに強める懸念がある。",
-      "今後は、日銀が指摘するインフレリスクが実際の消費者物価指数（CPI）や、今後の追加利上げ判断にどのような影響を与えるか、政策金利の推移に注目すべきである。"
+      "AnthropicはNvidiaが支援するVolta Infra Holdingsと6年間で100億ドルの契約を締結し、ノルウェーのデータセンターで133メガワットの容量を確保した。これにより最新のVera Rubinチップを用いた計算資源を確保し、競合との開発競争を優位に進める狙いがある。"
     ],
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/boj-says-global-ai-demand-could-have-sticky-inflationary-effect-2026-08-03/"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "日銀がAI需要によるインフレリスクを公式に警告したため。",
-    "rankScore": 87,
-    "rankTier": "S",
-    "ageDays": 1,
-    "rank": 1,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "congress-chatgpt-spending",
-    "category": "Policy",
-    "title": "米下院、AI支出の9割をChatGPTに集中",
-    "date": "2026/08/03",
-    "summary": "米連邦議会下院のAI関連支出において、OpenAIのChatGPTが全体の約90%を占めていることが判明した。",
-    "details": [
-      "米下院の支出記録によると、議会オフィスや委員会によるAIツールへの支出約10万ドルのうち、9割がChatGPTに費やされていた。政府機関におけるOpenAI製品の圧倒的なシェアと浸透度が浮き彫りになっている。"
-    ],
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/"
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-inks-10-billion-computing-120000547.html"
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
+    "socialImpact": 75,
     "novelty": 80,
+    "confidence": 95,
+    "priorityReason": "AI開発競争における巨額のインフラ投資の実態を示すため。",
+    "rankScore": 78,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 1,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "japan-capital-spending-fy2026",
+    "category": "Economy",
+    "title": "国内主要企業の設備投資、19.7%増の24.7兆円",
+    "date": "2026/08/04",
+    "summary": "日本政策投資銀行の調査で、2026年度の国内主要企業の設備投資計画が前年比19.7%増の24.7兆円に達することが判明した。",
+    "details": [
+      "日本政策投資銀行の調査によると、国内主要企業の2026年度設備投資計画は前年比19.7%増 of 24.7兆円に達する見通しだ。AIや半導体需要の旺盛な伸びが投資を強力に牽引しており、全産業にわたるデジタルインフラの強化が背景にある。"
+    ],
+    "sources": [
+      {
+        "name": "BigGo Finance",
+        "url": "https://finance.biggo.com/news/f70ed850-f3bb-4787-86eb-28c01d6446e0"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 78,
+    "novelty": 70,
     "confidence": 90,
-    "priorityReason": "米政府中枢におけるAI採用の実態と偏りが示されたため。",
+    "priorityReason": "AI需要が日本の実体経済に与える投資拡大の影響を裏付ける。",
     "rankScore": 77,
     "rankTier": "A",
     "ageDays": 1,
@@ -54,29 +52,29 @@
     "summaryLevel": "standard"
   },
   {
-    "id": "japan-airlines-chatgpt-ad",
+    "id": "anthropic-google-200b-deal",
     "category": "Business",
-    "title": "日本航空、ChatGPT活用の新広告戦略を導入",
+    "title": "Anthropic、Google Cloudと2000億ドル契約",
     "date": "2026/08/03",
-    "summary": "日本航空がChatGPTを活用した新たな広告マーケティング戦略とその効果測定を開始する。",
+    "summary": "AnthropicがGoogle Cloudと5年間で2000億ドルの利用契約を結び、Googleの将来のクラウド残高の4割を占める。",
     "details": [
-      "日本航空はGoogleやJellyfishと連携し、ChatGPTを活用した新たな広告戦略とその効果追跡を開始する。"
+      "AnthropicはGoogle Cloudと5年間で2000億ドルの利用契約を締結した。この契約はGoogleのクラウド将来売上残高の40%以上を占め、巨大IT企業がAIスタートアップのチップリスクをバランスシート外へ移転する新たな財務手法として注目されている。"
     ],
     "sources": [
       {
-        "name": "Ad Age",
-        "url": "https://adage.com/technology/ai/aa-japan-airlines-chatgpt-google-jellyfish-marketing/"
+        "name": "The Decoder",
+        "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet"
       }
     ],
-    "importance": "medium",
-    "socialImpact": 60,
-    "novelty": 70,
-    "confidence": 85,
-    "priorityReason": "国内大手航空会社による生成AI広告の具体的事例。",
-    "rankScore": 64,
-    "rankTier": "B",
-    "ageDays": 1,
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 85,
+    "confidence": 90,
+    "priorityReason": "巨大ITとAIスタートアップの財務的結びつきの規模を示す。",
+    "rankScore": 77,
+    "rankTier": "A",
+    "ageDays": 2,
     "rank": 3,
-    "summaryLevel": "brief"
+    "summaryLevel": "standard"
   }
 ]
