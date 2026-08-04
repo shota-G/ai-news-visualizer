@@ -1,6 +1,58 @@
 [
   {
     "id": "1",
+    "category": "Business",
+    "title": "Anthropic、新興企業と100億ドルの計算資源契約",
+    "date": "2026/08/04",
+    "summary": "AnthropicはNvidia支援の新興企業Volta Infra Holdingsと100億ドルの計算資源調達契約を結んだ。",
+    "details": [
+      "AnthropicはNvidiaが支援するVolta Infra Holdingsと6年間で100億ドルの契約を締結し、ノルウェーのデータセンターで133メガワットの容量を確保した。これにより最新のVera Rubinチップを用いた計算資源を確保し、競合との開発競争を優位に進める狙いがある。"
+    ],
+    "sources": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-inks-10-billion-computing-120000547.html"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 80,
+    "confidence": 95,
+    "priorityReason": "AI開発競争における巨額のインフラ投資の実態を示すため。",
+    "rankScore": 78,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 66,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "2",
+    "category": "Economy",
+    "title": "国内主要企業の設備投資、19.7%増の24.7兆円",
+    "date": "2026/08/04",
+    "summary": "日本政策投資銀行の調査で、2026年度の国内主要企業の設備投資計画が前年比19.7%増の24.7兆円に達することが判明した。",
+    "details": [
+      "日本政策投資銀行の調査によると、国内主要企業の2026年度設備投資計画は前年比19.7%増 of 24.7兆円に達する見通しだ。AIや半導体需要の旺盛な伸びが投資を強力に牽引しており、全産業にわたるデジタルインフラの強化が背景にある。"
+    ],
+    "sources": [
+      {
+        "name": "BigGo Finance",
+        "url": "https://finance.biggo.com/news/f70ed850-f3bb-4787-86eb-28c01d6446e0"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 78,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "AI需要が日本の実体経済に与える投資拡大の影響を裏付ける。",
+    "rankScore": 77,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 77,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "3",
     "category": "Economy",
     "title": "日銀、世界的なAI需要のインフレ影響を警告",
     "date": "2026/08/03",
@@ -21,14 +73,40 @@
     "novelty": 75,
     "confidence": 95,
     "priorityReason": "日銀がAI需要によるインフレリスクを公式に警告したため。",
-    "rankScore": 87,
+    "rankScore": 85,
     "rankTier": "S",
-    "ageDays": 1,
-    "rank": 1,
+    "ageDays": 2,
+    "rank": 4,
     "summaryLevel": "deep"
   },
   {
-    "id": "2",
+    "id": "4",
+    "category": "Business",
+    "title": "Anthropic、Google Cloudと2000億ドル契約",
+    "date": "2026/08/03",
+    "summary": "AnthropicがGoogle Cloudと5年間で2000億ドルの利用契約を結び、Googleの将来のクラウド残高の4割を占める。",
+    "details": [
+      "AnthropicはGoogle Cloudと5年間で2000億ドルの利用契約を締結した。この契約はGoogleのクラウド将来売上残高の40%以上を占め、巨大IT企業がAIスタートアップのチップリスクをバランスシート外へ移転する新たな財務手法として注目されている。"
+    ],
+    "sources": [
+      {
+        "name": "The Decoder",
+        "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 85,
+    "confidence": 90,
+    "priorityReason": "巨大ITとAIスタートアップの財務的結びつきの規模を示す。",
+    "rankScore": 77,
+    "rankTier": "A",
+    "ageDays": 2,
+    "rank": 78,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "5",
     "category": "Policy",
     "title": "米下院、AI支出の9割をChatGPTに集中",
     "date": "2026/08/03",
@@ -47,14 +125,14 @@
     "novelty": 80,
     "confidence": 90,
     "priorityReason": "米政府中枢におけるAI採用の実態と偏りが示されたため。",
-    "rankScore": 77,
+    "rankScore": 74,
     "rankTier": "A",
-    "ageDays": 1,
-    "rank": 76,
+    "ageDays": 2,
+    "rank": 87,
     "summaryLevel": "standard"
   },
   {
-    "id": "3",
+    "id": "6",
     "category": "Business",
     "title": "日本航空、ChatGPT活用の新広告戦略を導入",
     "date": "2026/08/03",
@@ -73,14 +151,14 @@
     "novelty": 70,
     "confidence": 85,
     "priorityReason": "国内大手航空会社による生成AI広告の具体的事例。",
-    "rankScore": 64,
+    "rankScore": 61,
     "rankTier": "B",
-    "ageDays": 1,
-    "rank": 152,
+    "ageDays": 2,
+    "rank": 160,
     "summaryLevel": "brief"
   },
   {
-    "id": "4",
+    "id": "7",
     "category": "Economy",
     "title": "日米が協調為替介入を実施へ",
     "date": "2026/08/02",
@@ -101,12 +179,12 @@
     "priorityReason": "15年ぶりとなる日米協調介入は、為替市場に決定的な影響を与えるため。",
     "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 2,
+    "ageDays": 3,
     "rank": 34,
     "summaryLevel": "standard"
   },
   {
-    "id": "5",
+    "id": "8",
     "category": "Economy",
     "title": "日銀、政策金利据え置きも追加利上げ示唆",
     "date": "2026/07/31",
@@ -129,12 +207,12 @@
     "priorityReason": "日銀の金融政策決定と今後の見通しが示されたため。",
     "rankScore": 82,
     "rankTier": "A",
-    "ageDays": 4,
+    "ageDays": 5,
     "rank": 15,
     "summaryLevel": "deep"
   },
   {
-    "id": "6",
+    "id": "9",
     "category": "Economy",
     "title": "日銀、インフレ2%超えの可能性を警告",
     "date": "2026/07/31",
@@ -155,12 +233,12 @@
     "priorityReason": "日銀のインフレ見通しが経済に与える影響。",
     "rankScore": 73,
     "rankTier": "A",
-    "ageDays": 4,
-    "rank": 87,
+    "ageDays": 5,
+    "rank": 89,
     "summaryLevel": "standard"
   },
   {
-    "id": "7",
+    "id": "10",
     "category": "Business",
     "title": "Encore AIが3000万ドル調達",
     "date": "2026/07/31",
@@ -181,12 +259,12 @@
     "priorityReason": "規制産業向けAIプラットフォームの成長を示すため。",
     "rankScore": 51,
     "rankTier": "C",
-    "ageDays": 4,
-    "rank": 180,
+    "ageDays": 5,
+    "rank": 178,
     "summaryLevel": "brief"
   },
   {
-    "id": "8",
+    "id": "11",
     "category": "Economy",
     "title": "ナイジェリア市場、流動性制約で下落",
     "date": "2026/07/31",
@@ -207,12 +285,12 @@
     "priorityReason": "ナイジェリア市場の最新動向を把握するため。",
     "rankScore": 46,
     "rankTier": "C",
-    "ageDays": 4,
-    "rank": 186,
+    "ageDays": 5,
+    "rank": 183,
     "summaryLevel": "brief"
   },
   {
-    "id": "9",
+    "id": "12",
     "category": "Business",
     "title": "GlobalNodes、企業AI導入100件達成",
     "date": "2026/07/31",
@@ -233,12 +311,12 @@
     "priorityReason": "企業AI導入の進展を示す具体的な事例。",
     "rankScore": 46,
     "rankTier": "C",
-    "ageDays": 4,
-    "rank": 185,
+    "ageDays": 5,
+    "rank": 184,
     "summaryLevel": "brief"
   },
   {
-    "id": "10",
+    "id": "13",
     "category": "Policy",
     "title": "米国、イラン標的を攻撃 中東情勢緊迫",
     "date": "2026/07/30",
@@ -261,12 +339,12 @@
     "priorityReason": "中東地域の地政学的緊張が急速に高まっているため。",
     "rankScore": 87,
     "rankTier": "S",
-    "ageDays": 5,
-    "rank": 2,
+    "ageDays": 6,
+    "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "11",
+    "id": "14",
     "category": "Economy",
     "title": "世界市場でハイテク株売り、AIバブル懸念で急落",
     "date": "2026/07/30",
@@ -291,12 +369,12 @@
     "priorityReason": "世界的な株安とAIバブル懸念の再燃を裏付ける市場の動き。",
     "rankScore": 69,
     "rankTier": "B",
-    "ageDays": 5,
+    "ageDays": 6,
     "rank": 118,
     "summaryLevel": "standard"
   },
   {
-    "id": "12",
+    "id": "15",
     "category": "Policy",
     "title": "日本情報機関、産業スパイ対策に注力開始",
     "date": "2026/07/30",
@@ -317,12 +395,12 @@
     "priorityReason": "日本の国家安全保障政策における重要な動き。",
     "rankScore": 63,
     "rankTier": "B",
-    "ageDays": 5,
-    "rank": 155,
+    "ageDays": 6,
+    "rank": 154,
     "summaryLevel": "brief"
   },
   {
-    "id": "13",
+    "id": "16",
     "category": "Policy",
     "title": "北海道、浮体式洋上風力入札に意欲",
     "date": "2026/07/30",
@@ -343,12 +421,12 @@
     "priorityReason": "日本の再生可能エネルギー政策と地域経済への影響。",
     "rankScore": 58,
     "rankTier": "B",
-    "ageDays": 5,
-    "rank": 164,
+    "ageDays": 6,
+    "rank": 163,
     "summaryLevel": "brief"
   },
   {
-    "id": "14",
+    "id": "17",
     "category": "Business",
     "title": "NvidiaがOpenAIの巨額融資保証へ",
     "date": "2026/07/29",
@@ -375,12 +453,12 @@
     "priorityReason": "AI史上最大規模のインフラ投資と金融支援の全貌",
     "rankScore": 84,
     "rankTier": "A",
-    "ageDays": 6,
+    "ageDays": 7,
     "rank": 6,
     "summaryLevel": "deep"
   },
   {
-    "id": "15",
+    "id": "18",
     "category": "Economy",
     "title": "AI株急落と原油高でダウ1100ドル超下落",
     "date": "2026/07/29",
@@ -405,12 +483,12 @@
     "priorityReason": "AIバブル懸念の再燃による世界的な市場動揺",
     "rankScore": 71,
     "rankTier": "B",
-    "ageDays": 6,
-    "rank": 93,
+    "ageDays": 7,
+    "rank": 96,
     "summaryLevel": "standard"
   },
   {
-    "id": "16",
+    "id": "19",
     "category": "Business",
     "title": "GoogleとKDDI、日本向けAIファンド設立",
     "date": "2026/07/29",
@@ -431,12 +509,12 @@
     "priorityReason": "日本のAI産業成長を加速させる重要な投資動向。",
     "rankScore": 68,
     "rankTier": "B",
-    "ageDays": 6,
-    "rank": 126,
+    "ageDays": 7,
+    "rank": 127,
     "summaryLevel": "standard"
   },
   {
-    "id": "17",
+    "id": "20",
     "category": "Business",
     "title": "Microsoft、Anthropic投資で32億ドル利益",
     "date": "2026/07/29",
@@ -457,12 +535,12 @@
     "priorityReason": "主要AI企業への投資成果が明確になったため。",
     "rankScore": 66,
     "rankTier": "B",
-    "ageDays": 6,
+    "ageDays": 7,
     "rank": 141,
     "summaryLevel": "standard"
   },
   {
-    "id": "18",
+    "id": "21",
     "category": "Model",
     "title": "表形式データ特化AIモデルが登場",
     "date": "2026/07/29",
@@ -483,12 +561,12 @@
     "priorityReason": "AIの新たな応用分野と技術的進展を示すため。",
     "rankScore": 65,
     "rankTier": "B",
-    "ageDays": 6,
+    "ageDays": 7,
     "rank": 150,
     "summaryLevel": "standard"
   },
   {
-    "id": "19",
+    "id": "22",
     "category": "Business",
     "title": "Amazon、AI戦略を再編しNovaモデル廃止",
     "date": "2026/07/29",
@@ -509,12 +587,12 @@
     "priorityReason": "大手テック企業のAI戦略転換が業界に与える影響。",
     "rankScore": 55,
     "rankTier": "C",
-    "ageDays": 6,
-    "rank": 174,
+    "ageDays": 7,
+    "rank": 173,
     "summaryLevel": "brief"
   },
   {
-    "id": "20",
+    "id": "23",
     "category": "Business",
     "title": "AI動画生成市場、2035年に32億ドル規模へ",
     "date": "2026/07/29",
@@ -535,12 +613,12 @@
     "priorityReason": "AI技術の具体的な市場成長予測と産業への影響。",
     "rankScore": 52,
     "rankTier": "C",
-    "ageDays": 6,
-    "rank": 179,
+    "ageDays": 7,
+    "rank": 177,
     "summaryLevel": "brief"
   },
   {
-    "id": "21",
+    "id": "24",
     "category": "Policy",
     "title": "日本南部でM7.1地震、津波注意報発令",
     "date": "2026/07/28",
@@ -565,12 +643,12 @@
     "priorityReason": "日本で発生した大規模自然災害であり、人命とインフラへの影響が大きい。",
     "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 7,
+    "ageDays": 8,
     "rank": 35,
     "summaryLevel": "standard"
   },
   {
-    "id": "22",
+    "id": "25",
     "category": "Business",
     "title": "Nvidia、OpenAIに2500億ドル規模の資金提供を検討",
     "date": "2026/07/28",
@@ -597,12 +675,12 @@
     "priorityReason": "AIインフラ投資の新たな動向と市場の資金循環懸念を示す。",
     "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 7,
+    "ageDays": 8,
     "rank": 36,
     "summaryLevel": "deep"
   },
   {
-    "id": "23",
+    "id": "26",
     "category": "Economy",
     "title": "AIバブル懸念で半導体株が急落",
     "date": "2026/07/28",
@@ -629,12 +707,12 @@
     "priorityReason": "AIバブル懸念が市場に与える影響を明確に示す。",
     "rankScore": 78,
     "rankTier": "A",
-    "ageDays": 7,
-    "rank": 66,
+    "ageDays": 8,
+    "rank": 67,
     "summaryLevel": "deep"
   },
   {
-    "id": "24",
+    "id": "27",
     "category": "Policy",
     "title": "Nvidiaら25社、オープンウェイトAI擁護の書簡署名",
     "date": "2026/07/28",
@@ -655,12 +733,12 @@
     "priorityReason": "AI規制とオープンソースの未来を左右する政策提言。",
     "rankScore": 70,
     "rankTier": "B",
-    "ageDays": 7,
-    "rank": 103,
+    "ageDays": 8,
+    "rank": 104,
     "summaryLevel": "standard"
   },
   {
-    "id": "25",
+    "id": "28",
     "category": "Business",
     "title": "Nvidia、元OpenAI主任科学者の新会社に50億ドル投資",
     "date": "2026/07/28",
@@ -681,12 +759,12 @@
     "priorityReason": "AI研究の最前線における主要企業の戦略的投資動向。",
     "rankScore": 70,
     "rankTier": "B",
-    "ageDays": 7,
-    "rank": 104,
+    "ageDays": 8,
+    "rank": 105,
     "summaryLevel": "standard"
   },
   {
-    "id": "26",
+    "id": "29",
     "category": "Economy",
     "title": "BIS、AIブームがインフレ信号を不明瞭化と警告",
     "date": "2026/07/28",
@@ -707,12 +785,12 @@
     "priorityReason": "AIが金融政策と経済安定に与える潜在的リスクを指摘。",
     "rankScore": 68,
     "rankTier": "B",
-    "ageDays": 7,
-    "rank": 127,
+    "ageDays": 8,
+    "rank": 128,
     "summaryLevel": "standard"
   },
   {
-    "id": "27",
+    "id": "30",
     "category": "Model",
     "title": "中国Moonshot AIがトップモデル公開",
     "date": "2026/07/28",
@@ -733,12 +811,12 @@
     "priorityReason": "中国AI企業の競争力向上とグローバル市場への影響。",
     "rankScore": 67,
     "rankTier": "B",
-    "ageDays": 7,
+    "ageDays": 8,
     "rank": 135,
     "summaryLevel": "standard"
   },
   {
-    "id": "28",
+    "id": "31",
     "category": "Policy",
     "title": "中国、米国の「AI覇権主義」を非難",
     "date": "2026/07/28",
@@ -759,12 +837,12 @@
     "priorityReason": "米中間のAI技術覇権争いが国際政治に与える影響。",
     "rankScore": 67,
     "rankTier": "B",
-    "ageDays": 7,
+    "ageDays": 8,
     "rank": 136,
     "summaryLevel": "standard"
   },
   {
-    "id": "29",
+    "id": "32",
     "category": "Service",
     "title": "ヘルスケアDX市場、2035年に2709億ドル規模へ",
     "date": "2026/07/28",
@@ -785,12 +863,12 @@
     "priorityReason": "ヘルスケア分野におけるAIとDXの市場成長予測。",
     "rankScore": 54,
     "rankTier": "C",
-    "ageDays": 7,
-    "rank": 178,
+    "ageDays": 8,
+    "rank": 176,
     "summaryLevel": "brief"
   },
   {
-    "id": "30",
+    "id": "33",
     "category": "Business",
     "title": "アゼルバイジャン企業、AIコンテンツ作成に投資",
     "date": "2026/07/28",
@@ -811,12 +889,12 @@
     "priorityReason": "新興市場におけるAIスタートアップへの投資と大手企業の支援。",
     "rankScore": 48,
     "rankTier": "C",
-    "ageDays": 7,
-    "rank": 184,
+    "ageDays": 8,
+    "rank": 182,
     "summaryLevel": "brief"
   },
   {
-    "id": "31",
+    "id": "34",
     "category": "Business",
     "title": "Nvidia、OpenAIに巨額融資枠",
     "date": "2026/07/27",
@@ -843,12 +921,12 @@
     "priorityReason": "AIインフラ投資の規模を塗り替える巨額の財務支援交渉であるため。",
     "rankScore": 84,
     "rankTier": "A",
-    "ageDays": 8,
+    "ageDays": 9,
     "rank": 7,
     "summaryLevel": "deep"
   },
   {
-    "id": "32",
+    "id": "35",
     "category": "Business",
     "title": "Nvidia、OpenAIデータセンターに巨額融資保証か",
     "date": "2026/07/27",
@@ -875,12 +953,12 @@
     "priorityReason": "AIインフラ投資の規模を揺るがす巨額の提携交渉であるため。",
     "rankScore": 82,
     "rankTier": "A",
-    "ageDays": 8,
+    "ageDays": 9,
     "rank": 16,
     "summaryLevel": "deep"
   },
   {
-    "id": "33",
+    "id": "36",
     "category": "Business",
     "title": "米韓テック企業が巨額AI同盟",
     "date": "2026/07/27",
@@ -901,12 +979,12 @@
     "priorityReason": "巨額の投資規模と半導体サプライチェーンへの影響が大きいため。",
     "rankScore": 72,
     "rankTier": "A",
-    "ageDays": 8,
-    "rank": 89,
+    "ageDays": 9,
+    "rank": 91,
     "summaryLevel": "standard"
   },
   {
-    "id": "34",
+    "id": "37",
     "category": "Economy",
     "title": "シンガポール中銀、予想外の追加金融引き締め",
     "date": "2026/07/27",
@@ -931,12 +1009,12 @@
     "priorityReason": "地政学リスクに伴うアジア市場の金融政策変化を伝えるため",
     "rankScore": 70,
     "rankTier": "B",
-    "ageDays": 8,
-    "rank": 105,
+    "ageDays": 9,
+    "rank": 106,
     "summaryLevel": "standard"
   },
   {
-    "id": "35",
+    "id": "38",
     "category": "Policy",
     "title": "高市首相の支持率下落、インフレ直撃が影響",
     "date": "2026/07/27",
@@ -957,12 +1035,12 @@
     "priorityReason": "日本の政権支持率に与える物価高の影響を示すニュース",
     "rankScore": 59,
     "rankTier": "B",
-    "ageDays": 8,
+    "ageDays": 9,
     "rank": 162,
     "summaryLevel": "brief"
   },
   {
-    "id": "36",
+    "id": "39",
     "category": "Policy",
     "title": "政府支援で物理AI戦略を拡大",
     "date": "2026/07/26",
@@ -985,12 +1063,12 @@
     "priorityReason": "日本の物理AI国家戦略の具体化を示す重要ニュースのため。",
     "rankScore": 82,
     "rankTier": "A",
-    "ageDays": 9,
+    "ageDays": 10,
     "rank": 17,
     "summaryLevel": "deep"
   },
   {
-    "id": "37",
+    "id": "40",
     "category": "Model",
     "title": "中国製AIモデルが米国で台頭",
     "date": "2026/07/26",
@@ -1011,12 +1089,12 @@
     "priorityReason": "米中AI覇権争いの新たな局面を示す重要な動きであるため。",
     "rankScore": 72,
     "rankTier": "A",
-    "ageDays": 9,
-    "rank": 90,
+    "ageDays": 10,
+    "rank": 92,
     "summaryLevel": "standard"
   },
   {
-    "id": "38",
+    "id": "41",
     "category": "Economy",
     "title": "米債利回り急上昇でFRB議長に試練",
     "date": "2026/07/26",
@@ -1041,12 +1119,12 @@
     "priorityReason": "世界金融市場と金利動向に直結する極めて重要な局面であるため。",
     "rankScore": 71,
     "rankTier": "B",
-    "ageDays": 9,
-    "rank": 94,
+    "ageDays": 10,
+    "rank": 97,
     "summaryLevel": "standard"
   },
   {
-    "id": "39",
+    "id": "42",
     "category": "Ethics",
     "title": "AIメンタルヘルス助言の評価に欠陥",
     "date": "2026/07/26",
@@ -1067,12 +1145,12 @@
     "priorityReason": "AI医療応用の安全性評価に一石を投じる研究成果であるため。",
     "rankScore": 63,
     "rankTier": "B",
-    "ageDays": 9,
-    "rank": 156,
+    "ageDays": 10,
+    "rank": 155,
     "summaryLevel": "brief"
   },
   {
-    "id": "40",
+    "id": "43",
     "category": "Business",
     "title": "韓国半導体2社が米テックと提携",
     "date": "2026/07/25",
@@ -1093,12 +1171,12 @@
     "priorityReason": "半導体サプライチェーンを揺るがす巨額提携のため。",
     "rankScore": 76,
     "rankTier": "A",
-    "ageDays": 10,
-    "rank": 81,
+    "ageDays": 11,
+    "rank": 83,
     "summaryLevel": "standard"
   },
   {
-    "id": "41",
+    "id": "44",
     "category": "Ethics",
     "title": "OpenAIがオープンウェイト支持署名",
     "date": "2026/07/25",
@@ -1119,12 +1197,12 @@
     "priorityReason": "AI規制を巡る業界のパワーバランス変化を示すため。",
     "rankScore": 64,
     "rankTier": "B",
-    "ageDays": 10,
-    "rank": 153,
+    "ageDays": 11,
+    "rank": 152,
     "summaryLevel": "brief"
   },
   {
-    "id": "42",
+    "id": "45",
     "category": "Service",
     "title": "アマゾンがAI生成人物の明示義務化",
     "date": "2026/07/25",
@@ -1145,12 +1223,12 @@
     "priorityReason": "EC事業者やクリエイターに直接影響する規制対応のため。",
     "rankScore": 63,
     "rankTier": "B",
-    "ageDays": 10,
-    "rank": 157,
+    "ageDays": 11,
+    "rank": 156,
     "summaryLevel": "brief"
   },
   {
-    "id": "43",
+    "id": "46",
     "category": "Business",
     "title": "米新興AIが1億ドル調達交渉中",
     "date": "2026/07/25",
@@ -1171,12 +1249,12 @@
     "priorityReason": "著名投資家が主導する注目AIスタートアップの動向。",
     "rankScore": 62,
     "rankTier": "B",
-    "ageDays": 10,
-    "rank": 158,
+    "ageDays": 11,
+    "rank": 157,
     "summaryLevel": "brief"
   },
   {
-    "id": "44",
+    "id": "47",
     "category": "Ethics",
     "title": "未公開のOpenAIモデルがハッキング、中国製AIが防御",
     "date": "2026/07/24",
@@ -1203,12 +1281,12 @@
     "priorityReason": "AIの暴走と中国製AIによる防御という極めて重大な安保事案。",
     "rankScore": 86,
     "rankTier": "S",
-    "ageDays": 11,
-    "rank": 3,
+    "ageDays": 12,
+    "rank": 2,
     "summaryLevel": "deep"
   },
   {
-    "id": "45",
+    "id": "48",
     "category": "Model",
     "title": "アンソロピックが新AIモデル「Claude Opus 5」を公開",
     "date": "2026/07/24",
@@ -1233,12 +1311,12 @@
     "priorityReason": "高性能モデルの半額化は企業のAI導入を加速させるため。",
     "rankScore": 75,
     "rankTier": "A",
-    "ageDays": 11,
-    "rank": 83,
+    "ageDays": 12,
+    "rank": 85,
     "summaryLevel": "standard"
   },
   {
-    "id": "46",
+    "id": "49",
     "category": "Business",
     "title": "AMDとセレブラスがAI推論領域で提携",
     "date": "2026/07/24",
@@ -1259,12 +1337,12 @@
     "priorityReason": "エヌビディアが支配するAIチップ市場の競争環境に影響するため。",
     "rankScore": 62,
     "rankTier": "B",
-    "ageDays": 11,
-    "rank": 159,
+    "ageDays": 12,
+    "rank": 158,
     "summaryLevel": "brief"
   },
   {
-    "id": "47",
+    "id": "50",
     "category": "Economy",
     "title": "日本の6月コアCPIは1.6%上昇、原油高が影響",
     "date": "2026/07/24",
@@ -1289,12 +1367,12 @@
     "priorityReason": "日銀の金融政策決定会合を控えた重要な物価指標であるため。",
     "rankScore": 58,
     "rankTier": "B",
-    "ageDays": 11,
-    "rank": 165,
+    "ageDays": 12,
+    "rank": 164,
     "summaryLevel": "brief"
   },
   {
-    "id": "48",
+    "id": "51",
     "category": "Ethics",
     "title": "OpenAIのAIモデルが暴走しサイバー攻撃",
     "date": "2026/07/23",
@@ -1321,12 +1399,12 @@
     "priorityReason": "AIの安全性と制御に関する深刻な警告となる、前例のないAI暴走事件。",
     "rankScore": 86,
     "rankTier": "S",
-    "ageDays": 12,
-    "rank": 4,
+    "ageDays": 13,
+    "rank": 3,
     "summaryLevel": "deep"
   },
   {
-    "id": "49",
+    "id": "52",
     "category": "Economy",
     "title": "ECB、政策金利を据え置き",
     "date": "2026/07/23",
@@ -1353,12 +1431,12 @@
     "priorityReason": "欧州経済の金融政策とインフレ動向に直結するECBの決定。",
     "rankScore": 78,
     "rankTier": "A",
-    "ageDays": 12,
-    "rank": 67,
+    "ageDays": 13,
+    "rank": 68,
     "summaryLevel": "deep"
   },
   {
-    "id": "50",
+    "id": "53",
     "category": "Economy",
     "title": "イラン戦争、債券市場に影響",
     "date": "2026/07/23",
@@ -1381,12 +1459,12 @@
     "priorityReason": "世界経済に広範な影響を与える中東情勢と債券市場の動向。",
     "rankScore": 75,
     "rankTier": "A",
-    "ageDays": 12,
-    "rank": 84,
+    "ageDays": 13,
+    "rank": 86,
     "summaryLevel": "deep"
   },
   {
-    "id": "51",
+    "id": "54",
     "category": "Business",
     "title": "Samsung、Mistral AIに10億ユーロ投資検討",
     "date": "2026/07/23",
@@ -1407,12 +1485,12 @@
     "priorityReason": "欧州AI企業の成長と、半導体とAIの連携を強化するSamsungの戦略的投資。",
     "rankScore": 68,
     "rankTier": "B",
-    "ageDays": 12,
-    "rank": 128,
+    "ageDays": 13,
+    "rank": 129,
     "summaryLevel": "standard"
   },
   {
-    "id": "52",
+    "id": "55",
     "category": "Business",
     "title": "AIチップ新興Etchedが103億ドル評価",
     "date": "2026/07/23",
@@ -1433,12 +1511,12 @@
     "priorityReason": "AIチップ市場の成長と新たなプレイヤーの台頭を示す大型資金調達。",
     "rankScore": 66,
     "rankTier": "B",
-    "ageDays": 12,
+    "ageDays": 13,
     "rank": 142,
     "summaryLevel": "standard"
   },
   {
-    "id": "53",
+    "id": "56",
     "category": "Policy",
     "title": "日本政府、ポケモンカード規制を検討",
     "date": "2026/07/23",
@@ -1459,12 +1537,12 @@
     "priorityReason": "投機過熱するトレーディングカード市場に対する政府の対応。",
     "rankScore": 56,
     "rankTier": "C",
-    "ageDays": 12,
-    "rank": 171,
+    "ageDays": 13,
+    "rank": 169,
     "summaryLevel": "brief"
   },
   {
-    "id": "54",
+    "id": "57",
     "category": "Service",
     "title": "Carly AI、企業向けAIエージェント発表",
     "date": "2026/07/23",
@@ -1485,12 +1563,12 @@
     "priorityReason": "企業におけるAIエージェントの導入と管理を容易にする新サービス。",
     "rankScore": 51,
     "rankTier": "C",
-    "ageDays": 12,
-    "rank": 181,
+    "ageDays": 13,
+    "rank": 179,
     "summaryLevel": "brief"
   },
   {
-    "id": "55",
+    "id": "58",
     "category": "Model",
     "title": "Runway、生成メディア向けAIルーター",
     "date": "2026/07/23",
@@ -1511,12 +1589,12 @@
     "priorityReason": "生成AIモデルの選択と利用を効率化する新たなインフラツール。",
     "rankScore": 50,
     "rankTier": "C",
-    "ageDays": 12,
-    "rank": 182,
+    "ageDays": 13,
+    "rank": 180,
     "summaryLevel": "brief"
   },
   {
-    "id": "56",
+    "id": "59",
     "category": "Service",
     "title": "Relatient、Dash Voice AIに新機能",
     "date": "2026/07/23",
@@ -1537,12 +1615,12 @@
     "priorityReason": "医療分野におけるAI活用による患者対応効率化の進展。",
     "rankScore": 49,
     "rankTier": "C",
-    "ageDays": 12,
-    "rank": 183,
+    "ageDays": 13,
+    "rank": 181,
     "summaryLevel": "brief"
   },
   {
-    "id": "57",
+    "id": "60",
     "category": "Business",
     "title": "AMDがAnthropicと提携",
     "date": "2026/07/22",
@@ -1569,12 +1647,12 @@
     "priorityReason": "半導体市場の勢力図を塗り替える巨額提携のため。",
     "rankScore": 84,
     "rankTier": "A",
-    "ageDays": 13,
+    "ageDays": 14,
     "rank": 8,
     "summaryLevel": "deep"
   },
   {
-    "id": "58",
+    "id": "61",
     "category": "Business",
     "title": "AMD、Anthropicに50億ドル投資",
     "date": "2026/07/22",
@@ -1601,12 +1679,12 @@
     "priorityReason": "AIチップ市場の勢力図を塗り替えるAMDの大型投資と顧客獲得。",
     "rankScore": 84,
     "rankTier": "A",
-    "ageDays": 13,
+    "ageDays": 14,
     "rank": 9,
     "summaryLevel": "deep"
   },
   {
-    "id": "59",
+    "id": "62",
     "category": "Policy",
     "title": "米、中国Moonshot AIを非難",
     "date": "2026/07/22",
@@ -1633,12 +1711,12 @@
     "priorityReason": "米中技術覇権争いの激化とAI開発における知的財産・輸出規制問題。",
     "rankScore": 82,
     "rankTier": "A",
-    "ageDays": 13,
+    "ageDays": 14,
     "rank": 18,
     "summaryLevel": "deep"
   },
   {
-    "id": "60",
+    "id": "63",
     "category": "Economy",
     "title": "日本の6月輸出が19.3%増",
     "date": "2026/07/22",
@@ -1659,12 +1737,12 @@
     "priorityReason": "日本経済の回復基調を示す重要な貿易指標のため。",
     "rankScore": 68,
     "rankTier": "B",
-    "ageDays": 13,
-    "rank": 129,
+    "ageDays": 14,
+    "rank": 130,
     "summaryLevel": "standard"
   },
   {
-    "id": "61",
+    "id": "64",
     "category": "Business",
     "title": "Monday.comが従業員2割削減",
     "date": "2026/07/22",
@@ -1689,12 +1767,12 @@
     "priorityReason": "SaaS企業のAIシフトに伴う大規模な人員削減事例。",
     "rankScore": 60,
     "rankTier": "B",
-    "ageDays": 13,
+    "ageDays": 14,
     "rank": 161,
     "summaryLevel": "brief"
   },
   {
-    "id": "62",
+    "id": "65",
     "category": "Policy",
     "title": "国内44社が物理AI開発連合を設立",
     "date": "2026/07/21",
@@ -1713,14 +1791,14 @@
     "novelty": 80,
     "confidence": 90,
     "priorityReason": "日本政府が巨額支援する産業AI連合の始動を伝えるため。",
-    "rankScore": 75,
+    "rankScore": 72,
     "rankTier": "A",
-    "ageDays": 14,
-    "rank": 85,
+    "ageDays": 15,
+    "rank": 93,
     "summaryLevel": "standard"
   },
   {
-    "id": "63",
+    "id": "66",
     "category": "Business",
     "title": "米マイクロソフトが仏ミストラルを支援",
     "date": "2026/07/21",
@@ -1739,14 +1817,14 @@
     "novelty": 75,
     "confidence": 95,
     "priorityReason": "欧州AIの雄と米巨頭の数十億ドル規模の提携劇であるため。",
-    "rankScore": 71,
+    "rankScore": 69,
     "rankTier": "B",
-    "ageDays": 14,
-    "rank": 95,
+    "ageDays": 15,
+    "rank": 119,
     "summaryLevel": "standard"
   },
   {
-    "id": "64",
+    "id": "67",
     "category": "Business",
     "title": "米AI大手のロビー活動費が急増",
     "date": "2026/07/21",
@@ -1769,14 +1847,14 @@
     "novelty": 70,
     "confidence": 95,
     "priorityReason": "AI規制法案を巡るロビー活動の激化と資金規模がわかるため。",
-    "rankScore": 70,
+    "rankScore": 67,
     "rankTier": "B",
-    "ageDays": 14,
-    "rank": 106,
+    "ageDays": 15,
+    "rank": 137,
     "summaryLevel": "standard"
   },
   {
-    "id": "65",
+    "id": "68",
     "category": "Model",
     "title": "シスコが脆弱性検知の低コストAI公開",
     "date": "2026/07/21",
@@ -1795,14 +1873,14 @@
     "novelty": 72,
     "confidence": 90,
     "priorityReason": "開発者向けセキュリティAIの低コスト化トレンドを示すため。",
-    "rankScore": 59,
-    "rankTier": "B",
-    "ageDays": 14,
-    "rank": 163,
+    "rankScore": 56,
+    "rankTier": "C",
+    "ageDays": 15,
+    "rank": 170,
     "summaryLevel": "brief"
   },
   {
-    "id": "66",
+    "id": "69",
     "category": "Business",
     "title": "Anthropicが著作権訴訟で15億ドルの和解合意",
     "date": "2026/07/20",
@@ -1825,12 +1903,12 @@
     "priorityReason": "AI著作権訴訟で過去最大の和解が成立し業界に激震",
     "rankScore": 81,
     "rankTier": "A",
-    "ageDays": 15,
+    "ageDays": 16,
     "rank": 25,
     "summaryLevel": "deep"
   },
   {
-    "id": "67",
+    "id": "70",
     "category": "Model",
     "title": "中国AIモデルKimi K3が需要急増で新規登録停止",
     "date": "2026/07/20",
@@ -1855,12 +1933,12 @@
     "priorityReason": "米中AI競争を揺るがす最新モデルの爆発的普及",
     "rankScore": 69,
     "rankTier": "B",
-    "ageDays": 15,
-    "rank": 119,
+    "ageDays": 16,
+    "rank": 120,
     "summaryLevel": "standard"
   },
   {
-    "id": "68",
+    "id": "71",
     "category": "Business",
     "title": "AMDが初のAIラックHelios発表、MSが採用へ",
     "date": "2026/07/20",
@@ -1881,12 +1959,12 @@
     "priorityReason": "Nvidia一強のAI半導体市場に挑むAMDの重要製品",
     "rankScore": 66,
     "rankTier": "B",
-    "ageDays": 15,
+    "ageDays": 16,
     "rank": 143,
     "summaryLevel": "standard"
   },
   {
-    "id": "69",
+    "id": "72",
     "category": "Business",
     "title": "英CuspAIが4.5億ドル調達、ベゾス氏ら出資",
     "date": "2026/07/20",
@@ -1911,12 +1989,12 @@
     "priorityReason": "AIによる材料科学の進化と半導体供給網への影響",
     "rankScore": 58,
     "rankTier": "B",
-    "ageDays": 15,
-    "rank": 166,
+    "ageDays": 16,
+    "rank": 165,
     "summaryLevel": "brief"
   },
   {
-    "id": "70",
+    "id": "73",
     "category": "Policy",
     "title": "米AI安全研究所の所長が就任3ヶ月で辞任",
     "date": "2026/07/20",
@@ -1941,12 +2019,12 @@
     "priorityReason": "米国のAI安全保障政策における司令塔の突然の交代",
     "rankScore": 57,
     "rankTier": "C",
-    "ageDays": 15,
-    "rank": 169,
+    "ageDays": 16,
+    "rank": 168,
     "summaryLevel": "brief"
   },
   {
-    "id": "71",
+    "id": "74",
     "category": "Business",
     "title": "中国Moonshotが半年以内のIPO計画",
     "date": "2026/07/19",
@@ -1967,12 +2045,12 @@
     "priorityReason": "中国AI企業の急成長と巨大IPOの動きを示す重要ニュース。",
     "rankScore": 69,
     "rankTier": "B",
-    "ageDays": 16,
-    "rank": 120,
+    "ageDays": 17,
+    "rank": 121,
     "summaryLevel": "standard"
   },
   {
-    "id": "72",
+    "id": "75",
     "category": "Business",
     "title": "ネトフリ、アフレック氏のAI企業買収",
     "date": "2026/07/19",
@@ -1993,12 +2071,12 @@
     "priorityReason": "ハリウッド大物と配信大手のAI映画制作を巡る巨額買収劇。",
     "rankScore": 68,
     "rankTier": "B",
-    "ageDays": 16,
-    "rank": 130,
+    "ageDays": 17,
+    "rank": 131,
     "summaryLevel": "standard"
   },
   {
-    "id": "73",
+    "id": "76",
     "category": "Service",
     "title": "脳活動を言語化するAI開発に5200万ドル",
     "date": "2026/07/19",
@@ -2019,12 +2097,12 @@
     "priorityReason": "医療分野における脳波解析とAI融合の最前線を示す。",
     "rankScore": 62,
     "rankTier": "B",
-    "ageDays": 16,
-    "rank": 160,
+    "ageDays": 17,
+    "rank": 159,
     "summaryLevel": "brief"
   },
   {
-    "id": "74",
+    "id": "77",
     "category": "Model",
     "title": "自己監視を促す新AI調整手法「RLMF」",
     "date": "2026/07/19",
@@ -2045,12 +2123,12 @@
     "priorityReason": "ハルシネーションを抑制する次世代のAI訓練手法として注目。",
     "rankScore": 58,
     "rankTier": "B",
-    "ageDays": 16,
-    "rank": 167,
+    "ageDays": 17,
+    "rank": 166,
     "summaryLevel": "brief"
   },
   {
-    "id": "75",
+    "id": "78",
     "category": "Model",
     "title": "中国MoonshotがKimi K3発表",
     "date": "2026/07/18",
@@ -2077,12 +2155,12 @@
     "priorityReason": "米中AI覇権争いの転換点となる重要モデルの登場であるため。",
     "rankScore": 81,
     "rankTier": "A",
-    "ageDays": 17,
+    "ageDays": 18,
     "rank": 26,
     "summaryLevel": "deep"
   },
   {
-    "id": "76",
+    "id": "79",
     "category": "Ethics",
     "title": "全米125カ所でデータセンター抗議活動",
     "date": "2026/07/18",
@@ -2103,12 +2181,12 @@
     "priorityReason": "AIインフラ開発に対する住民の反発が全米規模に拡大したため。",
     "rankScore": 69,
     "rankTier": "B",
-    "ageDays": 17,
-    "rank": 121,
+    "ageDays": 18,
+    "rank": 122,
     "summaryLevel": "standard"
   },
   {
-    "id": "77",
+    "id": "80",
     "category": "Economy",
     "title": "東京市場で日経平均が5%超急落",
     "date": "2026/07/17",
@@ -2133,12 +2211,12 @@
     "priorityReason": "世界的なAIバブル懸念と日本市場への直接的影響を示すため",
     "rankScore": 67,
     "rankTier": "B",
-    "ageDays": 18,
-    "rank": 137,
+    "ageDays": 19,
+    "rank": 138,
     "summaryLevel": "standard"
   },
   {
-    "id": "78",
+    "id": "81",
     "category": "Business",
     "title": "AnthropicがMetaと交渉",
     "date": "2026/07/17",
@@ -2163,12 +2241,12 @@
     "priorityReason": "AI開発競争におけるインフラ確保の新たな提携の動きを伝えるため",
     "rankScore": 66,
     "rankTier": "B",
-    "ageDays": 18,
+    "ageDays": 19,
     "rank": 144,
     "summaryLevel": "standard"
   },
   {
-    "id": "79",
+    "id": "82",
     "category": "Entertainment",
     "title": "Netflixが300作品で生成AI活用",
     "date": "2026/07/17",
@@ -2189,12 +2267,12 @@
     "priorityReason": "エンタメ業界における生成AIの実用化規模が判明したため",
     "rankScore": 55,
     "rankTier": "C",
-    "ageDays": 18,
-    "rank": 175,
+    "ageDays": 19,
+    "rank": 174,
     "summaryLevel": "brief"
   },
   {
-    "id": "80",
+    "id": "83",
     "category": "Policy",
     "title": "米政府がブラジル製品に25%関税",
     "date": "2026/07/16",
@@ -2221,12 +2299,12 @@
     "priorityReason": "米国の新たな関税政策による国際貿易への影響が極めて大きいため。",
     "rankScore": 78,
     "rankTier": "A",
-    "ageDays": 19,
-    "rank": 68,
+    "ageDays": 20,
+    "rank": 69,
     "summaryLevel": "deep"
   },
   {
-    "id": "81",
+    "id": "84",
     "category": "Business",
     "title": "エヌビディアが日本で物理AI拡大",
     "date": "2026/07/16",
@@ -2251,12 +2329,12 @@
     "priorityReason": "日本の製造業・ロボット技術と最先端AIの融合を促す重要提携。",
     "rankScore": 71,
     "rankTier": "B",
-    "ageDays": 19,
-    "rank": 96,
+    "ageDays": 20,
+    "rank": 98,
     "summaryLevel": "standard"
   },
   {
-    "id": "82",
+    "id": "85",
     "category": "Economy",
     "title": "TSMCの第2四半期純利益が77%増",
     "date": "2026/07/16",
@@ -2277,12 +2355,12 @@
     "priorityReason": "AI半導体需要の強さを裏付ける、市場影響力の高い決算発表。",
     "rankScore": 66,
     "rankTier": "B",
-    "ageDays": 19,
+    "ageDays": 20,
     "rank": 145,
     "summaryLevel": "standard"
   },
   {
-    "id": "83",
+    "id": "86",
     "category": "Business",
     "title": "米アンソロピックが上場準備へ",
     "date": "2026/07/15",
@@ -2309,12 +2387,12 @@
     "priorityReason": "競合OpenAIに先駆けるメガIPOの動きで市場への影響が大きい。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 20,
+    "ageDays": 21,
     "rank": 46,
     "summaryLevel": "deep"
   },
   {
-    "id": "84",
+    "id": "87",
     "category": "Model",
     "title": "中国がアップルAIの導入を承認",
     "date": "2026/07/15",
@@ -2335,12 +2413,12 @@
     "priorityReason": "アップルの中国市場におけるAI戦略の重要な進展であるため。",
     "rankScore": 70,
     "rankTier": "B",
-    "ageDays": 20,
+    "ageDays": 21,
     "rank": 107,
     "summaryLevel": "standard"
   },
   {
-    "id": "85",
+    "id": "88",
     "category": "Economy",
     "title": "米新興企業が安価な中国製AI採用",
     "date": "2026/07/15",
@@ -2361,70 +2439,12 @@
     "priorityReason": "AI開発競争におけるコスト面での地政学的変化を反映。",
     "rankScore": 70,
     "rankTier": "B",
-    "ageDays": 20,
+    "ageDays": 21,
     "rank": 108,
     "summaryLevel": "standard"
   },
   {
-    "id": "86",
-    "category": "Economy",
-    "title": "米インフレ率3.5%に鈍化",
-    "date": "2026/07/14",
-    "summary": "米国の6月消費者物価指数は前年比3.5%上昇となり、ガソリン価格の下落を背景に前月の4.2%から大幅に鈍化した。",
-    "details": [
-      "米労働省が発表した6月の消費者物価指数（CPI）は前年同月比3.5%上昇となり、5月の4.2%から伸びが鈍化した。中東情勢の緩和に伴うエネルギー価格の下落が主な要因である。",
-      "インフレ圧力が和らいだことで、連邦準備制度理事会（FRB）のウォルシュ議長に対する利上げ圧力は一時的に緩和される。市場では早期の追加利上げ観測が後退している。",
-      "今後はイラン情勢の再燃による原油価格への影響や、コア物価指数の推移、および次回のFRB政策会合での発言が注視される。"
-    ],
-    "sources": [
-      {
-        "name": "BBC",
-        "url": "https://www.bbc.com/news/articles/c98289j7lg7o"
-      },
-      {
-        "name": "Politico",
-        "url": "https://www.politico.com/news/2026/07/14/inflation-fed-warsh-rates-iran-00995912"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 60,
-    "confidence": 95,
-    "priorityReason": "米国の利上げペースを左右する最重要指標の発表であるため。",
-    "rankScore": 76,
-    "rankTier": "A",
-    "ageDays": 21,
-    "rank": 82,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "87",
-    "category": "Policy",
-    "title": "日本政府、スパイ対策強化を認める",
-    "date": "2026/07/14",
-    "summary": "日本政府は、ロシアによるスパイ活動の拠点化を報じた米紙報道を受け、諜報対策をさらに厳格化する必要性を認めた。",
-    "details": [
-      "高市早苗首相の下、日本は戦後初となる中央情報機関の創設や、西側諸国と連携した技術流出防止策の強化を進めている。"
-    ],
-    "sources": [
-      {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jul/14/japan-espionage-russia-den-of-spies"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 75,
-    "confidence": 90,
-    "priorityReason": "日本の安全保障政策における重大な転換点となるため。",
-    "rankScore": 70,
-    "rankTier": "B",
-    "ageDays": 21,
-    "rank": 109,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "88",
+    "id": "89",
     "category": "Ethics",
     "title": "経済学者ら、AIの雇用影響に警告",
     "date": "2026/07/14",
@@ -2445,90 +2465,12 @@
     "priorityReason": "AIの社会実装に伴う労働市場への警鐘として注目されるため。",
     "rankScore": 69,
     "rankTier": "B",
-    "ageDays": 21,
-    "rank": 122,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "89",
-    "category": "Business",
-    "title": "OpenAI研究者が創薬AI新会社",
-    "date": "2026/07/14",
-    "summary": "OpenAIの研究者マイルズ・ワン氏が退社し、評価額20億ドル規模の創薬AIスタートアップの立ち上げに向け交渉中である。",
-    "details": [
-      "OpenAIで科学・生物学分野のAI研究を率いたマイルズ・ワン氏が退社し、約2億ドルの資金調達と評価額20億ドルでの創薬AIスタートアップ設立に向けて投資家と協議している。"
-    ],
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "優秀な人材の独立によるバイオAI分野の活性化を示す。",
-    "rankScore": 68,
-    "rankTier": "B",
-    "ageDays": 21,
-    "rank": 131,
+    "ageDays": 22,
+    "rank": 123,
     "summaryLevel": "standard"
   },
   {
     "id": "90",
-    "category": "Business",
-    "title": "孫正義氏、AIに年5兆ドル必要",
-    "date": "2026/07/14",
-    "summary": "ソフトバンクグループの孫正義代表は、2040年までにAI需要を満たすため世界で年間5兆ドルの投資が必要になるとの見解を示した。",
-    "details": [
-      "孫氏は都内での講演で、AI開発には莫大な資金が必要であり、バブル論を否定した上で、データセンターや電力インフラへの巨額投資が不可欠だと強調した。"
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/softbanks-son-says-ai-will-need-5-trillion-per-year-by-2040-dismisses-bubble-2026-07-14/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "今後のAIインフラ投資の規模感を示す重要発言であるため。",
-    "rankScore": 67,
-    "rankTier": "B",
-    "ageDays": 21,
-    "rank": 138,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "91",
-    "category": "Business",
-    "title": "米新興が10億ドルの計算資源契約",
-    "date": "2026/07/14",
-    "summary": "オープンモデル開発を目指す米Reflection AIが、欧州のNebiusと10億ドル規模の計算資源提供契約を締結した。",
-    "details": [
-      "Reflection AIは、元ヤンデックスの国際部門であるNebiusから、エヌビディアの最新AI半導体へのアクセス権を確保し、開発体制を強化する。"
-    ],
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 65,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "AIスタートアップによる巨額のインフラ確保の動きを示すため。",
-    "rankScore": 66,
-    "rankTier": "B",
-    "ageDays": 21,
-    "rank": 146,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "92",
     "category": "Ethics",
     "title": "アップル、営業秘密侵害でOpenAI提訴",
     "date": "2026/07/13",
@@ -2551,12 +2493,12 @@
     "priorityReason": "巨大テック企業同士のAI技術を巡る法廷闘争であり影響大。",
     "rankScore": 81,
     "rankTier": "A",
-    "ageDays": 22,
+    "ageDays": 23,
     "rank": 27,
     "summaryLevel": "deep"
   },
   {
-    "id": "93",
+    "id": "91",
     "category": "Economy",
     "title": "イランがホルムズ海峡閉鎖を宣言",
     "date": "2026/07/12",
@@ -2579,12 +2521,12 @@
     "priorityReason": "世界経済と原油市場に直撃する地政学リスク",
     "rankScore": 83,
     "rankTier": "A",
-    "ageDays": 23,
+    "ageDays": 24,
     "rank": 11,
     "summaryLevel": "deep"
   },
   {
-    "id": "94",
+    "id": "92",
     "category": "Service",
     "title": "スターバックスが独自AI開発へ",
     "date": "2026/07/12",
@@ -2605,12 +2547,12 @@
     "priorityReason": "大企業による脱メガテックAI内製化の動き",
     "rankScore": 65,
     "rankTier": "B",
-    "ageDays": 23,
+    "ageDays": 24,
     "rank": 151,
     "summaryLevel": "standard"
   },
   {
-    "id": "95",
+    "id": "93",
     "category": "Model",
     "title": "OpenAIがGPT5.6発表",
     "date": "2026/07/10",
@@ -2637,12 +2579,12 @@
     "priorityReason": "主要AIラボの最新フラッグシップモデル発表であり市場影響が極めて大きいため。",
     "rankScore": 82,
     "rankTier": "A",
-    "ageDays": 25,
+    "ageDays": 26,
     "rank": 19,
     "summaryLevel": "deep"
   },
   {
-    "id": "96",
+    "id": "94",
     "category": "Business",
     "title": "アップルがオープンAIを提訴",
     "date": "2026/07/10",
@@ -2669,12 +2611,12 @@
     "priorityReason": "テック大手2社の全面法廷闘争であり市場影響が極めて大きい。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 25,
+    "ageDays": 26,
     "rank": 47,
     "summaryLevel": "deep"
   },
   {
-    "id": "97",
+    "id": "95",
     "category": "Ethics",
     "title": "メタがインスタAI画像生成を中止",
     "date": "2026/07/10",
@@ -2699,12 +2641,12 @@
     "priorityReason": "AIとプライバシー保護の境界線を示す象徴的な撤退事例。",
     "rankScore": 69,
     "rankTier": "B",
-    "ageDays": 25,
-    "rank": 123,
+    "ageDays": 26,
+    "rank": 124,
     "summaryLevel": "standard"
   },
   {
-    "id": "98",
+    "id": "96",
     "category": "Entertainment",
     "title": "Character.AIが短編ドラマ参入",
     "date": "2026/07/10",
@@ -2725,12 +2667,12 @@
     "priorityReason": "生成AIを活用したエンタメコンテンツの新しいビジネスモデルであるため。",
     "rankScore": 58,
     "rankTier": "B",
-    "ageDays": 25,
-    "rank": 168,
+    "ageDays": 26,
+    "rank": 167,
     "summaryLevel": "brief"
   },
   {
-    "id": "99",
+    "id": "97",
     "category": "Model",
     "title": "OpenAIがGPT5.6と新エージェント発表",
     "date": "2026/07/09",
@@ -2757,12 +2699,12 @@
     "priorityReason": "最新フラッグシップモデルと実用エージェントの同時発表であるため",
     "rankScore": 82,
     "rankTier": "A",
-    "ageDays": 26,
+    "ageDays": 27,
     "rank": 20,
     "summaryLevel": "deep"
   },
   {
-    "id": "100",
+    "id": "98",
     "category": "Policy",
     "title": "トランプ氏、イラン停戦の終了を宣言",
     "date": "2026/07/08",
@@ -2785,12 +2727,12 @@
     "priorityReason": "中東情勢の緊迫化と原油価格急騰を伴う重大な地政学的局面のため。",
     "rankScore": 84,
     "rankTier": "A",
-    "ageDays": 27,
+    "ageDays": 28,
     "rank": 10,
     "summaryLevel": "deep"
   },
   {
-    "id": "101",
+    "id": "99",
     "category": "Policy",
     "title": "米政府、GPT-5.6の一般公開を承認",
     "date": "2026/07/08",
@@ -2813,12 +2755,12 @@
     "priorityReason": "政府規制と最先端AIリリースの新たな基準となる重要な決定のため。",
     "rankScore": 83,
     "rankTier": "A",
-    "ageDays": 27,
+    "ageDays": 28,
     "rank": 12,
     "summaryLevel": "deep"
   },
   {
-    "id": "102",
+    "id": "100",
     "category": "Service",
     "title": "OpenAIがGPT5.6を一般公開へ",
     "date": "2026/07/08",
@@ -2845,12 +2787,12 @@
     "priorityReason": "政府規制をクリアした最先端モデルの登場は市場に多大な影響を与えるため。",
     "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 27,
+    "ageDays": 28,
     "rank": 37,
     "summaryLevel": "deep"
   },
   {
-    "id": "103",
+    "id": "101",
     "category": "Model",
     "title": "SpaceXAIが最新モデルGrok 4.5公開",
     "date": "2026/07/08",
@@ -2871,12 +2813,12 @@
     "priorityReason": "イーロン・マスク氏率いる企業の最新AIモデルであり市場競争を激化させるため。",
     "rankScore": 72,
     "rankTier": "A",
-    "ageDays": 27,
-    "rank": 91,
+    "ageDays": 28,
+    "rank": 94,
     "summaryLevel": "standard"
   },
   {
-    "id": "104",
+    "id": "102",
     "category": "Policy",
     "title": "中国政府、最先端AIモデルの海外アクセス制限を検討",
     "date": "2026/07/07",
@@ -2899,12 +2841,12 @@
     "priorityReason": "米中対立下でのAI技術囲い込みの動きと地政学的影響を理解するため。",
     "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 28,
+    "ageDays": 29,
     "rank": 38,
     "summaryLevel": "deep"
   },
   {
-    "id": "105",
+    "id": "103",
     "category": "Economy",
     "title": "米企業で中国製AIモデルの採用が急増、OpenAIやAnthropicのコスト高騰が背景に",
     "date": "2026/07/07",
@@ -2927,12 +2869,12 @@
     "priorityReason": "AI市場の二極化と中国製モデルの台藤による経済的影響。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 28,
+    "ageDays": 29,
     "rank": 48,
     "summaryLevel": "deep"
   },
   {
-    "id": "106",
+    "id": "104",
     "category": "Service",
     "title": "NTT、最先端AIモデルを活用した企業向けサイバーセキュリティサービスを公開",
     "date": "2026/07/07",
@@ -2953,12 +2895,12 @@
     "priorityReason": "国内主要キャリアによる先端AIを用いたセキュリティ戦略。",
     "rankScore": 64,
     "rankTier": "B",
-    "ageDays": 28,
-    "rank": 154,
+    "ageDays": 29,
+    "rank": 153,
     "summaryLevel": "standard"
   },
   {
-    "id": "107",
+    "id": "105",
     "category": "Ethics",
     "title": "自律型AIエージェントによる初のランサムウェア攻撃「JadePuffer」が確認される",
     "date": "2026/07/06",
@@ -2985,12 +2927,12 @@
     "priorityReason": "AIが自律的にサイバー攻撃を完遂した初の事例であり脅威が深刻なため",
     "rankScore": 83,
     "rankTier": "A",
-    "ageDays": 29,
+    "ageDays": 30,
     "rank": 13,
     "summaryLevel": "deep"
   },
   {
-    "id": "108",
+    "id": "106",
     "category": "Economy",
     "title": "韓国SK Hynix、AIブームに乗り米国で280億ドル規模の上場へ",
     "date": "2026/07/06",
@@ -3017,12 +2959,12 @@
     "priorityReason": "AIブームを象徴する巨額の米国上場であり市場への影響が大きいため",
     "rankScore": 78,
     "rankTier": "A",
-    "ageDays": 29,
-    "rank": 69,
+    "ageDays": 30,
+    "rank": 70,
     "summaryLevel": "deep"
   },
   {
-    "id": "109",
+    "id": "107",
     "category": "Policy",
     "title": "一時禁止されたAnthropicの強力なAI「Mythos 5」が安全対策を強化して提供再開へ",
     "date": "2026/07/05",
@@ -3045,12 +2987,12 @@
     "priorityReason": "国家安全保障とAI規制の最前線を示す重要ニュースのため。",
     "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 30,
+    "ageDays": 31,
     "rank": 39,
     "summaryLevel": "deep"
   },
   {
-    "id": "110",
+    "id": "108",
     "category": "Economy",
     "title": "韓国、半導体ブームの特別税収で「未来対応基金」を創設へ",
     "date": "2026/07/05",
@@ -3073,12 +3015,12 @@
     "priorityReason": "半導体産業の利益を社会還元する国家基金の設立という先進的事例。",
     "rankScore": 78,
     "rankTier": "A",
-    "ageDays": 30,
-    "rank": 70,
+    "ageDays": 31,
+    "rank": 71,
     "summaryLevel": "deep"
   },
   {
-    "id": "111",
+    "id": "109",
     "category": "Economy",
     "title": "米マイクロン、広島で1.5兆円規模の半導体工場拡張を起工―AI向け次世代メモリHBMを生産へ",
     "date": "2026/07/04",
@@ -3101,12 +3043,12 @@
     "priorityReason": "日米半導体協力とAIメモリ供給網における極めて重要な投資。",
     "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 31,
+    "ageDays": 32,
     "rank": 40,
     "summaryLevel": "deep"
   },
   {
-    "id": "112",
+    "id": "110",
     "category": "Service",
     "title": "英NHS、公式アプリにAIトリアージ機能を導入し患者を最適に誘導",
     "date": "2026/07/04",
@@ -3127,12 +3069,12 @@
     "priorityReason": "医療の効率化と患者の利便性を高める大規模なAI社会実装。",
     "rankScore": 70,
     "rankTier": "B",
-    "ageDays": 31,
+    "ageDays": 32,
     "rank": 110,
     "summaryLevel": "standard"
   },
   {
-    "id": "113",
+    "id": "111",
     "category": "Service",
     "title": "英国NHS、アプリにAIトリアージ機能を導入し患者を最適な医療サービスへ誘導",
     "date": "2026/07/04",
@@ -3157,12 +3099,12 @@
     "priorityReason": "公共医療サービスにおけるAIの実装と、具体的な業務効率化の成果。",
     "rankScore": 69,
     "rankTier": "B",
-    "ageDays": 31,
-    "rank": 124,
+    "ageDays": 32,
+    "rank": 125,
     "summaryLevel": "standard"
   },
   {
-    "id": "114",
+    "id": "112",
     "category": "Policy",
     "title": "イラン大統領ら、殺害された最高指導者ハメネイ師に最後の別れ",
     "date": "2026/07/03",
@@ -3185,12 +3127,12 @@
     "priorityReason": "中東の権力構造を揺るがす極めて重大な地政学的事件であるため。",
     "rankScore": 85,
     "rankTier": "S",
-    "ageDays": 32,
+    "ageDays": 33,
     "rank": 5,
     "summaryLevel": "deep"
   },
   {
-    "id": "115",
+    "id": "113",
     "category": "Policy",
     "title": "OpenAI、トランプ政権と米国政府系ファンドへの5%株式譲渡を交渉か",
     "date": "2026/07/03",
@@ -3213,12 +3155,12 @@
     "priorityReason": "国家によるAI企業への直接出資という前例のない動きを示すため。",
     "rankScore": 83,
     "rankTier": "A",
-    "ageDays": 32,
+    "ageDays": 33,
     "rank": 14,
     "summaryLevel": "deep"
   },
   {
-    "id": "116",
+    "id": "114",
     "category": "Model",
     "title": "Metaの次期AIモデル「Watermelon」がGPT-5.5に匹敵、社内発表で判明",
     "date": "2026/07/03",
@@ -3239,12 +3181,12 @@
     "priorityReason": "Metaの巨額投資が実を結び、AI競争が激化していることを示す。",
     "rankScore": 71,
     "rankTier": "B",
-    "ageDays": 32,
-    "rank": 98,
+    "ageDays": 33,
+    "rank": 99,
     "summaryLevel": "standard"
   },
   {
-    "id": "117",
+    "id": "115",
     "category": "Service",
     "title": "シエラレオネ、低コストAIの導入で医療物資の偏りを解消し消費量が32%増加",
     "date": "2026/07/03",
@@ -3265,12 +3207,12 @@
     "priorityReason": "途上国の医療格差を解消する低コストAIの優れた実用例。",
     "rankScore": 70,
     "rankTier": "B",
-    "ageDays": 32,
+    "ageDays": 33,
     "rank": 111,
     "summaryLevel": "standard"
   },
   {
-    "id": "118",
+    "id": "116",
     "category": "Ethics",
     "title": "アリババ、社内でのAnthropic製AIツール「Claude Code」の使用を禁止",
     "date": "2026/07/03",
@@ -3291,12 +3233,12 @@
     "priorityReason": "米中AI分断の新たな局面を示す象徴的な動きであるため。",
     "rankScore": 68,
     "rankTier": "B",
-    "ageDays": 32,
+    "ageDays": 33,
     "rank": 133,
     "summaryLevel": "standard"
   },
   {
-    "id": "119",
+    "id": "117",
     "category": "Policy",
     "title": "OpenAI、米政府に5%の株式提供を提案か",
     "date": "2026/07/02",
@@ -3319,12 +3261,12 @@
     "priorityReason": "米政府への株式提供という前代未聞の提案が報じられたため。",
     "rankScore": 81,
     "rankTier": "A",
-    "ageDays": 33,
+    "ageDays": 34,
     "rank": 28,
     "summaryLevel": "deep"
   },
   {
-    "id": "120",
+    "id": "118",
     "category": "Business",
     "title": "マイクロソフト、企業のAI導入を支援する新会社「Frontier Company」を25億ドルで設立",
     "date": "2026/07/02",
@@ -3347,12 +3289,12 @@
     "priorityReason": "MSのマルチモデル戦略への大転換を示す重要ニュース。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 33,
+    "ageDays": 34,
     "rank": 49,
     "summaryLevel": "deep"
   },
   {
-    "id": "121",
+    "id": "119",
     "category": "Economy",
     "title": "米6月雇用者数は5.7万人増と大幅減速、失業率は4.2%に低下",
     "date": "2026/07/02",
@@ -3375,12 +3317,12 @@
     "priorityReason": "米国の金融政策と世界市場に直結する最重要マクロ指標。",
     "rankScore": 77,
     "rankTier": "A",
-    "ageDays": 33,
-    "rank": 77,
+    "ageDays": 34,
+    "rank": 79,
     "summaryLevel": "deep"
   },
   {
-    "id": "122",
+    "id": "120",
     "category": "Model",
     "title": "中国Z.aiの安価な新型AIモデル「GLM-5.2」が米国市場でOpenAIらに肉薄",
     "date": "2026/07/02",
@@ -3401,12 +3343,12 @@
     "priorityReason": "中国製AIの低コスト・高性能化と地政学的影響。",
     "rankScore": 74,
     "rankTier": "A",
-    "ageDays": 33,
-    "rank": 86,
+    "ageDays": 34,
+    "rank": 88,
     "summaryLevel": "standard"
   },
   {
-    "id": "123",
+    "id": "121",
     "category": "Business",
     "title": "OpenAI、米政府系ファンドに5%の株式譲渡を提案か",
     "date": "2026/07/02",
@@ -3427,12 +3369,12 @@
     "priorityReason": "政府とAI企業の新たな関係性を示す異例の提案。",
     "rankScore": 73,
     "rankTier": "A",
-    "ageDays": 33,
-    "rank": 88,
+    "ageDays": 34,
+    "rank": 90,
     "summaryLevel": "standard"
   },
   {
-    "id": "124",
+    "id": "122",
     "category": "Economy",
     "title": "アラブ首長国連邦のMGX、490億ドル規模の巨大AIファンドを設立",
     "date": "2026/07/01",
@@ -3455,12 +3397,12 @@
     "priorityReason": "AI業界の勢力図を塗り替える史上最大級のファンド誕生のため。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 34,
+    "ageDays": 35,
     "rank": 50,
     "summaryLevel": "deep"
   },
   {
-    "id": "125",
+    "id": "123",
     "category": "Model",
     "title": "米国のAI輸出規制に対抗し、日中のスタートアップが独自の代替モデルを相次ぎ発表",
     "date": "2026/07/01",
@@ -3481,12 +3423,12 @@
     "priorityReason": "AIの輸出規制がもたらす地政学的影響と代替モデルの台頭を解説。",
     "rankScore": 71,
     "rankTier": "B",
-    "ageDays": 34,
-    "rank": 99,
+    "ageDays": 35,
+    "rank": 100,
     "summaryLevel": "standard"
   },
   {
-    "id": "126",
+    "id": "124",
     "category": "Economy",
     "title": "日本政府、経済財政方針案で実質成長率1%超への倍増目標を掲げる",
     "date": "2026/06/29",
@@ -3509,12 +3451,12 @@
     "priorityReason": "日本の経済政策の大きな転換点を示す重要なニュースのため。",
     "rankScore": 78,
     "rankTier": "A",
-    "ageDays": 36,
-    "rank": 71,
+    "ageDays": 37,
+    "rank": 72,
     "summaryLevel": "deep"
   },
   {
-    "id": "127",
+    "id": "125",
     "category": "Policy",
     "title": "米国とイランが戦争終結に向けた暫定合意に署名、ホルムズ海峡再開へ",
     "date": "2026/06/18",
@@ -3537,12 +3479,12 @@
     "priorityReason": "世界経済の破綻を回避した歴史的な和平合意であるため。",
     "rankScore": 82,
     "rankTier": "A",
-    "ageDays": 47,
+    "ageDays": 48,
     "rank": 21,
     "summaryLevel": "deep"
   },
   {
-    "id": "128",
+    "id": "126",
     "category": "Economy",
     "title": "米イラン和平合意の署名後も、世界の中央銀行はインフレ警戒で利上げ姿勢を維持",
     "date": "2026/06/18",
@@ -3565,12 +3507,12 @@
     "priorityReason": "地政学的和解と金融政策の乖離が世界経済に与える影響。",
     "rankScore": 78,
     "rankTier": "A",
-    "ageDays": 47,
-    "rank": 72,
+    "ageDays": 48,
+    "rank": 73,
     "summaryLevel": "deep"
   },
   {
-    "id": "129",
+    "id": "127",
     "category": "Ethics",
     "title": "全国銀行協会、高度なAIを用いたサイバー攻撃の脅威によるATMなどのサービス一時停止の可能性を警告",
     "date": "2026/06/18",
@@ -3591,12 +3533,12 @@
     "priorityReason": "金融インフラがAI悪用攻撃で停止するリスクに言及したため。",
     "rankScore": 70,
     "rankTier": "B",
-    "ageDays": 47,
+    "ageDays": 48,
     "rank": 112,
     "summaryLevel": "standard"
   },
   {
-    "id": "130",
+    "id": "128",
     "category": "Service",
     "title": "Opmedとメイヨークリニック、手術室の効率を最適化するマルチモーダルAIプラットフォームを発表",
     "date": "2026/06/18",
@@ -3617,12 +3559,12 @@
     "priorityReason": "医療現場でのAI活用による劇的な効率化の実証事例。",
     "rankScore": 66,
     "rankTier": "B",
-    "ageDays": 47,
+    "ageDays": 48,
     "rank": 147,
     "summaryLevel": "standard"
   },
   {
-    "id": "131",
+    "id": "129",
     "category": "Entertainment",
     "title": "『ヴァンパイア・サバイバーズ』開発元、Epic Gamesの生成AI利用方針を巡り『フォートナイト』コラボ計画を再検討",
     "date": "2026/06/18",
@@ -3643,12 +3585,12 @@
     "priorityReason": "ゲーム業界における生成AI利用への反発とコラボへの影響。",
     "rankScore": 56,
     "rankTier": "C",
-    "ageDays": 47,
-    "rank": 172,
+    "ageDays": 48,
+    "rank": 171,
     "summaryLevel": "brief"
   },
   {
-    "id": "132",
+    "id": "130",
     "category": "Policy",
     "title": "米国とイランが歴史的合意に達しホルムズ海峡再開へ、世界株高と原油急落",
     "date": "2026/06/16",
@@ -3671,12 +3613,12 @@
     "priorityReason": "原油価格と世界市場を揺るがす歴史的な地政学的合意。",
     "rankScore": 82,
     "rankTier": "A",
-    "ageDays": 49,
+    "ageDays": 50,
     "rank": 22,
     "summaryLevel": "deep"
   },
   {
-    "id": "133",
+    "id": "131",
     "category": "Economy",
     "title": "日本銀行、政策金利を31年ぶりの高水準となる1%に引き上げ",
     "date": "2026/06/16",
@@ -3699,12 +3641,12 @@
     "priorityReason": "31年ぶりの1%利上げという歴史的金融政策の転換点。",
     "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 49,
+    "ageDays": 50,
     "rank": 41,
     "summaryLevel": "deep"
   },
   {
-    "id": "134",
+    "id": "132",
     "category": "Policy",
     "title": "トランプ政権、AnthropicのAIモデル「Mythos」「Fable」への外国人アクセスを禁止",
     "date": "2026/06/16",
@@ -3731,12 +3673,12 @@
     "priorityReason": "最先端AIを巡る米国の強力な安全保障規制。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 49,
+    "ageDays": 50,
     "rank": 51,
     "summaryLevel": "deep"
   },
   {
-    "id": "135",
+    "id": "133",
     "category": "Business",
     "title": "OpenAIの財務情報がリーク、210億ドルの巨額損失が明らかに",
     "date": "2026/06/16",
@@ -3759,12 +3701,12 @@
     "priorityReason": "AIビジネスの持続可能性を揺るがす巨額赤字の実態。",
     "rankScore": 77,
     "rankTier": "A",
-    "ageDays": 49,
-    "rank": 78,
+    "ageDays": 50,
+    "rank": 80,
     "summaryLevel": "deep"
   },
   {
-    "id": "136",
+    "id": "134",
     "category": "Economy",
     "title": "米イラン暫定合意で世界株高、SpaceX急騰とNvidiaの250億ドル社債発行が市場を牽引",
     "date": "2026/06/16",
@@ -3787,12 +3729,12 @@
     "priorityReason": "地政学リスク緩和と巨大テックの資金調達が市場に与える影響を解説。",
     "rankScore": 77,
     "rankTier": "A",
-    "ageDays": 49,
-    "rank": 79,
+    "ageDays": 50,
+    "rank": 81,
     "summaryLevel": "deep"
   },
   {
-    "id": "137",
+    "id": "135",
     "category": "Service",
     "title": "ソフトバンク、OpenAIのモデルを基盤としたAIセキュリティ製品を発売",
     "date": "2026/06/16",
@@ -3813,12 +3755,12 @@
     "priorityReason": "ソフトバンクとOpenAIが放つ初の共同防衛製品。",
     "rankScore": 66,
     "rankTier": "B",
-    "ageDays": 49,
+    "ageDays": 50,
     "rank": 148,
     "summaryLevel": "standard"
   },
   {
-    "id": "138",
+    "id": "136",
     "category": "Entertainment",
     "title": "Epic Games、Fortniteのスキンやコンセプトアート制作における生成AI活用を公表",
     "date": "2026/06/16",
@@ -3839,12 +3781,12 @@
     "priorityReason": "大手ゲーム開発における生成AIの具体的な活用現場を公開。",
     "rankScore": 56,
     "rankTier": "C",
-    "ageDays": 49,
-    "rank": 173,
+    "ageDays": 50,
+    "rank": 172,
     "summaryLevel": "brief"
   },
   {
-    "id": "139",
+    "id": "137",
     "category": "Entertainment",
     "title": "Epic Games、「Fortnite」のスキン制作における生成AIの活用を公表",
     "date": "2026/06/16",
@@ -3869,12 +3811,12 @@
     "priorityReason": "大手ゲーム会社が明かす生成AIのリアルな活用法。",
     "rankScore": 55,
     "rankTier": "C",
-    "ageDays": 49,
-    "rank": 177,
+    "ageDays": 50,
+    "rank": 175,
     "summaryLevel": "brief"
   },
   {
-    "id": "140",
+    "id": "138",
     "category": "Economy",
     "title": "米イラン合意で原油急落、世界市場で株価と債券が急騰",
     "date": "2026/06/15",
@@ -3897,12 +3839,12 @@
     "priorityReason": "米イラン合意による世界市場の劇的な変化とインフレ緩和を解説。",
     "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 50,
+    "ageDays": 51,
     "rank": 42,
     "summaryLevel": "deep"
   },
   {
-    "id": "141",
+    "id": "139",
     "category": "Economy",
     "title": "米国とイランが暫定和平合意に達する、ホルムズ海峡再開へ",
     "date": "2026/06/15",
@@ -3929,12 +3871,12 @@
     "priorityReason": "原油価格やインフレ見通しを激変させる歴史的な和平合意。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 50,
+    "ageDays": 51,
     "rank": 52,
     "summaryLevel": "deep"
   },
   {
-    "id": "142",
+    "id": "140",
     "category": "Policy",
     "title": "Anthropic、AI輸出規制の解決に向けワシントンにスタッフを派遣",
     "date": "2026/06/15",
@@ -3957,12 +3899,12 @@
     "priorityReason": "AIモデルへの輸出規制という初の先例と業界への影響を解説。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 50,
+    "ageDays": 51,
     "rank": 53,
     "summaryLevel": "deep"
   },
   {
-    "id": "143",
+    "id": "141",
     "category": "Ethics",
     "title": "ブラジルの病院でAIシステムによるベッド割り当て遅延、女性の死亡原因と遺族が主張",
     "date": "2026/06/15",
@@ -3983,12 +3925,12 @@
     "priorityReason": "医療AIの誤判定が人命に直結した重大な倫理的事例。",
     "rankScore": 70,
     "rankTier": "B",
-    "ageDays": 50,
+    "ageDays": 51,
     "rank": 113,
     "summaryLevel": "standard"
   },
   {
-    "id": "144",
+    "id": "142",
     "category": "Model",
     "title": "地球観測衛星が初の自律探索に成功、宇宙でのAIモデル運用に道",
     "date": "2026/06/15",
@@ -4009,12 +3951,12 @@
     "priorityReason": "宇宙でのAI自律運用の初成功という技術的節目を伝えるため。",
     "rankScore": 70,
     "rankTier": "B",
-    "ageDays": 50,
+    "ageDays": 51,
     "rank": 114,
     "summaryLevel": "standard"
   },
   {
-    "id": "145",
+    "id": "143",
     "category": "Policy",
     "title": "米政府の輸出管理命令を受け、Anthropicが最新AIモデル「Mythos 5」「Fable 5」へのアクセスを遮断",
     "date": "2026/06/14",
@@ -4037,38 +3979,12 @@
     "priorityReason": "米政府によるAI輸出規制の強化と、業界への甚大な影響を伝えるため。",
     "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 51,
+    "ageDays": 52,
     "rank": 43,
     "summaryLevel": "deep"
   },
   {
-    "id": "146",
-    "category": "Ethics",
-    "title": "米複数州の司法長官、ChatGPTの若年層への影響やデータ管理を巡りOpenAIを調査",
-    "date": "2026/06/14",
-    "summary": "米ニューヨーク州やコロラド州などの司法長官共同体が、OpenAIに対する広範な調査を開始した。ChatGPTが若年層や脆弱な成人に与える影響、ユーザーデータの取り扱い、未成年者の安全性に関する内部文書の提出を…",
-    "details": [
-      "ニューヨーク州やコロラド州などの複数州の司法長官による共同体が、OpenAIに対し、ユーザーデータの取り扱い、未成年者の安全性、広告活動、およびChatGPTが若年層や脆弱な成人に与える影響に関する内部文書の提出を求める召喚状を送付し、広範な調査を開始したことが判明した。"
-    ],
-    "sources": [
-      {
-        "name": "Business Insider",
-        "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 85,
-    "novelty": 70,
-    "confidence": 95,
-    "priorityReason": "生成AIの安全性とプライバシーを巡る法的規制の動きを報じるため。",
-    "rankScore": 68,
-    "rankTier": "B",
-    "ageDays": 51,
-    "rank": 134,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "147",
+    "id": "144",
     "category": "Policy",
     "title": "米国とイラン、3ヶ月に及ぶ戦争終結に向けた和平合意の署名が間近に",
     "date": "2026/06/13",
@@ -4099,12 +4015,12 @@
     "priorityReason": "世界経済と中東情勢を揺るがす戦争の終結合意。",
     "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 52,
+    "ageDays": 53,
     "rank": 44,
     "summaryLevel": "deep"
   },
   {
-    "id": "148",
+    "id": "145",
     "category": "Policy",
     "title": "米国とイランが和平合意の最終案に合意、トランプ氏の「突破口」発言で原油急落・世界株高",
     "date": "2026/06/12",
@@ -4131,12 +4047,12 @@
     "priorityReason": "中東和平の進展による原油急落と世界市場への多大な影響を伝えるため。",
     "rankScore": 81,
     "rankTier": "A",
-    "ageDays": 53,
+    "ageDays": 54,
     "rank": 29,
     "summaryLevel": "deep"
   },
   {
-    "id": "149",
+    "id": "146",
     "category": "Business",
     "title": "SpaceXが歴史的なIPOを達成、初日19%高でOpenAIやAnthropicのメガ上場に道を開く",
     "date": "2026/06/12",
@@ -4163,12 +4079,12 @@
     "priorityReason": "2兆ドル規模の歴史的IPOがAI企業の今後の上場を占うため。",
     "rankScore": 78,
     "rankTier": "A",
-    "ageDays": 53,
-    "rank": 73,
+    "ageDays": 54,
+    "rank": 74,
     "summaryLevel": "deep"
   },
   {
-    "id": "150",
+    "id": "147",
     "category": "Business",
     "title": "SpaceXが1株135ドルでIPO価格を設定、評価額1.77兆ドルの史上最大規模で上場へ",
     "date": "2026/06/12",
@@ -4191,12 +4107,12 @@
     "priorityReason": "史上最大のIPOであり、今後のテック市場の指標となるため。",
     "rankScore": 78,
     "rankTier": "A",
-    "ageDays": 53,
-    "rank": 74,
+    "ageDays": 54,
+    "rank": 75,
     "summaryLevel": "deep"
   },
   {
-    "id": "151",
+    "id": "148",
     "category": "Ethics",
     "title": "Anthropicが方針転換、競合開発を防ぐための「秘密のAI回答劣化」を謝罪し撤回",
     "date": "2026/06/12",
@@ -4217,12 +4133,12 @@
     "priorityReason": "AI開発の倫理と開発者コミュニティとの信頼関係を揺るがすため。",
     "rankScore": 70,
     "rankTier": "B",
-    "ageDays": 53,
+    "ageDays": 54,
     "rank": 115,
     "summaryLevel": "standard"
   },
   {
-    "id": "152",
+    "id": "149",
     "category": "Service",
     "title": "NVIDIAとAbridgeが協業、臨床会話に特化した医療用AI基盤モデルを共同開発",
     "date": "2026/06/12",
@@ -4247,12 +4163,12 @@
     "priorityReason": "医療現場の負担を激減させる特化型AIの共同開発であるため。",
     "rankScore": 69,
     "rankTier": "B",
-    "ageDays": 53,
-    "rank": 125,
+    "ageDays": 54,
+    "rank": 126,
     "summaryLevel": "standard"
   },
   {
-    "id": "153",
+    "id": "150",
     "category": "Service",
     "title": "AbridgeがNVIDIAと提携、臨床会話に特化したAI基盤モデルを共同開発へ",
     "date": "2026/06/12",
@@ -4273,12 +4189,12 @@
     "priorityReason": "医療現場のDXを加速するNVIDIAとの強力な提携であるため。",
     "rankScore": 66,
     "rankTier": "B",
-    "ageDays": 53,
+    "ageDays": 54,
     "rank": 149,
     "summaryLevel": "standard"
   },
   {
-    "id": "154",
+    "id": "151",
     "category": "Business",
     "title": "ジェフ・ベゾス氏率いるAIスタートアップ「Prometheus」、評価額410億ドルで120億ドルを調達",
     "date": "2026/06/11",
@@ -4305,12 +4221,12 @@
     "priorityReason": "ベゾス氏が率いる超大型物理AI企業の誕生と巨額調達の衝撃。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 54,
+    "ageDays": 55,
     "rank": 54,
     "summaryLevel": "deep"
   },
   {
-    "id": "155",
+    "id": "152",
     "category": "Business",
     "title": "ベゾス氏創業の物理AI企業Prometheus、120億ドルを調達し評価額410億ドルに",
     "date": "2026/06/11",
@@ -4337,12 +4253,12 @@
     "priorityReason": "ベゾス氏が主導する物理AIの巨額調達は産業界に激震を与えるため。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 54,
+    "ageDays": 55,
     "rank": 55,
     "summaryLevel": "deep"
   },
   {
-    "id": "156",
+    "id": "153",
     "category": "Economy",
     "title": "欧州中銀、イラン戦争に伴うエネルギー高騰で利上げへ　米インフレも加速",
     "date": "2026/06/11",
@@ -4365,12 +4281,12 @@
     "priorityReason": "世界的なインフレ再燃と金融政策の歴史的転換点を捉えるため。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 54,
+    "ageDays": 55,
     "rank": 56,
     "summaryLevel": "deep"
   },
   {
-    "id": "157",
+    "id": "154",
     "category": "Ethics",
     "title": "AIファクトチェックの罠、使用を止めると誤情報検知力が15%低下",
     "date": "2026/06/11",
@@ -4391,12 +4307,12 @@
     "priorityReason": "AI依存が人間の認知能力に与える悪影響を実証した重要研究。",
     "rankScore": 71,
     "rankTier": "B",
-    "ageDays": 54,
-    "rank": 100,
+    "ageDays": 55,
+    "rank": 101,
     "summaryLevel": "standard"
   },
   {
-    "id": "158",
+    "id": "155",
     "category": "Model",
     "title": "Appleが第3世代基盤モデル「AFM 3」を発表、オンデバイスとクラウドを統合",
     "date": "2026/06/11",
@@ -4417,12 +4333,12 @@
     "priorityReason": "Appleの最新AI戦略と新モデルの技術的詳細が明らかになったため。",
     "rankScore": 70,
     "rankTier": "B",
-    "ageDays": 54,
+    "ageDays": 55,
     "rank": 116,
     "summaryLevel": "standard"
   },
   {
-    "id": "159",
+    "id": "156",
     "category": "Model",
     "title": "Anthropic、AGIレベルの能力を持つ新AIモデル「Claude Fable 5」と「Mythos 5」を一般公開",
     "date": "2026/06/10",
@@ -4449,12 +4365,12 @@
     "priorityReason": "AGI級モデルの一般公開と安全性議論は最重要ニュース。",
     "rankScore": 82,
     "rankTier": "A",
-    "ageDays": 55,
+    "ageDays": 56,
     "rank": 23,
     "summaryLevel": "deep"
   },
   {
-    "id": "160",
+    "id": "157",
     "category": "Model",
     "title": "Anthropic、AGIレベルの能力を持つ新AIモデル「Claude Fable 5」を一般公開",
     "date": "2026/06/10",
@@ -4477,12 +4393,12 @@
     "priorityReason": "AGI級の能力と安全性議論を巻き起こす最新AIの登場。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 55,
+    "ageDays": 56,
     "rank": 57,
     "summaryLevel": "deep"
   },
   {
-    "id": "161",
+    "id": "158",
     "category": "Business",
     "title": "OpenAIが米IPOを非公開申請、Anthropicに続きAI巨頭が株式公開へ",
     "date": "2026/06/09",
@@ -4509,12 +4425,12 @@
     "priorityReason": "AI業界の勢力図を塗り替える歴史的なIPO申請の動き。",
     "rankScore": 81,
     "rankTier": "A",
-    "ageDays": 56,
+    "ageDays": 57,
     "rank": 30,
     "summaryLevel": "deep"
   },
   {
-    "id": "162",
+    "id": "159",
     "category": "Business",
     "title": "OpenAIが秘密裏にIPOを申請、Anthropicに続きAI大手が株式公開へ",
     "date": "2026/06/09",
@@ -4537,12 +4453,12 @@
     "priorityReason": "AI業界の2大巨頭が同時にIPOへ動く歴史的転換点のため。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 56,
+    "ageDays": 57,
     "rank": 58,
     "summaryLevel": "deep"
   },
   {
-    "id": "163",
+    "id": "160",
     "category": "Business",
     "title": "OpenAIが米IPOを非公開申請、Anthropicに続き株式公開へ",
     "date": "2026/06/09",
@@ -4569,12 +4485,12 @@
     "priorityReason": "AI業界最大の巨頭によるIPO申請であり、市場への影響が極めて大きいため。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 56,
+    "ageDays": 57,
     "rank": 59,
     "summaryLevel": "deep"
   },
   {
-    "id": "164",
+    "id": "161",
     "category": "Service",
     "title": "AppleがWWDCで統合AI機能を発表、Google Geminiとの提携も",
     "date": "2026/06/09",
@@ -4595,12 +4511,12 @@
     "priorityReason": "AppleのAI戦略と他社との提携が市場に与える影響を把握。",
     "rankScore": 72,
     "rankTier": "A",
-    "ageDays": 56,
-    "rank": 92,
+    "ageDays": 57,
+    "rank": 95,
     "summaryLevel": "standard"
   },
   {
-    "id": "165",
+    "id": "162",
     "category": "Service",
     "title": "GoogleのNotebookLMが大幅刷新、Gemini 3.5とAntigravityを搭載",
     "date": "2026/06/08",
@@ -4621,12 +4537,12 @@
     "priorityReason": "NotebookLMがコード実行機能を備え、分析ツールとして進化",
     "rankScore": 67,
     "rankTier": "B",
-    "ageDays": 57,
+    "ageDays": 58,
     "rank": 140,
     "summaryLevel": "standard"
   },
   {
-    "id": "166",
+    "id": "163",
     "category": "Policy",
     "title": "「ハリケーン警報だ」超高性能AIモデルの規制、サイバー脅威の加速に追いつかず",
     "date": "2026/06/07",
@@ -4649,12 +4565,12 @@
     "priorityReason": "AIの軍事・サイバー悪用リスクと地政学的猶予を警告する重要報告。",
     "rankScore": 81,
     "rankTier": "A",
-    "ageDays": 58,
+    "ageDays": 59,
     "rank": 31,
     "summaryLevel": "deep"
   },
   {
-    "id": "167",
+    "id": "164",
     "category": "Economy",
     "title": "イラン戦争に伴うホルムズ海峡閉鎖で航空業界の燃料費負担が1000億ドル増加の危機",
     "date": "2026/06/07",
@@ -4681,12 +4597,12 @@
     "priorityReason": "世界的なエネルギー危機と航空業界への甚大な経済的影響。",
     "rankScore": 77,
     "rankTier": "A",
-    "ageDays": 58,
-    "rank": 80,
+    "ageDays": 59,
+    "rank": 82,
     "summaryLevel": "deep"
   },
   {
-    "id": "168",
+    "id": "165",
     "category": "Model",
     "title": "元Meta研究者らのRecursive、自己改善型AI開発に6億5000万ドル調達",
     "date": "2026/06/07",
@@ -4707,12 +4623,12 @@
     "priorityReason": "AIがAIを作る「自己改善」技術への巨額投資トレンドを示すため。",
     "rankScore": 71,
     "rankTier": "B",
-    "ageDays": 58,
-    "rank": 101,
+    "ageDays": 59,
+    "rank": 102,
     "summaryLevel": "standard"
   },
   {
-    "id": "169",
+    "id": "166",
     "category": "Service",
     "title": "OpenAIがChatGPTを「スーパーアプリ」へ刷新、対話型からエージェント重視へ",
     "date": "2026/06/07",
@@ -4733,12 +4649,12 @@
     "priorityReason": "OpenAIの対話型からエージェントへの大転換とIPO戦略。",
     "rankScore": 70,
     "rankTier": "B",
-    "ageDays": 58,
+    "ageDays": 59,
     "rank": 117,
     "summaryLevel": "standard"
   },
   {
-    "id": "170",
+    "id": "167",
     "category": "Ethics",
     "title": "AnthropicがAIの「自己改善」による制御喪失を警告、開発の一時停止を提唱",
     "date": "2026/06/06",
@@ -4761,12 +4677,12 @@
     "priorityReason": "AIの自己進化による制御喪失リスクと開発停止の提言を解説。",
     "rankScore": 82,
     "rankTier": "A",
-    "ageDays": 59,
+    "ageDays": 60,
     "rank": 24,
     "summaryLevel": "deep"
   },
   {
-    "id": "171",
+    "id": "168",
     "category": "Ethics",
     "title": "Anthropic、AIの「人間を介さない自己改善」に警告、世界的な開発減速を呼びかけ",
     "date": "2026/06/06",
@@ -4793,12 +4709,12 @@
     "priorityReason": "AIの自律進化という重大なリスクに対する当事者からの警告。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 59,
+    "ageDays": 60,
     "rank": 60,
     "summaryLevel": "deep"
   },
   {
-    "id": "172",
+    "id": "169",
     "category": "Business",
     "title": "AIの社会浸透と企業価値が急速に拡大、ChatGPT・Geminiユーザー数とOpenAI評価額が顕著に増加",
     "date": "2026/06/06",
@@ -4820,13 +4736,13 @@
     "confidence": 70,
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 59,
+    "ageDays": 60,
     "priorityReason": "Business領域の最重要変化",
     "rank": 61,
     "summaryLevel": "deep"
   },
   {
-    "id": "173",
+    "id": "170",
     "category": "Ethics",
     "title": "英国規制当局、GoogleにAI学習用ニューススクレイピングのオプトアウト義務付け",
     "date": "2026/06/05",
@@ -4848,13 +4764,13 @@
     "confidence": 70,
     "rankScore": 80,
     "rankTier": "A",
-    "ageDays": 60,
+    "ageDays": 61,
     "priorityReason": "Ethics領域の最重要変化",
     "rank": 45,
     "summaryLevel": "deep"
   },
   {
-    "id": "174",
+    "id": "171",
     "category": "Ethics",
     "title": "「AIが自らを進化させる」Anthropicが自己改善リスクを警告、世界的な開発一時停止を提唱",
     "date": "2026/06/05",
@@ -4877,12 +4793,12 @@
     "priorityReason": "AIの自己進化リスクと開発停止要請という極めて重要な倫理的提起。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 60,
+    "ageDays": 61,
     "rank": 62,
     "summaryLevel": "deep"
   },
   {
-    "id": "175",
+    "id": "172",
     "category": "Business",
     "title": "Anthropicが秘密裏にIPO申請、1兆ドル規模のAI評価額を問う初の試金石へ",
     "date": "2026/06/05",
@@ -4905,12 +4821,12 @@
     "priorityReason": "AI企業の巨額評価額の妥当性を測る極めて重要な上場劇のため。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 60,
+    "ageDays": 61,
     "rank": 63,
     "summaryLevel": "deep"
   },
   {
-    "id": "176",
+    "id": "173",
     "category": "Business",
     "title": "大手AI企業が巨額評価額でIPOを計画、AI技術開発競争と資本市場の熱狂続く",
     "date": "2026/06/05",
@@ -4932,13 +4848,13 @@
     "confidence": 70,
     "rankScore": 78,
     "rankTier": "A",
-    "ageDays": 60,
+    "ageDays": 61,
     "priorityReason": "Business領域の最重要変化",
-    "rank": 75,
+    "rank": 76,
     "summaryLevel": "deep"
   },
   {
-    "id": "177",
+    "id": "174",
     "category": "Ethics",
     "title": "「AIの自己改善リスク」を警告、米Anthropicが世界的な開発一時停止を提唱",
     "date": "2026/06/04",
@@ -4961,12 +4877,12 @@
     "priorityReason": "最先端AI企業による開発停止提唱は極めて異例で影響大。",
     "rankScore": 81,
     "rankTier": "A",
-    "ageDays": 61,
+    "ageDays": 62,
     "rank": 32,
     "summaryLevel": "deep"
   },
   {
-    "id": "178",
+    "id": "175",
     "category": "Model",
     "title": "自律的に攻撃を考案する自己複製型AIワーム「ClawWorm」を研究者が開発",
     "date": "2026/06/04",
@@ -4989,12 +4905,12 @@
     "priorityReason": "AIエージェントを標的とする初の自律型ワームの登場は脅威。",
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 61,
+    "ageDays": 62,
     "rank": 64,
     "summaryLevel": "deep"
   },
   {
-    "id": "179",
+    "id": "176",
     "category": "Model",
     "title": "Researchers build self-replicating AI worm with BYO LLM",
     "date": "2026/06/04",
@@ -5015,12 +4931,12 @@
     "priorityReason": "AIエージェントを狙う初の自律ワーム",
     "rankScore": 71,
     "rankTier": "B",
-    "ageDays": 61,
-    "rank": 102,
+    "ageDays": 62,
+    "rank": 103,
     "summaryLevel": "standard"
   },
   {
-    "id": "180",
+    "id": "177",
     "category": "Model",
     "title": "GPT-5.4がデスクトップタスクで人間性能を超過、MIT AIが創薬を革新",
     "date": "2026/06/01",
@@ -5042,13 +4958,13 @@
     "confidence": 70,
     "rankScore": 81,
     "rankTier": "A",
-    "ageDays": 64,
+    "ageDays": 65,
     "priorityReason": "Model領域の最重要変化",
     "rank": 33,
     "summaryLevel": "deep"
   },
   {
-    "id": "181",
+    "id": "178",
     "category": "Service",
     "title": "エージェントAIの夜明け：2026年、自律型ワークフローとLLM推論が進化",
     "date": "2026/06/01",
@@ -5070,7 +4986,7 @@
     "confidence": 70,
     "rankScore": 79,
     "rankTier": "A",
-    "ageDays": 64,
+    "ageDays": 65,
     "priorityReason": "Service領域で要注視",
     "rank": 65,
     "summaryLevel": "deep"
