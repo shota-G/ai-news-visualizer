@@ -1,50 +1,60 @@
 [
   {
-    "id": "anthropic-volta-10b-deal",
+    "id": "anthropic-volta-deal",
     "category": "Business",
-    "title": "Anthropic、新興企業と100億ドルの計算資源契約",
+    "title": "Anthropicが1.5兆円規模のクラウド契約",
     "date": "2026/08/04",
-    "summary": "AnthropicはNvidia支援の新興企業Volta Infra Holdingsと100億ドルの計算資源調達契約を結んだ。",
+    "summary": "Anthropicが新興クラウド企業Voltaと6年間で100億ドルのインフラ利用契約を締結した。",
     "details": [
-      "AnthropicはNvidiaが支援するVolta Infra Holdingsと6年間で100億ドルの契約を締結し、ノルウェーのデータセンターで133メガワットの容量を確保した。これにより最新のVera Rubinチップを用いた計算資源を確保し、競合との開発競争を優位に進める狙いがある。"
+      "AIスタートアップのAnthropicが、設立間もないAIクラウド企業Voltaと6年間で100億ドル（約1兆5000億円）に及ぶ大規模な計算資源の利用契約を結んだことが明らかになった。",
+      "モデル開発競争が激化する中、Nvidiaの支援を受けるVoltaやBitdeerとの提携により、Claudeのトレーニングに必要な最先端半導体「Vera Rubin」などの計算容量を安定確保する狙いがある。",
+      "今後はVoltaが構築するノルウェーのデータセンターの稼働状況や、競合他社のインフラ確保の動きが注目される。"
     ],
     "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+      },
       {
         "name": "Yahoo Finance",
         "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-inks-10-billion-computing-120000547.html"
       }
     ],
-    "importance": "high",
-    "socialImpact": 75,
+    "importance": "critical",
+    "socialImpact": 85,
     "novelty": 80,
     "confidence": 95,
-    "priorityReason": "AI開発競争における巨額のインフラ投資の実態を示すため。",
-    "rankScore": 78,
-    "rankTier": "A",
-    "ageDays": 1,
+    "priorityReason": "1.5兆円規模のAIインフラ契約は市場に大きな影響を与えるため。",
+    "rankScore": 85,
+    "rankTier": "S",
+    "ageDays": 2,
     "rank": 1,
-    "summaryLevel": "standard"
+    "summaryLevel": "deep"
   },
   {
-    "id": "japan-capital-spending-fy2026",
-    "category": "Economy",
-    "title": "国内主要企業の設備投資、19.7%増の24.7兆円",
-    "date": "2026/08/04",
-    "summary": "日本政策投資銀行の調査で、2026年度の国内主要企業の設備投資計画が前年比19.7%増の24.7兆円に達することが判明した。",
+    "id": "google-mechanize-talks",
+    "category": "Business",
+    "title": "GoogleがAIコーディング企業買収を交渉中",
+    "date": "2026/08/05",
+    "summary": "GoogleがAIコーディング開発のMechanizeと15億ドル以上の買収・人材獲得交渉を進めている。",
     "details": [
-      "日本政策投資銀行の調査によると、国内主要企業の2026年度設備投資計画は前年比19.7%増 of 24.7兆円に達する見通しだ。AIや半導体需要の旺盛な伸びが投資を強力に牽引しており、全産業にわたるデジタルインフラの強化が背景にある。"
+      "GoogleはAIコーディング能力の強化に向け、サンフランシスコのスタートアップMechanizeと15億ドル以上の規模で技術ライセンスおよび優秀なエンジニア獲得を目的とした交渉を行っている。また、27年間在籍したチーフサイエンティストのジェフ・ディーン氏が退社し、新たなAI企業を共同設立することも判明した。"
     ],
     "sources": [
       {
-        "name": "BigGo Finance",
-        "url": "https://finance.biggo.com/news/f70ed850-f3bb-4787-86eb-28c01d6446e0"
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/google-mechanize-deal-talent-tech-ai-coding-2026-8"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/google-eyes-1-5b-investment-172001789.html"
       }
     ],
     "importance": "high",
-    "socialImpact": 78,
-    "novelty": 70,
+    "socialImpact": 75,
+    "novelty": 78,
     "confidence": 90,
-    "priorityReason": "AI需要が日本の実体経済に与える投資拡大の影響を裏付ける。",
+    "priorityReason": "GoogleのAI開発体制と人材獲得戦略の大きな転換点となるため。",
     "rankScore": 77,
     "rankTier": "A",
     "ageDays": 1,
@@ -52,29 +62,55 @@
     "summaryLevel": "standard"
   },
   {
-    "id": "anthropic-google-200b-deal",
-    "category": "Business",
-    "title": "Anthropic、Google Cloudと2000億ドル契約",
-    "date": "2026/08/03",
-    "summary": "AnthropicがGoogle Cloudと5年間で2000億ドルの利用契約を結び、Googleの将来のクラウド残高の4割を占める。",
+    "id": "meta-muse-code-launch",
+    "category": "Model",
+    "title": "Metaが初のAIコーディングエージェント発表",
+    "date": "2026/08/05",
+    "summary": "MetaがAnthropicやOpenAIに対抗する初のコーディングエージェント「Muse Code」を発表した。",
     "details": [
-      "AnthropicはGoogle Cloudと5年間で2000億ドルの利用契約を締結した。この契約はGoogleのクラウド将来売上残高の40%以上を占め、巨大IT企業がAIスタートアップのチップリスクをバランスシート外へ移転する新たな財務手法として注目されている。"
+      "Meta Superintelligence Labsを率いるアレクサンダー・ワン氏のもとで開発され、基盤モデルの商用展開を加速させる。"
     ],
     "sources": [
       {
-        "name": "The Decoder",
-        "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html"
       }
     ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 85,
-    "confidence": 90,
-    "priorityReason": "巨大ITとAIスタートアップの財務的結びつきの規模を示す。",
-    "rankScore": 77,
-    "rankTier": "A",
-    "ageDays": 2,
+    "importance": "medium",
+    "socialImpact": 72,
+    "novelty": 80,
+    "confidence": 85,
+    "priorityReason": "Metaがコーディング支援領域で競合追撃の姿勢を鮮明にしたため。",
+    "rankScore": 69,
+    "rankTier": "B",
+    "ageDays": 1,
     "rank": 3,
-    "summaryLevel": "standard"
+    "summaryLevel": "brief"
+  },
+  {
+    "id": "nvidia-ai-security-group",
+    "category": "Policy",
+    "title": "Nvidia主導のAIセキュリティ作業部会が発足",
+    "date": "2026/08/05",
+    "summary": "Nvidia主導の業界団体がBlack HatでAIセキュリティの作業部会を立ち上げた。",
+    "details": [
+      "AdobeやMicrosoft、Hugging Faceなどが参加するが、競合のOpenAIやGoogle、Anthropicは現時点で参加していない。"
+    ],
+    "sources": [
+      {
+        "name": "The AI Insider",
+        "url": "https://theaiinsider.tech/2026/08/05/nvidia-led-industry-group-launches-ai-security-working-group-at-black-hat-conference"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 70,
+    "novelty": 72,
+    "confidence": 85,
+    "priorityReason": "主要AI企業間のセキュリティ標準化を巡る主導権争いを示すため。",
+    "rankScore": 67,
+    "rankTier": "B",
+    "ageDays": 1,
+    "rank": 4,
+    "summaryLevel": "brief"
   }
 ]
