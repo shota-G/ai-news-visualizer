@@ -1,116 +1,86 @@
 [
   {
-    "id": "anthropic-volta-deal",
+    "id": "nvidia-nooa-alliance-2026",
     "category": "Business",
-    "title": "Anthropicが1.5兆円規模のクラウド契約",
+    "title": "NVIDIAが安全なAI同盟発足",
     "date": "2026/08/04",
-    "summary": "Anthropicが新興クラウド企業Voltaと6年間で100億ドルのインフラ利用契約を締結した。",
+    "summary": "NVIDIAが「Open Secure AI Alliance」を発足させ、MicrosoftやAmazonが参加する一方、GoogleやOpenAIなどは不参加となった。",
     "details": [
-      "AIスタートアップのAnthropicが、設立間もないAIクラウド企業Voltaと6年間で100億ドル（約1兆5000億円）に及ぶ大規模な計算資源の利用契約を結んだことが明らかになった。",
-      "モデル開発競争が激化する中、Nvidiaの支援を受けるVoltaやBitdeerとの提携により、Claudeのトレーニングに必要な最先端半導体「Vera Rubin」などの計算容量を安定確保する狙いがある。",
-      "今後はVoltaが構築するノルウェーのデータセンターの稼働状況や、競合他社のインフラ確保の動きが注目される。"
+      "NVIDIAは安全なAI開発を推進する業界団体「Open Secure AI Alliance（NOOA）」を設立し、発足から1週間で具体的な進捗を示した。同アライアンスにはMicrosoftやAmazon、Adobe、Cisco、Intelなどが参加している。",
+      "この動きは、クローズドなAIモデルを展開して市場を囲い込みたいGoogleやOpenAI、Anthropicといった主要プレイヤーとの対立構造を浮き彫りにし、今後のAIエコシステムの主導権争いに大きな影響を与える。",
+      "今後は、不参加の主要AI企業が独自の安全基準やアライアンスを強化するかどうか、また米国政府によるオープンソースAIへの支援方針の動向に注目すべきである。"
     ],
     "sources": [
       {
         "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+        "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress"
       },
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-inks-10-billion-computing-120000547.html"
+        "name": "Rebuild.fm (BigGo)",
+        "url": "https://finance.biggo.com/podcast/63c11fd6a8d79b06"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
     "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "1.5兆円規模のAIインフラ契約は市場に大きな影響を与えるため。",
+    "confidence": 90,
+    "priorityReason": "AI業界の覇権争いと安全基準の分裂を示す重要ニュースのため",
     "rankScore": 85,
     "rankTier": "S",
-    "ageDays": 2,
+    "ageDays": 3,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "google-mechanize-talks",
+    "id": "anthropic-custom-chip-team-2026",
     "category": "Business",
-    "title": "GoogleがAIコーディング企業買収を交渉中",
-    "date": "2026/08/05",
-    "summary": "GoogleがAIコーディング開発のMechanizeと15億ドル以上の買収・人材獲得交渉を進めている。",
+    "title": "米アンソロピックが独自チップ開発へ",
+    "date": "2026/08/06",
+    "summary": "米AIスタートアップのAnthropicが、モデルの高速化と効率化を目指し、独自のカスタムAIチップを設計する専門チームを立ち上げた。",
     "details": [
-      "GoogleはAIコーディング能力の強化に向け、サンフランシスコのスタートアップMechanizeと15億ドル以上の規模で技術ライセンスおよび優秀なエンジニア獲得を目的とした交渉を行っている。また、27年間在籍したチーフサイエンティストのジェフ・ディーン氏が退社し、新たなAI企業を共同設立することも判明した。"
+      "Anthropicはハードウェアとモデルの共同設計により処理効率を高める計画で、製造パートナーとしてサムスン電子を検討していると報じられており、NVIDIA依存からの脱却を図る動きが加速している。"
     ],
     "sources": [
       {
-        "name": "Business Insider",
-        "url": "https://www.businessinsider.com/google-mechanize-deal-talent-tech-ai-coding-2026-8"
-      },
-      {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/google-eyes-1-5b-investment-172001789.html"
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/08/06/washington-is-keeping-its-ai-rulebook-private-smaller-ai-labs-arent-happy"
       }
     ],
     "importance": "high",
     "socialImpact": 75,
-    "novelty": 78,
-    "confidence": 90,
-    "priorityReason": "GoogleのAI開発体制と人材獲得戦略の大きな転換点となるため。",
-    "rankScore": 77,
+    "novelty": 85,
+    "confidence": 95,
+    "priorityReason": "半導体市場とAI開発競争の勢力図を塗り替える可能性があるため",
+    "rankScore": 79,
     "rankTier": "A",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "meta-muse-code-launch",
-    "category": "Model",
-    "title": "Metaが初のAIコーディングエージェント発表",
-    "date": "2026/08/05",
-    "summary": "MetaがAnthropicやOpenAIに対抗する初のコーディングエージェント「Muse Code」を発表した。",
-    "details": [
-      "Meta Superintelligence Labsを率いるアレクサンダー・ワン氏のもとで開発され、基盤モデルの商用展開を加速させる。"
-    ],
-    "sources": [
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 72,
-    "novelty": 80,
-    "confidence": 85,
-    "priorityReason": "Metaがコーディング支援領域で競合追撃の姿勢を鮮明にしたため。",
-    "rankScore": 69,
-    "rankTier": "B",
-    "ageDays": 1,
-    "rank": 3,
-    "summaryLevel": "brief"
-  },
-  {
-    "id": "nvidia-ai-security-group",
+    "id": "japan-defense-white-paper-2026",
     "category": "Policy",
-    "title": "Nvidia主導のAIセキュリティ作業部会が発足",
-    "date": "2026/08/05",
-    "summary": "Nvidia主導の業界団体がBlack HatでAIセキュリティの作業部会を立ち上げた。",
+    "title": "防衛白書公開で周辺国から懸念の声",
+    "date": "2026/08/04",
+    "summary": "日本政府が2026年版の防衛白書を公表し、軍備増強を巡り国際社会や周辺国から警戒感が高まっている。",
     "details": [
-      "AdobeやMicrosoft、Hugging Faceなどが参加するが、競合のOpenAIやGoogle、Anthropicは現時点で参加していない。"
+      "日本の防衛白書公表を受け、近隣諸国からは軍備再編の動きに対する懸念が示されており、東アジアの安全保障環境における緊張緩和に向けた外交努力が注視される。"
     ],
     "sources": [
       {
-        "name": "The AI Insider",
-        "url": "https://theaiinsider.tech/2026/08/05/nvidia-led-industry-group-launches-ai-security-working-group-at-black-hat-conference"
+        "name": "China Military Online",
+        "url": "http://eng.chinamil.com.cn/2025xb/O_251451/16478071.html"
       }
     ],
     "importance": "medium",
     "socialImpact": 70,
-    "novelty": 72,
+    "novelty": 60,
     "confidence": 85,
-    "priorityReason": "主要AI企業間のセキュリティ標準化を巡る主導権争いを示すため。",
-    "rankScore": 67,
+    "priorityReason": "日本の防衛政策に対する国際的な反応を把握するため",
+    "rankScore": 63,
     "rankTier": "B",
-    "ageDays": 1,
-    "rank": 4,
+    "ageDays": 3,
+    "rank": 3,
     "summaryLevel": "brief"
   }
 ]
