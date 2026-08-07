@@ -1,44 +1,96 @@
 [
   {
-    "id": "nvidia-nooa-alliance-2026",
+    "id": "google-anthropic-financing-20260805",
     "category": "Business",
-    "title": "NVIDIAが安全なAI同盟発足",
-    "date": "2026/08/04",
-    "summary": "NVIDIAが「Open Secure AI Alliance」を発足させ、MicrosoftやAmazonが参加する一方、GoogleやOpenAIなどは不参加となった。",
+    "title": "米グーグル、対AI新興で巨額融資網",
+    "date": "2026/08/05",
+    "summary": "グーグルが金融機関などと提携し、アンソロピックへの自社製AIチップ供給に向けた最大2000億ドル規模のインフラ融資ネットワークを構築する。",
     "details": [
-      "NVIDIAは安全なAI開発を推進する業界団体「Open Secure AI Alliance（NOOA）」を設立し、発足から1週間で具体的な進捗を示した。同アライアンスにはMicrosoftやAmazon、Adobe、Cisco、Intelなどが参加している。",
-      "この動きは、クローズドなAIモデルを展開して市場を囲い込みたいGoogleやOpenAI、Anthropicといった主要プレイヤーとの対立構造を浮き彫りにし、今後のAIエコシステムの主導権争いに大きな影響を与える。",
-      "今後は、不参加の主要AI企業が独自の安全基準やアライアンスを強化するかどうか、また米国政府によるオープンソースAIへの支援方針の動向に注目すべきである。"
+      "グーグルが金融機関などと提携し、最大2000億ドル規模のインフラ融資プログラムを構築したことが明らかになった。",
+      "この融資網はアンソロピックに1500億ドル以上の自社製チップを供給するもので、クラウド事業の将来的な財務リスクを移転する狙いがある。",
+      "巨大IT企業によるAIインフラ投資の財務負担軽減モデルとして、他社が同様の枠組みを追随するか、今後の市場動向が注目される。"
     ],
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress"
+        "name": "The Decoder",
+        "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet"
       },
       {
-        "name": "Rebuild.fm (BigGo)",
-        "url": "https://finance.biggo.com/podcast/63c11fd6a8d79b06"
+        "name": "BigGo Finance",
+        "url": "https://finance.biggo.com/news/cc3ceaa8-e838-4501-b4c0-13b9fcba9232"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "AI業界の覇権争いと安全基準の分裂を示す重要ニュースのため",
-    "rankScore": 85,
+    "novelty": 90,
+    "confidence": 95,
+    "priorityReason": "巨額のAIインフラ投資を巡る新たな財務手法として注目されるため",
+    "rankScore": 87,
     "rankTier": "S",
     "ageDays": 3,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "anthropic-custom-chip-team-2026",
-    "category": "Business",
-    "title": "米アンソロピックが独自チップ開発へ",
-    "date": "2026/08/06",
-    "summary": "米AIスタートアップのAnthropicが、モデルの高速化と効率化を目指し、独自のカスタムAIチップを設計する専門チームを立ち上げた。",
+    "id": "iran-hormuz-strait-crisis-20260807",
+    "category": "Policy",
+    "title": "イラン、米大統領の劇場外交を非難",
+    "date": "2026/08/07",
+    "summary": "イランの首席交渉官がトランプ米大統領の外交姿勢を批判し、ホルムズ海峡における米国やイスラエルなどの艦船の通航を制限する草案を公表した。",
     "details": [
-      "Anthropicはハードウェアとモデルの共同設計により処理効率を高める計画で、製造パートナーとしてサムスン電子を検討していると報じられており、NVIDIA依存からの脱却を図る動きが加速している。"
+      "イランがトランプ米大統領の外交を批判し、ホルムズ海峡で米国やイスラエルなどの艦船の通航を制限する草案を公表した。中東での軍事的緊張が高まる中、原油輸送の要衝である同海峡の通航リスク上昇は、世界的なエネルギー供給懸念と原油価格の高騰を招き、金融市場に大きな影響を与える可能性がある。"
+    ],
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 92,
+    "novelty": 75,
+    "confidence": 95,
+    "priorityReason": "原油輸送の要衝における地政学リスクが世界経済に直結するため",
+    "rankScore": 82,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 2,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "china-exports-surge-july-20260807",
+    "category": "Economy",
+    "title": "中国の７月輸出、前年比２３％増",
+    "date": "2026/08/07",
+    "summary": "中国の7月の輸出額が前年同月比23.9%増となり、特に半導体輸出が前年比117%増を記録するなどAI向けチップ需要が全体を牽引した。",
+    "details": [
+      "中国の7月の輸出額は前年同月比23.9%増を記録し、貿易黒字は1125億ドルに達した。特に半導体の輸出額が前年同月比117%増とほぼ倍増しており、世界的なAI向けチップ需要の急増が中国の輸出主導の経済成長を強力に後押ししている背景が浮き彫りとなった。"
+    ],
+    "sources": [
+      {
+        "name": "Cryptorank",
+        "url": "https://cryptorank.io/news/feed/f3539-china-exports-ai-chip-demand-july"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "AI半導体需要が中国の輸出成長に与える影響が顕著なため",
+    "rankScore": 77,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 3,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "anthropic-custom-ai-chips-20260806",
+    "category": "Business",
+    "title": "アンソロピック、独自AIチップ設計へ",
+    "date": "2026/08/06",
+    "summary": "米アンソロピックが、AIモデルの高速化と効率化を目指し、独自のカスタムAIチップを設計する専門チームを構築していることが判明した。",
+    "details": [
+      "アンソロピックがハードウェアとモデルの共同設計による効率化を目指し、独自チップの設計チームを構築。製造パートナーとしてサムスン電子を模索している。"
     ],
     "sources": [
       {
@@ -46,41 +98,15 @@
         "url": "https://fortune.com/2026/08/06/washington-is-keeping-its-ai-rulebook-private-smaller-ai-labs-arent-happy"
       }
     ],
-    "importance": "high",
-    "socialImpact": 75,
-    "novelty": 85,
-    "confidence": 95,
-    "priorityReason": "半導体市場とAI開発競争の勢力図を塗り替える可能性があるため",
-    "rankScore": 79,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 2,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "japan-defense-white-paper-2026",
-    "category": "Policy",
-    "title": "防衛白書公開で周辺国から懸念の声",
-    "date": "2026/08/04",
-    "summary": "日本政府が2026年版の防衛白書を公表し、軍備増強を巡り国際社会や周辺国から警戒感が高まっている。",
-    "details": [
-      "日本の防衛白書公表を受け、近隣諸国からは軍備再編の動きに対する懸念が示されており、東アジアの安全保障環境における緊張緩和に向けた外交努力が注視される。"
-    ],
-    "sources": [
-      {
-        "name": "China Military Online",
-        "url": "http://eng.chinamil.com.cn/2025xb/O_251451/16478071.html"
-      }
-    ],
     "importance": "medium",
     "socialImpact": 70,
-    "novelty": 60,
-    "confidence": 85,
-    "priorityReason": "日本の防衛政策に対する国際的な反応を把握するため",
-    "rankScore": 63,
+    "novelty": 85,
+    "confidence": 90,
+    "priorityReason": "主要AIラボによる半導体内製化の動きが加速しているため",
+    "rankScore": 67,
     "rankTier": "B",
-    "ageDays": 3,
-    "rank": 3,
+    "ageDays": 2,
+    "rank": 4,
     "summaryLevel": "brief"
   }
 ]
