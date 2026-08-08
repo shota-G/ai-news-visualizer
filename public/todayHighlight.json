@@ -1,112 +1,56 @@
 [
   {
-    "id": "google-anthropic-financing-20260805",
-    "category": "Business",
-    "title": "米グーグル、対AI新興で巨額融資網",
-    "date": "2026/08/05",
-    "summary": "グーグルが金融機関などと提携し、アンソロピックへの自社製AIチップ供給に向けた最大2000億ドル規模のインフラ融資ネットワークを構築する。",
+    "id": "japan-ai-voice-cloning-guidelines",
+    "category": "Policy",
+    "title": "無断AIボイスクローンは民事責任",
+    "date": "2026/08/08",
+    "summary": "法務省が公表した最終指針で、同意のないAI音声複製はパブリシティ権の侵害にあたり民事上の責任を負うと規定した。",
     "details": [
-      "グーグルが金融機関などと提携し、最大2000億ドル規模のインフラ融資プログラムを構築したことが明らかになった。",
-      "この融資網はアンソロピックに1500億ドル以上の自社製チップを供給するもので、クラウド事業の将来的な財務リスクを移転する狙いがある。",
-      "巨大IT企業によるAIインフラ投資の財務負担軽減モデルとして、他社が同様の枠組みを追随するか、今後の市場動向が注目される。"
+      "法務省は2026年8月8日、本人の同意なく声を模倣するAI生成音声をパブリシティ権の侵害とみなす最終指針を公表した。",
+      "アジアの主要国でAIボイスクローンを明確な権利侵害として扱う法的指針が策定されたのは日本が初の事例となる。",
+      "今後は開発者や企業に対する具体的な民事訴訟の基準として機能するため、音声合成技術の商用利用プロセスに影響を及ぼす。"
     ],
     "sources": [
       {
-        "name": "The Decoder",
-        "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet"
-      },
-      {
-        "name": "BigGo Finance",
-        "url": "https://finance.biggo.com/news/cc3ceaa8-e838-4501-b4c0-13b9fcba9232"
+        "name": "TechTimes",
+        "url": "https://www.techtimes.com/articles/323616/20260808/japan-rules-ai-voice-cloning-requires-consent-developers-face-civil-liability.htm"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
     "novelty": 90,
     "confidence": 95,
-    "priorityReason": "巨額のAIインフラ投資を巡る新たな財務手法として注目されるため",
-    "rankScore": 87,
+    "priorityReason": "アジア初のAI音声規制指針であり、開発者の法的責任を明確化。",
+    "rankScore": 90,
     "rankTier": "S",
-    "ageDays": 3,
+    "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "iran-hormuz-strait-crisis-20260807",
-    "category": "Policy",
-    "title": "イラン、米大統領の劇場外交を非難",
-    "date": "2026/08/07",
-    "summary": "イランの首席交渉官がトランプ米大統領の外交姿勢を批判し、ホルムズ海峡における米国やイスラエルなどの艦船の通航を制限する草案を公表した。",
+    "id": "superleap-ai-crm-funding",
+    "category": "Service",
+    "title": "印スーパーリープが資金調達実施",
+    "date": "2026/08/08",
+    "summary": "AIネイティブCRMを開発するインドのスーパーリープが、3億6000万ルピーの資金調達を完了した。",
     "details": [
-      "イランがトランプ米大統領の外交を批判し、ホルムズ海峡で米国やイスラエルなどの艦船の通航を制限する草案を公表した。中東での軍事的緊張が高まる中、原油輸送の要衝である同海峡の通航リスク上昇は、世界的なエネルギー供給懸念と原油価格の高騰を招き、金融市場に大きな影響を与える可能性がある。"
+      "インド発のエンタープライズAI CRMプラットフォームであるスーパーリープは、前年比10倍の成長を遂げ、Razorpayなどの大手企業に導入されている。"
     ],
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html"
+        "name": "Business Standard",
+        "url": "https://www.business-standard.com/amp/content/press-releases-ani/superleap-raises-inr-36-cr-to-build-the-ai-native-alternative-to-legacy-crms-126080801149_1.html"
       }
     ],
     "importance": "high",
-    "socialImpact": 92,
-    "novelty": 75,
-    "confidence": 95,
-    "priorityReason": "原油輸送の要衝における地政学リスクが世界経済に直結するため",
-    "rankScore": 82,
-    "rankTier": "A",
+    "socialImpact": 45,
+    "novelty": 60,
+    "confidence": 90,
+    "priorityReason": "急成長するインドのAIネイティブCRM市場の動向を示すため。",
+    "rankScore": 65,
+    "rankTier": "B",
     "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
-  },
-  {
-    "id": "china-exports-surge-july-20260807",
-    "category": "Economy",
-    "title": "中国の７月輸出、前年比２３％増",
-    "date": "2026/08/07",
-    "summary": "中国の7月の輸出額が前年同月比23.9%増となり、特に半導体輸出が前年比117%増を記録するなどAI向けチップ需要が全体を牽引した。",
-    "details": [
-      "中国の7月の輸出額は前年同月比23.9%増を記録し、貿易黒字は1125億ドルに達した。特に半導体の輸出額が前年同月比117%増とほぼ倍増しており、世界的なAI向けチップ需要の急増が中国の輸出主導の経済成長を強力に後押ししている背景が浮き彫りとなった。"
-    ],
-    "sources": [
-      {
-        "name": "Cryptorank",
-        "url": "https://cryptorank.io/news/feed/f3539-china-exports-ai-chip-demand-july"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 80,
-    "novelty": 70,
-    "confidence": 90,
-    "priorityReason": "AI半導体需要が中国の輸出成長に与える影響が顕著なため",
-    "rankScore": 77,
-    "rankTier": "A",
-    "ageDays": 1,
-    "rank": 3,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "anthropic-custom-ai-chips-20260806",
-    "category": "Business",
-    "title": "アンソロピック、独自AIチップ設計へ",
-    "date": "2026/08/06",
-    "summary": "米アンソロピックが、AIモデルの高速化と効率化を目指し、独自のカスタムAIチップを設計する専門チームを構築していることが判明した。",
-    "details": [
-      "アンソロピックがハードウェアとモデルの共同設計による効率化を目指し、独自チップの設計チームを構築。製造パートナーとしてサムスン電子を模索している。"
-    ],
-    "sources": [
-      {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/08/06/washington-is-keeping-its-ai-rulebook-private-smaller-ai-labs-arent-happy"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 70,
-    "novelty": 85,
-    "confidence": 90,
-    "priorityReason": "主要AIラボによる半導体内製化の動きが加速しているため",
-    "rankScore": 67,
-    "rankTier": "B",
-    "ageDays": 2,
-    "rank": 4,
-    "summaryLevel": "brief"
   }
 ]
