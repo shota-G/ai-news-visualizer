@@ -1,56 +1,34 @@
 [
   {
-    "id": "japan-ai-voice-cloning-guidelines",
+    "id": "nagasaki-atomic-bomb-anniversary-2026",
     "category": "Policy",
-    "title": "無断AIボイスクローンは民事責任",
-    "date": "2026/08/08",
-    "summary": "法務省が公表した最終指針で、同意のないAI音声複製はパブリシティ権の侵害にあたり民事上の責任を負うと規定した。",
+    "title": "長崎原爆の日から81年",
+    "date": "2026/08/09",
+    "summary": "長崎市で被爆から81年の平和祈念式典が営まれ、市長が核抑止力への依存を否定した。",
     "details": [
-      "法務省は2026年8月8日、本人の同意なく声を模倣するAI生成音声をパブリシティ権の侵害とみなす最終指針を公表した。",
-      "アジアの主要国でAIボイスクローンを明確な権利侵害として扱う法的指針が策定されたのは日本が初の事例となる。",
-      "今後は開発者や企業に対する具体的な民事訴訟の基準として機能するため、音声合成技術の商用利用プロセスに影響を及ぼす。"
+      "2026年8月9日、長崎市は被爆から81年となる原爆の日を迎えた。平和公園で平和祈念式典が執り行われ、遺族や市民らが犠牲者に祈りを捧げた。",
+      "鈴木市長は平和宣言で核兵器を「絶対悪」と表現し、核抑止力への依存を強める世界の潮流を非難するとともに、日本政府に非核三原則の堅持を求めた。",
+      "今後は、核保有国や核の傘に依存する国々の指導者が、核抑止の現実と被爆地からの訴えにどう向き合い、具体的な軍縮行動を起こすかが注視される。"
     ],
     "sources": [
       {
-        "name": "TechTimes",
-        "url": "https://www.techtimes.com/articles/323616/20260808/japan-rules-ai-voice-cloning-requires-consent-developers-face-civil-liability.htm"
+        "name": "France 24",
+        "url": "https://www.france24.com/en/asia-pacific/20260809-japan-nuclear-debate-unnerves-proponents-of-pacifism"
+      },
+      {
+        "name": "Politico",
+        "url": "https://www.politico.com/news/2026/08/09/nagasaki-marks-81st-atomic-bomb-anniversary-as-mayor-says-nuclear-deterrence-only-increases-risk-01030195"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
-    "novelty": 90,
+    "novelty": 40,
     "confidence": 95,
-    "priorityReason": "アジア初のAI音声規制指針であり、開発者の法的責任を明確化。",
-    "rankScore": 90,
-    "rankTier": "S",
+    "priorityReason": "被爆81年を迎えた長崎の平和宣言と核抑止議論を伝えるため。",
+    "rankScore": 81,
+    "rankTier": "A",
     "ageDays": 1,
     "rank": 1,
     "summaryLevel": "deep"
-  },
-  {
-    "id": "superleap-ai-crm-funding",
-    "category": "Service",
-    "title": "印スーパーリープが資金調達実施",
-    "date": "2026/08/08",
-    "summary": "AIネイティブCRMを開発するインドのスーパーリープが、3億6000万ルピーの資金調達を完了した。",
-    "details": [
-      "インド発のエンタープライズAI CRMプラットフォームであるスーパーリープは、前年比10倍の成長を遂げ、Razorpayなどの大手企業に導入されている。"
-    ],
-    "sources": [
-      {
-        "name": "Business Standard",
-        "url": "https://www.business-standard.com/amp/content/press-releases-ani/superleap-raises-inr-36-cr-to-build-the-ai-native-alternative-to-legacy-crms-126080801149_1.html"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 45,
-    "novelty": 60,
-    "confidence": 90,
-    "priorityReason": "急成長するインドのAIネイティブCRM市場の動向を示すため。",
-    "rankScore": 65,
-    "rankTier": "B",
-    "ageDays": 1,
-    "rank": 2,
-    "summaryLevel": "standard"
   }
 ]
