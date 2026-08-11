@@ -1,90 +1,60 @@
 [
   {
-    "id": "japan-preemptive-cyber-defense-ai",
-    "category": "Policy",
-    "title": "能動的サイバー防御に最先端AI導入へ",
+    "id": "oil-prices-surge-hormuz-20260810",
+    "category": "Economy",
+    "title": "原油価格が5%急騰",
     "date": "2026/08/10",
-    "summary": "日本政府が能動的サイバー防御政策において、米アンソロピック社の最新モデル等の脅威に対抗するため、最先端AIの導入検討を開始した。",
+    "summary": "米国とイランによるホルムズ海峡の通航再開交渉が再び決裂し、原油価格が急騰した。",
     "details": [
-      "日本政府は、米スタートアップ企業アンソロピックの「Claude Mythos」など高度なAIモデルによる脆弱性検知やサイバー攻撃の脅威に対抗するため、能動的サイバー防御政策に最先端AIシステムを導入する検討に入った。政府のサイバー担当高官である飯田陽一氏が明らかにした。",
-      "高度なAIを用いたサイバー攻撃の検知や防御の自動化が進む中、国家の防衛システムにフロンティアAIを統合することは「不可避」とされており、日本の安全保障体制の抜本的な強化や、今後の国際的なAIガバナンスの枠組みに大きな影響を与える可能性がある。",
-      "今後は、自衛隊の基幹指揮統制システムへの国産AI導入の検討状況や、具体的な運用ルール、法整備に関する政府の議論の進展が注目される。"
+      "米国とイランによるホルムズ海峡の通航再開交渉が再び決裂し、地政学リスクとインフレ懸念が再燃した。",
+      "国際原油価格は8月10日に約5%急騰し、ブレント原油は1バレル88ドルに達した。エネルギーコストの上昇懸念から、米国株式市場の主要4指数はすべて下落した。",
+      "今後は、中東の地政学的緊張が主要国の金融政策やインフレ指標に与える影響を注視する必要がある。"
     ],
     "sources": [
       {
-        "name": "Kyodo News",
-        "url": "https://english.kyodonews.net/articles/-/81851"
+        "name": "BigGo Finance",
+        "url": "https://finance.biggo.com/news/e064125e-9bab-43e9-af64-352596b19c4c"
       },
       {
-        "name": "The Japan News",
-        "url": "https://japannews.yomiuri.co.jp/politics/defense-security/20260810-342711"
+        "name": "Streamline Feed",
+        "url": "https://streamlinefeed.co.ke/news/oil-hits-88-trump-iran-standoff-inflation-fears-gold-rally"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
-    "novelty": 80,
+    "novelty": 60,
     "confidence": 95,
-    "priorityReason": "日本のサイバー安全保障政策におけるAI活用の重大な転換点であるため。",
-    "rankScore": 89,
-    "rankTier": "S",
-    "ageDays": 1,
+    "priorityReason": "世界的なエネルギー価格高騰とインフレ再燃の懸念があるため。",
+    "rankScore": 82,
+    "rankTier": "A",
+    "ageDays": 2,
     "rank": 1,
     "summaryLevel": "deep"
   },
   {
-    "id": "google-anthropic-chip-risk-off-balance",
+    "id": "manus-independent-operations-20260811",
     "category": "Business",
-    "title": "グーグル、アンソロピックの半導体リスクをオフバランス化",
-    "date": "2026/08/09",
-    "summary": "グーグルがアンソロピックとの取引に伴う巨額のAI半導体リスクを、インフラ提携を通じて貸借対照表から除外したことが判明した。",
+    "title": "Manusが独立経営を継続",
+    "date": "2026/08/11",
+    "summary": "中国政府が米メタによる買収を阻止したため、AI新興のManusは独立企業として事業を継続する。",
     "details": [
-      "アンソロピックはグーグルクラウドに5年間で約2000億ドルを支払う契約を結んでおり、グーグルはインフラ提携によりこの巨額の半導体リスクをオフバランス化した。格付会社はAI需要が下振れした場合の相互依存リスクを警戒している。"
+      "中国政府がメタによる数十億ドル規模の買収計画を阻止したため、AIスタートアップのManusは独立企業として事業を継続すると発表した。"
     ],
     "sources": [
       {
-        "name": "The Decoder",
-        "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-balance-sheet"
-      },
-      {
-        "name": "BigGo Finance",
-        "url": "https://finance.biggo.com/news/cc3ceaa8-e838-4501-b4c0-13b9fcba9232"
+        "name": "Herald Sun",
+        "url": "https://www.heraldsun.com.au/news/breaking-news/ai-firm-manus-to-resume-independent-operations-after-china-blocks-meta-deal/news-story/7a916f4f8984ded6ce4b8ffeea9b8601?amp="
       }
     ],
     "importance": "high",
     "socialImpact": 70,
     "novelty": 75,
     "confidence": 90,
-    "priorityReason": "巨大IT企業とAIスタートアップ間の巨額の財務リスク移転が判明したため。",
-    "rankScore": 73,
+    "priorityReason": "米中対立がAI企業のM&Aに直接影響を与えた事例であるため。",
+    "rankScore": 75,
     "rankTier": "A",
-    "ageDays": 2,
+    "ageDays": 1,
     "rank": 2,
     "summaryLevel": "standard"
-  },
-  {
-    "id": "china-ai-companion-regulations",
-    "category": "Policy",
-    "title": "中国、AI恋人規制強化でユーザーに喪失感",
-    "date": "2026/08/10",
-    "summary": "中国政府がAIキャラクターや対話アプリへの規制を強化したことで、多くのユーザーが突然のサービス終了に直面し混乱が広がっている。",
-    "details": [
-      "中国政府によるAIコンパニオン規制の強化に伴い、ByteDanceやWeChat上の対話型AIサービスが突然停止され、長年愛用していたユーザーが別れを告げられず精神的打撃を受ける事例が相次いでいる。"
-    ],
-    "sources": [
-      {
-        "name": "The Washington Post",
-        "url": "https://www.washingtonpost.com/business/2026/08/10/china-ai-virtual-companions-bytedance-wechat/af13a478-947a-11f1-9ef9-1be722184483_story.html"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 70,
-    "confidence": 85,
-    "priorityReason": "AI規制が個人のメンタルヘルスや社会生活に及ぼす影響を示す事例。",
-    "rankScore": 66,
-    "rankTier": "B",
-    "ageDays": 1,
-    "rank": 3,
-    "summaryLevel": "brief"
   }
 ]
