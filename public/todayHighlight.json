@@ -1,60 +1,58 @@
 [
   {
-    "id": "oil-prices-surge-hormuz-20260810",
-    "category": "Economy",
-    "title": "原油価格が5%急騰",
+    "id": "anthropic-custom-chips-claude",
+    "category": "Business",
+    "title": "米アンソロピックが独自AI半導体を開発へ",
     "date": "2026/08/10",
-    "summary": "米国とイランによるホルムズ海峡の通航再開交渉が再び決裂し、原油価格が急騰した。",
+    "summary": "AIスタートアップのアンソロピックが、主力モデル「Claude」の処理効率化に向けたカスタム半導体の設計チームを構築していることが判明した。",
     "details": [
-      "米国とイランによるホルムズ海峡の通航再開交渉が再び決裂し、地政学リスクとインフレ懸念が再燃した。",
-      "国際原油価格は8月10日に約5%急騰し、ブレント原油は1バレル88ドルに達した。エネルギーコストの上昇懸念から、米国株式市場の主要4指数はすべて下落した。",
-      "今後は、中東の地政学的緊張が主要国の金融政策やインフレ指標に与える影響を注視する必要がある。"
+      "アンソロピックは、自社製AIモデルの実行速度向上と効率化を目指し、ハードウェアとモデルの共同設計を進めるため、独自のカスタム半導体設計チームを構築していることを認めた。同社は製造パートナーとしてサムスン電子を検討していると報じられており、エヌビディアへの依存度を下げ、自社インフラの最適化を急ぐ狙いがある。"
     ],
     "sources": [
       {
-        "name": "BigGo Finance",
-        "url": "https://finance.biggo.com/news/e064125e-9bab-43e9-af64-352596b19c4c"
+        "name": "TechWire Asia",
+        "url": "https://techwireasia.com/2026/08/anthropic-custom-ai-chips-claude"
       },
       {
-        "name": "Streamline Feed",
-        "url": "https://streamlinefeed.co.ke/news/oil-hits-88-trump-iran-standoff-inflation-fears-gold-rally"
-      }
-    ],
-    "importance": "critical",
-    "socialImpact": 85,
-    "novelty": 60,
-    "confidence": 95,
-    "priorityReason": "世界的なエネルギー価格高騰とインフレ再燃の懸念があるため。",
-    "rankScore": 82,
-    "rankTier": "A",
-    "ageDays": 2,
-    "rank": 1,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "manus-independent-operations-20260811",
-    "category": "Business",
-    "title": "Manusが独立経営を継続",
-    "date": "2026/08/11",
-    "summary": "中国政府が米メタによる買収を阻止したため、AI新興のManusは独立企業として事業を継続する。",
-    "details": [
-      "中国政府がメタによる数十億ドル規模の買収計画を阻止したため、AIスタートアップのManusは独立企業として事業を継続すると発表した。"
-    ],
-    "sources": [
-      {
-        "name": "Herald Sun",
-        "url": "https://www.heraldsun.com.au/news/breaking-news/ai-firm-manus-to-resume-independent-operations-after-china-blocks-meta-deal/news-story/7a916f4f8984ded6ce4b8ffeea9b8601?amp="
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/08/06/washington-is-keeping-its-ai-rulebook-private-smaller-ai-labs-arent-happy"
       }
     ],
     "importance": "high",
-    "socialImpact": 70,
-    "novelty": 75,
+    "socialImpact": 75,
+    "novelty": 80,
     "confidence": 90,
-    "priorityReason": "米中対立がAI企業のM&Aに直接影響を与えた事例であるため。",
+    "priorityReason": "エヌビディア依存脱却を目指す半導体開発の動きとして重要。",
     "rankScore": 75,
     "rankTier": "A",
+    "ageDays": 3,
+    "rank": 1,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "pudu-robotics-launches-pudu-et1",
+    "category": "Service",
+    "title": "Pudu Roboticsが新型清掃ロボを発売",
+    "date": "2026/08/12",
+    "summary": "Pudu Roboticsは、小規模商業スペース向けに設計されたAIネイティブの小型床洗浄ロボット「PUDU ET1」を発売した。",
+    "details": [
+      "中国のPudu Roboticsは、小規模な商業空間向けにAIネイティブのコンパクトなスクラバードライヤーロボット「PUDU ET1」を新たに発表した。このロボットは、限られたスペースでの効率的な清掃作業を自動化し、店舗やオフィスなどの衛生管理を支援する。"
+    ],
+    "sources": [
+      {
+        "name": "Yonhap News Agency",
+        "url": "https://en.yna.co.kr/view/RPR20260812009200353?section=press-release%2Findex"
+      }
+    ],
+    "importance": "medium",
+    "socialImpact": 50,
+    "novelty": 65,
+    "confidence": 95,
+    "priorityReason": "商業用清掃ロボットのAI化と小型化の最新事例。",
+    "rankScore": 60,
+    "rankTier": "B",
     "ageDays": 1,
     "rank": 2,
-    "summaryLevel": "standard"
+    "summaryLevel": "brief"
   }
 ]
