@@ -1,58 +1,86 @@
 [
   {
-    "id": "anthropic-custom-chips-claude",
+    "id": "anthropic-decart-acquisition-talks",
     "category": "Business",
-    "title": "米アンソロピックが独自AI半導体を開発へ",
-    "date": "2026/08/10",
-    "summary": "AIスタートアップのアンソロピックが、主力モデル「Claude」の処理効率化に向けたカスタム半導体の設計チームを構築していることが判明した。",
+    "title": "米アンソロピック、デカート買収交渉",
+    "date": "2026/08/14",
+    "summary": "米AIスタートアップのアンソロピックが、NVIDIA支援のイスラエル企業デカートAIを約60億ドルで買収する交渉を進めていることが判明した。",
     "details": [
-      "アンソロピックは、自社製AIモデルの実行速度向上と効率化を目指し、ハードウェアとモデルの共同設計を進めるため、独自のカスタム半導体設計チームを構築していることを認めた。同社は製造パートナーとしてサムスン電子を検討していると報じられており、エヌビディアへの依存度を下げ、自社インフラの最適化を急ぐ狙いがある。"
+      "アンソロピックが新規株式公開（IPO）を控える中、同社史上最大規模となる約60億ドルでの買収交渉が報じられた。",
+      "デカートAIはチップ効率の向上やAIモデルのトレーニングコスト削減、推論効率化に強みを持つインフラ開発企業である。",
+      "今後は交渉の成否や、アンソロピックによるAIハードウェアおよび推論効率化への投資戦略の具体化が注目される。"
     ],
     "sources": [
       {
-        "name": "TechWire Asia",
-        "url": "https://techwireasia.com/2026/08/anthropic-custom-ai-chips-claude"
+        "name": "International Business Times",
+        "url": "https://www.ibtimes.com/anthropic-reportedly-eyes-6-billion-deal-nvidia-backed-decart-ai-ahead-its-ipo-3806374"
       },
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/08/06/washington-is-keeping-its-ai-rulebook-private-smaller-ai-labs-arent-happy"
+        "name": "Livemint",
+        "url": "https://www.livemint.com/ai/artificial-intelligence/anthropic-in-talks-to-acquire-nvidia-backed-decart-ai-for-6-billion-report/amp-11786614257095.html"
+      }
+    ],
+    "importance": "critical",
+    "socialImpact": 85,
+    "novelty": 90,
+    "confidence": 95,
+    "priorityReason": "IPOを控える大手AI企業の巨額買収劇であり市場影響大。",
+    "rankScore": 92,
+    "rankTier": "S",
+    "ageDays": 0,
+    "rank": 1,
+    "summaryLevel": "deep"
+  },
+  {
+    "id": "ibm-openai-enterprise-partnership",
+    "category": "Service",
+    "title": "IBMとOpenAIが企業向けAIで提携",
+    "date": "2026/08/13",
+    "summary": "米IBMはOpenAIと提携し、同社のAIモデルやツールをIBMのグローバルコンサルティングを通じて大企業へ提供すると発表した。",
+    "details": [
+      "IBMコンサルティング内にOpenAI専門組織を立ち上げ、企業のAI投資競争が激化する中で大企業顧客への導入支援を強化する。"
+    ],
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
       }
     ],
     "importance": "high",
-    "socialImpact": 75,
+    "socialImpact": 78,
     "novelty": 80,
-    "confidence": 90,
-    "priorityReason": "エヌビディア依存脱却を目指す半導体開発の動きとして重要。",
-    "rankScore": 75,
+    "confidence": 95,
+    "priorityReason": "エンタープライズAI市場の勢力図に影響を与える重要提携。",
+    "rankScore": 78,
     "rankTier": "A",
-    "ageDays": 3,
-    "rank": 1,
+    "ageDays": 1,
+    "rank": 2,
     "summaryLevel": "standard"
   },
   {
-    "id": "pudu-robotics-launches-pudu-et1",
-    "category": "Service",
-    "title": "Pudu Roboticsが新型清掃ロボを発売",
-    "date": "2026/08/12",
-    "summary": "Pudu Roboticsは、小規模商業スペース向けに設計されたAIネイティブの小型床洗浄ロボット「PUDU ET1」を発売した。",
+    "id": "writer-new-model-token-cost",
+    "category": "Model",
+    "title": "Writerがコスト削減の新AIモデル発表",
+    "date": "2026/08/13",
+    "summary": "米Writerは、AI運用のトークンコストを抑制するための新しいAIモデルとアップグレードされた制御システムを発表した。",
     "details": [
-      "中国のPudu Roboticsは、小規模な商業空間向けにAIネイティブのコンパクトなスクラバードライヤーロボット「PUDU ET1」を新たに発表した。このロボットは、限られたスペースでの効率的な清掃作業を自動化し、店舗やオフィスなどの衛生管理を支援する。"
+      "AI導入コストの削減要求が高まる中、安価なオープンソースモデルの選択や適切なタスク割り振りを支援する。"
     ],
     "sources": [
       {
-        "name": "Yonhap News Agency",
-        "url": "https://en.yna.co.kr/view/RPR20260812009200353?section=press-release%2Findex"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
       }
     ],
     "importance": "medium",
-    "socialImpact": 50,
-    "novelty": 65,
-    "confidence": 95,
-    "priorityReason": "商業用清掃ロボットのAI化と小型化の最新事例。",
-    "rankScore": 60,
+    "socialImpact": 65,
+    "novelty": 75,
+    "confidence": 90,
+    "priorityReason": "実用上の課題であるAIコスト削減に直結する新技術。",
+    "rankScore": 67,
     "rankTier": "B",
     "ageDays": 1,
-    "rank": 2,
+    "rank": 3,
     "summaryLevel": "brief"
   }
 ]
