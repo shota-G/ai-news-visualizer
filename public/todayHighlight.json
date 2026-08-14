@@ -2,13 +2,13 @@
   {
     "id": "anthropic-decart-acquisition-talks",
     "category": "Business",
-    "title": "米アンソロピック、デカート買収交渉",
+    "title": "米アンソロピックが買収交渉か",
     "date": "2026/08/14",
-    "summary": "米AIスタートアップのアンソロピックが、NVIDIA支援のイスラエル企業デカートAIを約60億ドルで買収する交渉を進めていることが判明した。",
+    "summary": "AIスタートアップのアンソロピックが、イスラエルのDecart AIを約60億ドルで買収する交渉を進めていることが判明した。",
     "details": [
-      "アンソロピックが新規株式公開（IPO）を控える中、同社史上最大規模となる約60億ドルでの買収交渉が報じられた。",
-      "デカートAIはチップ効率の向上やAIモデルのトレーニングコスト削減、推論効率化に強みを持つインフラ開発企業である。",
-      "今後は交渉の成否や、アンソロピックによるAIハードウェアおよび推論効率化への投資戦略の具体化が注目される。"
+      "AIスタートアップのアンソロピックが、半導体の効率化技術を持つデカートAIを約60億ドルで買収する交渉を進めていることが明らかになった。合意に至れば同社にとって過去最大の買収案件となる。",
+      "本買収は、新規株式公開（IPO）を控えるアンソロピックが、モデルの学習コスト削減と計算資源の効率化を急いでいることを示している。エヌビディアが支援するデカートの技術を取り込むことで、競合するオープンAIに対する技術的優位性を確保する狙いがある。",
+      "今後は、両社による正式な合意発表の有無や、買収に伴うアンソロピックのIPOスケジュールの進展、さらには米当局による独占禁止法上の審査動向に注目が集まる。"
     ],
     "sources": [
       {
@@ -16,71 +16,19 @@
         "url": "https://www.ibtimes.com/anthropic-reportedly-eyes-6-billion-deal-nvidia-backed-decart-ai-ahead-its-ipo-3806374"
       },
       {
-        "name": "Livemint",
-        "url": "https://www.livemint.com/ai/artificial-intelligence/anthropic-in-talks-to-acquire-nvidia-backed-decart-ai-for-6-billion-report/amp-11786614257095.html"
+        "name": "BigGo Finance",
+        "url": "https://finance.biggo.com/news/dac44a03-cf1b-4b6d-b342-e7c22852a593"
       }
     ],
     "importance": "critical",
     "socialImpact": 85,
-    "novelty": 90,
-    "confidence": 95,
-    "priorityReason": "IPOを控える大手AI企業の巨額買収劇であり市場影響大。",
-    "rankScore": 92,
-    "rankTier": "S",
-    "ageDays": 0,
-    "rank": 1,
-    "summaryLevel": "deep"
-  },
-  {
-    "id": "ibm-openai-enterprise-partnership",
-    "category": "Service",
-    "title": "IBMとOpenAIが企業向けAIで提携",
-    "date": "2026/08/13",
-    "summary": "米IBMはOpenAIと提携し、同社のAIモデルやツールをIBMのグローバルコンサルティングを通じて大企業へ提供すると発表した。",
-    "details": [
-      "IBMコンサルティング内にOpenAI専門組織を立ち上げ、企業のAI投資競争が激化する中で大企業顧客への導入支援を強化する。"
-    ],
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
-      }
-    ],
-    "importance": "high",
-    "socialImpact": 78,
     "novelty": 80,
     "confidence": 95,
-    "priorityReason": "エンタープライズAI市場の勢力図に影響を与える重要提携。",
-    "rankScore": 78,
-    "rankTier": "A",
+    "priorityReason": "IPOを控えるAI大手の巨額買収交渉であり市場影響が大きいため",
+    "rankScore": 88,
+    "rankTier": "S",
     "ageDays": 1,
-    "rank": 2,
-    "summaryLevel": "standard"
-  },
-  {
-    "id": "writer-new-model-token-cost",
-    "category": "Model",
-    "title": "Writerがコスト削減の新AIモデル発表",
-    "date": "2026/08/13",
-    "summary": "米Writerは、AI運用のトークンコストを抑制するための新しいAIモデルとアップグレードされた制御システムを発表した。",
-    "details": [
-      "AI導入コストの削減要求が高まる中、安価なオープンソースモデルの選択や適切なタスク割り振りを支援する。"
-    ],
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
-      }
-    ],
-    "importance": "medium",
-    "socialImpact": 65,
-    "novelty": 75,
-    "confidence": 90,
-    "priorityReason": "実用上の課題であるAIコスト削減に直結する新技術。",
-    "rankScore": 67,
-    "rankTier": "B",
-    "ageDays": 1,
-    "rank": 3,
-    "summaryLevel": "brief"
+    "rank": 1,
+    "summaryLevel": "deep"
   }
 ]
