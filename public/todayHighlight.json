@@ -1,34 +1,132 @@
 [
   {
-    "id": "anthropic-decart-acquisition-talks",
-    "category": "Business",
-    "title": "米アンソロピックが買収交渉か",
-    "date": "2026/08/14",
-    "summary": "AIスタートアップのアンソロピックが、イスラエルのDecart AIを約60億ドルで買収する交渉を進めていることが判明した。",
+    "id": "us-ai-coalition-china",
+    "category": "Policy",
+    "title": "米国、同盟国に対中AI包囲網への参加要求",
+    "date": "2026/08/15",
+    "summary": "米国政府が同盟国に対し、中国との人工知能（AI）開発競争においてどちらの陣営に参加するか選択を迫る方針であることが明らかになった。",
     "details": [
-      "AIスタートアップのアンソロピックが、半導体の効率化技術を持つデカートAIを約60億ドルで買収する交渉を進めていることが明らかになった。合意に至れば同社にとって過去最大の買収案件となる。",
-      "本買収は、新規株式公開（IPO）を控えるアンソロピックが、モデルの学習コスト削減と計算資源の効率化を急いでいることを示している。エヌビディアが支援するデカートの技術を取り込むことで、競合するオープンAIに対する技術的優位性を確保する狙いがある。",
-      "今後は、両社による正式な合意発表の有無や、買収に伴うアンソロピックのIPOスケジュールの進展、さらには米当局による独占禁止法上の審査動向に注目が集まる。"
+      "米国は安全保障上の懸念から、先端AI技術や半導体サプライチェーンにおける対中規制を強化している。同盟国に対して明確な態度表明を求めることで、中国を排除した強固なAI包囲網を構築し、技術覇権の維持を確実にする狙いがある。"
     ],
     "sources": [
       {
-        "name": "International Business Times",
-        "url": "https://www.ibtimes.com/anthropic-reportedly-eyes-6-billion-deal-nvidia-backed-decart-ai-ahead-its-ipo-3806374"
-      },
-      {
-        "name": "BigGo Finance",
-        "url": "https://finance.biggo.com/news/dac44a03-cf1b-4b6d-b342-e7c22852a593"
+        "name": "The Japan Times",
+        "url": "https://www.japantimes.co.jp/business/2026/08/15/tech/us-ai-coalition-china-warning"
       }
     ],
-    "importance": "critical",
+    "importance": "high",
     "socialImpact": 85,
-    "novelty": 80,
-    "confidence": 95,
-    "priorityReason": "IPOを控えるAI大手の巨額買収交渉であり市場影響が大きいため",
-    "rankScore": 88,
-    "rankTier": "S",
+    "novelty": 70,
+    "confidence": 90,
+    "priorityReason": "国際的なAI規制と地政学的リスクに大きな影響を与えるため。",
+    "rankScore": 79,
+    "rankTier": "A",
     "ageDays": 1,
     "rank": 1,
-    "summaryLevel": "deep"
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "nvidia-wall-street-financing",
+    "category": "Business",
+    "title": "NVIDIA、5000億ドルの融資枠確保",
+    "date": "2026/08/15",
+    "summary": "NVIDIAがウォール街の金融機関から5000億ドル規模の融資確約を獲得し、AIスタートアップ向けの半導体購入支援策を本格化させることが判明した。",
+    "details": [
+      "ゴールドマン・サックスやブラックストーンなどと協調し、AIスタートアップ向けに特化した債務ソリューションを提供する。この巨額資金により顧客のチップ購入を強力に支援する一方、市場では投資資金が自社売上に循環する「循環金融」への懸念も再燃している。"
+    ],
+    "sources": [
+      {
+        "name": "Enterprise AI",
+        "url": "https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/nvidias-500-billion-plan-envelops-wall-street-in-its-ai-frenzy/133255710"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 75,
+    "confidence": 85,
+    "priorityReason": "AI市場の資金循環とバブル懸念に直結する巨額融資のため。",
+    "rankScore": 78,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 2,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "anthropic-decart-acquisition",
+    "category": "Business",
+    "title": "Anthropic、AI企業Decartを60億ドルで買収交渉か",
+    "date": "2026/08/15",
+    "summary": "Anthropicが、NVIDIAの支援を受けるイスラエルのAIスタートアップ「Decart AI」を約60億ドルで買収する交渉を進めていることが明らかになった。",
+    "details": [
+      "Anthropicにとって過去最大規模となるこの買収交渉は、同社初のイスラエル進出を意味する。NVIDIAが支援するDecartのAIインフラ技術を取り込むことで、競合するOpenAIやGoogleに対する開発競争力を大幅に強化し、市場での優位性を確立する狙いがあるとみられる。"
+    ],
+    "sources": [
+      {
+        "name": "IBTimes",
+        "url": "https://www.ibtimes.com/anthropic-reportedly-eyes-6-billion-deal-nvidia-backed-decart-ai-ahead-its-ipo-3806374"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 80,
+    "confidence": 90,
+    "priorityReason": "大手AI企業の勢力図を塗り替える巨額買収の動きであるため。",
+    "rankScore": 77,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 3,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "japan-defense-white-paper-ai",
+    "category": "Policy",
+    "title": "防衛白書公開、AI活用と長期戦への備え強調",
+    "date": "2026/08/15",
+    "summary": "日本政府が公開した防衛白書で、長期化する紛争シナリオへの備えとして、人工知能や自動化、無人システムの導入推進が明記された。",
+    "details": [
+      "白書では軍事力の強化にとどまらず、経済、技術、産業、物流、人材を含めた総合的な国力の動員と維持能力の拡大を提唱している。特に少子高齢化に伴う自衛隊の人員不足を補うため、AIや無人機などの先端技術の積極的な活用が不可欠であると位置づけている。"
+    ],
+    "sources": [
+      {
+        "name": "Modern Diplomacy",
+        "url": "https://moderndiplomacy.eu/2026/08/15/japan-releases-defense-white-paper-preparing-for-a-protracted-conflict-scenario"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 80,
+    "novelty": 65,
+    "confidence": 90,
+    "priorityReason": "日本の安全保障方針におけるAIと自動化の重要性を示すため。",
+    "rankScore": 77,
+    "rankTier": "A",
+    "ageDays": 1,
+    "rank": 4,
+    "summaryLevel": "standard"
+  },
+  {
+    "id": "anthropic-ipo-valuation",
+    "category": "Business",
+    "title": "Anthropic、10月上場へ評価額2兆ドル超",
+    "date": "2026/08/13",
+    "summary": "AIスタートアップのAnthropicが、10月に予定する新規株式公開で、評価額2兆ドル以上を目指していることが報じられた。",
+    "details": [
+      "この評価額は、今年6月にSpaceXが記録した1.77兆ドルを上回り、史上最大規模のIPOとなる見通しだ。Claudeシリーズの開発で急成長する同社への投資家の期待は極めて高く、ウォール街におけるAIバブルの資金調達力を測る重要な試金石となる。"
+    ],
+    "sources": [
+      {
+        "name": "Investor's Business Daily",
+        "url": "https://www.investors.com/news/technology/anthropic-ipo-valuation-timing-spacex"
+      }
+    ],
+    "importance": "high",
+    "socialImpact": 75,
+    "novelty": 85,
+    "confidence": 85,
+    "priorityReason": "史上最大のIPOとなる可能性があり、市場への影響が甚大なため。",
+    "rankScore": 75,
+    "rankTier": "A",
+    "ageDays": 3,
+    "rank": 5,
+    "summaryLevel": "standard"
   }
 ]
